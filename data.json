@@ -1,20 +1,8 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-03-02T23:20:21.352Z",
+  "total_matches": 54,
+  "updated_at": "2026-03-02T23:45:22.821Z",
   "matches": [
-    {
-      "name": "Christo Popov vs Toma Junior Popov lúc 20:00",
-      "link": "/truc-tiep/christo-popov-vs-toma-junior-popov-luc-2000-ngay-01-03-2026/",
-      "runtime": 1772370000,
-      "datetime": "2026-03-01T13:00:00.000Z"
-    },
-    {
-      "name": "Isurus vs Crashers lúc 03:00",
-      "link": "/truc-tiep/isurus-vs-crashers-luc-0300-ngay-03-03-2026/",
-      "runtime": 1772481600,
-      "datetime": "2026-03-02T20:00:00.000Z"
-    },
     {
       "name": "Renata Zarazua vs Priscilla Hon lúc 03:20",
       "link": "/truc-tiep/renata-zarazua-vs-priscilla-hon-luc-0320-ngay-03-03-2026/",
@@ -26,30 +14,6 @@
       "link": "/truc-tiep/elias-ymer-vs-chak-lam-coleman-wong-luc-0320-ngay-03-03-2026/",
       "runtime": 1772482800,
       "datetime": "2026-03-02T20:20:00.000Z"
-    },
-    {
-      "name": "Mananchaya Sawangkaew vs Rebeka Masarova lúc 03:20",
-      "link": "/truc-tiep/mananchaya-sawangkaew-vs-rebeka-masarova-luc-0320-ngay-03-03-2026/",
-      "runtime": 1772482800,
-      "datetime": "2026-03-02T20:20:00.000Z"
-    },
-    {
-      "name": "Génesis Policía Nacional vs Lobos UPNFM lúc 04:00",
-      "link": "/truc-tiep/genesis-policia-nacional-vs-lobos-upnfm-luc-0400-ngay-03-03-2026/",
-      "runtime": 1772485200,
-      "datetime": "2026-03-02T21:00:00.000Z"
-    },
-    {
-      "name": "Sportivo Luqueno vs Rubio nu lúc 04:30",
-      "link": "/truc-tiep/sportivo-luqueno-vs-rubio-nu-luc-0430-ngay-03-03-2026/",
-      "runtime": 1772487000,
-      "datetime": "2026-03-02T21:30:00.000Z"
-    },
-    {
-      "name": "Argentina vs Panama lúc 04:30",
-      "link": "/truc-tiep/argentina-vs-panama-luc-0430-ngay-03-03-2026/",
-      "runtime": 1772487000,
-      "datetime": "2026-03-02T21:30:00.000Z"
     },
     {
       "name": "Roman Andres Burruchaga vs Moez Echargui lúc 04:30",
@@ -286,6 +250,12 @@
       "datetime": "2026-03-03T00:30:00.000Z"
     },
     {
+      "name": "Waterhouse FC vs Spanish Town Police lúc 07:30",
+      "link": "/truc-tiep/waterhouse-fc-vs-spanish-town-police-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
       "name": "Milwaukee Bucks vs Boston Celtics lúc 07:30 | NIKEN",
       "link": "/truc-tiep/milwaukee-bucks-vs-boston-celtics-luc-0730-ngay-03-03-2026/",
       "runtime": 1772497800,
@@ -312,6 +282,12 @@
     {
       "name": "Aruba U20 vs Canada U20 lúc 08:00 | LOGAN",
       "link": "/truc-tiep/aruba-u20-vs-canada-u20-luc-0800-ngay-03-03-2026/",
+      "runtime": 1772499600,
+      "datetime": "2026-03-03T01:00:00.000Z"
+    },
+    {
+      "name": "International San Carlos vs Quepos Cambute FC lúc 08:00",
+      "link": "/truc-tiep/international-san-carlos-vs-quepos-cambute-fc-luc-0800-ngay-03-03-2026/",
       "runtime": 1772499600,
       "datetime": "2026-03-03T01:00:00.000Z"
     },
@@ -344,6 +320,12 @@
       "link": "/truc-tiep/northern-colorado-vs-montana-luc-0800-ngay-03-03-2026/",
       "runtime": 1772499600,
       "datetime": "2026-03-03T01:00:00.000Z"
+    },
+    {
+      "name": "Valley Suns vs Salt Lake City Stars lúc 08:30",
+      "link": "/truc-tiep/valley-suns-vs-salt-lake-city-stars-luc-0830-ngay-03-03-2026/",
+      "runtime": 1772501400,
+      "datetime": "2026-03-03T01:30:00.000Z"
     }
   ]
 }
