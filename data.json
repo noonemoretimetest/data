@@ -1,43 +1,13 @@
 {
   "success": true,
-  "total_matches": 63,
-  "updated_at": "2026-03-02T20:02:00.222Z",
+  "total_matches": 56,
+  "updated_at": "2026-03-02T20:53:45.303Z",
   "matches": [
     {
       "name": "Christo Popov vs Toma Junior Popov lúc 20:00",
       "link": "/truc-tiep/christo-popov-vs-toma-junior-popov-luc-2000-ngay-01-03-2026/",
       "runtime": 1772370000,
       "datetime": "2026-03-01T13:00:00.000Z"
-    },
-    {
-      "name": "Duhok  vs Newroz SC(IRQ) lúc 01:00",
-      "link": "/truc-tiep/duhok-vs-newroz-scirq-luc-0100-ngay-03-03-2026/",
-      "runtime": 1772474400,
-      "datetime": "2026-03-02T18:00:00.000Z"
-    },
-    {
-      "name": "Al Shorta vs Al-Kahrbaa Club lúc 01:00",
-      "link": "/truc-tiep/al-shorta-vs-al-kahrbaa-club-luc-0100-ngay-03-03-2026/",
-      "runtime": 1772474400,
-      "datetime": "2026-03-02T18:00:00.000Z"
-    },
-    {
-      "name": "Avai Youth vs Bragantino U20 lúc 01:00",
-      "link": "/truc-tiep/avai-youth-vs-bragantino-u20-luc-0100-ngay-03-03-2026/",
-      "runtime": 1772474400,
-      "datetime": "2026-03-02T18:00:00.000Z"
-    },
-    {
-      "name": "Bahia U20 vs Fluminense RJ (Y) lúc 01:00",
-      "link": "/truc-tiep/bahia-u20-vs-fluminense-rj-y-luc-0100-ngay-03-03-2026/",
-      "runtime": 1772474400,
-      "datetime": "2026-03-02T18:00:00.000Z"
-    },
-    {
-      "name": "Nicolás Jarry vs Francesco Maestrelli lúc 01:00",
-      "link": "/truc-tiep/nicolas-jarry-vs-francesco-maestrelli-luc-0100-ngay-03-03-2026/",
-      "runtime": 1772474400,
-      "datetime": "2026-03-02T18:00:00.000Z"
     },
     {
       "name": "Liquid vs Gaimin Gladiators lúc 01:00",
@@ -52,44 +22,8 @@
       "datetime": "2026-03-02T18:00:00.000Z"
     },
     {
-      "name": "Nicolai Budkov Kjaer vs Alex Molcan lúc 01:10",
-      "link": "/truc-tiep/nicolai-budkov-kjaer-vs-alex-molcan-luc-0110-ngay-03-03-2026/",
-      "runtime": 1772475000,
-      "datetime": "2026-03-02T18:10:00.000Z"
-    },
-    {
-      "name": "Italy vs Great Britain lúc 01:30 | STEP",
-      "link": "/truc-tiep/italy-vs-great-britain-luc-0130-ngay-03-03-2026/",
-      "runtime": 1772476200,
-      "datetime": "2026-03-02T18:30:00.000Z"
-    },
-    {
-      "name": "Al-Jabalain vs Al Zulfi lúc 01:45",
-      "link": "/truc-tiep/al-jabalain-vs-al-zulfi-luc-0145-ngay-03-03-2026/",
-      "runtime": 1772477100,
-      "datetime": "2026-03-02T18:45:00.000Z"
-    },
-    {
-      "name": "Al-Adalah vs Al-Faisaly Harmah lúc 01:45",
-      "link": "/truc-tiep/al-adalah-vs-al-faisaly-harmah-luc-0145-ngay-03-03-2026/",
-      "runtime": 1772477100,
-      "datetime": "2026-03-02T18:45:00.000Z"
-    },
-    {
       "name": "Al Diraiyah vs Al-Batin lúc 01:45",
       "link": "/truc-tiep/al-diraiyah-vs-al-batin-luc-0145-ngay-03-03-2026/",
-      "runtime": 1772477100,
-      "datetime": "2026-03-02T18:45:00.000Z"
-    },
-    {
-      "name": "Shabab Al Ordon vs Al-Jazeera lúc 01:45",
-      "link": "/truc-tiep/shabab-al-ordon-vs-al-jazeera-luc-0145-ngay-03-03-2026/",
-      "runtime": 1772477100,
-      "datetime": "2026-03-02T18:45:00.000Z"
-    },
-    {
-      "name": "Al-Arabi SC(KSA) vs Jeddah Sports Club lúc 01:45",
-      "link": "/truc-tiep/al-arabi-scksa-vs-jeddah-sports-club-luc-0145-ngay-03-03-2026/",
       "runtime": 1772477100,
       "datetime": "2026-03-02T18:45:00.000Z"
     },
@@ -380,6 +314,30 @@
       "link": "/truc-tiep/procyon-vs-folha-amarela-luc-0500-ngay-03-03-2026/",
       "runtime": 1772488800,
       "datetime": "2026-03-02T22:00:00.000Z"
+    },
+    {
+      "name": "Estudiantes LP vs Velez Sarsfield lúc 05:15 | HELLO",
+      "link": "/truc-tiep/estudiantes-lp-vs-velez-sarsfield-luc-0515-ngay-03-03-2026/",
+      "runtime": 1772489700,
+      "datetime": "2026-03-02T22:15:00.000Z"
+    },
+    {
+      "name": "Deportivo Riestra vs CA Platense lúc 05:15 | KEN",
+      "link": "/truc-tiep/deportivo-riestra-vs-ca-platense-luc-0515-ngay-03-03-2026/",
+      "runtime": 1772489700,
+      "datetime": "2026-03-02T22:15:00.000Z"
+    },
+    {
+      "name": "Mitchell Krueger vs Dalibor Svrcina lúc 05:40",
+      "link": "/truc-tiep/mitchell-krueger-vs-dalibor-svrcina-luc-0540-ngay-03-03-2026/",
+      "runtime": 1772491200,
+      "datetime": "2026-03-02T22:40:00.000Z"
+    },
+    {
+      "name": "Vit Kopriva vs Rei Sakamoto lúc 05:40",
+      "link": "/truc-tiep/vit-kopriva-vs-rei-sakamoto-luc-0540-ngay-03-03-2026/",
+      "runtime": 1772491200,
+      "datetime": "2026-03-02T22:40:00.000Z"
     }
   ]
 }
