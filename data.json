@@ -1,19 +1,13 @@
 {
   "success": true,
-  "total_matches": 55,
-  "updated_at": "2026-03-02T22:49:10.905Z",
+  "total_matches": 57,
+  "updated_at": "2026-03-02T23:20:21.352Z",
   "matches": [
     {
       "name": "Christo Popov vs Toma Junior Popov lúc 20:00",
       "link": "/truc-tiep/christo-popov-vs-toma-junior-popov-luc-2000-ngay-01-03-2026/",
       "runtime": 1772370000,
       "datetime": "2026-03-01T13:00:00.000Z"
-    },
-    {
-      "name": "Leo vs Lazer Cats lúc 01:00",
-      "link": "/truc-tiep/leo-vs-lazer-cats-luc-0100-ngay-03-03-2026/",
-      "runtime": 1772474400,
-      "datetime": "2026-03-02T18:00:00.000Z"
     },
     {
       "name": "Isurus vs Crashers lúc 03:00",
@@ -40,20 +34,8 @@
       "datetime": "2026-03-02T20:20:00.000Z"
     },
     {
-      "name": "CD Magallanes vs San Marcos lúc 04:00",
-      "link": "/truc-tiep/cd-magallanes-vs-san-marcos-luc-0400-ngay-03-03-2026/",
-      "runtime": 1772485200,
-      "datetime": "2026-03-02T21:00:00.000Z"
-    },
-    {
       "name": "Génesis Policía Nacional vs Lobos UPNFM lúc 04:00",
       "link": "/truc-tiep/genesis-policia-nacional-vs-lobos-upnfm-luc-0400-ngay-03-03-2026/",
-      "runtime": 1772485200,
-      "datetime": "2026-03-02T21:00:00.000Z"
-    },
-    {
-      "name": "Gremio U20 vs Corinthians Paulista (Y) lúc 04:00",
-      "link": "/truc-tiep/gremio-u20-vs-corinthians-paulista-y-luc-0400-ngay-03-03-2026/",
       "runtime": 1772485200,
       "datetime": "2026-03-02T21:00:00.000Z"
     },
@@ -78,12 +60,6 @@
     {
       "name": "Luca van Assche vs Alexis Galarneau lúc 04:30",
       "link": "/truc-tiep/luca-van-assche-vs-alexis-galarneau-luc-0430-ngay-03-03-2026/",
-      "runtime": 1772487000,
-      "datetime": "2026-03-02T21:30:00.000Z"
-    },
-    {
-      "name": "Sao Jose dos Campos vs Guarulhos lúc 04:30",
-      "link": "/truc-tiep/sao-jose-dos-campos-vs-guarulhos-luc-0430-ngay-03-03-2026/",
       "runtime": 1772487000,
       "datetime": "2026-03-02T21:30:00.000Z"
     },
@@ -332,6 +308,42 @@
       "link": "/truc-tiep/ut-rio-grande-valley-vs-northwestern-state-luc-0730-ngay-03-03-2026/",
       "runtime": 1772497800,
       "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
+      "name": "Aruba U20 vs Canada U20 lúc 08:00 | LOGAN",
+      "link": "/truc-tiep/aruba-u20-vs-canada-u20-luc-0800-ngay-03-03-2026/",
+      "runtime": 1772499600,
+      "datetime": "2026-03-03T01:00:00.000Z"
+    },
+    {
+      "name": "Texas A&amp;amp;M-Corpus Christi vs Texas A&amp;amp;M Commerce University lúc 08:00",
+      "link": "/truc-tiep/texas-am-corpus-christi-vs-texas-am-commerce-university-luc-0800-ngay-03-03-2026/",
+      "runtime": 1772499600,
+      "datetime": "2026-03-03T01:00:00.000Z"
+    },
+    {
+      "name": "Northern Arizona vs Montana State lúc 08:00",
+      "link": "/truc-tiep/northern-arizona-vs-montana-state-luc-0800-ngay-03-03-2026/",
+      "runtime": 1772499600,
+      "datetime": "2026-03-03T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Portland State vs Nữ Weber St lúc 08:00",
+      "link": "/truc-tiep/nu-portland-state-vs-nu-weber-st-luc-0800-ngay-03-03-2026/",
+      "runtime": 1772499600,
+      "datetime": "2026-03-03T01:00:00.000Z"
+    },
+    {
+      "name": "New Orleans vs Southeastern Louisiana lúc 08:00",
+      "link": "/truc-tiep/new-orleans-vs-southeastern-louisiana-luc-0800-ngay-03-03-2026/",
+      "runtime": 1772499600,
+      "datetime": "2026-03-03T01:00:00.000Z"
+    },
+    {
+      "name": "Northern Colorado vs Montana lúc 08:00",
+      "link": "/truc-tiep/northern-colorado-vs-montana-luc-0800-ngay-03-03-2026/",
+      "runtime": 1772499600,
+      "datetime": "2026-03-03T01:00:00.000Z"
     }
   ]
 }
