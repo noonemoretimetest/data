@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 49,
-  "updated_at": "2026-03-02T09:30:51.209Z",
+  "total_matches": 54,
+  "updated_at": "2026-03-02T10:27:05.315Z",
   "matches": [
     {
       "name": "Christo Popov vs Toma Junior Popov lúc 20:00",
@@ -10,50 +10,14 @@
       "datetime": "2026-03-01T13:00:00.000Z"
     },
     {
-      "name": "Roar Gaming vs Carstensz Esports lúc 14:00",
-      "link": "/truc-tiep/roar-gaming-vs-carstensz-esports-luc-1400-ngay-02-03-2026/",
-      "runtime": 1772434800,
-      "datetime": "2026-03-02T07:00:00.000Z"
-    },
-    {
       "name": "Samuele Pieri vs Ivan Marrero Curbelo lúc 15:00",
       "link": "/truc-tiep/samuele-pieri-vs-ivan-marrero-curbelo-luc-1500-ngay-02-03-2026/",
       "runtime": 1772438400,
       "datetime": "2026-03-02T08:00:00.000Z"
     },
     {
-      "name": "Ryan Nijboer vs Maik Steiner lúc 15:00",
-      "link": "/truc-tiep/ryan-nijboer-vs-maik-steiner-luc-1500-ngay-02-03-2026/",
-      "runtime": 1772438400,
-      "datetime": "2026-03-02T08:00:00.000Z"
-    },
-    {
-      "name": "Stefano Napolitano vs Maximilian Neuchrist lúc 15:00",
-      "link": "/truc-tiep/stefano-napolitano-vs-maximilian-neuchrist-luc-1500-ngay-02-03-2026/",
-      "runtime": 1772438400,
-      "datetime": "2026-03-02T08:00:00.000Z"
-    },
-    {
       "name": "Oriol Roca Batalla vs Michiel de Krom lúc 15:00",
       "link": "/truc-tiep/oriol-roca-batalla-vs-michiel-de-krom-luc-1500-ngay-02-03-2026/",
-      "runtime": 1772438400,
-      "datetime": "2026-03-02T08:00:00.000Z"
-    },
-    {
-      "name": "Buvaysar Gadamauri vs Jack Loge lúc 15:00",
-      "link": "/truc-tiep/buvaysar-gadamauri-vs-jack-loge-luc-1500-ngay-02-03-2026/",
-      "runtime": 1772438400,
-      "datetime": "2026-03-02T08:00:00.000Z"
-    },
-    {
-      "name": "Javier Barranco Cosano vs Petr Nesterov lúc 15:00",
-      "link": "/truc-tiep/javier-barranco-cosano-vs-petr-nesterov-luc-1500-ngay-02-03-2026/",
-      "runtime": 1772438400,
-      "datetime": "2026-03-02T08:00:00.000Z"
-    },
-    {
-      "name": "Nongshim Esports Academy vs KT Rolster Challengers lúc 15:00",
-      "link": "/truc-tiep/nongshim-esports-academy-vs-kt-rolster-challengers-luc-1500-ngay-02-03-2026/",
       "runtime": 1772438400,
       "datetime": "2026-03-02T08:00:00.000Z"
     },
@@ -94,14 +58,14 @@
       "datetime": "2026-03-02T09:00:00.000Z"
     },
     {
-      "name": "Acend vs NOVAQ lúc 16:00",
-      "link": "/truc-tiep/acend-vs-novaq-luc-1600-ngay-02-03-2026/",
+      "name": "HOTU vs WHITEBIRD lúc 16:00",
+      "link": "/truc-tiep/hotu-vs-whitebird-luc-1600-ngay-02-03-2026/",
       "runtime": 1772442000,
       "datetime": "2026-03-02T09:00:00.000Z"
     },
     {
-      "name": "HOTU vs WHITEBIRD lúc 16:00",
-      "link": "/truc-tiep/hotu-vs-whitebird-luc-1600-ngay-02-03-2026/",
+      "name": "Acend vs NOVAQ lúc 16:00",
+      "link": "/truc-tiep/acend-vs-novaq-luc-1600-ngay-02-03-2026/",
       "runtime": 1772442000,
       "datetime": "2026-03-02T09:00:00.000Z"
     },
@@ -136,7 +100,7 @@
       "datetime": "2026-03-02T09:45:00.000Z"
     },
     {
-      "name": "Nữ Estonia U19 vs Nữ Đảo Síp U19 lúc 17:00 | TUTA",
+      "name": "Nữ Estonia U19 vs Nữ Đảo Síp U19 lúc 17:00",
       "link": "/truc-tiep/nu-estonia-u19-vs-nu-dao-sip-u19-luc-1700-ngay-02-03-2026/",
       "runtime": 1772445600,
       "datetime": "2026-03-02T10:00:00.000Z"
@@ -296,6 +260,72 @@
       "link": "/truc-tiep/zhangjiakou-vs-jiangsu-yannan-suke-luc-1830-ngay-02-03-2026/",
       "runtime": 1772451000,
       "datetime": "2026-03-02T11:30:00.000Z"
+    },
+    {
+      "name": "FC Sochi vs Spartak Moscow lúc 19:00 | ASTRA",
+      "link": "/truc-tiep/fc-sochi-vs-spartak-moscow-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Nữ Đan Mạch U17 vs Nữ Ireland U17 lúc 19:00 | ZARA",
+      "link": "/truc-tiep/nu-dan-mach-u17-vs-nu-ireland-u17-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Mara Sugar FC vs Sofapaka FC lúc 19:00",
+      "link": "/truc-tiep/mara-sugar-fc-vs-sofapaka-fc-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Nữ Pháp U23 vs Nữ Anh U23 lúc 19:00",
+      "link": "/truc-tiep/nu-phap-u23-vs-nu-anh-u23-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Nữ Thụy Sỹ U19 vs Nữ Ireland U19 lúc 19:00",
+      "link": "/truc-tiep/nu-thuy-sy-u19-vs-nu-ireland-u19-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Nữ Xứ Wales U19 vs Nữ USA U19 lúc 19:00",
+      "link": "/truc-tiep/nu-xu-wales-u19-vs-nu-usa-u19-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Kakamega Homeboyz vs APS Bomet lúc 19:00",
+      "link": "/truc-tiep/kakamega-homeboyz-vs-aps-bomet-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Nữ Ethio Electric vs Nữ Ababa Ketema  lúc 19:00",
+      "link": "/truc-tiep/nu-ethio-electric-vs-nu-ababa-ketema-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Nữ Đảo Síp vs Nữ Faroe Islands lúc 19:00",
+      "link": "/truc-tiep/nu-dao-sip-vs-nu-faroe-islands-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "Inferno Drive Tokyo vs L Guide Gaming lúc 19:00",
+      "link": "/truc-tiep/inferno-drive-tokyo-vs-l-guide-gaming-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
+    },
+    {
+      "name": "ECSTATIC vs WW lúc 19:00",
+      "link": "/truc-tiep/ecstatic-vs-ww-luc-1900-ngay-02-03-2026/",
+      "runtime": 1772452800,
+      "datetime": "2026-03-02T12:00:00.000Z"
     }
   ]
 }
