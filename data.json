@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 58,
-  "updated_at": "2026-03-02T11:21:10.896Z",
+  "total_matches": 51,
+  "updated_at": "2026-03-02T11:57:12.450Z",
   "matches": [
     {
       "name": "Christo Popov vs Toma Junior Popov lúc 20:00",
@@ -22,28 +22,10 @@
       "datetime": "2026-03-02T09:00:00.000Z"
     },
     {
-      "name": "HOTU vs WHITEBIRD lúc 16:00",
-      "link": "/truc-tiep/hotu-vs-whitebird-luc-1600-ngay-02-03-2026/",
-      "runtime": 1772442000,
-      "datetime": "2026-03-02T09:00:00.000Z"
-    },
-    {
       "name": "Stefan Dostanic vs Lui Maxted lúc 16:10",
       "link": "/truc-tiep/stefan-dostanic-vs-lui-maxted-luc-1610-ngay-02-03-2026/",
       "runtime": 1772442600,
       "datetime": "2026-03-02T09:10:00.000Z"
-    },
-    {
-      "name": "Rakhine United vs Shan United lúc 16:30 | LEE",
-      "link": "/truc-tiep/rakhine-united-vs-shan-united-luc-1630-ngay-02-03-2026/",
-      "runtime": 1772443800,
-      "datetime": "2026-03-02T09:30:00.000Z"
-    },
-    {
-      "name": "FC Bulleen Lions vs Eltham Redbacks lúc 16:30",
-      "link": "/truc-tiep/fc-bulleen-lions-vs-eltham-redbacks-luc-1630-ngay-02-03-2026/",
-      "runtime": 1772443800,
-      "datetime": "2026-03-02T09:30:00.000Z"
     },
     {
       "name": "Andrej Martin vs Filip Cristian Jianu lúc 16:30",
@@ -52,44 +34,8 @@
       "datetime": "2026-03-02T09:30:00.000Z"
     },
     {
-      "name": "Adelaide Blue  vs The Cove FC lúc 16:45",
-      "link": "/truc-tiep/adelaide-blue-vs-the-cove-fc-luc-1645-ngay-02-03-2026/",
-      "runtime": 1772444700,
-      "datetime": "2026-03-02T09:45:00.000Z"
-    },
-    {
-      "name": "Nữ Estonia U19 vs Nữ Đảo Síp U19 lúc 17:00",
-      "link": "/truc-tiep/nu-estonia-u19-vs-nu-dao-sip-u19-luc-1700-ngay-02-03-2026/",
-      "runtime": 1772445600,
-      "datetime": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "name": "Nữ Slovenia U19 vs Nữ San Marino U19 lúc 17:00 | TONI",
-      "link": "/truc-tiep/nu-slovenia-u19-vs-nu-san-marino-u19-luc-1700-ngay-02-03-2026/",
-      "runtime": 1772445600,
-      "datetime": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "name": "Kocaelispor U19 vs Besiktas JK U19 lúc 17:00",
-      "link": "/truc-tiep/kocaelispor-u19-vs-besiktas-jk-u19-luc-1700-ngay-02-03-2026/",
-      "runtime": 1772445600,
-      "datetime": "2026-03-02T10:00:00.000Z"
-    },
-    {
       "name": "Nữ Ethiopia Nigd Bank vs Nữ Arba Minch lúc 17:00",
       "link": "/truc-tiep/nu-ethiopia-nigd-bank-vs-nu-arba-minch-luc-1700-ngay-02-03-2026/",
-      "runtime": 1772445600,
-      "datetime": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "name": "Nữ Fenerbahce  vs Nữ Kayseri Bellona lúc 17:00",
-      "link": "/truc-tiep/nu-fenerbahce-vs-nu-kayseri-bellona-luc-1700-ngay-02-03-2026/",
-      "runtime": 1772445600,
-      "datetime": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "name": "Rudolf Molleker vs Martin Krumich lúc 17:00",
-      "link": "/truc-tiep/rudolf-molleker-vs-martin-krumich-luc-1700-ngay-02-03-2026/",
       "runtime": 1772445600,
       "datetime": "2026-03-02T10:00:00.000Z"
     },
@@ -174,12 +120,6 @@
     {
       "name": "BFF Academy U19 vs Thimphu City lúc 18:00",
       "link": "/truc-tiep/bff-academy-u19-vs-thimphu-city-luc-1800-ngay-02-03-2026/",
-      "runtime": 1772449200,
-      "datetime": "2026-03-02T11:00:00.000Z"
-    },
-    {
-      "name": "Uwinks vs Rising Gaming lúc 18:00",
-      "link": "/truc-tiep/uwinks-vs-rising-gaming-luc-1800-ngay-02-03-2026/",
       "runtime": 1772449200,
       "datetime": "2026-03-02T11:00:00.000Z"
     },
@@ -350,6 +290,24 @@
       "link": "/truc-tiep/pamba-jiji-vs-azam-luc-2015-ngay-02-03-2026/",
       "runtime": 1772457300,
       "datetime": "2026-03-02T13:15:00.000Z"
+    },
+    {
+      "name": "Persebaya vs Persib Bandung lúc 20:30 | ROY",
+      "link": "/truc-tiep/persebaya-vs-persib-bandung-luc-2030-ngay-02-03-2026/",
+      "runtime": 1772458200,
+      "datetime": "2026-03-02T13:30:00.000Z"
+    },
+    {
+      "name": "PSM Makassar vs Persita lúc 20:30 | LOUIS",
+      "link": "/truc-tiep/psm-makassar-vs-persita-luc-2030-ngay-02-03-2026/",
+      "runtime": 1772458200,
+      "datetime": "2026-03-02T13:30:00.000Z"
+    },
+    {
+      "name": "Belasitsa Petrich vs CSKA Sofia B lúc 20:30",
+      "link": "/truc-tiep/belasitsa-petrich-vs-cska-sofia-b-luc-2030-ngay-02-03-2026/",
+      "runtime": 1772458200,
+      "datetime": "2026-03-02T13:30:00.000Z"
     }
   ]
 }
