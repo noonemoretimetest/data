@@ -1,25 +1,13 @@
 {
   "success": true,
-  "total_matches": 26,
-  "updated_at": "2026-03-02T07:05:28.899Z",
+  "total_matches": 29,
+  "updated_at": "2026-03-02T07:51:31.131Z",
   "matches": [
     {
       "name": "Christo Popov vs Toma Junior Popov lúc 20:00",
       "link": "/truc-tiep/christo-popov-vs-toma-junior-popov-luc-2000-ngay-01-03-2026/",
       "runtime": 1772370000,
       "datetime": "2026-03-01T13:00:00.000Z"
-    },
-    {
-      "name": "Suwon KEPCO Vixtorm vs KAL Jumbos lúc 12:00",
-      "link": "/truc-tiep/suwon-kepco-vixtorm-vs-kal-jumbos-luc-1200-ngay-02-03-2026/",
-      "runtime": 1772427600,
-      "datetime": "2026-03-02T05:00:00.000Z"
-    },
-    {
-      "name": "Jayxun vs Lokomotiv BFK lúc 12:40",
-      "link": "/truc-tiep/jayxun-vs-lokomotiv-bfk-luc-1240-ngay-02-03-2026/",
-      "runtime": 1772430000,
-      "datetime": "2026-03-02T05:40:00.000Z"
     },
     {
       "name": "Nữ New Zealand vs Nữ Solomon Islands lúc 13:00 | HELLO",
@@ -158,6 +146,36 @@
       "link": "/truc-tiep/acend-vs-novaq-luc-1600-ngay-02-03-2026/",
       "runtime": 1772442000,
       "datetime": "2026-03-02T09:00:00.000Z"
+    },
+    {
+      "name": "Stefan Dostanic vs Lui Maxted lúc 16:10",
+      "link": "/truc-tiep/stefan-dostanic-vs-lui-maxted-luc-1610-ngay-02-03-2026/",
+      "runtime": 1772442600,
+      "datetime": "2026-03-02T09:10:00.000Z"
+    },
+    {
+      "name": "Rakhine United vs Shan United lúc 16:30 | LEE",
+      "link": "/truc-tiep/rakhine-united-vs-shan-united-luc-1630-ngay-02-03-2026/",
+      "runtime": 1772443800,
+      "datetime": "2026-03-02T09:30:00.000Z"
+    },
+    {
+      "name": "FC Bulleen Lions vs Eltham Redbacks lúc 16:30",
+      "link": "/truc-tiep/fc-bulleen-lions-vs-eltham-redbacks-luc-1630-ngay-02-03-2026/",
+      "runtime": 1772443800,
+      "datetime": "2026-03-02T09:30:00.000Z"
+    },
+    {
+      "name": "Andrej Martin vs Filip Cristian Jianu lúc 16:30",
+      "link": "/truc-tiep/andrej-martin-vs-filip-cristian-jianu-luc-1630-ngay-02-03-2026/",
+      "runtime": 1772443800,
+      "datetime": "2026-03-02T09:30:00.000Z"
+    },
+    {
+      "name": "Adelaide Blue  vs The Cove FC lúc 16:45",
+      "link": "/truc-tiep/adelaide-blue-vs-the-cove-fc-luc-1645-ngay-02-03-2026/",
+      "runtime": 1772444700,
+      "datetime": "2026-03-02T09:45:00.000Z"
     }
   ]
 }
