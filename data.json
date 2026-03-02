@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-02T22:00:29.797Z",
+  "total_matches": 55,
+  "updated_at": "2026-03-02T22:49:10.905Z",
   "matches": [
     {
       "name": "Christo Popov vs Toma Junior Popov lúc 20:00",
@@ -10,64 +10,16 @@
       "datetime": "2026-03-01T13:00:00.000Z"
     },
     {
-      "name": "Liquid vs Gaimin Gladiators lúc 01:00",
-      "link": "/truc-tiep/liquid-vs-gaimin-gladiators-luc-0100-ngay-03-03-2026/",
-      "runtime": 1772474400,
-      "datetime": "2026-03-02T18:00:00.000Z"
-    },
-    {
       "name": "Leo vs Lazer Cats lúc 01:00",
       "link": "/truc-tiep/leo-vs-lazer-cats-luc-0100-ngay-03-03-2026/",
       "runtime": 1772474400,
       "datetime": "2026-03-02T18:00:00.000Z"
     },
     {
-      "name": "Tristan Schoolkate vs Alex Bolt lúc 02:10",
-      "link": "/truc-tiep/tristan-schoolkate-vs-alex-bolt-luc-0210-ngay-03-03-2026/",
-      "runtime": 1772478600,
-      "datetime": "2026-03-02T19:10:00.000Z"
-    },
-    {
-      "name": "Patrick Kypson vs Daniel Merida Aguilar lúc 02:10",
-      "link": "/truc-tiep/patrick-kypson-vs-daniel-merida-aguilar-luc-0210-ngay-03-03-2026/",
-      "runtime": 1772478600,
-      "datetime": "2026-03-02T19:10:00.000Z"
-    },
-    {
-      "name": "Nicolas Mejia vs Nikoloz Basilashvili lúc 02:10",
-      "link": "/truc-tiep/nicolas-mejia-vs-nikoloz-basilashvili-luc-0210-ngay-03-03-2026/",
-      "runtime": 1772478600,
-      "datetime": "2026-03-02T19:10:00.000Z"
-    },
-    {
-      "name": "Real Madrid vs Getafe lúc 03:00 | ROY - LOUIS",
-      "link": "/truc-tiep/real-madrid-vs-getafe-luc-0300-ngay-03-03-2026/",
-      "runtime": 1772481600,
-      "datetime": "2026-03-02T20:00:00.000Z"
-    },
-    {
       "name": "Isurus vs Crashers lúc 03:00",
       "link": "/truc-tiep/isurus-vs-crashers-luc-0300-ngay-03-03-2026/",
       "runtime": 1772481600,
       "datetime": "2026-03-02T20:00:00.000Z"
-    },
-    {
-      "name": "Gil Vicente vs Benfica lúc 03:15 | YUNO",
-      "link": "/truc-tiep/gil-vicente-vs-benfica-luc-0315-ngay-03-03-2026/",
-      "runtime": 1772482500,
-      "datetime": "2026-03-02T20:15:00.000Z"
-    },
-    {
-      "name": "Al Zawraa vs Mosul FC lúc 03:15",
-      "link": "/truc-tiep/al-zawraa-vs-mosul-fc-luc-0315-ngay-03-03-2026/",
-      "runtime": 1772482500,
-      "datetime": "2026-03-02T20:15:00.000Z"
-    },
-    {
-      "name": "Katie Boulter vs Viktoriya Tomova lúc 03:20 | LUCAS",
-      "link": "/truc-tiep/katie-boulter-vs-viktoriya-tomova-luc-0320-ngay-03-03-2026/",
-      "runtime": 1772482800,
-      "datetime": "2026-03-02T20:20:00.000Z"
     },
     {
       "name": "Renata Zarazua vs Priscilla Hon lúc 03:20",
@@ -226,6 +178,18 @@
       "datetime": "2026-03-02T23:00:00.000Z"
     },
     {
+      "name": "Morgan State vs Norfolk State University lúc 06:00",
+      "link": "/truc-tiep/morgan-state-vs-norfolk-state-university-luc-0600-ngay-03-03-2026/",
+      "runtime": 1772492400,
+      "datetime": "2026-03-02T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Texas A&amp;amp;M Corpus Christi  vs Nữ Houston Christian  lúc 06:00",
+      "link": "/truc-tiep/nu-texas-am-corpus-christi-vs-nu-houston-christian-luc-0600-ngay-03-03-2026/",
+      "runtime": 1772492400,
+      "datetime": "2026-03-02T23:00:00.000Z"
+    },
+    {
       "name": "Jagger Leach vs Marcelo Tomas Barrios Vera lúc 06:10 | LUCAS",
       "link": "/truc-tiep/jagger-leach-vs-marcelo-tomas-barrios-vera-luc-0610-ngay-03-03-2026/",
       "runtime": 1772493000,
@@ -298,10 +262,76 @@
       "datetime": "2026-03-03T00:00:00.000Z"
     },
     {
+      "name": "Howard Bison vs Coppin State lúc 07:00",
+      "link": "/truc-tiep/howard-bison-vs-coppin-state-luc-0700-ngay-03-03-2026/",
+      "runtime": 1772496000,
+      "datetime": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "name": "Maryland-Eastern Shore vs North Carolina Central lúc 07:00",
+      "link": "/truc-tiep/maryland-eastern-shore-vs-north-carolina-central-luc-0700-ngay-03-03-2026/",
+      "runtime": 1772496000,
+      "datetime": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "name": "Delaware State vs South Carolina State lúc 07:00",
+      "link": "/truc-tiep/delaware-state-vs-south-carolina-state-luc-0700-ngay-03-03-2026/",
+      "runtime": 1772496000,
+      "datetime": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "name": "North Carolina State vs Duke Blue Devils lúc 07:00",
+      "link": "/truc-tiep/north-carolina-state-vs-duke-blue-devils-luc-0700-ngay-03-03-2026/",
+      "runtime": 1772496000,
+      "datetime": "2026-03-03T00:00:00.000Z"
+    },
+    {
       "name": "Praia Clube vs Sada Cruzeiro lúc 07:00",
       "link": "/truc-tiep/praia-clube-vs-sada-cruzeiro-luc-0700-ngay-03-03-2026/",
       "runtime": 1772496000,
       "datetime": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "name": "Banfield vs Aldosivi lúc 07:30 | ZIZU",
+      "link": "/truc-tiep/banfield-vs-aldosivi-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
+      "name": "Ind. Rivadavia vs River Plate lúc 07:30 | LUCKY",
+      "link": "/truc-tiep/ind-rivadavia-vs-river-plate-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
+      "name": "Manta FC vs Ind. del Valle lúc 07:30 | JAY",
+      "link": "/truc-tiep/manta-fc-vs-ind-del-valle-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
+      "name": "Milwaukee Bucks vs Boston Celtics lúc 07:30 | NIKEN",
+      "link": "/truc-tiep/milwaukee-bucks-vs-boston-celtics-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
+      "name": "Nicholls State vs McNess State lúc 07:30",
+      "link": "/truc-tiep/nicholls-state-vs-mcness-state-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
+      "name": "Incarnate Word vs Stephen F. Austin lúc 07:30",
+      "link": "/truc-tiep/incarnate-word-vs-stephen-f-austin-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
+    },
+    {
+      "name": "UT-Rio Grande Valley vs Northwestern State lúc 07:30",
+      "link": "/truc-tiep/ut-rio-grande-valley-vs-northwestern-state-luc-0730-ngay-03-03-2026/",
+      "runtime": 1772497800,
+      "datetime": "2026-03-03T00:30:00.000Z"
     }
   ]
 }
