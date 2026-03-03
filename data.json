@@ -1,32 +1,8 @@
 {
   "success": true,
-  "total_matches": 8,
-  "updated_at": "2026-03-03T05:20:32.161Z",
+  "total_matches": 11,
+  "updated_at": "2026-03-03T06:28:59.891Z",
   "matches": [
-    {
-      "name": "Golden State Warriors vs Los Angeles Clippers lúc 10:00 | NIKEN",
-      "link": "/truc-tiep/golden-state-warriors-vs-los-angeles-clippers-luc-1000-ngay-03-03-2026/",
-      "runtime": 1772506800,
-      "datetime": "2026-03-03T03:00:00.000Z"
-    },
-    {
-      "name": "Stockton Kings vs Santa Cruz Warriors lúc 10:30",
-      "link": "/truc-tiep/stockton-kings-vs-santa-cruz-warriors-luc-1030-ngay-03-03-2026/",
-      "runtime": 1772508600,
-      "datetime": "2026-03-03T03:30:00.000Z"
-    },
-    {
-      "name": "Tahiti United FC vs Hekari Souths Utd lúc 11:00",
-      "link": "/truc-tiep/tahiti-united-fc-vs-hekari-souths-utd-luc-1100-ngay-03-03-2026/",
-      "runtime": 1772510400,
-      "datetime": "2026-03-03T04:00:00.000Z"
-    },
-    {
-      "name": "JKJ Red Boosters (R) vs Daegu Kogas Pegasus 2 lúc 11:00",
-      "link": "/truc-tiep/jkj-red-boosters-r-vs-daegu-kogas-pegasus-2-luc-1100-ngay-03-03-2026/",
-      "runtime": 1772510400,
-      "datetime": "2026-03-03T04:00:00.000Z"
-    },
     {
       "name": "Bence Boros vs Sora Fukuda lúc 11:00",
       "link": "/truc-tiep/bence-boros-vs-sora-fukuda-luc-1100-ngay-03-03-2026/",
@@ -40,6 +16,18 @@
       "datetime": "2026-03-03T04:00:00.000Z"
     },
     {
+      "name": "Ferrymead Bays vs Selwyn United lúc 12:00",
+      "link": "/truc-tiep/ferrymead-bays-vs-selwyn-united-luc-1200-ngay-03-03-2026/",
+      "runtime": 1772514000,
+      "datetime": "2026-03-03T05:00:00.000Z"
+    },
+    {
+      "name": "Persiwa Wamena vs Toli lúc 13:00",
+      "link": "/truc-tiep/persiwa-wamena-vs-toli-luc-1300-ngay-03-03-2026/",
+      "runtime": 1772517600,
+      "datetime": "2026-03-03T06:00:00.000Z"
+    },
+    {
       "name": "Dongbu Promy (R) vs Changwon LG Sakers 2 lúc 13:00",
       "link": "/truc-tiep/dongbu-promy-r-vs-changwon-lg-sakers-2-luc-1300-ngay-03-03-2026/",
       "runtime": 1772517600,
@@ -50,6 +38,36 @@
       "link": "/truc-tiep/veroja-vs-shark-squad-luc-1400-ngay-03-03-2026/",
       "runtime": 1772521200,
       "datetime": "2026-03-03T07:00:00.000Z"
+    },
+    {
+      "name": "Melbourne City vs Buriram United lúc 14:45 | ROY",
+      "link": "/truc-tiep/melbourne-city-vs-buriram-united-luc-1445-ngay-03-03-2026/",
+      "runtime": 1772523900,
+      "datetime": "2026-03-03T07:45:00.000Z"
+    },
+    {
+      "name": "Nữ Trung Quốc vs Nữ Bangladesh  lúc 15:00 | ASTRA",
+      "link": "/truc-tiep/nu-trung-quoc-vs-nu-bangladesh-luc-1500-ngay-03-03-2026/",
+      "runtime": 1772524800,
+      "datetime": "2026-03-03T08:00:00.000Z"
+    },
+    {
+      "name": "Nữ Choco Mucho Titans  vs Nữ Nxled Chameleons  lúc 15:00",
+      "link": "/truc-tiep/nu-choco-mucho-titans-vs-nu-nxled-chameleons-luc-1500-ngay-03-03-2026/",
+      "runtime": 1772524800,
+      "datetime": "2026-03-03T08:00:00.000Z"
+    },
+    {
+      "name": "T1 Academy vs Nongshim Esports Academy lúc 15:00",
+      "link": "/truc-tiep/t1-academy-vs-nongshim-esports-academy-luc-1500-ngay-03-03-2026/",
+      "runtime": 1772524800,
+      "datetime": "2026-03-03T08:00:00.000Z"
+    },
+    {
+      "name": "Yang Yang Gaming vs NOVEX lúc 15:00",
+      "link": "/truc-tiep/yang-yang-gaming-vs-novex-luc-1500-ngay-03-03-2026/",
+      "runtime": 1772524800,
+      "datetime": "2026-03-03T08:00:00.000Z"
     }
   ]
 }
