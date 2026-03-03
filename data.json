@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 32,
-  "updated_at": "2026-03-03T22:22:50.106Z",
+  "total_matches": 34,
+  "updated_at": "2026-03-03T22:56:36.220Z",
   "matches": [
-    {
-      "name": "Leong Jun Hao vs Kenta Nishimoto lúc 00:00",
-      "link": "/truc-tiep/leong-jun-hao-vs-kenta-nishimoto-luc-0000-ngay-04-03-2026/",
-      "runtime": 1772557200,
-      "datetime": "2026-03-03T17:00:00.000Z"
-    },
-    {
-      "name": "Port Vale vs Bristol City lúc 02:45 | TUTA",
-      "link": "/truc-tiep/port-vale-vs-bristol-city-luc-0245-ngay-04-03-2026/",
-      "runtime": 1772567100,
-      "datetime": "2026-03-03T19:45:00.000Z"
-    },
-    {
-      "name": "GKS Katowice vs Widzew lodz lúc 02:45",
-      "link": "/truc-tiep/gks-katowice-vs-widzew-lodz-luc-0245-ngay-04-03-2026/",
-      "runtime": 1772567100,
-      "datetime": "2026-03-03T19:45:00.000Z"
-    },
     {
       "name": "Luis Miguel vs Juan Pablo Ficovich lúc 03:10",
       "link": "/truc-tiep/luis-miguel-vs-juan-pablo-ficovich-luc-0310-ngay-04-03-2026/",
@@ -32,12 +14,6 @@
       "link": "/truc-tiep/sporting-cp-vs-fc-porto-luc-0345-ngay-04-03-2026/",
       "runtime": 1772570700,
       "datetime": "2026-03-03T20:45:00.000Z"
-    },
-    {
-      "name": "St. Kitts and Nevis U20 vs Turks Caicos Islands U20 lúc 04:00",
-      "link": "/truc-tiep/st-kitts-and-nevis-u20-vs-turks-caicos-islands-u20-luc-0400-ngay-04-03-2026/",
-      "runtime": 1772571600,
-      "datetime": "2026-03-03T21:00:00.000Z"
     },
     {
       "name": "Sanatgaran Omid vs Razin Polymer lúc 04:00",
@@ -112,12 +88,6 @@
       "datetime": "2026-03-03T22:40:00.000Z"
     },
     {
-      "name": "Vit Kopriva vs Dalibor Svrcina lúc 05:40",
-      "link": "/truc-tiep/vit-kopriva-vs-dalibor-svrcina-luc-0540-ngay-04-03-2026/",
-      "runtime": 1772577600,
-      "datetime": "2026-03-03T22:40:00.000Z"
-    },
-    {
       "name": "Nữ Bermuda vs Nữ Costa Rica lúc 06:00 | BRUCE",
       "link": "/truc-tiep/nu-bermuda-vs-nu-costa-rica-luc-0600-ngay-04-03-2026/",
       "runtime": 1772578800,
@@ -144,6 +114,12 @@
     {
       "name": "Central Cordoba vs Canuelas FC lúc 06:00",
       "link": "/truc-tiep/central-cordoba-vs-canuelas-fc-luc-0600-ngay-04-03-2026/",
+      "runtime": 1772578800,
+      "datetime": "2026-03-03T23:00:00.000Z"
+    },
+    {
+      "name": "Vit Kopriva vs Dalibor Svrcina lúc 06:00",
+      "link": "/truc-tiep/vit-kopriva-vs-dalibor-svrcina-luc-0600-ngay-04-03-2026/",
       "runtime": 1772578800,
       "datetime": "2026-03-03T23:00:00.000Z"
     },
@@ -194,6 +170,42 @@
       "link": "/truc-tiep/atletico-tucuman-vs-racing-club-luc-0715-ngay-04-03-2026/",
       "runtime": 1772583300,
       "datetime": "2026-03-04T00:15:00.000Z"
+    },
+    {
+      "name": "Cobresal vs Audax Italiano lúc 07:30 | YUNO",
+      "link": "/truc-tiep/cobresal-vs-audax-italiano-luc-0730-ngay-04-03-2026/",
+      "runtime": 1772584200,
+      "datetime": "2026-03-04T00:30:00.000Z"
+    },
+    {
+      "name": "Puerto Cabello vs Monagas SC lúc 07:30 | MON",
+      "link": "/truc-tiep/puerto-cabello-vs-monagas-sc-luc-0730-ngay-04-03-2026/",
+      "runtime": 1772584200,
+      "datetime": "2026-03-04T00:30:00.000Z"
+    },
+    {
+      "name": "Figueirense vs Azuriz FC lúc 07:30",
+      "link": "/truc-tiep/figueirense-vs-azuriz-fc-luc-0730-ngay-04-03-2026/",
+      "runtime": 1772584200,
+      "datetime": "2026-03-04T00:30:00.000Z"
+    },
+    {
+      "name": "Barcelona SC vs Botafogo RJ lúc 07:30 | NEMO",
+      "link": "/truc-tiep/barcelona-sc-vs-botafogo-rj-luc-0730-ngay-04-03-2026/",
+      "runtime": 1772584200,
+      "datetime": "2026-03-04T00:30:00.000Z"
+    },
+    {
+      "name": "Toronto Raptors vs New York Knicks lúc 07:30 | STEP",
+      "link": "/truc-tiep/toronto-raptors-vs-new-york-knicks-luc-0730-ngay-04-03-2026/",
+      "runtime": 1772584200,
+      "datetime": "2026-03-04T00:30:00.000Z"
+    },
+    {
+      "name": "Miami Heat vs Brooklyn Nets lúc 07:30",
+      "link": "/truc-tiep/miami-heat-vs-brooklyn-nets-luc-0730-ngay-04-03-2026/",
+      "runtime": 1772584200,
+      "datetime": "2026-03-04T00:30:00.000Z"
     }
   ]
 }
