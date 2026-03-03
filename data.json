@@ -1,47 +1,11 @@
 {
   "success": true,
-  "total_matches": 12,
-  "updated_at": "2026-03-03T04:09:16.392Z",
+  "total_matches": 8,
+  "updated_at": "2026-03-03T05:20:32.161Z",
   "matches": [
-    {
-      "name": "Praia Clube vs Sada Cruzeiro lúc 07:00",
-      "link": "/truc-tiep/praia-clube-vs-sada-cruzeiro-luc-0700-ngay-03-03-2026/",
-      "runtime": 1772496000,
-      "datetime": "2026-03-03T00:00:00.000Z"
-    },
-    {
-      "name": "Utah Jazz vs Denver Nuggets lúc 09:00 | TOMMY",
-      "link": "/truc-tiep/utah-jazz-vs-denver-nuggets-luc-0900-ngay-03-03-2026/",
-      "runtime": 1772503200,
-      "datetime": "2026-03-03T02:00:00.000Z"
-    },
-    {
-      "name": "Eastern Washington vs Idaho lúc 09:00",
-      "link": "/truc-tiep/eastern-washington-vs-idaho-luc-0900-ngay-03-03-2026/",
-      "runtime": 1772503200,
-      "datetime": "2026-03-03T02:00:00.000Z"
-    },
-    {
-      "name": "Arizona vs Iowa State Cyclones lúc 09:00",
-      "link": "/truc-tiep/arizona-vs-iowa-state-cyclones-luc-0900-ngay-03-03-2026/",
-      "runtime": 1772503200,
-      "datetime": "2026-03-03T02:00:00.000Z"
-    },
     {
       "name": "Golden State Warriors vs Los Angeles Clippers lúc 10:00 | NIKEN",
       "link": "/truc-tiep/golden-state-warriors-vs-los-angeles-clippers-luc-1000-ngay-03-03-2026/",
-      "runtime": 1772506800,
-      "datetime": "2026-03-03T03:00:00.000Z"
-    },
-    {
-      "name": "Portland State vs Weber State lúc 10:00",
-      "link": "/truc-tiep/portland-state-vs-weber-state-luc-1000-ngay-03-03-2026/",
-      "runtime": 1772506800,
-      "datetime": "2026-03-03T03:00:00.000Z"
-    },
-    {
-      "name": "Sacramento State vs Idaho State lúc 10:00",
-      "link": "/truc-tiep/sacramento-state-vs-idaho-state-luc-1000-ngay-03-03-2026/",
       "runtime": 1772506800,
       "datetime": "2026-03-03T03:00:00.000Z"
     },
@@ -50,6 +14,12 @@
       "link": "/truc-tiep/stockton-kings-vs-santa-cruz-warriors-luc-1030-ngay-03-03-2026/",
       "runtime": 1772508600,
       "datetime": "2026-03-03T03:30:00.000Z"
+    },
+    {
+      "name": "Tahiti United FC vs Hekari Souths Utd lúc 11:00",
+      "link": "/truc-tiep/tahiti-united-fc-vs-hekari-souths-utd-luc-1100-ngay-03-03-2026/",
+      "runtime": 1772510400,
+      "datetime": "2026-03-03T04:00:00.000Z"
     },
     {
       "name": "JKJ Red Boosters (R) vs Daegu Kogas Pegasus 2 lúc 11:00",
@@ -74,6 +44,12 @@
       "link": "/truc-tiep/dongbu-promy-r-vs-changwon-lg-sakers-2-luc-1300-ngay-03-03-2026/",
       "runtime": 1772517600,
       "datetime": "2026-03-03T06:00:00.000Z"
+    },
+    {
+      "name": "Veroja vs Shark Squad lúc 14:00",
+      "link": "/truc-tiep/veroja-vs-shark-squad-luc-1400-ngay-03-03-2026/",
+      "runtime": 1772521200,
+      "datetime": "2026-03-03T07:00:00.000Z"
     }
   ]
 }
