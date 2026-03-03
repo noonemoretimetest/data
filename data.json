@@ -1,19 +1,13 @@
 {
   "success": true,
-  "total_matches": 56,
-  "updated_at": "2026-03-03T20:26:54.374Z",
+  "total_matches": 50,
+  "updated_at": "2026-03-03T21:01:05.408Z",
   "matches": [
     {
       "name": "Leong Jun Hao vs Kenta Nishimoto lúc 00:00",
       "link": "/truc-tiep/leong-jun-hao-vs-kenta-nishimoto-luc-0000-ngay-04-03-2026/",
       "runtime": 1772557200,
       "datetime": "2026-03-03T17:00:00.000Z"
-    },
-    {
-      "name": "NOVAQ vs Omega lúc 01:00",
-      "link": "/truc-tiep/novaq-vs-omega-luc-0100-ngay-04-03-2026/",
-      "runtime": 1772560800,
-      "datetime": "2026-03-03T18:00:00.000Z"
     },
     {
       "name": "Zajezdzacze vs Bebop lúc 01:00",
@@ -26,30 +20,6 @@
       "link": "/truc-tiep/nu-ireland-vs-nu-phap-luc-0130-ngay-04-03-2026/",
       "runtime": 1772562600,
       "datetime": "2026-03-03T18:30:00.000Z"
-    },
-    {
-      "name": "Nữ Bồ Đào Nha vs Nữ Phần Lan lúc 01:45",
-      "link": "/truc-tiep/nu-bo-dao-nha-vs-nu-phan-lan-luc-0145-ngay-04-03-2026/",
-      "runtime": 1772563500,
-      "datetime": "2026-03-03T18:45:00.000Z"
-    },
-    {
-      "name": "Al-Baqs vs Al Wehdat lúc 01:45",
-      "link": "/truc-tiep/al-baqs-vs-al-wehdat-luc-0145-ngay-04-03-2026/",
-      "runtime": 1772563500,
-      "datetime": "2026-03-03T18:45:00.000Z"
-    },
-    {
-      "name": "Al-Ramtha SC vs AL Salt lúc 01:45",
-      "link": "/truc-tiep/al-ramtha-sc-vs-al-salt-luc-0145-ngay-04-03-2026/",
-      "runtime": 1772563500,
-      "datetime": "2026-03-03T18:45:00.000Z"
-    },
-    {
-      "name": "Al Ula FC vs Al-Orobah FC lúc 01:45",
-      "link": "/truc-tiep/al-ula-fc-vs-al-orobah-fc-luc-0145-ngay-04-03-2026/",
-      "runtime": 1772563500,
-      "datetime": "2026-03-03T18:45:00.000Z"
     },
     {
       "name": "NEC Nijmegen vs PSV Eindhoven lúc 02:00 | LOGAN",
@@ -66,36 +36,6 @@
     {
       "name": "Mlada Boleslav vs Sparta Praha lúc 02:00",
       "link": "/truc-tiep/mlada-boleslav-vs-sparta-praha-luc-0200-ngay-04-03-2026/",
-      "runtime": 1772564400,
-      "datetime": "2026-03-03T19:00:00.000Z"
-    },
-    {
-      "name": "ACD Virtus Entella vs Modena lúc 02:00",
-      "link": "/truc-tiep/acd-virtus-entella-vs-modena-luc-0200-ngay-04-03-2026/",
-      "runtime": 1772564400,
-      "datetime": "2026-03-03T19:00:00.000Z"
-    },
-    {
-      "name": "Venezia vs Avellino lúc 02:00",
-      "link": "/truc-tiep/venezia-vs-avellino-luc-0200-ngay-04-03-2026/",
-      "runtime": 1772564400,
-      "datetime": "2026-03-03T19:00:00.000Z"
-    },
-    {
-      "name": "Cesena vs Monza lúc 02:00",
-      "link": "/truc-tiep/cesena-vs-monza-luc-0200-ngay-04-03-2026/",
-      "runtime": 1772564400,
-      "datetime": "2026-03-03T19:00:00.000Z"
-    },
-    {
-      "name": "BC Reggiana 1919 vs SudTirol lúc 02:00",
-      "link": "/truc-tiep/bc-reggiana-1919-vs-sudtirol-luc-0200-ngay-04-03-2026/",
-      "runtime": 1772564400,
-      "datetime": "2026-03-03T19:00:00.000Z"
-    },
-    {
-      "name": "SC Cambuur  vs Almere City lúc 02:00",
-      "link": "/truc-tiep/sc-cambuur-vs-almere-city-luc-0200-ngay-04-03-2026/",
       "runtime": 1772564400,
       "datetime": "2026-03-03T19:00:00.000Z"
     },
@@ -338,6 +278,30 @@
       "link": "/truc-tiep/ca-huracan-vs-belgrano-luc-0515-ngay-04-03-2026/",
       "runtime": 1772576100,
       "datetime": "2026-03-03T22:15:00.000Z"
+    },
+    {
+      "name": "Ignacio Buse vs Rinky Hijikata lúc 05:40",
+      "link": "/truc-tiep/ignacio-buse-vs-rinky-hijikata-luc-0540-ngay-04-03-2026/",
+      "runtime": 1772577600,
+      "datetime": "2026-03-03T22:40:00.000Z"
+    },
+    {
+      "name": "Vit Kopriva vs Dalibor Svrcina lúc 05:40",
+      "link": "/truc-tiep/vit-kopriva-vs-dalibor-svrcina-luc-0540-ngay-04-03-2026/",
+      "runtime": 1772577600,
+      "datetime": "2026-03-03T22:40:00.000Z"
+    },
+    {
+      "name": "Nữ Bermuda vs Nữ Costa Rica lúc 06:00 | BRUCE",
+      "link": "/truc-tiep/nu-bermuda-vs-nu-costa-rica-luc-0600-ngay-04-03-2026/",
+      "runtime": 1772578800,
+      "datetime": "2026-03-03T23:00:00.000Z"
+    },
+    {
+      "name": "Belize U20 vs Saint Martin U20 lúc 06:00",
+      "link": "/truc-tiep/belize-u20-vs-saint-martin-u20-luc-0600-ngay-04-03-2026/",
+      "runtime": 1772578800,
+      "datetime": "2026-03-03T23:00:00.000Z"
     }
   ]
 }
