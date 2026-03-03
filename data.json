@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 43,
-  "updated_at": "2026-03-03T23:25:00.843Z",
+  "total_matches": 40,
+  "updated_at": "2026-03-03T23:55:07.052Z",
   "matches": [
-    {
-      "name": "Sanatgaran Omid vs Razin Polymer lúc 04:00",
-      "link": "/truc-tiep/sanatgaran-omid-vs-razin-polymer-luc-0400-ngay-04-03-2026/",
-      "runtime": 1772571600,
-      "datetime": "2026-03-03T21:00:00.000Z"
-    },
-    {
-      "name": "Katie Boulter vs Victoria Jimenez Kasintseva lúc 04:30",
-      "link": "/truc-tiep/katie-boulter-vs-victoria-jimenez-kasintseva-luc-0430-ngay-04-03-2026/",
-      "runtime": 1772573400,
-      "datetime": "2026-03-03T21:30:00.000Z"
-    },
     {
       "name": "Himeno Sakatsume vs Nikola Bartunkova lúc 04:30 | VIC",
       "link": "/truc-tiep/himeno-sakatsume-vs-nikola-bartunkova-luc-0430-ngay-04-03-2026/",
       "runtime": 1772573400,
       "datetime": "2026-03-03T21:30:00.000Z"
-    },
-    {
-      "name": "SESI-SP vs Uberlandia Gabarito lúc 04:30",
-      "link": "/truc-tiep/sesi-sp-vs-uberlandia-gabarito-luc-0430-ngay-04-03-2026/",
-      "runtime": 1772573400,
-      "datetime": "2026-03-03T21:30:00.000Z"
-    },
-    {
-      "name": "Nữ Suriname vs Nữ Haiti  lúc 05:00 | NEMO",
-      "link": "/truc-tiep/nu-suriname-vs-nu-haiti-luc-0500-ngay-04-03-2026/",
-      "runtime": 1772575200,
-      "datetime": "2026-03-03T22:00:00.000Z"
     },
     {
       "name": "Montevideo City vs Defensor SC lúc 05:00 | RYAN",
@@ -260,6 +236,12 @@
       "link": "/truc-tiep/memphis-hustle-vs-texas-legends-luc-0800-ngay-04-03-2026/",
       "runtime": 1772586000,
       "datetime": "2026-03-04T01:00:00.000Z"
+    },
+    {
+      "name": "Old Dominion vs Louisiana Monroe  lúc 08:30",
+      "link": "/truc-tiep/old-dominion-vs-louisiana-monroe-luc-0830-ngay-04-03-2026/",
+      "runtime": 1772587800,
+      "datetime": "2026-03-04T01:30:00.000Z"
     }
   ]
 }
