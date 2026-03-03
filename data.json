@@ -1,67 +1,13 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-03-03T11:48:28.439Z",
+  "total_matches": 55,
+  "updated_at": "2026-03-03T12:45:55.290Z",
   "matches": [
-    {
-      "name": "Hayato Matsuoka vs Daniil Ostapenkov lúc 14:00",
-      "link": "/truc-tiep/hayato-matsuoka-vs-daniil-ostapenkov-luc-1400-ngay-03-03-2026/",
-      "runtime": 1772521200,
-      "datetime": "2026-03-03T07:00:00.000Z"
-    },
     {
       "name": "Jay Clarke vs Calvin Hemery lúc 15:00",
       "link": "/truc-tiep/jay-clarke-vs-calvin-hemery-luc-1500-ngay-03-03-2026/",
       "runtime": 1772524800,
       "datetime": "2026-03-03T08:00:00.000Z"
-    },
-    {
-      "name": "Anyones Legend vs Invictus Gaming lúc 16:00",
-      "link": "/truc-tiep/anyones-legend-vs-invictus-gaming-luc-1600-ngay-03-03-2026/",
-      "runtime": 1772528400,
-      "datetime": "2026-03-03T09:00:00.000Z"
-    },
-    {
-      "name": "Phantom vs Oxuji lúc 16:00",
-      "link": "/truc-tiep/phantom-vs-oxuji-luc-1600-ngay-03-03-2026/",
-      "runtime": 1772528400,
-      "datetime": "2026-03-03T09:00:00.000Z"
-    },
-    {
-      "name": "Mahar United vs Dagon Star United lúc 16:30 | LEE",
-      "link": "/truc-tiep/mahar-united-vs-dagon-star-united-luc-1630-ngay-03-03-2026/",
-      "runtime": 1772530200,
-      "datetime": "2026-03-03T09:30:00.000Z"
-    },
-    {
-      "name": "Nữ Bulgaria vs Nữ Croatia lúc 17:00 | MAX",
-      "link": "/truc-tiep/nu-bulgaria-vs-nu-croatia-luc-1700-ngay-03-03-2026/",
-      "runtime": 1772532000,
-      "datetime": "2026-03-03T10:00:00.000Z"
-    },
-    {
-      "name": "Gangwon FC vs Machida Zelvia lúc 17:00 | BRUCE",
-      "link": "/truc-tiep/gangwon-fc-vs-machida-zelvia-luc-1700-ngay-03-03-2026/",
-      "runtime": 1772532000,
-      "datetime": "2026-03-03T10:00:00.000Z"
-    },
-    {
-      "name": "Fethiyespor vs Karagumruk lúc 17:00 | YUNO",
-      "link": "/truc-tiep/fethiyespor-vs-karagumruk-luc-1700-ngay-03-03-2026/",
-      "runtime": 1772532000,
-      "datetime": "2026-03-03T10:00:00.000Z"
-    },
-    {
-      "name": "Nữ Adama Ketema vs Nữ Sidama Bunna lúc 17:00",
-      "link": "/truc-tiep/nu-adama-ketema-vs-nu-sidama-bunna-luc-1700-ngay-03-03-2026/",
-      "runtime": 1772532000,
-      "datetime": "2026-03-03T10:00:00.000Z"
-    },
-    {
-      "name": "FK Alga Bishkek vs FC Talant lúc 17:00",
-      "link": "/truc-tiep/fk-alga-bishkek-vs-fc-talant-luc-1700-ngay-03-03-2026/",
-      "runtime": 1772532000,
-      "datetime": "2026-03-03T10:00:00.000Z"
     },
     {
       "name": "Nữ Cool Smashers vs Nữ Galeries Highrisers lúc 17:30",
@@ -74,12 +20,6 @@
       "link": "/truc-tiep/heroic-vs-monte-luc-1730-ngay-03-03-2026/",
       "runtime": 1772533800,
       "datetime": "2026-03-03T10:30:00.000Z"
-    },
-    {
-      "name": "Michelle Li vs Gao Fangjie lúc 17:50",
-      "link": "/truc-tiep/michelle-li-vs-gao-fangjie-luc-1750-ngay-03-03-2026/",
-      "runtime": 1772535000,
-      "datetime": "2026-03-03T10:50:00.000Z"
     },
     {
       "name": "Nữ Azerbaijan vs Nữ North Macedonia lúc 18:00 | KEVIN",
@@ -112,18 +52,6 @@
       "datetime": "2026-03-03T11:00:00.000Z"
     },
     {
-      "name": "Hsieh Pei Shan/Hung En-Tzu vs Bengisu Ercetin/Nazlıcan Inci lúc 18:00",
-      "link": "/truc-tiep/hsieh-pei-shan-hung-en-tzu-vs-bengisu-ercetin-nazlican-inci-luc-1800-ngay-03-03-2026/",
-      "runtime": 1772535600,
-      "datetime": "2026-03-03T11:00:00.000Z"
-    },
-    {
-      "name": "VARREL YOUTH vs Inferno Drive Tokyo lúc 18:00",
-      "link": "/truc-tiep/varrel-youth-vs-inferno-drive-tokyo-luc-1800-ngay-03-03-2026/",
-      "runtime": 1772535600,
-      "datetime": "2026-03-03T11:00:00.000Z"
-    },
-    {
       "name": "Spartak Varna vs PFK Montana lúc 18:30 | FINN",
       "link": "/truc-tiep/spartak-varna-vs-pfk-montana-luc-1830-ngay-03-03-2026/",
       "runtime": 1772537400,
@@ -140,18 +68,6 @@
       "link": "/truc-tiep/shi-yuqi-vs-lakshya-sen-luc-1840-ngay-03-03-2026/",
       "runtime": 1772538000,
       "datetime": "2026-03-03T11:40:00.000Z"
-    },
-    {
-      "name": "Ye Hong-wei/Chan Nicole Gonzales vs Jimmy Wong/Lai Pei Jing lúc 18:40",
-      "link": "/truc-tiep/ye-hong-wei-chan-nicole-gonzales-vs-jimmy-wong-lai-pei-jing-luc-1840-ngay-03-03-2026/",
-      "runtime": 1772538000,
-      "datetime": "2026-03-03T11:40:00.000Z"
-    },
-    {
-      "name": "Chen Yufei vs Malvika Bansod lúc 18:50",
-      "link": "/truc-tiep/chen-yufei-vs-malvika-bansod-luc-1850-ngay-03-03-2026/",
-      "runtime": 1772538600,
-      "datetime": "2026-03-03T11:50:00.000Z"
     },
     {
       "name": "Tang Chun Man/Tse Ying Suet vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat lúc 18:50",
@@ -238,14 +154,14 @@
       "datetime": "2026-03-03T12:30:00.000Z"
     },
     {
-      "name": "An Se-young vs Neslihan Arin lúc 19:30",
-      "link": "/truc-tiep/an-se-young-vs-neslihan-arin-luc-1930-ngay-03-03-2026/",
+      "name": "Jia Yi Fan/Zhang Shu Xian vs Rachel Allessya Rose/Febi Setianingrum lúc 19:30",
+      "link": "/truc-tiep/jia-yi-fan-zhang-shu-xian-vs-rachel-allessya-rose-febi-setianingrum-luc-1930-ngay-03-03-2026/",
       "runtime": 1772541000,
       "datetime": "2026-03-03T12:30:00.000Z"
     },
     {
-      "name": "Jia Yi Fan/Zhang Shu Xian vs Rachel Allessya Rose/Febi Setianingrum lúc 19:30",
-      "link": "/truc-tiep/jia-yi-fan-zhang-shu-xian-vs-rachel-allessya-rose-febi-setianingrum-luc-1930-ngay-03-03-2026/",
+      "name": "An Se-young vs Neslihan Arin lúc 19:30",
+      "link": "/truc-tiep/an-se-young-vs-neslihan-arin-luc-1930-ngay-03-03-2026/",
       "runtime": 1772541000,
       "datetime": "2026-03-03T12:30:00.000Z"
     },
@@ -362,6 +278,60 @@
       "link": "/truc-tiep/li-shifeng-vs-wang-zhengxing-luc-2040-ngay-03-03-2026/",
       "runtime": 1772545200,
       "datetime": "2026-03-03T13:40:00.000Z"
+    },
+    {
+      "name": "Nữ Thổ Nhĩ Kỳ vs Nữ Malta lúc 21:00 | TONI",
+      "link": "/truc-tiep/nu-tho-nhi-ky-vs-nu-malta-luc-2100-ngay-03-03-2026/",
+      "runtime": 1772546400,
+      "datetime": "2026-03-03T14:00:00.000Z"
+    },
+    {
+      "name": "Beroe Stara Zagora vs Slavia Sofia lúc 21:00 | RYAN",
+      "link": "/truc-tiep/beroe-stara-zagora-vs-slavia-sofia-luc-2100-ngay-03-03-2026/",
+      "runtime": 1772546400,
+      "datetime": "2026-03-03T14:00:00.000Z"
+    },
+    {
+      "name": "NK Sesvete vs NK Dubrava lúc 21:00",
+      "link": "/truc-tiep/nk-sesvete-vs-nk-dubrava-luc-2100-ngay-03-03-2026/",
+      "runtime": 1772546400,
+      "datetime": "2026-03-03T14:00:00.000Z"
+    },
+    {
+      "name": "BK Kaspiy Aktau vs BK Astana lúc 21:00",
+      "link": "/truc-tiep/bk-kaspiy-aktau-vs-bk-astana-luc-2100-ngay-03-03-2026/",
+      "runtime": 1772546400,
+      "datetime": "2026-03-03T14:00:00.000Z"
+    },
+    {
+      "name": "Mathias Christiansen/Alexandra Boje vs Yang Po-hsuan/Hu Ling-fang lúc 21:00",
+      "link": "/truc-tiep/mathias-christiansen-alexandra-boje-vs-yang-po-hsuan-hu-ling-fang-luc-2100-ngay-03-03-2026/",
+      "runtime": 1772546400,
+      "datetime": "2026-03-03T14:00:00.000Z"
+    },
+    {
+      "name": "Procyon vs Uno Mille lúc 21:00",
+      "link": "/truc-tiep/procyon-vs-uno-mille-luc-2100-ngay-03-03-2026/",
+      "runtime": 1772546400,
+      "datetime": "2026-03-03T14:00:00.000Z"
+    },
+    {
+      "name": "Kim Won-ho/Seo Seung-jae vs Ben Lane/Sean Vendy lúc 21:10",
+      "link": "/truc-tiep/kim-won-ho-seo-seung-jae-vs-ben-lane-sean-vendy-luc-2110-ngay-03-03-2026/",
+      "runtime": 1772547000,
+      "datetime": "2026-03-03T14:10:00.000Z"
+    },
+    {
+      "name": "Kang Minhyuk/Ki Dong Ju vs Nikolaus Joaquin/Raymond Indra lúc 21:30",
+      "link": "/truc-tiep/kang-minhyuk-ki-dong-ju-vs-nikolaus-joaquin-raymond-indra-luc-2130-ngay-03-03-2026/",
+      "runtime": 1772548200,
+      "datetime": "2026-03-03T14:30:00.000Z"
+    },
+    {
+      "name": "Chang Ching Hui/Yang Ching Tun vs Francesca Corbett/Jennie Gai lúc 21:30",
+      "link": "/truc-tiep/chang-ching-hui-yang-ching-tun-vs-francesca-corbett-jennie-gai-luc-2130-ngay-03-03-2026/",
+      "runtime": 1772548200,
+      "datetime": "2026-03-03T14:30:00.000Z"
     }
   ]
 }
