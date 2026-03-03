@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 30,
-  "updated_at": "2026-03-03T08:04:41.117Z",
+  "total_matches": 41,
+  "updated_at": "2026-03-03T09:01:35.129Z",
   "matches": [
     {
       "name": "Bence Boros vs Sora Fukuda lúc 11:00",
@@ -16,26 +16,8 @@
       "datetime": "2026-03-03T04:00:00.000Z"
     },
     {
-      "name": "Nữ Sheger Ketema vs Nữ Mechal FC lúc 14:00",
-      "link": "/truc-tiep/nu-sheger-ketema-vs-nu-mechal-fc-luc-1400-ngay-03-03-2026/",
-      "runtime": 1772521200,
-      "datetime": "2026-03-03T07:00:00.000Z"
-    },
-    {
-      "name": "MPBL D-League vs Marikina Shoemasters lúc 14:00",
-      "link": "/truc-tiep/mpbl-d-league-vs-marikina-shoemasters-luc-1400-ngay-03-03-2026/",
-      "runtime": 1772521200,
-      "datetime": "2026-03-03T07:00:00.000Z"
-    },
-    {
       "name": "Wu Tung-lin vs Imanol Lopez Morillo lúc 14:00",
       "link": "/truc-tiep/wu-tung-lin-vs-imanol-lopez-morillo-luc-1400-ngay-03-03-2026/",
-      "runtime": 1772521200,
-      "datetime": "2026-03-03T07:00:00.000Z"
-    },
-    {
-      "name": "Ronit Karki vs Vladyslav Orlov lúc 14:00",
-      "link": "/truc-tiep/ronit-karki-vs-vladyslav-orlov-luc-1400-ngay-03-03-2026/",
       "runtime": 1772521200,
       "datetime": "2026-03-03T07:00:00.000Z"
     },
@@ -76,6 +58,12 @@
       "datetime": "2026-03-03T07:45:00.000Z"
     },
     {
+      "name": "Bula FC vs South Island FC lúc 15:00",
+      "link": "/truc-tiep/bula-fc-vs-south-island-fc-luc-1500-ngay-03-03-2026/",
+      "runtime": 1772524800,
+      "datetime": "2026-03-03T08:00:00.000Z"
+    },
+    {
       "name": "Nữ Trung Quốc vs Nữ Bangladesh  lúc 15:00 | ASTRA",
       "link": "/truc-tiep/nu-trung-quoc-vs-nu-bangladesh-luc-1500-ngay-03-03-2026/",
       "runtime": 1772524800,
@@ -90,12 +78,6 @@
     {
       "name": "T1 Academy vs Nongshim Esports Academy lúc 15:00",
       "link": "/truc-tiep/t1-academy-vs-nongshim-esports-academy-luc-1500-ngay-03-03-2026/",
-      "runtime": 1772524800,
-      "datetime": "2026-03-03T08:00:00.000Z"
-    },
-    {
-      "name": "Yang Yang Gaming vs NOVEX lúc 15:00",
-      "link": "/truc-tiep/yang-yang-gaming-vs-novex-luc-1500-ngay-03-03-2026/",
       "runtime": 1772524800,
       "datetime": "2026-03-03T08:00:00.000Z"
     },
@@ -182,6 +164,90 @@
       "link": "/truc-tiep/fennel-vs-rising-gaming-luc-1700-ngay-03-03-2026/",
       "runtime": 1772532000,
       "datetime": "2026-03-03T10:00:00.000Z"
+    },
+    {
+      "name": "Pakkapon Teeraratsakul/Sapsiree Taerattanachai vs Wu GuanXun/Lee Chia-hsin lúc 17:10",
+      "link": "/truc-tiep/pakkapon-teeraratsakul-sapsiree-taerattanachai-vs-wu-guanxun-lee-chia-hsin-luc-1710-ngay-03-03-2026/",
+      "runtime": 1772532600,
+      "datetime": "2026-03-03T10:10:00.000Z"
+    },
+    {
+      "name": "Liu Shengshu/Tan Ning vs Hu Ling Fang/Jheng Yu Chieh lúc 17:10",
+      "link": "/truc-tiep/liu-shengshu-tan-ning-vs-hu-ling-fang-jheng-yu-chieh-luc-1710-ngay-03-03-2026/",
+      "runtime": 1772532600,
+      "datetime": "2026-03-03T10:10:00.000Z"
+    },
+    {
+      "name": "Nữ Cool Smashers vs Nữ Galeries Highrisers lúc 17:30",
+      "link": "/truc-tiep/nu-cool-smashers-vs-nu-galeries-highrisers-luc-1730-ngay-03-03-2026/",
+      "runtime": 1772533800,
+      "datetime": "2026-03-03T10:30:00.000Z"
+    },
+    {
+      "name": "HEROIC vs Monte lúc 17:30",
+      "link": "/truc-tiep/heroic-vs-monte-luc-1730-ngay-03-03-2026/",
+      "runtime": 1772533800,
+      "datetime": "2026-03-03T10:30:00.000Z"
+    },
+    {
+      "name": "Michelle Li vs Gao Fangjie lúc 17:50",
+      "link": "/truc-tiep/michelle-li-vs-gao-fangjie-luc-1750-ngay-03-03-2026/",
+      "runtime": 1772535000,
+      "datetime": "2026-03-03T10:50:00.000Z"
+    },
+    {
+      "name": "Angus Ng Ka Long vs Brian Yang lúc 17:50",
+      "link": "/truc-tiep/angus-ng-ka-long-vs-brian-yang-luc-1750-ngay-03-03-2026/",
+      "runtime": 1772535000,
+      "datetime": "2026-03-03T10:50:00.000Z"
+    },
+    {
+      "name": "Nữ Azerbaijan vs Nữ North Macedonia lúc 18:00 | KEVIN",
+      "link": "/truc-tiep/nu-azerbaijan-vs-nu-north-macedonia-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
+    },
+    {
+      "name": "Zimbru Chisinau vs FC Politehnica Chisinau lúc 18:00",
+      "link": "/truc-tiep/zimbru-chisinau-vs-fc-politehnica-chisinau-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
+    },
+    {
+      "name": "Rasisalai United vs Nakhon Pathom lúc 18:00",
+      "link": "/truc-tiep/rasisalai-united-vs-nakhon-pathom-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
+    },
+    {
+      "name": "Monza U19 vs Napoli U20 lúc 18:00",
+      "link": "/truc-tiep/monza-u19-vs-napoli-u20-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
+    },
+    {
+      "name": "Binan Tatak Gel vs Batangas Rum Masters lúc 18:00",
+      "link": "/truc-tiep/binan-tatak-gel-vs-batangas-rum-masters-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
+    },
+    {
+      "name": "Hsieh Pei Shan/Hung En-Tzu vs Bengisu Ercetin/Nazlıcan Inci lúc 18:00",
+      "link": "/truc-tiep/hsieh-pei-shan-hung-en-tzu-vs-bengisu-ercetin-nazlican-inci-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
+    },
+    {
+      "name": "Lin Hsiang Ti vs Sim Yu-Jin lúc 18:00",
+      "link": "/truc-tiep/lin-hsiang-ti-vs-sim-yu-jin-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
+    },
+    {
+      "name": "VARREL YOUTH vs Inferno Drive Tokyo lúc 18:00",
+      "link": "/truc-tiep/varrel-youth-vs-inferno-drive-tokyo-luc-1800-ngay-03-03-2026/",
+      "runtime": 1772535600,
+      "datetime": "2026-03-03T11:00:00.000Z"
     }
   ]
 }
