@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 11,
-  "updated_at": "2026-03-03T06:28:59.891Z",
+  "total_matches": 21,
+  "updated_at": "2026-03-03T07:28:33.726Z",
   "matches": [
     {
       "name": "Bence Boros vs Sora Fukuda lúc 11:00",
@@ -16,12 +16,6 @@
       "datetime": "2026-03-03T04:00:00.000Z"
     },
     {
-      "name": "Ferrymead Bays vs Selwyn United lúc 12:00",
-      "link": "/truc-tiep/ferrymead-bays-vs-selwyn-united-luc-1200-ngay-03-03-2026/",
-      "runtime": 1772514000,
-      "datetime": "2026-03-03T05:00:00.000Z"
-    },
-    {
       "name": "Persiwa Wamena vs Toli lúc 13:00",
       "link": "/truc-tiep/persiwa-wamena-vs-toli-luc-1300-ngay-03-03-2026/",
       "runtime": 1772517600,
@@ -32,6 +26,30 @@
       "link": "/truc-tiep/dongbu-promy-r-vs-changwon-lg-sakers-2-luc-1300-ngay-03-03-2026/",
       "runtime": 1772517600,
       "datetime": "2026-03-03T06:00:00.000Z"
+    },
+    {
+      "name": "Nữ Sheger Ketema vs Nữ Mechal FC lúc 14:00",
+      "link": "/truc-tiep/nu-sheger-ketema-vs-nu-mechal-fc-luc-1400-ngay-03-03-2026/",
+      "runtime": 1772521200,
+      "datetime": "2026-03-03T07:00:00.000Z"
+    },
+    {
+      "name": "MPBL D-League vs Marikina Shoemasters lúc 14:00",
+      "link": "/truc-tiep/mpbl-d-league-vs-marikina-shoemasters-luc-1400-ngay-03-03-2026/",
+      "runtime": 1772521200,
+      "datetime": "2026-03-03T07:00:00.000Z"
+    },
+    {
+      "name": "Wu Tung-lin vs Imanol Lopez Morillo lúc 14:00",
+      "link": "/truc-tiep/wu-tung-lin-vs-imanol-lopez-morillo-luc-1400-ngay-03-03-2026/",
+      "runtime": 1772521200,
+      "datetime": "2026-03-03T07:00:00.000Z"
+    },
+    {
+      "name": "Ronit Karki vs Vladyslav Orlov lúc 14:00",
+      "link": "/truc-tiep/ronit-karki-vs-vladyslav-orlov-luc-1400-ngay-03-03-2026/",
+      "runtime": 1772521200,
+      "datetime": "2026-03-03T07:00:00.000Z"
     },
     {
       "name": "Veroja vs Shark Squad lúc 14:00",
@@ -68,6 +86,48 @@
       "link": "/truc-tiep/yang-yang-gaming-vs-novex-luc-1500-ngay-03-03-2026/",
       "runtime": 1772524800,
       "datetime": "2026-03-03T08:00:00.000Z"
+    },
+    {
+      "name": "Nữ Beijing Ducks vs Nữ Jiansu Nangang lúc 16:00",
+      "link": "/truc-tiep/nu-beijing-ducks-vs-nu-jiansu-nangang-luc-1600-ngay-03-03-2026/",
+      "runtime": 1772528400,
+      "datetime": "2026-03-03T09:00:00.000Z"
+    },
+    {
+      "name": "Caloocan Kankaloo\t vs Quezon Huskers lúc 16:00",
+      "link": "/truc-tiep/caloocan-kankaloo-vs-quezon-huskers-luc-1600-ngay-03-03-2026/",
+      "runtime": 1772528400,
+      "datetime": "2026-03-03T09:00:00.000Z"
+    },
+    {
+      "name": "Anyones Legend vs Invictus Gaming lúc 16:00",
+      "link": "/truc-tiep/anyones-legend-vs-invictus-gaming-luc-1600-ngay-03-03-2026/",
+      "runtime": 1772528400,
+      "datetime": "2026-03-03T09:00:00.000Z"
+    },
+    {
+      "name": "DetonatioN FocusMe Academy vs Fast8 lúc 16:00",
+      "link": "/truc-tiep/detonation-focusme-academy-vs-fast8-luc-1600-ngay-03-03-2026/",
+      "runtime": 1772528400,
+      "datetime": "2026-03-03T09:00:00.000Z"
+    },
+    {
+      "name": "Phantom vs Oxuji lúc 16:00",
+      "link": "/truc-tiep/phantom-vs-oxuji-luc-1600-ngay-03-03-2026/",
+      "runtime": 1772528400,
+      "datetime": "2026-03-03T09:00:00.000Z"
+    },
+    {
+      "name": "WW vs Fuzos lúc 16:00",
+      "link": "/truc-tiep/ww-vs-fuzos-luc-1600-ngay-03-03-2026/",
+      "runtime": 1772528400,
+      "datetime": "2026-03-03T09:00:00.000Z"
+    },
+    {
+      "name": "Dynamo Vladivostok vs Dynamo Ufa lúc 16:15 | STEP",
+      "link": "/truc-tiep/dynamo-vladivostok-vs-dynamo-ufa-luc-1615-ngay-03-03-2026/",
+      "runtime": 1772529300,
+      "datetime": "2026-03-03T09:15:00.000Z"
     }
   ]
 }
