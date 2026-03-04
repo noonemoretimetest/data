@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 66,
-  "updated_at": "2026-03-04T19:52:10.709Z",
+  "total_matches": 70,
+  "updated_at": "2026-03-04T20:26:45.847Z",
   "matches": [
     {
       "name": "SINNERS vs ECSTATIC lúc 23:00",
@@ -28,44 +28,8 @@
       "datetime": "2026-03-04T17:30:00.000Z"
     },
     {
-      "name": "AE Kifisias vs PAOK Saloniki lúc 01:00",
-      "link": "/truc-tiep/ae-kifisias-vs-paok-saloniki-luc-0100-ngay-05-03-2026/",
-      "runtime": 1772647200,
-      "datetime": "2026-03-04T18:00:00.000Z"
-    },
-    {
-      "name": "Rayo Vallecano vs Real Oviedo lúc 01:00 | MAX",
-      "link": "/truc-tiep/rayo-vallecano-vs-real-oviedo-luc-0100-ngay-05-03-2026/",
-      "runtime": 1772647200,
-      "datetime": "2026-03-04T18:00:00.000Z"
-    },
-    {
-      "name": "Carrarese vs Catanzaro lúc 01:00",
-      "link": "/truc-tiep/carrarese-vs-catanzaro-luc-0100-ngay-05-03-2026/",
-      "runtime": 1772647200,
-      "datetime": "2026-03-04T18:00:00.000Z"
-    },
-    {
       "name": "Valletta FC vs Hamrun Spartans lúc 01:00",
       "link": "/truc-tiep/valletta-fc-vs-hamrun-spartans-luc-0100-ngay-05-03-2026/",
-      "runtime": 1772647200,
-      "datetime": "2026-03-04T18:00:00.000Z"
-    },
-    {
-      "name": "Desportivo Brasil SP vs Itapirense/SP lúc 01:00",
-      "link": "/truc-tiep/desportivo-brasil-sp-vs-itapirense-sp-luc-0100-ngay-05-03-2026/",
-      "runtime": 1772647200,
-      "datetime": "2026-03-04T18:00:00.000Z"
-    },
-    {
-      "name": "Alvik vs Eskilstuna lúc 01:00",
-      "link": "/truc-tiep/alvik-vs-eskilstuna-luc-0100-ngay-05-03-2026/",
-      "runtime": 1772647200,
-      "datetime": "2026-03-04T18:00:00.000Z"
-    },
-    {
-      "name": "Lazer Cats vs los kogutos lúc 01:00",
-      "link": "/truc-tiep/lazer-cats-vs-los-kogutos-luc-0100-ngay-05-03-2026/",
       "runtime": 1772647200,
       "datetime": "2026-03-04T18:00:00.000Z"
     },
@@ -88,22 +52,10 @@
       "datetime": "2026-03-04T18:30:00.000Z"
     },
     {
-      "name": "FC Dinamo City vs KF Tirana lúc 01:30",
-      "link": "/truc-tiep/fc-dinamo-city-vs-kf-tirana-luc-0130-ngay-05-03-2026/",
-      "runtime": 1772649000,
-      "datetime": "2026-03-04T18:30:00.000Z"
-    },
-    {
       "name": "BIG vs Johnny Speeds lúc 01:30",
       "link": "/truc-tiep/big-vs-johnny-speeds-luc-0130-ngay-05-03-2026/",
       "runtime": 1772649000,
       "datetime": "2026-03-04T18:30:00.000Z"
-    },
-    {
-      "name": "Lee Seo Jin/Lee Yeon Woo vs Lauren Lam/Allison Lee lúc 01:50",
-      "link": "/truc-tiep/lee-seo-jin-lee-yeon-woo-vs-lauren-lam-allison-lee-luc-0150-ngay-05-03-2026/",
-      "runtime": 1772650200,
-      "datetime": "2026-03-04T18:50:00.000Z"
     },
     {
       "name": "AZ Alkmaar vs SC Telstar lúc 02:00",
@@ -182,12 +134,6 @@
       "link": "/truc-tiep/amaru-gaming-vs-avalanche-esports-luc-0200-ngay-05-03-2026/",
       "runtime": 1772650800,
       "datetime": "2026-03-04T19:00:00.000Z"
-    },
-    {
-      "name": "Ong Xin Yee/Carmen Ting vs Yuki Fukushima/Mayu Matsumoto lúc 02:20",
-      "link": "/truc-tiep/ong-xin-yee-carmen-ting-vs-yuki-fukushima-mayu-matsumoto-luc-0220-ngay-05-03-2026/",
-      "runtime": 1772652000,
-      "datetime": "2026-03-04T19:20:00.000Z"
     },
     {
       "name": "Manchester City vs Nottingham Forest lúc 02:30 | HENRY - HELLO - ASTRA",
@@ -398,6 +344,84 @@
       "link": "/truc-tiep/marton-fucsovics-vs-christopher-oconnell-luc-0420-ngay-05-03-2026/",
       "runtime": 1772659200,
       "datetime": "2026-03-04T21:20:00.000Z"
+    },
+    {
+      "name": "Blooming vs S. Antonio Bulo lúc 05:00 | KEN",
+      "link": "/truc-tiep/blooming-vs-s-antonio-bulo-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Caracas FC vs Metropolitanos FC lúc 05:00 | HELLO",
+      "link": "/truc-tiep/caracas-fc-vs-metropolitanos-fc-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Nova Iguacu vs Lagarto lúc 05:00",
+      "link": "/truc-tiep/nova-iguacu-vs-lagarto-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Tuna Luso vs Tocantinopolis lúc 05:00",
+      "link": "/truc-tiep/tuna-luso-vs-tocantinopolis-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Martinique U20 vs Aruba U20 lúc 05:00",
+      "link": "/truc-tiep/martinique-u20-vs-aruba-u20-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "RS Berkane vs Hassania Agadir lúc 05:00",
+      "link": "/truc-tiep/rs-berkane-vs-hassania-agadir-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Municipal Pérez Zeledón vs AD Municipal Liberia lúc 05:00",
+      "link": "/truc-tiep/municipal-perez-zeledon-vs-ad-municipal-liberia-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Walter Ferretti vs Export Sebaco FC lúc 05:00",
+      "link": "/truc-tiep/walter-ferretti-vs-export-sebaco-fc-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Carabobo vs Sporting Cristal lúc 05:00 | BRUCE",
+      "link": "/truc-tiep/carabobo-vs-sporting-cristal-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Velo Clube vs Vila Nova lúc 05:00",
+      "link": "/truc-tiep/velo-clube-vs-vila-nova-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Dalibor Svrcina vs James Duckworth lúc 05:00",
+      "link": "/truc-tiep/dalibor-svrcina-vs-james-duckworth-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "X5 gaming vs Estar Backs lúc 05:00",
+      "link": "/truc-tiep/x5-gaming-vs-estar-backs-luc-0500-ngay-05-03-2026/",
+      "runtime": 1772661600,
+      "datetime": "2026-03-04T22:00:00.000Z"
+    },
+    {
+      "name": "Matteo Berrettini vs Adrian Mannarino lúc 05:10 | VIC",
+      "link": "/truc-tiep/matteo-berrettini-vs-adrian-mannarino-luc-0510-ngay-05-03-2026/",
+      "runtime": 1772662200,
+      "datetime": "2026-03-04T22:10:00.000Z"
     }
   ]
 }
