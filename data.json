@@ -1,74 +1,8 @@
 {
   "success": true,
-  "total_matches": 20,
-  "updated_at": "2026-03-04T03:53:51.139Z",
+  "total_matches": 14,
+  "updated_at": "2026-03-04T05:05:55.673Z",
   "matches": [
-    {
-      "name": "Cobresal vs Audax Italiano lúc 08:30 | YUNO",
-      "link": "/truc-tiep/cobresal-vs-audax-italiano-luc-0830-ngay-04-03-2026/",
-      "runtime": 1772587800,
-      "datetime": "2026-03-04T01:30:00.000Z"
-    },
-    {
-      "name": "Old Dominion vs Louisiana Monroe  lúc 08:30",
-      "link": "/truc-tiep/old-dominion-vs-louisiana-monroe-luc-0830-ngay-04-03-2026/",
-      "runtime": 1772587800,
-      "datetime": "2026-03-04T01:30:00.000Z"
-    },
-    {
-      "name": "Alianza Atletico vs Dep. Garcilaso lúc 09:00 | LUCKY",
-      "link": "/truc-tiep/alianza-atletico-vs-dep-garcilaso-luc-0900-ngay-04-03-2026/",
-      "runtime": 1772589600,
-      "datetime": "2026-03-04T02:00:00.000Z"
-    },
-    {
-      "name": "LD Alajuelense vs Cartagines Deportiva lúc 09:00",
-      "link": "/truc-tiep/ld-alajuelense-vs-cartagines-deportiva-luc-0900-ngay-04-03-2026/",
-      "runtime": 1772589600,
-      "datetime": "2026-03-04T02:00:00.000Z"
-    },
-    {
-      "name": "Comunicaciones vs Malacateco lúc 09:00",
-      "link": "/truc-tiep/comunicaciones-vs-malacateco-luc-0900-ngay-04-03-2026/",
-      "runtime": 1772589600,
-      "datetime": "2026-03-04T02:00:00.000Z"
-    },
-    {
-      "name": "Mexico City Capitanes vs Noblesville Boom lúc 09:00",
-      "link": "/truc-tiep/mexico-city-capitanes-vs-noblesville-boom-luc-0900-ngay-04-03-2026/",
-      "runtime": 1772589600,
-      "datetime": "2026-03-04T02:00:00.000Z"
-    },
-    {
-      "name": "Toros Laguna vs Zonkeys de Tijuana lúc 09:00",
-      "link": "/truc-tiep/toros-laguna-vs-zonkeys-de-tijuana-luc-0900-ngay-04-03-2026/",
-      "runtime": 1772589600,
-      "datetime": "2026-03-04T02:00:00.000Z"
-    },
-    {
-      "name": "Ángeles Ciudad México vs Obregon lúc 09:15",
-      "link": "/truc-tiep/angeles-ciudad-mexico-vs-obregon-luc-0915-ngay-04-03-2026/",
-      "runtime": 1772590500,
-      "datetime": "2026-03-04T02:15:00.000Z"
-    },
-    {
-      "name": "Astros de Jalisco vs Ostioneros de Guaymas lúc 09:15",
-      "link": "/truc-tiep/astros-de-jalisco-vs-ostioneros-de-guaymas-luc-0915-ngay-04-03-2026/",
-      "runtime": 1772590500,
-      "datetime": "2026-03-04T02:15:00.000Z"
-    },
-    {
-      "name": "Atl. San Luis vs Mazatlan FC lúc 10:00 | POLO",
-      "link": "/truc-tiep/atl-san-luis-vs-mazatlan-fc-luc-1000-ngay-04-03-2026/",
-      "runtime": 1772593200,
-      "datetime": "2026-03-04T03:00:00.000Z"
-    },
-    {
-      "name": "Auburn Tigers vs LSU lúc 10:00",
-      "link": "/truc-tiep/auburn-tigers-vs-lsu-luc-1000-ngay-04-03-2026/",
-      "runtime": 1772593200,
-      "datetime": "2026-03-04T03:00:00.000Z"
-    },
     {
       "name": "Wyoming vs University of Nevada lúc 10:00",
       "link": "/truc-tiep/wyoming-vs-university-of-nevada-luc-1000-ngay-04-03-2026/",
@@ -106,8 +40,26 @@
       "datetime": "2026-03-04T03:30:00.000Z"
     },
     {
+      "name": "Bence Boros vs Christopher Kosei Ono lúc 10:30",
+      "link": "/truc-tiep/bence-boros-vs-christopher-kosei-ono-luc-1030-ngay-04-03-2026/",
+      "runtime": 1772595000,
+      "datetime": "2026-03-04T03:30:00.000Z"
+    },
+    {
       "name": "Sacramento Kings vs Phoenix Suns lúc 11:00 | TOMMY",
       "link": "/truc-tiep/sacramento-kings-vs-phoenix-suns-luc-1100-ngay-04-03-2026/",
+      "runtime": 1772596800,
+      "datetime": "2026-03-04T04:00:00.000Z"
+    },
+    {
+      "name": "Samsung Thunders 2 vs Seoul SK Knights R lúc 11:00",
+      "link": "/truc-tiep/samsung-thunders-2-vs-seoul-sk-knights-r-luc-1100-ngay-04-03-2026/",
+      "runtime": 1772596800,
+      "datetime": "2026-03-04T04:00:00.000Z"
+    },
+    {
+      "name": "UCLA vs Nebraska lúc 11:00",
+      "link": "/truc-tiep/ucla-vs-nebraska-luc-1100-ngay-04-03-2026/",
       "runtime": 1772596800,
       "datetime": "2026-03-04T04:00:00.000Z"
     },
@@ -122,6 +74,18 @@
       "link": "/truc-tiep/nu-nhat-ban-vs-nu-dai-loan-luc-1200-ngay-04-03-2026/",
       "runtime": 1772600400,
       "datetime": "2026-03-04T05:00:00.000Z"
+    },
+    {
+      "name": "Carstensz Esports vs Yangon Galacticos lúc 14:00",
+      "link": "/truc-tiep/carstensz-esports-vs-yangon-galacticos-luc-1400-ngay-04-03-2026/",
+      "runtime": 1772607600,
+      "datetime": "2026-03-04T07:00:00.000Z"
+    },
+    {
+      "name": "1win vs eternal premium lúc 14:00",
+      "link": "/truc-tiep/1win-vs-eternal-premium-luc-1400-ngay-04-03-2026/",
+      "runtime": 1772607600,
+      "datetime": "2026-03-04T07:00:00.000Z"
     }
   ]
 }
