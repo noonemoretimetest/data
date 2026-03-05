@@ -1,157 +1,13 @@
 {
   "success": true,
-  "total_matches": 71,
-  "updated_at": "2026-03-05T17:58:47.222Z",
+  "total_matches": 60,
+  "updated_at": "2026-03-05T19:17:17.055Z",
   "matches": [
-    {
-      "name": "QUAZAR vs CSDIILIT lúc 22:00",
-      "link": "/truc-tiep/quazar-vs-csdiilit-luc-2200-ngay-05-03-2026/",
-      "runtime": 1772722800,
-      "datetime": "2026-03-05T15:00:00.000Z"
-    },
-    {
-      "name": "Lee Seo Jin/Lee Yeon Woo vs Pearly Tan/Thinaah Muralitharan lúc 22:50",
-      "link": "/truc-tiep/lee-seo-jin-lee-yeon-woo-vs-pearly-tan-thinaah-muralitharan-luc-2250-ngay-05-03-2026/",
-      "runtime": 1772725800,
-      "datetime": "2026-03-05T15:50:00.000Z"
-    },
-    {
-      "name": "Wang Chang/Liang Weikeng vs Lee Jhe-huei/Yang Po-hsuan lúc 22:50",
-      "link": "/truc-tiep/wang-chang-liang-weikeng-vs-lee-jhe-huei-yang-po-hsuan-luc-2250-ngay-05-03-2026/",
-      "runtime": 1772725800,
-      "datetime": "2026-03-05T15:50:00.000Z"
-    },
-    {
-      "name": "BC Samara vs Uralmash lúc 23:00 | SIMON",
-      "link": "/truc-tiep/bc-samara-vs-uralmash-luc-2300-ngay-05-03-2026/",
-      "runtime": 1772726400,
-      "datetime": "2026-03-05T16:00:00.000Z"
-    },
-    {
-      "name": "BRUTE vs CITA Kaizen lúc 23:00",
-      "link": "/truc-tiep/brute-vs-cita-kaizen-luc-2300-ngay-05-03-2026/",
-      "runtime": 1772726400,
-      "datetime": "2026-03-05T16:00:00.000Z"
-    },
-    {
-      "name": "fnatic vs ENCE lúc 23:00",
-      "link": "/truc-tiep/fnatic-vs-ence-luc-2300-ngay-05-03-2026/",
-      "runtime": 1772726400,
-      "datetime": "2026-03-05T16:00:00.000Z"
-    },
-    {
-      "name": "Ilbirs Esport vs Rune Eaters Esports lúc 23:00",
-      "link": "/truc-tiep/ilbirs-esport-vs-rune-eaters-esports-luc-2300-ngay-05-03-2026/",
-      "runtime": 1772726400,
-      "datetime": "2026-03-05T16:00:00.000Z"
-    },
-    {
-      "name": "NK Aluminij vs NK Publikum Celje lúc 23:30",
-      "link": "/truc-tiep/nk-aluminij-vs-nk-publikum-celje-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
-    {
-      "name": "Ludogorets vs Levski Sofia lúc 23:30 | MON",
-      "link": "/truc-tiep/ludogorets-vs-levski-sofia-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
-    {
-      "name": "Fortune FC vs Team Rhino FC lúc 23:30",
-      "link": "/truc-tiep/fortune-fc-vs-team-rhino-fc-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
-    {
-      "name": "TMT FA vs Gambia Ports Authority lúc 23:30",
-      "link": "/truc-tiep/tmt-fa-vs-gambia-ports-authority-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
-    {
-      "name": "Luawa FC vs Ports Authority FC lúc 23:30",
-      "link": "/truc-tiep/luawa-fc-vs-ports-authority-fc-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
-    {
-      "name": "Hsieh Pei Shan/Hung En-Tzu vs Rui Hirokami/Sayaka Hobara lúc 23:30",
-      "link": "/truc-tiep/hsieh-pei-shan-hung-en-tzu-vs-rui-hirokami-sayaka-hobara-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
-    {
-      "name": "Fajar Alfian/Muhammad Shohibul Fikri vs Nikolaus Joaquin/Raymond Indra lúc 23:30",
-      "link": "/truc-tiep/fajar-alfian-muhammad-shohibul-fikri-vs-nikolaus-joaquin-raymond-indra-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
-    {
-      "name": "Nữ Mielec vs Nữ Mogilno lúc 23:30",
-      "link": "/truc-tiep/nu-mielec-vs-nu-mogilno-luc-2330-ngay-05-03-2026/",
-      "runtime": 1772728200,
-      "datetime": "2026-03-05T16:30:00.000Z"
-    },
     {
       "name": "Adolfo Daniel Vallejo vs Joao Eduardo Schiessl lúc 23:40",
       "link": "/truc-tiep/adolfo-daniel-vallejo-vs-joao-eduardo-schiessl-luc-2340-ngay-05-03-2026/",
       "runtime": 1772728800,
       "datetime": "2026-03-05T16:40:00.000Z"
-    },
-    {
-      "name": "Kim Won-ho/Seo Seung-jae vs Kim Astrup Sorensen/Anders Skaarup Rasmussen lúc 23:40",
-      "link": "/truc-tiep/kim-won-ho-seo-seung-jae-vs-kim-astrup-sorensen-anders-skaarup-rasmussen-luc-2340-ngay-05-03-2026/",
-      "runtime": 1772728800,
-      "datetime": "2026-03-05T16:40:00.000Z"
-    },
-    {
-      "name": "Supanida Katethong vs Wang Zhiyi lúc 23:40",
-      "link": "/truc-tiep/supanida-katethong-vs-wang-zhiyi-luc-2340-ngay-05-03-2026/",
-      "runtime": 1772728800,
-      "datetime": "2026-03-05T16:40:00.000Z"
-    },
-    {
-      "name": "Nữ Thụy Điển U17 vs Nữ Ireland U17 lúc 00:00",
-      "link": "/truc-tiep/nu-thuy-dien-u17-vs-nu-ireland-u17-luc-0000-ngay-06-03-2026/",
-      "runtime": 1772730000,
-      "datetime": "2026-03-05T17:00:00.000Z"
-    },
-    {
-      "name": "Nữ Đức U17 vs Nữ Đan Mạch U17 lúc 00:00",
-      "link": "/truc-tiep/nu-duc-u17-vs-nu-dan-mach-u17-luc-0000-ngay-06-03-2026/",
-      "runtime": 1772730000,
-      "datetime": "2026-03-05T17:00:00.000Z"
-    },
-    {
-      "name": "Giugliano vs AC Monopoli lúc 00:00",
-      "link": "/truc-tiep/giugliano-vs-ac-monopoli-luc-0000-ngay-06-03-2026/",
-      "runtime": 1772730000,
-      "datetime": "2026-03-05T17:00:00.000Z"
-    },
-    {
-      "name": "Casarano vs US Siracusa lúc 00:00",
-      "link": "/truc-tiep/casarano-vs-us-siracusa-luc-0000-ngay-06-03-2026/",
-      "runtime": 1772730000,
-      "datetime": "2026-03-05T17:00:00.000Z"
-    },
-    {
-      "name": "Latina Calcio 1932 vs AS Sorrento Calcio lúc 00:00",
-      "link": "/truc-tiep/latina-calcio-1932-vs-as-sorrento-calcio-luc-0000-ngay-06-03-2026/",
-      "runtime": 1772730000,
-      "datetime": "2026-03-05T17:00:00.000Z"
-    },
-    {
-      "name": "AZ Picerno ASD vs Atalanta U23 lúc 00:00",
-      "link": "/truc-tiep/az-picerno-asd-vs-atalanta-u23-luc-0000-ngay-06-03-2026/",
-      "runtime": 1772730000,
-      "datetime": "2026-03-05T17:00:00.000Z"
-    },
-    {
-      "name": "JK Welco Elekter vs Tallinna Kalev lúc 00:00",
-      "link": "/truc-tiep/jk-welco-elekter-vs-tallinna-kalev-luc-0000-ngay-06-03-2026/",
-      "runtime": 1772730000,
-      "datetime": "2026-03-05T17:00:00.000Z"
     },
     {
       "name": "Galions Sharks vs French Flair lúc 00:00",
@@ -244,7 +100,7 @@
       "datetime": "2026-03-05T18:00:00.000Z"
     },
     {
-      "name": "Nữ Luxembourg U19 vs Nữ Belarus U19 lúc 01:00 | NEMO",
+      "name": "Nữ Luxembourg U19 vs Nữ Belarus U19 lúc 01:00",
       "link": "/truc-tiep/nu-luxembourg-u19-vs-nu-belarus-u19-luc-0100-ngay-06-03-2026/",
       "runtime": 1772733600,
       "datetime": "2026-03-05T18:00:00.000Z"
@@ -258,12 +114,6 @@
     {
       "name": "Slask Wroclaw vs Dabrowa Gornicza lúc 01:00",
       "link": "/truc-tiep/slask-wroclaw-vs-dabrowa-gornicza-luc-0100-ngay-06-03-2026/",
-      "runtime": 1772733600,
-      "datetime": "2026-03-05T18:00:00.000Z"
-    },
-    {
-      "name": "Guaguas vs Montpellier lúc 01:00",
-      "link": "/truc-tiep/guaguas-vs-montpellier-luc-0100-ngay-06-03-2026/",
       "runtime": 1772733600,
       "datetime": "2026-03-05T18:00:00.000Z"
     },
@@ -310,14 +160,26 @@
       "datetime": "2026-03-05T19:00:00.000Z"
     },
     {
+      "name": "ACH Ljubljana vs Fenerbahce lúc 02:00",
+      "link": "/truc-tiep/ach-ljubljana-vs-fenerbahce-luc-0200-ngay-06-03-2026/",
+      "runtime": 1772737200,
+      "datetime": "2026-03-05T19:00:00.000Z"
+    },
+    {
       "name": "Nữ Bergamo vs Nữ Scandicci lúc 02:00 | BECK",
       "link": "/truc-tiep/nu-bergamo-vs-nu-scandicci-luc-0200-ngay-06-03-2026/",
       "runtime": 1772737200,
       "datetime": "2026-03-05T19:00:00.000Z"
     },
     {
-      "name": "ACH Ljubljana vs Fenerbahce lúc 02:00",
-      "link": "/truc-tiep/ach-ljubljana-vs-fenerbahce-luc-0200-ngay-06-03-2026/",
+      "name": "Guaguas vs Montpellier lúc 02:00",
+      "link": "/truc-tiep/guaguas-vs-montpellier-luc-0200-ngay-06-03-2026/",
+      "runtime": 1772737200,
+      "datetime": "2026-03-05T19:00:00.000Z"
+    },
+    {
+      "name": "Btc Gaming vs Infamous lúc 02:00",
+      "link": "/truc-tiep/btc-gaming-vs-infamous-luc-0200-ngay-06-03-2026/",
       "runtime": 1772737200,
       "datetime": "2026-03-05T19:00:00.000Z"
     },
@@ -352,7 +214,7 @@
       "datetime": "2026-03-05T19:30:00.000Z"
     },
     {
-      "name": "Arab Contractors vs Al Ahly FC lúc 02:30",
+      "name": "Arab Contractors vs Al Ahly FC lúc 02:30 | NEMO",
       "link": "/truc-tiep/arab-contractors-vs-al-ahly-fc-luc-0230-ngay-06-03-2026/",
       "runtime": 1772739000,
       "datetime": "2026-03-05T19:30:00.000Z"
@@ -418,16 +280,88 @@
       "datetime": "2026-03-05T19:30:00.000Z"
     },
     {
-      "name": "Al Shamal vs Al Gharafa lúc 02:30",
-      "link": "/truc-tiep/al-shamal-vs-al-gharafa-luc-0230-ngay-06-03-2026/",
-      "runtime": 1772739000,
-      "datetime": "2026-03-05T19:30:00.000Z"
-    },
-    {
       "name": "Real Madrid  vs Virtus Bologna lúc 02:45",
       "link": "/truc-tiep/real-madrid-vs-virtus-bologna-luc-0245-ngay-06-03-2026/",
       "runtime": 1772739900,
       "datetime": "2026-03-05T19:45:00.000Z"
+    },
+    {
+      "name": "Tottenham vs Crystal Palace lúc 03:00 | ROY - OLER - ZIZU",
+      "link": "/truc-tiep/tottenham-vs-crystal-palace-luc-0300-ngay-06-03-2026/",
+      "runtime": 1772740800,
+      "datetime": "2026-03-05T20:00:00.000Z"
+    },
+    {
+      "name": "Envigado FC vs Boca Juniors Cali lúc 03:00",
+      "link": "/truc-tiep/envigado-fc-vs-boca-juniors-cali-luc-0300-ngay-06-03-2026/",
+      "runtime": 1772740800,
+      "datetime": "2026-03-05T20:00:00.000Z"
+    },
+    {
+      "name": "Real Santander vs Deportes Quindio lúc 03:00",
+      "link": "/truc-tiep/real-santander-vs-deportes-quindio-luc-0300-ngay-06-03-2026/",
+      "runtime": 1772740800,
+      "datetime": "2026-03-05T20:00:00.000Z"
+    },
+    {
+      "name": "RED Canids vs GameHunters lúc 03:00",
+      "link": "/truc-tiep/red-canids-vs-gamehunters-luc-0300-ngay-06-03-2026/",
+      "runtime": 1772740800,
+      "datetime": "2026-03-05T20:00:00.000Z"
+    },
+    {
+      "name": "Marsborne vs Galorys lúc 03:00",
+      "link": "/truc-tiep/marsborne-vs-galorys-luc-0300-ngay-06-03-2026/",
+      "runtime": 1772740800,
+      "datetime": "2026-03-05T20:00:00.000Z"
+    },
+    {
+      "name": "Procyon vs R2 lúc 03:00",
+      "link": "/truc-tiep/procyon-vs-r2-luc-0300-ngay-06-03-2026/",
+      "runtime": 1772740800,
+      "datetime": "2026-03-05T20:00:00.000Z"
+    },
+    {
+      "name": "Lyon vs RC Lens lúc 03:10 | BRUCE",
+      "link": "/truc-tiep/lyon-vs-rc-lens-luc-0310-ngay-06-03-2026/",
+      "runtime": 1772741400,
+      "datetime": "2026-03-05T20:10:00.000Z"
+    },
+    {
+      "name": "Francesca Jones vs Kayla Day lúc 03:10",
+      "link": "/truc-tiep/francesca-jones-vs-kayla-day-luc-0310-ngay-06-03-2026/",
+      "runtime": 1772741400,
+      "datetime": "2026-03-05T20:10:00.000Z"
+    },
+    {
+      "name": "Elsa Jacquemot vs Anna Bondar lúc 03:10",
+      "link": "/truc-tiep/elsa-jacquemot-vs-anna-bondar-luc-0310-ngay-06-03-2026/",
+      "runtime": 1772741400,
+      "datetime": "2026-03-05T20:10:00.000Z"
+    },
+    {
+      "name": "Coban Imperial vs Xelaju MC lúc 04:00",
+      "link": "/truc-tiep/coban-imperial-vs-xelaju-mc-luc-0400-ngay-06-03-2026/",
+      "runtime": 1772744400,
+      "datetime": "2026-03-05T21:00:00.000Z"
+    },
+    {
+      "name": "Valledupar FC vs Cortulua lúc 04:00",
+      "link": "/truc-tiep/valledupar-fc-vs-cortulua-luc-0400-ngay-06-03-2026/",
+      "runtime": 1772744400,
+      "datetime": "2026-03-05T21:00:00.000Z"
+    },
+    {
+      "name": "Diane Parry vs Venus Williams lúc 04:00 | VIC",
+      "link": "/truc-tiep/diane-parry-vs-venus-williams-luc-0400-ngay-06-03-2026/",
+      "runtime": 1772744400,
+      "datetime": "2026-03-05T21:00:00.000Z"
+    },
+    {
+      "name": "Cloud9 vs RED Canids lúc 04:00",
+      "link": "/truc-tiep/cloud9-vs-red-canids-luc-0400-ngay-06-03-2026/",
+      "runtime": 1772744400,
+      "datetime": "2026-03-05T21:00:00.000Z"
     }
   ]
 }
