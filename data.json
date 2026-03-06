@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-03-06T16:33:01.968Z",
+  "total_matches": 79,
+  "updated_at": "2026-03-06T17:09:42.676Z",
   "matches": [
     {
       "name": "Misa Esports vs S2G Esports lúc 22:00",
@@ -88,6 +88,12 @@
       "datetime": "2026-03-06T16:00:00.000Z"
     },
     {
+      "name": "Btc Gaming vs Estar Backs lúc 23:23",
+      "link": "/truc-tiep/btc-gaming-vs-estar-backs-luc-2323-ngay-06-03-2026/",
+      "runtime": 1772814180,
+      "datetime": "2026-03-06T16:23:00.000Z"
+    },
+    {
       "name": "Viimsi JK vs Flora Tallinn II lúc 23:30",
       "link": "/truc-tiep/viimsi-jk-vs-flora-tallinn-ii-luc-2330-ngay-06-03-2026/",
       "runtime": 1772814600,
@@ -100,7 +106,7 @@
       "datetime": "2026-03-06T16:30:00.000Z"
     },
     {
-      "name": "Sakaryaspor vs Adana Demirspor lúc 00:00 | MON",
+      "name": "Sakaryaspor vs Adana Demirspor lúc 00:00",
       "link": "/truc-tiep/sakaryaspor-vs-adana-demirspor-luc-0000-ngay-07-03-2026/",
       "runtime": 1772816400,
       "datetime": "2026-03-06T17:00:00.000Z"
@@ -344,6 +350,132 @@
       "link": "/truc-tiep/concarneau-vs-dijon-luc-0130-ngay-07-03-2026/",
       "runtime": 1772821800,
       "datetime": "2026-03-06T18:30:00.000Z"
+    },
+    {
+      "name": "Line Christophersen vs Akane Yamaguchi lúc 01:40",
+      "link": "/truc-tiep/line-christophersen-vs-akane-yamaguchi-luc-0140-ngay-07-03-2026/",
+      "runtime": 1772822400,
+      "datetime": "2026-03-06T18:40:00.000Z"
+    },
+    {
+      "name": "Koki Watanabe vs Victor Lai lúc 01:40",
+      "link": "/truc-tiep/koki-watanabe-vs-victor-lai-luc-0140-ngay-07-03-2026/",
+      "runtime": 1772822400,
+      "datetime": "2026-03-06T18:40:00.000Z"
+    },
+    {
+      "name": "Al Taawoun vs Al Fateh SC lúc 02:00 | LOGAN",
+      "link": "/truc-tiep/al-taawoun-vs-al-fateh-sc-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Al Khaleej vs Al Hazem lúc 02:00 | TONI",
+      "link": "/truc-tiep/al-khaleej-vs-al-hazem-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Al Hilal vs Al Najma(KSA) lúc 02:00",
+      "link": "/truc-tiep/al-hilal-vs-al-najmaksa-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Al-Ahli SFC vs Al Ittihad(KSA) lúc 02:00 | JAY",
+      "link": "/truc-tiep/al-ahli-sfc-vs-al-ittihadksa-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Heracles Almelo vs FC Utrecht lúc 02:00 | KEN",
+      "link": "/truc-tiep/heracles-almelo-vs-fc-utrecht-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Kisvárda FC vs Puskas Akademia FC lúc 02:00",
+      "link": "/truc-tiep/kisvarda-fc-vs-puskas-akademia-fc-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Rodez Aveyron vs Grenoble lúc 02:00",
+      "link": "/truc-tiep/rodez-aveyron-vs-grenoble-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Pau FC vs Bastia lúc 02:00",
+      "link": "/truc-tiep/pau-fc-vs-bastia-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Nancy vs Montpellier lúc 02:00",
+      "link": "/truc-tiep/nancy-vs-montpellier-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Stade Lavallois vs Guingamp lúc 02:00",
+      "link": "/truc-tiep/stade-lavallois-vs-guingamp-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Boulogne vs Amiens lúc 02:00",
+      "link": "/truc-tiep/boulogne-vs-amiens-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Aston Villa U21 vs Manchester City U21 lúc 02:00",
+      "link": "/truc-tiep/aston-villa-u21-vs-manchester-city-u21-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Birmingham U21 vs Manchester Utd U21 lúc 02:00",
+      "link": "/truc-tiep/birmingham-u21-vs-manchester-utd-u21-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Nữ Anguilla vs Nữ Dominican Republic lúc 02:00 | ZARA",
+      "link": "/truc-tiep/nu-anguilla-vs-nu-dominican-republic-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Crvena Zvezda vs Bayern Munchen lúc 02:00 | ALAN",
+      "link": "/truc-tiep/crvena-zvezda-vs-bayern-munchen-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Matteo Berrettini vs Alexander Zverev lúc 02:00 | VIC",
+      "link": "/truc-tiep/matteo-berrettini-vs-alexander-zverev-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Victoria Mboko vs Kimberly Birrell lúc 02:00",
+      "link": "/truc-tiep/victoria-mboko-vs-kimberly-birrell-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Vantex Esports vs The Otter Side lúc 02:00",
+      "link": "/truc-tiep/vantex-esports-vs-the-otter-side-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
+    },
+    {
+      "name": "Yawara vs ODDIK lúc 02:00",
+      "link": "/truc-tiep/yawara-vs-oddik-luc-0200-ngay-07-03-2026/",
+      "runtime": 1772823600,
+      "datetime": "2026-03-06T19:00:00.000Z"
     }
   ]
 }
