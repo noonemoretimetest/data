@@ -1,19 +1,13 @@
 {
   "success": true,
   "total_matches": 60,
-  "updated_at": "2026-03-06T23:31:35.989Z",
+  "updated_at": "2026-03-06T23:54:24.665Z",
   "matches": [
     {
       "name": "FURIA vs B8 lúc 03:00",
       "link": "/truc-tiep/furia-vs-b8-luc-0300-ngay-07-03-2026/",
       "runtime": 1772827200,
       "datetime": "2026-03-06T20:00:00.000Z"
-    },
-    {
-      "name": "FURIA Esports vs Sentinels lúc 04:00",
-      "link": "/truc-tiep/furia-esports-vs-sentinels-luc-0400-ngay-07-03-2026/",
-      "runtime": 1772830800,
-      "datetime": "2026-03-06T21:00:00.000Z"
     },
     {
       "name": "Nữ Praia Clube  vs Nữ Barueri lúc 04:30",
@@ -270,6 +264,12 @@
     {
       "name": "Nữ Minas  vs Nữ Sesc RJ Flamengo lúc 07:30",
       "link": "/truc-tiep/nu-minas-vs-nu-sesc-rj-flamengo-luc-0730-ngay-07-03-2026/",
+      "runtime": 1772843400,
+      "datetime": "2026-03-07T00:30:00.000Z"
+    },
+    {
+      "name": "Zomblers vs Mythic lúc 07:30",
+      "link": "/truc-tiep/zomblers-vs-mythic-luc-0730-ngay-07-03-2026/",
       "runtime": 1772843400,
       "datetime": "2026-03-07T00:30:00.000Z"
     },
