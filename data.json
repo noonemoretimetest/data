@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 49,
-  "updated_at": "2026-03-06T21:55:28.688Z",
+  "total_matches": 45,
+  "updated_at": "2026-03-06T22:22:13.589Z",
   "matches": [
-    {
-      "name": "Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari vs Pearly Tan/Thinaah Muralitharan lúc 00:00",
-      "link": "/truc-tiep/febriana-dwipuji-kusuma-meilysa-trias-puspitasari-vs-pearly-tan-thinaah-muralitharan-luc-0000-ngay-07-03-2026/",
-      "runtime": 1772816400,
-      "datetime": "2026-03-06T17:00:00.000Z"
-    },
     {
       "name": "Mads Vestergaard/Christine Busch Andreasen vs Tang Chun Man/Tse Ying Suet lúc 00:50",
       "link": "/truc-tiep/mads-vestergaard-christine-busch-andreasen-vs-tang-chun-man-tse-ying-suet-luc-0050-ngay-07-03-2026/",
@@ -46,36 +40,6 @@
       "datetime": "2026-03-06T19:30:00.000Z"
     },
     {
-      "name": "RC Celta vs Real Madrid lúc 03:00 | ZIZU",
-      "link": "/truc-tiep/rc-celta-vs-real-madrid-luc-0300-ngay-07-03-2026/",
-      "runtime": 1772827200,
-      "datetime": "2026-03-06T20:00:00.000Z"
-    },
-    {
-      "name": "Wolverhampton vs Liverpool lúc 03:00 | ROY - RYAN",
-      "link": "/truc-tiep/wolverhampton-vs-liverpool-luc-0300-ngay-07-03-2026/",
-      "runtime": 1772827200,
-      "datetime": "2026-03-06T20:00:00.000Z"
-    },
-    {
-      "name": "Preston North vs Oxford United lúc 03:00 | YUNO",
-      "link": "/truc-tiep/preston-north-vs-oxford-united-luc-0300-ngay-07-03-2026/",
-      "runtime": 1772827200,
-      "datetime": "2026-03-06T20:00:00.000Z"
-    },
-    {
-      "name": "Tigres Zipaquira vs Patriotas FC lúc 03:00",
-      "link": "/truc-tiep/tigres-zipaquira-vs-patriotas-fc-luc-0300-ngay-07-03-2026/",
-      "runtime": 1772827200,
-      "datetime": "2026-03-06T20:00:00.000Z"
-    },
-    {
-      "name": "Shelbourne vs St. Patricks lúc 03:00",
-      "link": "/truc-tiep/shelbourne-vs-st-patricks-luc-0300-ngay-07-03-2026/",
-      "runtime": 1772827200,
-      "datetime": "2026-03-06T20:00:00.000Z"
-    },
-    {
       "name": "FURIA vs B8 lúc 03:00",
       "link": "/truc-tiep/furia-vs-b8-luc-0300-ngay-07-03-2026/",
       "runtime": 1772827200,
@@ -88,26 +52,8 @@
       "datetime": "2026-03-06T20:10:00.000Z"
     },
     {
-      "name": "FC Famalicao vs FC Arouca lúc 03:15 | XMEN",
-      "link": "/truc-tiep/fc-famalicao-vs-fc-arouca-luc-0315-ngay-07-03-2026/",
-      "runtime": 1772828100,
-      "datetime": "2026-03-06T20:15:00.000Z"
-    },
-    {
-      "name": "Al-Naft SC vs Al Karkh lúc 03:15",
-      "link": "/truc-tiep/al-naft-sc-vs-al-karkh-luc-0315-ngay-07-03-2026/",
-      "runtime": 1772828100,
-      "datetime": "2026-03-06T20:15:00.000Z"
-    },
-    {
       "name": "Al Gharraf vs Al Quwa Al Jawiya lúc 03:15",
       "link": "/truc-tiep/al-gharraf-vs-al-quwa-al-jawiya-luc-0315-ngay-07-03-2026/",
-      "runtime": 1772828100,
-      "datetime": "2026-03-06T20:15:00.000Z"
-    },
-    {
-      "name": "Real Betis B vs Sevilla Atletico lúc 03:15",
-      "link": "/truc-tiep/real-betis-b-vs-sevilla-atletico-luc-0315-ngay-07-03-2026/",
       "runtime": 1772828100,
       "datetime": "2026-03-06T20:15:00.000Z"
     },
@@ -296,6 +242,36 @@
       "link": "/truc-tiep/d-concepcion-vs-nublense-luc-0630-ngay-07-03-2026/",
       "runtime": 1772839800,
       "datetime": "2026-03-06T23:30:00.000Z"
+    },
+    {
+      "name": "Nữ Cayman Islands  vs Nữ Guatemala lúc 07:00 | XMEN",
+      "link": "/truc-tiep/nu-cayman-islands-vs-nu-guatemala-luc-0700-ngay-07-03-2026/",
+      "runtime": 1772841600,
+      "datetime": "2026-03-07T00:00:00.000Z"
+    },
+    {
+      "name": "Crown Legacy FC vs Huntsville City lúc 07:00",
+      "link": "/truc-tiep/crown-legacy-fc-vs-huntsville-city-luc-0700-ngay-07-03-2026/",
+      "runtime": 1772841600,
+      "datetime": "2026-03-07T00:00:00.000Z"
+    },
+    {
+      "name": "Charlotte Hornets vs Miami Heat lúc 07:00 | ALAN",
+      "link": "/truc-tiep/charlotte-hornets-vs-miami-heat-luc-0700-ngay-07-03-2026/",
+      "runtime": 1772841600,
+      "datetime": "2026-03-07T00:00:00.000Z"
+    },
+    {
+      "name": "Boston Celtics vs Dallas Mavericks lúc 07:00 | NIKEN",
+      "link": "/truc-tiep/boston-celtics-vs-dallas-mavericks-luc-0700-ngay-07-03-2026/",
+      "runtime": 1772841600,
+      "datetime": "2026-03-07T00:00:00.000Z"
+    },
+    {
+      "name": "Greensboro Swar m vs Long Island Nets lúc 07:00",
+      "link": "/truc-tiep/greensboro-swar-m-vs-long-island-nets-luc-0700-ngay-07-03-2026/",
+      "runtime": 1772841600,
+      "datetime": "2026-03-07T00:00:00.000Z"
     }
   ]
 }
