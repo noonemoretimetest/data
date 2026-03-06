@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 34,
-  "updated_at": "2026-03-06T07:09:12.221Z",
+  "total_matches": 47,
+  "updated_at": "2026-03-06T07:53:46.113Z",
   "matches": [
-    {
-      "name": "Bence Boros vs Ryuto Kizaki lúc 10:30",
-      "link": "/truc-tiep/bence-boros-vs-ryuto-kizaki-luc-1030-ngay-06-03-2026/",
-      "runtime": 1772767800,
-      "datetime": "2026-03-06T03:30:00.000Z"
-    },
-    {
-      "name": "Adelaide U21 vs White City  lúc 12:30 | LOGAN",
-      "link": "/truc-tiep/adelaide-u21-vs-white-city-luc-1230-ngay-06-03-2026/",
-      "runtime": 1772775000,
-      "datetime": "2026-03-06T05:30:00.000Z"
-    },
-    {
-      "name": "Toli vs Persigubin Pegunungan Bintang lúc 12:30",
-      "link": "/truc-tiep/toli-vs-persigubin-pegunungan-bintang-luc-1230-ngay-06-03-2026/",
-      "runtime": 1772775000,
-      "datetime": "2026-03-06T05:30:00.000Z"
-    },
     {
       "name": "Sutherland S U20 vs Western Sydney U20 lúc 13:30",
       "link": "/truc-tiep/sutherland-s-u20-vs-western-sydney-u20-luc-1330-ngay-06-03-2026/",
@@ -64,10 +46,22 @@
       "datetime": "2026-03-06T07:00:00.000Z"
     },
     {
+      "name": "Taguig generals vs Camarines Sur Express lúc 14:00",
+      "link": "/truc-tiep/taguig-generals-vs-camarines-sur-express-luc-1400-ngay-06-03-2026/",
+      "runtime": 1772780400,
+      "datetime": "2026-03-06T07:00:00.000Z"
+    },
+    {
       "name": "Carstensz Esports vs Glyph lúc 14:00",
       "link": "/truc-tiep/carstensz-esports-vs-glyph-luc-1400-ngay-06-03-2026/",
       "runtime": 1772780400,
       "datetime": "2026-03-06T07:00:00.000Z"
+    },
+    {
+      "name": "Brunswick Juventus U23 vs Melbourne Knights U23 lúc 14:15",
+      "link": "/truc-tiep/brunswick-juventus-u23-vs-melbourne-knights-u23-luc-1415-ngay-06-03-2026/",
+      "runtime": 1772781300,
+      "datetime": "2026-03-06T07:15:00.000Z"
     },
     {
       "name": "Nữ Uzbekistan vs Nữ Trung Quốc lúc 15:00 | ASTRA",
@@ -206,6 +200,90 @@
       "link": "/truc-tiep/mouz-nxt-vs-unity-luc-1600-ngay-06-03-2026/",
       "runtime": 1772787600,
       "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "Katarzyna Kawa vs Tamara Zidanšek lúc 16:10",
+      "link": "/truc-tiep/katarzyna-kawa-vs-tamara-zidansek-luc-1610-ngay-06-03-2026/",
+      "runtime": 1772788200,
+      "datetime": "2026-03-06T09:10:00.000Z"
+    },
+    {
+      "name": "Dalila Jakupovic/Nika Radisic vs Miriam Kolodziejova/Jesika Maleckova lúc 16:10",
+      "link": "/truc-tiep/dalila-jakupovic-nika-radisic-vs-miriam-kolodziejova-jesika-maleckova-luc-1610-ngay-06-03-2026/",
+      "runtime": 1772788200,
+      "datetime": "2026-03-06T09:10:00.000Z"
+    },
+    {
+      "name": "Blacktown Spartans vs Dulwich Hill SC lúc 16:15",
+      "link": "/truc-tiep/blacktown-spartans-vs-dulwich-hill-sc-luc-1615-ngay-06-03-2026/",
+      "runtime": 1772788500,
+      "datetime": "2026-03-06T09:15:00.000Z"
+    },
+    {
+      "name": "Dynamo Vladivostok vs Ugra University lúc 16:15",
+      "link": "/truc-tiep/dynamo-vladivostok-vs-ugra-university-luc-1615-ngay-06-03-2026/",
+      "runtime": 1772788500,
+      "datetime": "2026-03-06T09:15:00.000Z"
+    },
+    {
+      "name": "Dagon Port vs Rakhine United lúc 16:30 | ZARA",
+      "link": "/truc-tiep/dagon-port-vs-rakhine-united-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Brisbane Wolves vs Moreton Bay Utd lúc 16:30 | TONI",
+      "link": "/truc-tiep/brisbane-wolves-vs-moreton-bay-utd-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Rochedale Rovers vs Queensland Lions SC lúc 16:30 | LEE",
+      "link": "/truc-tiep/rochedale-rovers-vs-queensland-lions-sc-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Northcote City vs North Geelong Warriors lúc 16:30",
+      "link": "/truc-tiep/northcote-city-vs-north-geelong-warriors-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Brunswick Juventus vs Melbourne Knights lúc 16:30",
+      "link": "/truc-tiep/brunswick-juventus-vs-melbourne-knights-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Eltham Redbacks vs Brunswick City lúc 16:30",
+      "link": "/truc-tiep/eltham-redbacks-vs-brunswick-city-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Thom Gicquel/Delphine Delrue vs Jiang Zhenbang/Wei Yaxin lúc 16:30",
+      "link": "/truc-tiep/thom-gicquel-delphine-delrue-vs-jiang-zhenbang-wei-yaxin-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Chen Yufei vs Pornpawee Chochuwong lúc 16:30",
+      "link": "/truc-tiep/chen-yufei-vs-pornpawee-chochuwong-luc-1630-ngay-06-03-2026/",
+      "runtime": 1772789400,
+      "datetime": "2026-03-06T09:30:00.000Z"
+    },
+    {
+      "name": "Toby Samuel vs Abedallah Shelbayh lúc 16:40",
+      "link": "/truc-tiep/toby-samuel-vs-abedallah-shelbayh-luc-1640-ngay-06-03-2026/",
+      "runtime": 1772790000,
+      "datetime": "2026-03-06T09:40:00.000Z"
+    },
+    {
+      "name": "Ioannis Xilas vs Stefanos Sakellaridis lúc 16:40",
+      "link": "/truc-tiep/ioannis-xilas-vs-stefanos-sakellaridis-luc-1640-ngay-06-03-2026/",
+      "runtime": 1772790000,
+      "datetime": "2026-03-06T09:40:00.000Z"
     }
   ]
 }
