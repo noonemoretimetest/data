@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 75,
-  "updated_at": "2026-03-06T19:21:10.790Z",
+  "total_matches": 69,
+  "updated_at": "2026-03-06T19:58:06.629Z",
   "matches": [
     {
       "name": "The MongolZ vs paiN lúc 22:30",
@@ -22,32 +22,8 @@
       "datetime": "2026-03-06T17:10:00.000Z"
     },
     {
-      "name": "Schalke 04 vs Arminia Bielefeld lúc 00:30 | BRUCE",
-      "link": "/truc-tiep/schalke-04-vs-arminia-bielefeld-luc-0030-ngay-07-03-2026/",
-      "runtime": 1772818200,
-      "datetime": "2026-03-06T17:30:00.000Z"
-    },
-    {
-      "name": "SV Elversberg vs FC Magdeburg lúc 00:30 | XMEN",
-      "link": "/truc-tiep/sv-elversberg-vs-fc-magdeburg-luc-0030-ngay-07-03-2026/",
-      "runtime": 1772818200,
-      "datetime": "2026-03-06T17:30:00.000Z"
-    },
-    {
-      "name": "FK Csikszereda vs Farul Constanta lúc 00:30",
-      "link": "/truc-tiep/fk-csikszereda-vs-farul-constanta-luc-0030-ngay-07-03-2026/",
-      "runtime": 1772818200,
-      "datetime": "2026-03-06T17:30:00.000Z"
-    },
-    {
       "name": "HB Koge vs Esbjerg lúc 00:30",
       "link": "/truc-tiep/hb-koge-vs-esbjerg-luc-0030-ngay-07-03-2026/",
-      "runtime": 1772818200,
-      "datetime": "2026-03-06T17:30:00.000Z"
-    },
-    {
-      "name": "Heidelberg vs Alba Berlin lúc 00:30",
-      "link": "/truc-tiep/heidelberg-vs-alba-berlin-luc-0030-ngay-07-03-2026/",
       "runtime": 1772818200,
       "datetime": "2026-03-06T17:30:00.000Z"
     },
@@ -88,26 +64,8 @@
       "datetime": "2026-03-06T18:00:00.000Z"
     },
     {
-      "name": "Aalborg vs Aarhus Fremad lúc 01:00",
-      "link": "/truc-tiep/aalborg-vs-aarhus-fremad-luc-0100-ngay-07-03-2026/",
-      "runtime": 1772820000,
-      "datetime": "2026-03-06T18:00:00.000Z"
-    },
-    {
       "name": "GD Chaves vs Viseu lúc 01:00",
       "link": "/truc-tiep/gd-chaves-vs-viseu-luc-0100-ngay-07-03-2026/",
-      "runtime": 1772820000,
-      "datetime": "2026-03-06T18:00:00.000Z"
-    },
-    {
-      "name": "Kolding FC vs Hobro lúc 01:00",
-      "link": "/truc-tiep/kolding-fc-vs-hobro-luc-0100-ngay-07-03-2026/",
-      "runtime": 1772820000,
-      "datetime": "2026-03-06T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ Chemik Police vs Nữ LKS Lodz lúc 01:00",
-      "link": "/truc-tiep/nu-chemik-police-vs-nu-lks-lodz-luc-0100-ngay-07-03-2026/",
       "runtime": 1772820000,
       "datetime": "2026-03-06T18:00:00.000Z"
     },
@@ -452,6 +410,12 @@
       "link": "/truc-tiep/brandon-nakashima-vs-camilo-ugo-carabelli-luc-0420-ngay-07-03-2026/",
       "runtime": 1772832000,
       "datetime": "2026-03-06T21:20:00.000Z"
+    },
+    {
+      "name": "Nữ Praia Clube  vs Nữ Barueri lúc 04:30",
+      "link": "/truc-tiep/nu-praia-clube-vs-nu-barueri-luc-0430-ngay-07-03-2026/",
+      "runtime": 1772832600,
+      "datetime": "2026-03-06T21:30:00.000Z"
     }
   ]
 }
