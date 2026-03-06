@@ -1,20 +1,8 @@
 {
   "success": true,
-  "total_matches": 13,
-  "updated_at": "2026-03-06T06:08:29.174Z",
+  "total_matches": 34,
+  "updated_at": "2026-03-06T07:09:12.221Z",
   "matches": [
-    {
-      "name": "Michael Zheng vs Vit Kopriva lúc 10:10",
-      "link": "/truc-tiep/michael-zheng-vs-vit-kopriva-luc-1010-ngay-06-03-2026/",
-      "runtime": 1772766600,
-      "datetime": "2026-03-06T03:10:00.000Z"
-    },
-    {
-      "name": "Peyton Stearns vs Solana Sierra lúc 10:10 | VIC",
-      "link": "/truc-tiep/peyton-stearns-vs-solana-sierra-luc-1010-ngay-06-03-2026/",
-      "runtime": 1772766600,
-      "datetime": "2026-03-06T03:10:00.000Z"
-    },
     {
       "name": "Bence Boros vs Ryuto Kizaki lúc 10:30",
       "link": "/truc-tiep/bence-boros-vs-ryuto-kizaki-luc-1030-ngay-06-03-2026/",
@@ -22,28 +10,22 @@
       "datetime": "2026-03-06T03:30:00.000Z"
     },
     {
-      "name": "Cloud Rising vs Interactive Philippines lúc 11:00",
-      "link": "/truc-tiep/cloud-rising-vs-interactive-philippines-luc-1100-ngay-06-03-2026/",
-      "runtime": 1772769600,
-      "datetime": "2026-03-06T04:00:00.000Z"
-    },
-    {
-      "name": "Loyola Marymount vs San Diego lúc 11:30",
-      "link": "/truc-tiep/loyola-marymount-vs-san-diego-luc-1130-ngay-06-03-2026/",
-      "runtime": 1772771400,
-      "datetime": "2026-03-06T04:30:00.000Z"
-    },
-    {
-      "name": "Hawaii vs UC Riverside lúc 12:00",
-      "link": "/truc-tiep/hawaii-vs-uc-riverside-luc-1200-ngay-06-03-2026/",
-      "runtime": 1772773200,
-      "datetime": "2026-03-06T05:00:00.000Z"
-    },
-    {
       "name": "Adelaide U21 vs White City  lúc 12:30 | LOGAN",
       "link": "/truc-tiep/adelaide-u21-vs-white-city-luc-1230-ngay-06-03-2026/",
       "runtime": 1772775000,
       "datetime": "2026-03-06T05:30:00.000Z"
+    },
+    {
+      "name": "Toli vs Persigubin Pegunungan Bintang lúc 12:30",
+      "link": "/truc-tiep/toli-vs-persigubin-pegunungan-bintang-luc-1230-ngay-06-03-2026/",
+      "runtime": 1772775000,
+      "datetime": "2026-03-06T05:30:00.000Z"
+    },
+    {
+      "name": "Sutherland S U20 vs Western Sydney U20 lúc 13:30",
+      "link": "/truc-tiep/sutherland-s-u20-vs-western-sydney-u20-luc-1330-ngay-06-03-2026/",
+      "runtime": 1772778600,
+      "datetime": "2026-03-06T06:30:00.000Z"
     },
     {
       "name": "Hurstville FC U20 vs Bulls Academy U20 lúc 14:00",
@@ -54,6 +36,30 @@
     {
       "name": "Blacktown Spartans U20 vs Dulwich Hill U20 lúc 14:00",
       "link": "/truc-tiep/blacktown-spartans-u20-vs-dulwich-hill-u20-luc-1400-ngay-06-03-2026/",
+      "runtime": 1772780400,
+      "datetime": "2026-03-06T07:00:00.000Z"
+    },
+    {
+      "name": "Eltham Redbacks FC U23 vs Brunswick City U23 lúc 14:00",
+      "link": "/truc-tiep/eltham-redbacks-fc-u23-vs-brunswick-city-u23-luc-1400-ngay-06-03-2026/",
+      "runtime": 1772780400,
+      "datetime": "2026-03-06T07:00:00.000Z"
+    },
+    {
+      "name": "Valentine Phoenix (R) vs Cooks Hill (R) lúc 14:00",
+      "link": "/truc-tiep/valentine-phoenix-r-vs-cooks-hill-r-luc-1400-ngay-06-03-2026/",
+      "runtime": 1772780400,
+      "datetime": "2026-03-06T07:00:00.000Z"
+    },
+    {
+      "name": "Kahibah FC Reserves vs Edgeworth Eagles (R) lúc 14:00",
+      "link": "/truc-tiep/kahibah-fc-reserves-vs-edgeworth-eagles-r-luc-1400-ngay-06-03-2026/",
+      "runtime": 1772780400,
+      "datetime": "2026-03-06T07:00:00.000Z"
+    },
+    {
+      "name": "Nữ Lideta Sub City vs Nữ Bole Sub City lúc 14:00",
+      "link": "/truc-tiep/nu-lideta-sub-city-vs-nu-bole-sub-city-luc-1400-ngay-06-03-2026/",
       "runtime": 1772780400,
       "datetime": "2026-03-06T07:00:00.000Z"
     },
@@ -80,6 +86,126 @@
       "link": "/truc-tiep/anhelina-kalinina-vs-panna-udvardy-luc-1500-ngay-06-03-2026/",
       "runtime": 1772784000,
       "datetime": "2026-03-06T08:00:00.000Z"
+    },
+    {
+      "name": "Green Gully Fc vs Hume City lúc 15:30 | POLO",
+      "link": "/truc-tiep/green-gully-fc-vs-hume-city-luc-1530-ngay-06-03-2026/",
+      "runtime": 1772785800,
+      "datetime": "2026-03-06T08:30:00.000Z"
+    },
+    {
+      "name": "Port Melbourne vs Western United FC lúc 15:30",
+      "link": "/truc-tiep/port-melbourne-vs-western-united-fc-luc-1530-ngay-06-03-2026/",
+      "runtime": 1772785800,
+      "datetime": "2026-03-06T08:30:00.000Z"
+    },
+    {
+      "name": "Nữ Box Hill vs Nữ Heidelberg United lúc 15:30",
+      "link": "/truc-tiep/nu-box-hill-vs-nu-heidelberg-united-luc-1530-ngay-06-03-2026/",
+      "runtime": 1772785800,
+      "datetime": "2026-03-06T08:30:00.000Z"
+    },
+    {
+      "name": "Stefano Napolitano vs Arthur Gea lúc 15:30",
+      "link": "/truc-tiep/stefano-napolitano-vs-arthur-gea-luc-1530-ngay-06-03-2026/",
+      "runtime": 1772785800,
+      "datetime": "2026-03-06T08:30:00.000Z"
+    },
+    {
+      "name": "Lorenzo Giustino vs Dimitar Kuzmanov lúc 15:30",
+      "link": "/truc-tiep/lorenzo-giustino-vs-dimitar-kuzmanov-luc-1530-ngay-06-03-2026/",
+      "runtime": 1772785800,
+      "datetime": "2026-03-06T08:30:00.000Z"
+    },
+    {
+      "name": "Adelaide United vs Wellington Phoenix lúc 15:35 | BRUCE",
+      "link": "/truc-tiep/adelaide-united-vs-wellington-phoenix-luc-1535-ngay-06-03-2026/",
+      "runtime": 1772786100,
+      "datetime": "2026-03-06T08:35:00.000Z"
+    },
+    {
+      "name": "Dandenong City SC vs Caroline Springs lúc 15:45 | YUNO",
+      "link": "/truc-tiep/dandenong-city-sc-vs-caroline-springs-luc-1545-ngay-06-03-2026/",
+      "runtime": 1772786700,
+      "datetime": "2026-03-06T08:45:00.000Z"
+    },
+    {
+      "name": "Sutherland Sharks vs Western Sydney AM lúc 15:45 | RYAN",
+      "link": "/truc-tiep/sutherland-sharks-vs-western-sydney-am-luc-1545-ngay-06-03-2026/",
+      "runtime": 1772786700,
+      "datetime": "2026-03-06T08:45:00.000Z"
+    },
+    {
+      "name": "Bangladesh Police vs Brothers Union lúc 15:45",
+      "link": "/truc-tiep/bangladesh-police-vs-brothers-union-luc-1545-ngay-06-03-2026/",
+      "runtime": 1772786700,
+      "datetime": "2026-03-06T08:45:00.000Z"
+    },
+    {
+      "name": "Bashundhara Kings vs PWD Sports Club lúc 15:45",
+      "link": "/truc-tiep/bashundhara-kings-vs-pwd-sports-club-luc-1545-ngay-06-03-2026/",
+      "runtime": 1772786700,
+      "datetime": "2026-03-06T08:45:00.000Z"
+    },
+    {
+      "name": "Arambagh KS vs FUMC Club lúc 15:45",
+      "link": "/truc-tiep/arambagh-ks-vs-fumc-club-luc-1545-ngay-06-03-2026/",
+      "runtime": 1772786700,
+      "datetime": "2026-03-06T08:45:00.000Z"
+    },
+    {
+      "name": "Abahani Limited vs Rahmatgonj MFS lúc 15:45",
+      "link": "/truc-tiep/abahani-limited-vs-rahmatgonj-mfs-luc-1545-ngay-06-03-2026/",
+      "runtime": 1772786700,
+      "datetime": "2026-03-06T08:45:00.000Z"
+    },
+    {
+      "name": "Đồng Tâm Long An vs Phú Thọ lúc 16:00 | MAX",
+      "link": "/truc-tiep/dong-tam-long-an-vs-phu-tho-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "Kahibah FC vs Edgeworth Eagles  lúc 16:00",
+      "link": "/truc-tiep/kahibah-fc-vs-edgeworth-eagles-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "Valentine vs Cooks Hill Utd lúc 16:00",
+      "link": "/truc-tiep/valentine-vs-cooks-hill-utd-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "Hearst Neville vs Bulls Academy lúc 16:00",
+      "link": "/truc-tiep/hearst-neville-vs-bulls-academy-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "Nữ Xinjiang Tianshan vs Nữ Beijing Ducks lúc 16:00",
+      "link": "/truc-tiep/nu-xinjiang-tianshan-vs-nu-beijing-ducks-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "WW vs Eternal Fire lúc 16:00",
+      "link": "/truc-tiep/ww-vs-eternal-fire-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "Lazer Cats vs Qwentry lúc 16:00",
+      "link": "/truc-tiep/lazer-cats-vs-qwentry-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
+    },
+    {
+      "name": "MOUZ NXT vs UNiTY lúc 16:00",
+      "link": "/truc-tiep/mouz-nxt-vs-unity-luc-1600-ngay-06-03-2026/",
+      "runtime": 1772787600,
+      "datetime": "2026-03-06T09:00:00.000Z"
     }
   ]
 }
