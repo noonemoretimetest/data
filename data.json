@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-03-06T20:59:14.544Z",
+  "total_matches": 53,
+  "updated_at": "2026-03-06T21:34:21.358Z",
   "matches": [
     {
       "name": "Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari vs Pearly Tan/Thinaah Muralitharan lúc 00:00",
@@ -22,28 +22,10 @@
       "datetime": "2026-03-06T17:50:00.000Z"
     },
     {
-      "name": "MOUZ vs HEROIC lúc 01:00",
-      "link": "/truc-tiep/mouz-vs-heroic-luc-0100-ngay-07-03-2026/",
-      "runtime": 1772820000,
-      "datetime": "2026-03-06T18:00:00.000Z"
-    },
-    {
       "name": "Koki Watanabe vs Victor Lai lúc 01:40",
       "link": "/truc-tiep/koki-watanabe-vs-victor-lai-luc-0140-ngay-07-03-2026/",
       "runtime": 1772822400,
       "datetime": "2026-03-06T18:40:00.000Z"
-    },
-    {
-      "name": "Al-Ahli SFC vs Al Ittihad(KSA) lúc 02:00 | JAY",
-      "link": "/truc-tiep/al-ahli-sfc-vs-al-ittihadksa-luc-0200-ngay-07-03-2026/",
-      "runtime": 1772823600,
-      "datetime": "2026-03-06T19:00:00.000Z"
-    },
-    {
-      "name": "Boulogne vs Amiens lúc 02:00",
-      "link": "/truc-tiep/boulogne-vs-amiens-luc-0200-ngay-07-03-2026/",
-      "runtime": 1772823600,
-      "datetime": "2026-03-06T19:00:00.000Z"
     },
     {
       "name": "Vantex Esports vs The Otter Side lúc 02:00",
@@ -58,62 +40,8 @@
       "datetime": "2026-03-06T19:00:00.000Z"
     },
     {
-      "name": "Olympiacos vs Panathinaikos lúc 02:15",
-      "link": "/truc-tiep/olympiacos-vs-panathinaikos-luc-0215-ngay-07-03-2026/",
-      "runtime": 1772824500,
-      "datetime": "2026-03-06T19:15:00.000Z"
-    },
-    {
-      "name": "Bayern Munich vs B. Monchengladbach lúc 02:30 | FINN",
-      "link": "/truc-tiep/bayern-munich-vs-b-monchengladbach-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
-      "name": "Zamalek vs Ittihad Alexandria lúc 02:30",
-      "link": "/truc-tiep/zamalek-vs-ittihad-alexandria-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
-      "name": "El Gounah vs Wadi Degla SC lúc 02:30",
-      "link": "/truc-tiep/el-gounah-vs-wadi-degla-sc-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
-      "name": "Al Masry vs Ismaily SC lúc 02:30",
-      "link": "/truc-tiep/al-masry-vs-ismaily-sc-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
-      "name": "Cadiz vs Real Zaragoza lúc 02:30",
-      "link": "/truc-tiep/cadiz-vs-real-zaragoza-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
-      "name": "Lechia Gdansk vs Jagiellonia  lúc 02:30",
-      "link": "/truc-tiep/lechia-gdansk-vs-jagiellonia-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
-      "name": "Baskonia Vitoria vs Paris lúc 02:30",
-      "link": "/truc-tiep/baskonia-vitoria-vs-paris-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
       "name": "Jia Yi Fan/Zhang Shu Xian vs Sayaka Hirota/Ayako Sakuramoto lúc 02:30",
       "link": "/truc-tiep/jia-yi-fan-zhang-shu-xian-vs-sayaka-hirota-ayako-sakuramoto-luc-0230-ngay-07-03-2026/",
-      "runtime": 1772825400,
-      "datetime": "2026-03-06T19:30:00.000Z"
-    },
-    {
-      "name": "Tomoka Miyazaki vs Wang Zhiyi lúc 02:30",
-      "link": "/truc-tiep/tomoka-miyazaki-vs-wang-zhiyi-luc-0230-ngay-07-03-2026/",
       "runtime": 1772825400,
       "datetime": "2026-03-06T19:30:00.000Z"
     },
@@ -344,6 +272,54 @@
       "link": "/truc-tiep/tucuman-de-gimnasia-vs-boca-juniors-luc-0530-ngay-07-03-2026/",
       "runtime": 1772836200,
       "datetime": "2026-03-06T22:30:00.000Z"
+    },
+    {
+      "name": "Wanderers FC vs Dep. Maldonado lúc 06:00 | KEN",
+      "link": "/truc-tiep/wanderers-fc-vs-dep-maldonado-luc-0600-ngay-07-03-2026/",
+      "runtime": 1772838000,
+      "datetime": "2026-03-06T23:00:00.000Z"
+    },
+    {
+      "name": "Chivas Tapatio vs Cancun FC lúc 06:00 | FINN",
+      "link": "/truc-tiep/chivas-tapatio-vs-cancun-fc-luc-0600-ngay-07-03-2026/",
+      "runtime": 1772838000,
+      "datetime": "2026-03-06T23:00:00.000Z"
+    },
+    {
+      "name": "Real Cartagena vs Orsomarso lúc 06:00",
+      "link": "/truc-tiep/real-cartagena-vs-orsomarso-luc-0600-ngay-07-03-2026/",
+      "runtime": 1772838000,
+      "datetime": "2026-03-06T23:00:00.000Z"
+    },
+    {
+      "name": "Oratorio RC vs Macapa lúc 06:00",
+      "link": "/truc-tiep/oratorio-rc-vs-macapa-luc-0600-ngay-07-03-2026/",
+      "runtime": 1772838000,
+      "datetime": "2026-03-06T23:00:00.000Z"
+    },
+    {
+      "name": "Figueirense vs CA Carlos Renaux lúc 06:00",
+      "link": "/truc-tiep/figueirense-vs-ca-carlos-renaux-luc-0600-ngay-07-03-2026/",
+      "runtime": 1772838000,
+      "datetime": "2026-03-06T23:00:00.000Z"
+    },
+    {
+      "name": "Progresso RR vs River(RR) lúc 06:00",
+      "link": "/truc-tiep/progresso-rr-vs-riverrr-luc-0600-ngay-07-03-2026/",
+      "runtime": 1772838000,
+      "datetime": "2026-03-06T23:00:00.000Z"
+    },
+    {
+      "name": "Brasília  vs Botafogo lúc 06:15",
+      "link": "/truc-tiep/brasilia-vs-botafogo-luc-0615-ngay-07-03-2026/",
+      "runtime": 1772838900,
+      "datetime": "2026-03-06T23:15:00.000Z"
+    },
+    {
+      "name": "D. Concepcion vs Nublense lúc 06:30 | YUNO",
+      "link": "/truc-tiep/d-concepcion-vs-nublense-luc-0630-ngay-07-03-2026/",
+      "runtime": 1772839800,
+      "datetime": "2026-03-06T23:30:00.000Z"
     }
   ]
 }
