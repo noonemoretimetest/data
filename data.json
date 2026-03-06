@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 52,
-  "updated_at": "2026-03-06T22:58:52.431Z",
+  "total_matches": 60,
+  "updated_at": "2026-03-06T23:31:35.989Z",
   "matches": [
     {
       "name": "FURIA vs B8 lúc 03:00",
       "link": "/truc-tiep/furia-vs-b8-luc-0300-ngay-07-03-2026/",
       "runtime": 1772827200,
       "datetime": "2026-03-06T20:00:00.000Z"
-    },
-    {
-      "name": "Al Gharraf vs Al Quwa Al Jawiya lúc 03:15",
-      "link": "/truc-tiep/al-gharraf-vs-al-quwa-al-jawiya-luc-0315-ngay-07-03-2026/",
-      "runtime": 1772828100,
-      "datetime": "2026-03-06T20:15:00.000Z"
-    },
-    {
-      "name": "Kim Won-ho/Seo Seung-jae vs Christo Popov/Toma Junior Popov lúc 03:20",
-      "link": "/truc-tiep/kim-won-ho-seo-seung-jae-vs-christo-popov-toma-junior-popov-luc-0320-ngay-07-03-2026/",
-      "runtime": 1772828400,
-      "datetime": "2026-03-06T20:20:00.000Z"
-    },
-    {
-      "name": "Deportes La Serena vs Union La Calera lúc 04:00 | NEMO",
-      "link": "/truc-tiep/deportes-la-serena-vs-union-la-calera-luc-0400-ngay-07-03-2026/",
-      "runtime": 1772830800,
-      "datetime": "2026-03-06T21:00:00.000Z"
-    },
-    {
-      "name": "Union San Felipe vs CSD Antofagasta lúc 04:00",
-      "link": "/truc-tiep/union-san-felipe-vs-csd-antofagasta-luc-0400-ngay-07-03-2026/",
-      "runtime": 1772830800,
-      "datetime": "2026-03-06T21:00:00.000Z"
     },
     {
       "name": "FURIA Esports vs Sentinels lúc 04:00",
@@ -72,12 +48,6 @@
     {
       "name": "Estrela de Marco U20 vs Vitoria U20 lúc 05:00",
       "link": "/truc-tiep/estrela-de-marco-u20-vs-vitoria-u20-luc-0500-ngay-07-03-2026/",
-      "runtime": 1772834400,
-      "datetime": "2026-03-06T22:00:00.000Z"
-    },
-    {
-      "name": "Dino Prizmic vs Arthur Fils lúc 05:00",
-      "link": "/truc-tiep/dino-prizmic-vs-arthur-fils-luc-0500-ngay-07-03-2026/",
       "runtime": 1772834400,
       "datetime": "2026-03-06T22:00:00.000Z"
     },
@@ -314,6 +284,84 @@
       "link": "/truc-tiep/alejandro-davidovich-fokina-vs-zachary-svajda-luc-0750-ngay-07-03-2026/",
       "runtime": 1772844600,
       "datetime": "2026-03-07T00:50:00.000Z"
+    },
+    {
+      "name": "Mazatlan FC vs Club Leon lúc 08:00 | POLO",
+      "link": "/truc-tiep/mazatlan-fc-vs-club-leon-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Venados FC Yucatán vs Correcaminos de la U.A.T. lúc 08:00 | OLER",
+      "link": "/truc-tiep/venados-fc-yucatan-vs-correcaminos-de-la-u-a-t-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Zitacuaro CF vs FC Santiago lúc 08:00",
+      "link": "/truc-tiep/zitacuaro-cf-vs-fc-santiago-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Houston Rockets vs Portland Trail Blazers lúc 08:00 | TOMMY",
+      "link": "/truc-tiep/houston-rockets-vs-portland-trail-blazers-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Wisconsin Herd vs Mexico City Capitanes lúc 08:00",
+      "link": "/truc-tiep/wisconsin-herd-vs-mexico-city-capitanes-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Marcos Giron vs Jakub Mensik lúc 08:00",
+      "link": "/truc-tiep/marcos-giron-vs-jakub-mensik-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Austin vs Nữ Houston  lúc 08:00",
+      "link": "/truc-tiep/nu-austin-vs-nu-houston-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Monteros vs River Plate lúc 08:00",
+      "link": "/truc-tiep/monteros-vs-river-plate-luc-0800-ngay-07-03-2026/",
+      "runtime": 1772845200,
+      "datetime": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "name": "Deportivo Cali vs Once Caldas lúc 08:30 | LEE",
+      "link": "/truc-tiep/deportivo-cali-vs-once-caldas-luc-0830-ngay-07-03-2026/",
+      "runtime": 1772847000,
+      "datetime": "2026-03-07T01:30:00.000Z"
+    },
+    {
+      "name": "Tauro FC vs Herrera FC lúc 08:30",
+      "link": "/truc-tiep/tauro-fc-vs-herrera-fc-luc-0830-ngay-07-03-2026/",
+      "runtime": 1772847000,
+      "datetime": "2026-03-07T01:30:00.000Z"
+    },
+    {
+      "name": "Gorilas Juanacatlán vs CD Ayense lúc 08:30",
+      "link": "/truc-tiep/gorilas-juanacatlan-vs-cd-ayense-luc-0830-ngay-07-03-2026/",
+      "runtime": 1772847000,
+      "datetime": "2026-03-07T01:30:00.000Z"
+    },
+    {
+      "name": "Green Gully U23 vs Hume City U23 lúc 08:30",
+      "link": "/truc-tiep/green-gully-u23-vs-hume-city-u23-luc-0830-ngay-07-03-2026/",
+      "runtime": 1772847000,
+      "datetime": "2026-03-07T01:30:00.000Z"
+    },
+    {
+      "name": "Nữ MetroStars (R) vs Nữ Salisbury Inter (R) lúc 08:30",
+      "link": "/truc-tiep/nu-metrostars-r-vs-nu-salisbury-inter-r-luc-0830-ngay-07-03-2026/",
+      "runtime": 1772847000,
+      "datetime": "2026-03-07T01:30:00.000Z"
     }
   ]
 }
