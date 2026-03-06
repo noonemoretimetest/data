@@ -1,25 +1,13 @@
 {
   "success": true,
-  "total_matches": 69,
-  "updated_at": "2026-03-06T09:06:37.620Z",
+  "total_matches": 72,
+  "updated_at": "2026-03-06T09:57:08.223Z",
   "matches": [
-    {
-      "name": "Taguig generals vs Camarines Sur Express lúc 14:00",
-      "link": "/truc-tiep/taguig-generals-vs-camarines-sur-express-luc-1400-ngay-06-03-2026/",
-      "runtime": 1772780400,
-      "datetime": "2026-03-06T07:00:00.000Z"
-    },
     {
       "name": "Carstensz Esports vs Glyph lúc 14:00",
       "link": "/truc-tiep/carstensz-esports-vs-glyph-luc-1400-ngay-06-03-2026/",
       "runtime": 1772780400,
       "datetime": "2026-03-06T07:00:00.000Z"
-    },
-    {
-      "name": "Brunswick Juventus U23 vs Melbourne Knights U23 lúc 14:15",
-      "link": "/truc-tiep/brunswick-juventus-u23-vs-melbourne-knights-u23-luc-1415-ngay-06-03-2026/",
-      "runtime": 1772781300,
-      "datetime": "2026-03-06T07:15:00.000Z"
     },
     {
       "name": "Nữ Uzbekistan vs Nữ Trung Quốc lúc 15:00 | ASTRA",
@@ -148,12 +136,6 @@
       "datetime": "2026-03-06T09:00:00.000Z"
     },
     {
-      "name": "WW vs Eternal Fire lúc 16:00",
-      "link": "/truc-tiep/ww-vs-eternal-fire-luc-1600-ngay-06-03-2026/",
-      "runtime": 1772787600,
-      "datetime": "2026-03-06T09:00:00.000Z"
-    },
-    {
       "name": "Lazer Cats vs Qwentry lúc 16:00",
       "link": "/truc-tiep/lazer-cats-vs-qwentry-luc-1600-ngay-06-03-2026/",
       "runtime": 1772787600,
@@ -190,7 +172,7 @@
       "datetime": "2026-03-06T09:15:00.000Z"
     },
     {
-      "name": "Dagon Port vs Rakhine United lúc 16:30 | ZARA",
+      "name": "Dagon Port vs Rakhine United lúc 16:30",
       "link": "/truc-tiep/dagon-port-vs-rakhine-united-luc-1630-ngay-06-03-2026/",
       "runtime": 1772789400,
       "datetime": "2026-03-06T09:30:00.000Z"
@@ -262,7 +244,7 @@
       "datetime": "2026-03-06T09:40:00.000Z"
     },
     {
-      "name": "Than Quảng Ninh vs Bình Phước lúc 17:00 | KEVIN",
+      "name": "Than Quảng Ninh vs Bình Phước lúc 17:00 | ZARA",
       "link": "/truc-tiep/than-quang-ninh-vs-binh-phuoc-luc-1700-ngay-06-03-2026/",
       "runtime": 1772791200,
       "datetime": "2026-03-06T10:00:00.000Z"
@@ -416,6 +398,42 @@
       "link": "/truc-tiep/nu-turan-vs-nu-zhetysu-luc-1800-ngay-06-03-2026/",
       "runtime": 1772794800,
       "datetime": "2026-03-06T11:00:00.000Z"
+    },
+    {
+      "name": "Muhammad Rian Ardianto/Rahmat Hidayat vs Chen Boyang/Liu Yi lúc 18:10",
+      "link": "/truc-tiep/muhammad-rian-ardianto-rahmat-hidayat-vs-chen-boyang-liu-yi-luc-1810-ngay-06-03-2026/",
+      "runtime": 1772795400,
+      "datetime": "2026-03-06T11:10:00.000Z"
+    },
+    {
+      "name": "An Se-young vs Putri Kusuma Wardani lúc 18:10",
+      "link": "/truc-tiep/an-se-young-vs-putri-kusuma-wardani-luc-1810-ngay-06-03-2026/",
+      "runtime": 1772795400,
+      "datetime": "2026-03-06T11:10:00.000Z"
+    },
+    {
+      "name": "Nữ Shanxi Zhuyeqing vs Nữ Shandong Speed  lúc 18:30",
+      "link": "/truc-tiep/nu-shanxi-zhuyeqing-vs-nu-shandong-speed-luc-1830-ngay-06-03-2026/",
+      "runtime": 1772796600,
+      "datetime": "2026-03-06T11:30:00.000Z"
+    },
+    {
+      "name": "Changsha Yongsheng vs Shanghai Blackbird lúc 18:30 | STEP",
+      "link": "/truc-tiep/changsha-yongsheng-vs-shanghai-blackbird-luc-1830-ngay-06-03-2026/",
+      "runtime": 1772796600,
+      "datetime": "2026-03-06T11:30:00.000Z"
+    },
+    {
+      "name": "GenOne vs los kogutos lúc 18:30",
+      "link": "/truc-tiep/genone-vs-los-kogutos-luc-1830-ngay-06-03-2026/",
+      "runtime": 1772796600,
+      "datetime": "2026-03-06T11:30:00.000Z"
+    },
+    {
+      "name": "Chengdu Rongcheng vs Shenzhen Peng City lúc 18:35 | ZIZU",
+      "link": "/truc-tiep/chengdu-rongcheng-vs-shenzhen-peng-city-luc-1835-ngay-06-03-2026/",
+      "runtime": 1772796900,
+      "datetime": "2026-03-06T11:35:00.000Z"
     }
   ]
 }
