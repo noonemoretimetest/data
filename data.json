@@ -1,61 +1,13 @@
 {
   "success": true,
-  "total_matches": 73,
-  "updated_at": "2026-03-07T19:26:49.522Z",
+  "total_matches": 69,
+  "updated_at": "2026-03-07T19:48:25.048Z",
   "matches": [
     {
       "name": "BOMBA Team vs Orzeł Barcząca Esports lúc 23:00",
       "link": "/truc-tiep/bomba-team-vs-orzel-barczaca-esports-luc-2300-ngay-07-03-2026/",
       "runtime": 1772899200,
       "datetime": "2026-03-07T16:00:00.000Z"
-    },
-    {
-      "name": "Nữ Galatasaray vs Nữ Eczacibasi lúc 00:00",
-      "link": "/truc-tiep/nu-galatasaray-vs-nu-eczacibasi-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Arctic Pandas vs Verdant lúc 00:00",
-      "link": "/truc-tiep/arctic-pandas-vs-verdant-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Atletico Madrid vs Real Sociedad lúc 00:30 | LOUIS",
-      "link": "/truc-tiep/atletico-madrid-vs-real-sociedad-luc-0030-ngay-08-03-2026/",
-      "runtime": 1772904600,
-      "datetime": "2026-03-07T17:30:00.000Z"
-    },
-    {
-      "name": "Shabab Al Ahli vs Al Wahda(UAE) lúc 00:30",
-      "link": "/truc-tiep/shabab-al-ahli-vs-al-wahdauae-luc-0030-ngay-08-03-2026/",
-      "runtime": 1772904600,
-      "datetime": "2026-03-07T17:30:00.000Z"
-    },
-    {
-      "name": "Al-Sharjah vs Dabba Al-Fujairah lúc 00:30",
-      "link": "/truc-tiep/al-sharjah-vs-dabba-al-fujairah-luc-0030-ngay-08-03-2026/",
-      "runtime": 1772904600,
-      "datetime": "2026-03-07T17:30:00.000Z"
-    },
-    {
-      "name": "FC Köln vs Dortmund lúc 00:30 | ASTRA",
-      "link": "/truc-tiep/fc-koln-vs-dortmund-luc-0030-ngay-08-03-2026/",
-      "runtime": 1772904600,
-      "datetime": "2026-03-07T17:30:00.000Z"
-    },
-    {
-      "name": "Burgos CF vs Mirandes lúc 00:30",
-      "link": "/truc-tiep/burgos-cf-vs-mirandes-luc-0030-ngay-08-03-2026/",
-      "runtime": 1772904600,
-      "datetime": "2026-03-07T17:30:00.000Z"
-    },
-    {
-      "name": "Nữ Canada vs Nữ Argentina  lúc 00:30",
-      "link": "/truc-tiep/nu-canada-vs-nu-argentina-luc-0030-ngay-08-03-2026/",
-      "runtime": 1772904600,
-      "datetime": "2026-03-07T17:30:00.000Z"
     },
     {
       "name": "Wrexham vs Chelsea lúc 00:45 | BRUCE",
@@ -202,12 +154,6 @@
       "datetime": "2026-03-07T19:00:00.000Z"
     },
     {
-      "name": "Universidad Católica vs Leones del Norte lúc 02:00",
-      "link": "/truc-tiep/universidad-catolica-vs-leones-del-norte-luc-0200-ngay-08-03-2026/",
-      "runtime": 1772910000,
-      "datetime": "2026-03-07T19:00:00.000Z"
-    },
-    {
       "name": "Nữ Bắc Ireland vs Nữ Thổ Nhĩ Kỳ lúc 02:00",
       "link": "/truc-tiep/nu-bac-ireland-vs-nu-tho-nhi-ky-luc-0200-ngay-08-03-2026/",
       "runtime": 1772910000,
@@ -304,14 +250,14 @@
       "datetime": "2026-03-07T19:45:00.000Z"
     },
     {
-      "name": "Athletic Bilbao vs Barcelona lúc 03:00 | ZIZU",
-      "link": "/truc-tiep/athletic-bilbao-vs-barcelona-luc-0300-ngay-08-03-2026/",
+      "name": "Newcastle United vs Manchester City lúc 03:00 | MAX",
+      "link": "/truc-tiep/newcastle-united-vs-manchester-city-luc-0300-ngay-08-03-2026/",
       "runtime": 1772913600,
       "datetime": "2026-03-07T20:00:00.000Z"
     },
     {
-      "name": "Newcastle United vs Manchester City lúc 03:00 | MAX",
-      "link": "/truc-tiep/newcastle-united-vs-manchester-city-luc-0300-ngay-08-03-2026/",
+      "name": "Athletic Bilbao vs Barcelona lúc 03:00 | ZIZU",
+      "link": "/truc-tiep/athletic-bilbao-vs-barcelona-luc-0300-ngay-08-03-2026/",
       "runtime": 1772913600,
       "datetime": "2026-03-07T20:00:00.000Z"
     },
@@ -440,6 +386,36 @@
       "link": "/truc-tiep/nu-atlanta-vs-nu-madison-luc-0400-ngay-08-03-2026/",
       "runtime": 1772917200,
       "datetime": "2026-03-07T21:00:00.000Z"
+    },
+    {
+      "name": "DC United vs Inter Miami lúc 04:30 | FINN",
+      "link": "/truc-tiep/dc-united-vs-inter-miami-luc-0430-ngay-08-03-2026/",
+      "runtime": 1772919000,
+      "datetime": "2026-03-07T21:30:00.000Z"
+    },
+    {
+      "name": "Ind. del Valle vs Mushuc Runa lúc 04:30",
+      "link": "/truc-tiep/ind-del-valle-vs-mushuc-runa-luc-0430-ngay-08-03-2026/",
+      "runtime": 1772919000,
+      "datetime": "2026-03-07T21:30:00.000Z"
+    },
+    {
+      "name": "Barcelona SC vs Sport Emelec lúc 04:30",
+      "link": "/truc-tiep/barcelona-sc-vs-sport-emelec-luc-0430-ngay-08-03-2026/",
+      "runtime": 1772919000,
+      "datetime": "2026-03-07T21:30:00.000Z"
+    },
+    {
+      "name": "Club Guaraní vs Cerro Porteno lúc 04:30",
+      "link": "/truc-tiep/club-guarani-vs-cerro-porteno-luc-0430-ngay-08-03-2026/",
+      "runtime": 1772919000,
+      "datetime": "2026-03-07T21:30:00.000Z"
+    },
+    {
+      "name": "Volei Renata vs Goias lúc 04:30",
+      "link": "/truc-tiep/volei-renata-vs-goias-luc-0430-ngay-08-03-2026/",
+      "runtime": 1772919000,
+      "datetime": "2026-03-07T21:30:00.000Z"
     }
   ]
 }
