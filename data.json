@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 63,
-  "updated_at": "2026-03-07T23:17:12.203Z",
+  "total_matches": 68,
+  "updated_at": "2026-03-07T23:39:54.024Z",
   "matches": [
     {
       "name": "Novak Djokovic vs Kamil Majchrzak lúc 04:00 | VIC",
@@ -20,30 +20,6 @@
       "link": "/truc-tiep/ind-del-valle-vs-mushuc-runa-luc-0430-ngay-08-03-2026/",
       "runtime": 1772919000,
       "datetime": "2026-03-07T21:30:00.000Z"
-    },
-    {
-      "name": "Barcelona SC vs Sport Emelec lúc 04:30",
-      "link": "/truc-tiep/barcelona-sc-vs-sport-emelec-luc-0430-ngay-08-03-2026/",
-      "runtime": 1772919000,
-      "datetime": "2026-03-07T21:30:00.000Z"
-    },
-    {
-      "name": "Club Guaraní vs Cerro Porteno lúc 04:30",
-      "link": "/truc-tiep/club-guarani-vs-cerro-porteno-luc-0430-ngay-08-03-2026/",
-      "runtime": 1772919000,
-      "datetime": "2026-03-07T21:30:00.000Z"
-    },
-    {
-      "name": "Volei Renata vs Goias lúc 04:30",
-      "link": "/truc-tiep/volei-renata-vs-goias-luc-0430-ngay-08-03-2026/",
-      "runtime": 1772919000,
-      "datetime": "2026-03-07T21:30:00.000Z"
-    },
-    {
-      "name": "Valentin Vacherot vs Nuno Borges lúc 04:45",
-      "link": "/truc-tiep/valentin-vacherot-vs-nuno-borges-luc-0445-ngay-08-03-2026/",
-      "runtime": 1772919900,
-      "datetime": "2026-03-07T21:45:00.000Z"
     },
     {
       "name": "KACM Marrakech vs Hassania Agadir lúc 05:00",
@@ -380,6 +356,60 @@
       "link": "/truc-tiep/pachuca-vs-puebla-luc-0806-ngay-08-03-2026/",
       "runtime": 1772931960,
       "datetime": "2026-03-08T01:06:00.000Z"
+    },
+    {
+      "name": "Ulrikke Eikeri/Jiang Xinyu vs Gabriela Dabrowski/Luisa Stefani lúc 08:20",
+      "link": "/truc-tiep/ulrikke-eikeri-jiang-xinyu-vs-gabriela-dabrowski-luisa-stefani-luc-0820-ngay-08-03-2026/",
+      "runtime": 1772932800,
+      "datetime": "2026-03-08T01:20:00.000Z"
+    },
+    {
+      "name": "Sporting Kansas vs San Diego FC lúc 08:30 | NEMO",
+      "link": "/truc-tiep/sporting-kansas-vs-san-diego-fc-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
+    },
+    {
+      "name": "Nashville vs Minnesota United FC lúc 08:30 | OLER",
+      "link": "/truc-tiep/nashville-vs-minnesota-united-fc-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
+    },
+    {
+      "name": "St. Louis City vs Seattle Sounders lúc 08:30 | POLO",
+      "link": "/truc-tiep/st-louis-city-vs-seattle-sounders-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
+    },
+    {
+      "name": "North Texas SC vs Colorado Rapids II lúc 08:30",
+      "link": "/truc-tiep/north-texas-sc-vs-colorado-rapids-ii-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
+    },
+    {
+      "name": "San Antonio vs Phoenix Rising FC lúc 08:30",
+      "link": "/truc-tiep/san-antonio-vs-phoenix-rising-fc-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
+    },
+    {
+      "name": "Plaza Amador vs San Francisco lúc 08:30",
+      "link": "/truc-tiep/plaza-amador-vs-san-francisco-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
+    },
+    {
+      "name": "Oklahoma City Thunder vs Golden State Warriors lúc 08:30 | TOMMY",
+      "link": "/truc-tiep/oklahoma-city-thunder-vs-golden-state-warriors-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
+    },
+    {
+      "name": "Fisher College vs InControl lúc 08:30",
+      "link": "/truc-tiep/fisher-college-vs-incontrol-luc-0830-ngay-08-03-2026/",
+      "runtime": 1772933400,
+      "datetime": "2026-03-08T01:30:00.000Z"
     }
   ]
 }
