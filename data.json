@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 80,
-  "updated_at": "2026-03-07T18:25:19.628Z",
+  "total_matches": 71,
+  "updated_at": "2026-03-07T18:59:16.731Z",
   "matches": [
     {
       "name": "BOMBA Team vs Orzeł Barcząca Esports lúc 23:00",
@@ -10,56 +10,8 @@
       "datetime": "2026-03-07T16:00:00.000Z"
     },
     {
-      "name": "Nữ Xứ Wales vs Nữ Montenegro  lúc 23:30",
-      "link": "/truc-tiep/nu-xu-wales-vs-nu-montenegro-luc-2330-ngay-07-03-2026/",
-      "runtime": 1772901000,
-      "datetime": "2026-03-07T16:30:00.000Z"
-    },
-    {
-      "name": "Piast Gliwice vs Zaglebie Lubin lúc 23:30",
-      "link": "/truc-tiep/piast-gliwice-vs-zaglebie-lubin-luc-2330-ngay-07-03-2026/",
-      "runtime": 1772901000,
-      "datetime": "2026-03-07T16:30:00.000Z"
-    },
-    {
-      "name": "NS Mura vs ND Primorje lúc 23:30",
-      "link": "/truc-tiep/ns-mura-vs-nd-primorje-luc-2330-ngay-07-03-2026/",
-      "runtime": 1772901000,
-      "datetime": "2026-03-07T16:30:00.000Z"
-    },
-    {
-      "name": "Zawiercie vs Cuprum lúc 23:30",
-      "link": "/truc-tiep/zawiercie-vs-cuprum-luc-2330-ngay-07-03-2026/",
-      "runtime": 1772901000,
-      "datetime": "2026-03-07T16:30:00.000Z"
-    },
-    {
-      "name": "Atalanta vs Udinese lúc 00:00 | MAX",
-      "link": "/truc-tiep/atalanta-vs-udinese-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
       "name": "Besiktas JK vs Galatasaray lúc 00:00 | RYAN",
       "link": "/truc-tiep/besiktas-jk-vs-galatasaray-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Servette vs FC Zurich lúc 00:00 | POLO",
-      "link": "/truc-tiep/servette-vs-fc-zurich-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Nữ Na Uy vs Nữ Đức lúc 00:00",
-      "link": "/truc-tiep/nu-na-uy-vs-nu-duc-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "FC Sion vs Winterthur lúc 00:00",
-      "link": "/truc-tiep/fc-sion-vs-winterthur-luc-0000-ngay-08-03-2026/",
       "runtime": 1772902800,
       "datetime": "2026-03-07T17:00:00.000Z"
     },
@@ -70,32 +22,8 @@
       "datetime": "2026-03-07T17:00:00.000Z"
     },
     {
-      "name": "Nữ Scotland vs Nữ Luxembourg lúc 00:00",
-      "link": "/truc-tiep/nu-scotland-vs-nu-luxembourg-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Nữ Ukraine vs Nữ Tây Ban Nha lúc 00:00",
-      "link": "/truc-tiep/nu-ukraine-vs-nu-tay-ban-nha-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
       "name": "Amedspor vs Serik Belediyespor lúc 00:00",
       "link": "/truc-tiep/amedspor-vs-serik-belediyespor-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Ham-Kam vs Lillestrom lúc 00:00",
-      "link": "/truc-tiep/ham-kam-vs-lillestrom-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Liu Shengshu/Tan Ning vs Jia Yi Fan/Zhang Shu Xian lúc 00:00",
-      "link": "/truc-tiep/liu-shengshu-tan-ning-vs-jia-yi-fan-zhang-shu-xian-luc-0000-ngay-08-03-2026/",
       "runtime": 1772902800,
       "datetime": "2026-03-07T17:00:00.000Z"
     },
@@ -482,6 +410,24 @@
       "link": "/truc-tiep/nu-phap-vs-nu-ba-lan-luc-0310-ngay-08-03-2026/",
       "runtime": 1772914200,
       "datetime": "2026-03-07T20:10:00.000Z"
+    },
+    {
+      "name": "Estoril vs Casa Pia AC lúc 03:30 | XMEN",
+      "link": "/truc-tiep/estoril-vs-casa-pia-ac-luc-0330-ngay-08-03-2026/",
+      "runtime": 1772915400,
+      "datetime": "2026-03-07T20:30:00.000Z"
+    },
+    {
+      "name": "Sporting Cristal vs Alianza Atletico lúc 03:30",
+      "link": "/truc-tiep/sporting-cristal-vs-alianza-atletico-luc-0330-ngay-08-03-2026/",
+      "runtime": 1772915400,
+      "datetime": "2026-03-07T20:30:00.000Z"
+    },
+    {
+      "name": "Nữ USA vs Nữ Colombia  lúc 03:30",
+      "link": "/truc-tiep/nu-usa-vs-nu-colombia-luc-0330-ngay-08-03-2026/",
+      "runtime": 1772915400,
+      "datetime": "2026-03-07T20:30:00.000Z"
     }
   ]
 }
