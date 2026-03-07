@@ -1,55 +1,13 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-03-07T22:43:17.637Z",
+  "total_matches": 63,
+  "updated_at": "2026-03-07T23:17:12.203Z",
   "matches": [
-    {
-      "name": "Aguilas Doradas vs Atl. Nacional lúc 04:00",
-      "link": "/truc-tiep/aguilas-doradas-vs-atl-nacional-luc-0400-ngay-08-03-2026/",
-      "runtime": 1772917200,
-      "datetime": "2026-03-07T21:00:00.000Z"
-    },
-    {
-      "name": "Audax Italiano vs Colo Colo lúc 04:00",
-      "link": "/truc-tiep/audax-italiano-vs-colo-colo-luc-0400-ngay-08-03-2026/",
-      "runtime": 1772917200,
-      "datetime": "2026-03-07T21:00:00.000Z"
-    },
-    {
-      "name": "Zamora Barinas vs Carabobo lúc 04:00",
-      "link": "/truc-tiep/zamora-barinas-vs-carabobo-luc-0400-ngay-08-03-2026/",
-      "runtime": 1772917200,
-      "datetime": "2026-03-07T21:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Mixco vs Guastatoya lúc 04:00",
-      "link": "/truc-tiep/deportivo-mixco-vs-guastatoya-luc-0400-ngay-08-03-2026/",
-      "runtime": 1772917200,
-      "datetime": "2026-03-07T21:00:00.000Z"
-    },
-    {
-      "name": "Pinheiros Sao Paolo vs Fortaleza B. C. lúc 04:00",
-      "link": "/truc-tiep/pinheiros-sao-paolo-vs-fortaleza-b-c-luc-0400-ngay-08-03-2026/",
-      "runtime": 1772917200,
-      "datetime": "2026-03-07T21:00:00.000Z"
-    },
-    {
-      "name": "Pato vs Corinthians lúc 04:00",
-      "link": "/truc-tiep/pato-vs-corinthians-luc-0400-ngay-08-03-2026/",
-      "runtime": 1772917200,
-      "datetime": "2026-03-07T21:00:00.000Z"
-    },
     {
       "name": "Novak Djokovic vs Kamil Majchrzak lúc 04:00 | VIC",
       "link": "/truc-tiep/novak-djokovic-vs-kamil-majchrzak-luc-0400-ngay-08-03-2026/",
       "runtime": 1772917200,
       "datetime": "2026-03-07T21:00:00.000Z"
-    },
-    {
-      "name": "Kayla Day vs Iga Swiatek lúc 04:10",
-      "link": "/truc-tiep/kayla-day-vs-iga-swiatek-luc-0410-ngay-08-03-2026/",
-      "runtime": 1772917800,
-      "datetime": "2026-03-07T21:10:00.000Z"
     },
     {
       "name": "DC United vs Inter Miami lúc 04:30 | FINN",
@@ -362,6 +320,66 @@
       "link": "/truc-tiep/sharks-vs-9z-luc-0730-ngay-08-03-2026/",
       "runtime": 1772929800,
       "datetime": "2026-03-08T00:30:00.000Z"
+    },
+    {
+      "name": "Club Irapuato vs Alebrijes de Oaxaca lúc 08:00",
+      "link": "/truc-tiep/club-irapuato-vs-alebrijes-de-oaxaca-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Walter Ferretti vs Diriangen lúc 08:00",
+      "link": "/truc-tiep/walter-ferretti-vs-diriangen-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Birmingham Legion vs Tampa Bay FC lúc 08:00",
+      "link": "/truc-tiep/birmingham-legion-vs-tampa-bay-fc-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Memphis Grizzlies vs Los Angeles Clippers lúc 08:00 | STEP",
+      "link": "/truc-tiep/memphis-grizzlies-vs-los-angeles-clippers-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Milwaukee Bucks vs Utah Jazz lúc 08:00",
+      "link": "/truc-tiep/milwaukee-bucks-vs-utah-jazz-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Wisconsin Herd vs Mexico City Capitanes lúc 08:00",
+      "link": "/truc-tiep/wisconsin-herd-vs-mexico-city-capitanes-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Sebastian Baez vs Jiri Lehecka lúc 08:00",
+      "link": "/truc-tiep/sebastian-baez-vs-jiri-lehecka-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Nebraska vs Nữ Salt Lake  lúc 08:00",
+      "link": "/truc-tiep/nu-nebraska-vs-nu-salt-lake-luc-0800-ngay-08-03-2026/",
+      "runtime": 1772931600,
+      "datetime": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "name": "Atlas vs Club Guadalajara lúc 08:05",
+      "link": "/truc-tiep/atlas-vs-club-guadalajara-luc-0805-ngay-08-03-2026/",
+      "runtime": 1772931900,
+      "datetime": "2026-03-08T01:05:00.000Z"
+    },
+    {
+      "name": "Pachuca vs Puebla lúc 08:06",
+      "link": "/truc-tiep/pachuca-vs-puebla-luc-0806-ngay-08-03-2026/",
+      "runtime": 1772931960,
+      "datetime": "2026-03-08T01:06:00.000Z"
     }
   ]
 }
