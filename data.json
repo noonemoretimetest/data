@@ -1,55 +1,13 @@
 {
   "success": true,
-  "total_matches": 75,
-  "updated_at": "2026-03-07T06:02:02.954Z",
+  "total_matches": 71,
+  "updated_at": "2026-03-07T06:59:43.192Z",
   "matches": [
-    {
-      "name": "Marcos Giron vs Jakub Mensik lúc 09:30",
-      "link": "/truc-tiep/marcos-giron-vs-jakub-mensik-luc-0930-ngay-07-03-2026/",
-      "runtime": 1772850600,
-      "datetime": "2026-03-07T02:30:00.000Z"
-    },
     {
       "name": "Dayana Yastremska vs Alexandra Eala lúc 10:10",
       "link": "/truc-tiep/dayana-yastremska-vs-alexandra-eala-luc-1010-ngay-07-03-2026/",
       "runtime": 1772853000,
       "datetime": "2026-03-07T03:10:00.000Z"
-    },
-    {
-      "name": "Zonkeys de Tijuana vs Pioneros de Los Mochis lúc 11:00",
-      "link": "/truc-tiep/zonkeys-de-tijuana-vs-pioneros-de-los-mochis-luc-1100-ngay-07-03-2026/",
-      "runtime": 1772856000,
-      "datetime": "2026-03-07T04:00:00.000Z"
-    },
-    {
-      "name": "Yangon Galacticos vs Cloud Rising lúc 11:00",
-      "link": "/truc-tiep/yangon-galacticos-vs-cloud-rising-luc-1100-ngay-07-03-2026/",
-      "runtime": 1772856000,
-      "datetime": "2026-03-07T04:00:00.000Z"
-    },
-    {
-      "name": "Nữ PFU Blue Cats vs Nữ Red Rockets lúc 11:05",
-      "link": "/truc-tiep/nu-pfu-blue-cats-vs-nu-red-rockets-luc-1105-ngay-07-03-2026/",
-      "runtime": 1772856300,
-      "datetime": "2026-03-07T04:05:00.000Z"
-    },
-    {
-      "name": "Nữ Body Queenseis vs Nữ JT Marvelous lúc 11:05",
-      "link": "/truc-tiep/nu-body-queenseis-vs-nu-jt-marvelous-luc-1105-ngay-07-03-2026/",
-      "runtime": 1772856300,
-      "datetime": "2026-03-07T04:05:00.000Z"
-    },
-    {
-      "name": "Adelaide Comets FC vs Campbelltown SC lúc 11:30",
-      "link": "/truc-tiep/adelaide-comets-fc-vs-campbelltown-sc-luc-1130-ngay-07-03-2026/",
-      "runtime": 1772857800,
-      "datetime": "2026-03-07T04:30:00.000Z"
-    },
-    {
-      "name": "Hills Knights SC vs West Birkalla lúc 11:30",
-      "link": "/truc-tiep/hills-knights-sc-vs-west-birkalla-luc-1130-ngay-07-03-2026/",
-      "runtime": 1772857800,
-      "datetime": "2026-03-07T04:30:00.000Z"
     },
     {
       "name": "Nữ Đài Loan vs Nữ Việt Nam lúc 12:00 | BRUCE",
@@ -148,18 +106,6 @@
       "datetime": "2026-03-07T05:00:00.000Z"
     },
     {
-      "name": "Suwon KEPCO Vixtorm vs Samsung Blue Fangs lúc 12:00",
-      "link": "/truc-tiep/suwon-kepco-vixtorm-vs-samsung-blue-fangs-luc-1200-ngay-07-03-2026/",
-      "runtime": 1772859600,
-      "datetime": "2026-03-07T05:00:00.000Z"
-    },
-    {
-      "name": "Nagano vs FC Tokyo lúc 12:05",
-      "link": "/truc-tiep/nagano-vs-fc-tokyo-luc-1205-ngay-07-03-2026/",
-      "runtime": 1772859900,
-      "datetime": "2026-03-07T05:05:00.000Z"
-    },
-    {
       "name": "Sturt Lions vs West Adelaide SC lúc 12:30",
       "link": "/truc-tiep/sturt-lions-vs-west-adelaide-sc-luc-1230-ngay-07-03-2026/",
       "runtime": 1772861400,
@@ -222,6 +168,12 @@
     {
       "name": "Macau University vs Chessman Chiba FC lúc 13:00",
       "link": "/truc-tiep/macau-university-vs-chessman-chiba-fc-luc-1300-ngay-07-03-2026/",
+      "runtime": 1772863200,
+      "datetime": "2026-03-07T06:00:00.000Z"
+    },
+    {
+      "name": "A.P.I.A. Leichhardt vs Blacktown City lúc 13:00",
+      "link": "/truc-tiep/a-p-i-a-leichhardt-vs-blacktown-city-luc-1300-ngay-07-03-2026/",
       "runtime": 1772863200,
       "datetime": "2026-03-07T06:00:00.000Z"
     },
@@ -452,6 +404,30 @@
       "link": "/truc-tiep/parivision-vs-yellow-submarine-luc-1500-ngay-07-03-2026/",
       "runtime": 1772870400,
       "datetime": "2026-03-07T08:00:00.000Z"
+    },
+    {
+      "name": "Metrostars SC vs Playford City lúc 15:30",
+      "link": "/truc-tiep/metrostars-sc-vs-playford-city-luc-1530-ngay-07-03-2026/",
+      "runtime": 1772872200,
+      "datetime": "2026-03-07T08:30:00.000Z"
+    },
+    {
+      "name": "Rockdale City Suns vs Sydney Olympic lúc 15:30 | LOGAN",
+      "link": "/truc-tiep/rockdale-city-suns-vs-sydney-olympic-luc-1530-ngay-07-03-2026/",
+      "runtime": 1772872200,
+      "datetime": "2026-03-07T08:30:00.000Z"
+    },
+    {
+      "name": "Sydney FC vs Melbourne Victory lúc 15:35 | LOUIS",
+      "link": "/truc-tiep/sydney-fc-vs-melbourne-victory-luc-1535-ngay-07-03-2026/",
+      "runtime": 1772872500,
+      "datetime": "2026-03-07T08:35:00.000Z"
+    },
+    {
+      "name": "Mohammedan Dhaka vs Fortis FC lúc 15:45",
+      "link": "/truc-tiep/mohammedan-dhaka-vs-fortis-fc-luc-1545-ngay-07-03-2026/",
+      "runtime": 1772873100,
+      "datetime": "2026-03-07T08:45:00.000Z"
     }
   ]
 }
