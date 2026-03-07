@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 56,
-  "updated_at": "2026-03-07T04:49:42.061Z",
+  "total_matches": 66,
+  "updated_at": "2026-03-07T05:34:49.155Z",
   "matches": [
     {
       "name": "Zomblers vs Mythic lúc 07:30",
@@ -10,70 +10,16 @@
       "datetime": "2026-03-07T00:30:00.000Z"
     },
     {
-      "name": "Iva Jovic vs Maria Camila Osorio Serrano lúc 09:00",
-      "link": "/truc-tiep/iva-jovic-vs-maria-camila-osorio-serrano-luc-0900-ngay-07-03-2026/",
-      "runtime": 1772848800,
-      "datetime": "2026-03-07T02:00:00.000Z"
-    },
-    {
-      "name": "San Antonio Spurs vs Los Angeles Clippers lúc 09:30 | ALAN",
-      "link": "/truc-tiep/san-antonio-spurs-vs-los-angeles-clippers-luc-0930-ngay-07-03-2026/",
-      "runtime": 1772850600,
-      "datetime": "2026-03-07T02:30:00.000Z"
-    },
-    {
       "name": "Marcos Giron vs Jakub Mensik lúc 09:30",
       "link": "/truc-tiep/marcos-giron-vs-jakub-mensik-luc-0930-ngay-07-03-2026/",
       "runtime": 1772850600,
       "datetime": "2026-03-07T02:30:00.000Z"
     },
     {
-      "name": "Necaxa vs Pumas U.N.A.M. lúc 10:00 | MON",
-      "link": "/truc-tiep/necaxa-vs-pumas-u-n-a-m-luc-1000-ngay-07-03-2026/",
-      "runtime": 1772852400,
-      "datetime": "2026-03-07T03:00:00.000Z"
-    },
-    {
-      "name": "Lambton Jarvis vs Broadmeadow Magic lúc 10:00",
-      "link": "/truc-tiep/lambton-jarvis-vs-broadmeadow-magic-luc-1000-ngay-07-03-2026/",
-      "runtime": 1772852400,
-      "datetime": "2026-03-07T03:00:00.000Z"
-    },
-    {
-      "name": "Santa Cruz Warriors vs South Bay Lakers lúc 10:00",
-      "link": "/truc-tiep/santa-cruz-warriors-vs-south-bay-lakers-luc-1000-ngay-07-03-2026/",
-      "runtime": 1772852400,
-      "datetime": "2026-03-07T03:00:00.000Z"
-    },
-    {
-      "name": "Zizou Bergs vs Tommy Paul lúc 10:10 | LUCAS",
-      "link": "/truc-tiep/zizou-bergs-vs-tommy-paul-luc-1010-ngay-07-03-2026/",
-      "runtime": 1772853000,
-      "datetime": "2026-03-07T03:10:00.000Z"
-    },
-    {
       "name": "Dayana Yastremska vs Alexandra Eala lúc 10:10",
       "link": "/truc-tiep/dayana-yastremska-vs-alexandra-eala-luc-1010-ngay-07-03-2026/",
       "runtime": 1772853000,
       "datetime": "2026-03-07T03:10:00.000Z"
-    },
-    {
-      "name": "LAN Thurston vs South Hobart lúc 10:30",
-      "link": "/truc-tiep/lan-thurston-vs-south-hobart-luc-1030-ngay-07-03-2026/",
-      "runtime": 1772854200,
-      "datetime": "2026-03-07T03:30:00.000Z"
-    },
-    {
-      "name": "Ulverstone vs Devonport City lúc 10:30",
-      "link": "/truc-tiep/ulverstone-vs-devonport-city-luc-1030-ngay-07-03-2026/",
-      "runtime": 1772854200,
-      "datetime": "2026-03-07T03:30:00.000Z"
-    },
-    {
-      "name": "Kingborough Lions vs Riverside Olympic lúc 10:30",
-      "link": "/truc-tiep/kingborough-lions-vs-riverside-olympic-luc-1030-ngay-07-03-2026/",
-      "runtime": 1772854200,
-      "datetime": "2026-03-07T03:30:00.000Z"
     },
     {
       "name": "Nữ Northern Tigers vs Nữ Gladesville Ravens lúc 10:30",
@@ -338,6 +284,120 @@
       "link": "/truc-tiep/kaohsiung-aquas-vs-formosa-dreamers-luc-1330-ngay-07-03-2026/",
       "runtime": 1772865000,
       "datetime": "2026-03-07T06:30:00.000Z"
+    },
+    {
+      "name": "Kashima Antlers vs Tokyo Verdy lúc 14:00 | ASTRA",
+      "link": "/truc-tiep/kashima-antlers-vs-tokyo-verdy-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Avispa Fukuoka vs Nagoya Grampus lúc 14:00 | MON",
+      "link": "/truc-tiep/avispa-fukuoka-vs-nagoya-grampus-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Capalaba Bulldogs vs Logan Lightning lúc 14:00",
+      "link": "/truc-tiep/capalaba-bulldogs-vs-logan-lightning-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Zhaotong Team vs Dali Team lúc 14:00",
+      "link": "/truc-tiep/zhaotong-team-vs-dali-team-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Lijiang Team vs Xishuangbanna Team lúc 14:00",
+      "link": "/truc-tiep/lijiang-team-vs-xishuangbanna-team-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Eastern AA vs Eastern District lúc 14:00",
+      "link": "/truc-tiep/eastern-aa-vs-eastern-district-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Nữ GS Caltex vs Nữ Expressway Co lúc 14:00",
+      "link": "/truc-tiep/nu-gs-caltex-vs-nu-expressway-co-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Carstensz Esports vs Cloud Dawning lúc 14:00",
+      "link": "/truc-tiep/carstensz-esports-vs-cloud-dawning-luc-1400-ngay-07-03-2026/",
+      "runtime": 1772866800,
+      "datetime": "2026-03-07T07:00:00.000Z"
+    },
+    {
+      "name": "Altona Magic vs St Albans Saints lúc 14:15",
+      "link": "/truc-tiep/altona-magic-vs-st-albans-saints-luc-1415-ngay-07-03-2026/",
+      "runtime": 1772867700,
+      "datetime": "2026-03-07T07:15:00.000Z"
+    },
+    {
+      "name": "University NSW vs Marconi Stallions lúc 14:15",
+      "link": "/truc-tiep/university-nsw-vs-marconi-stallions-luc-1415-ngay-07-03-2026/",
+      "runtime": 1772867700,
+      "datetime": "2026-03-07T07:15:00.000Z"
+    },
+    {
+      "name": "Bucheon 1995 vs Daejeon Citizen lúc 14:30 | ZIZU",
+      "link": "/truc-tiep/bucheon-1995-vs-daejeon-citizen-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "Gwangju FC vs Incheon United lúc 14:30 | HELLO",
+      "link": "/truc-tiep/gwangju-fc-vs-incheon-united-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "Shandong Taishan vs Liaoning Tieren lúc 14:30",
+      "link": "/truc-tiep/shandong-taishan-vs-liaoning-tieren-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "Suwon FC vs Yongin FC lúc 14:30 | TONI",
+      "link": "/truc-tiep/suwon-fc-vs-yongin-fc-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "Daegu FC vs Jeonnam Dragons lúc 14:30",
+      "link": "/truc-tiep/daegu-fc-vs-jeonnam-dragons-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "St George Saints vs Manly United lúc 14:30",
+      "link": "/truc-tiep/st-george-saints-vs-manly-united-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "Baoshan Team vs Yuxi Team lúc 14:30",
+      "link": "/truc-tiep/baoshan-team-vs-yuxi-team-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "Tianjin Jinmen Tiger vs Tongliang Long FC lúc 14:30 | ZARA",
+      "link": "/truc-tiep/tianjin-jinmen-tiger-vs-tongliang-long-fc-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
+    },
+    {
+      "name": "Anyang JungKwanJang vs Daegu KOGAS lúc 14:30 | TOMMY",
+      "link": "/truc-tiep/anyang-jungkwanjang-vs-daegu-kogas-luc-1430-ngay-07-03-2026/",
+      "runtime": 1772868600,
+      "datetime": "2026-03-07T07:30:00.000Z"
     }
   ]
 }
