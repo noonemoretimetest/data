@@ -1,43 +1,13 @@
 {
   "success": true,
-  "total_matches": 71,
-  "updated_at": "2026-03-07T20:18:39.602Z",
+  "total_matches": 67,
+  "updated_at": "2026-03-07T20:43:34.611Z",
   "matches": [
-    {
-      "name": "Wrexham vs Chelsea lúc 00:45 | BRUCE",
-      "link": "/truc-tiep/wrexham-vs-chelsea-luc-0045-ngay-08-03-2026/",
-      "runtime": 1772905500,
-      "datetime": "2026-03-07T17:45:00.000Z"
-    },
     {
       "name": "Ex  Zero Tenacity vs HAVU lúc 01:00",
       "link": "/truc-tiep/ex-zero-tenacity-vs-havu-luc-0100-ngay-08-03-2026/",
       "runtime": 1772906400,
       "datetime": "2026-03-07T18:00:00.000Z"
-    },
-    {
-      "name": "Ujpest FC vs Paksi FC lúc 01:30",
-      "link": "/truc-tiep/ujpest-fc-vs-paksi-fc-luc-0130-ngay-08-03-2026/",
-      "runtime": 1772908200,
-      "datetime": "2026-03-07T18:30:00.000Z"
-    },
-    {
-      "name": "Modena vs Cesena lúc 01:30",
-      "link": "/truc-tiep/modena-vs-cesena-luc-0130-ngay-08-03-2026/",
-      "runtime": 1772908200,
-      "datetime": "2026-03-07T18:30:00.000Z"
-    },
-    {
-      "name": "Nữ Hy Lạp vs Nữ Faroe Islands lúc 01:30",
-      "link": "/truc-tiep/nu-hy-lap-vs-nu-faroe-islands-luc-0130-ngay-08-03-2026/",
-      "runtime": 1772908200,
-      "datetime": "2026-03-07T18:30:00.000Z"
-    },
-    {
-      "name": "Chrobry Glogow vs Pogon Grodzisk lúc 01:30",
-      "link": "/truc-tiep/chrobry-glogow-vs-pogon-grodzisk-luc-0130-ngay-08-03-2026/",
-      "runtime": 1772908200,
-      "datetime": "2026-03-07T18:30:00.000Z"
     },
     {
       "name": "9INE vs fnatic lúc 01:30",
@@ -428,6 +398,12 @@
       "link": "/truc-tiep/santa-cruz-ac-vs-senador-guiomard-luc-0515-ngay-08-03-2026/",
       "runtime": 1772921700,
       "datetime": "2026-03-07T22:15:00.000Z"
+    },
+    {
+      "name": "Ohio State vs Indiana lúc 05:30",
+      "link": "/truc-tiep/ohio-state-vs-indiana-luc-0530-ngay-08-03-2026/",
+      "runtime": 1772922600,
+      "datetime": "2026-03-07T22:30:00.000Z"
     }
   ]
 }
