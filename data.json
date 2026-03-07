@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 79,
-  "updated_at": "2026-03-07T17:16:50.257Z",
+  "total_matches": 78,
+  "updated_at": "2026-03-07T17:40:22.472Z",
   "matches": [
     {
       "name": "Nữ Serbia vs Nữ Thụy Điển lúc 22:00",
@@ -14,48 +14,6 @@
       "link": "/truc-tiep/nightbirds-vs-brute-luc-2200-ngay-07-03-2026/",
       "runtime": 1772895600,
       "datetime": "2026-03-07T15:00:00.000Z"
-    },
-    {
-      "name": "Levante vs  Girona lúc 22:15 | ZIZU",
-      "link": "/truc-tiep/levante-vs-girona-luc-2215-ngay-07-03-2026/",
-      "runtime": 1772896500,
-      "datetime": "2026-03-07T15:15:00.000Z"
-    },
-    {
-      "name": "Real Sociedad B vs Castellon lúc 22:15",
-      "link": "/truc-tiep/real-sociedad-b-vs-castellon-luc-2215-ngay-07-03-2026/",
-      "runtime": 1772896500,
-      "datetime": "2026-03-07T15:15:00.000Z"
-    },
-    {
-      "name": "Groningen vs AFC Ajax lúc 22:30 | MON",
-      "link": "/truc-tiep/groningen-vs-afc-ajax-luc-2230-ngay-07-03-2026/",
-      "runtime": 1772897400,
-      "datetime": "2026-03-07T15:30:00.000Z"
-    },
-    {
-      "name": "Alverca vs AVS Futebol  lúc 22:30 | HELLO",
-      "link": "/truc-tiep/alverca-vs-avs-futebol-luc-2230-ngay-07-03-2026/",
-      "runtime": 1772897400,
-      "datetime": "2026-03-07T15:30:00.000Z"
-    },
-    {
-      "name": "Moreirense vs CD Nacional lúc 22:30 | JAY",
-      "link": "/truc-tiep/moreirense-vs-cd-nacional-luc-2230-ngay-07-03-2026/",
-      "runtime": 1772897400,
-      "datetime": "2026-03-07T15:30:00.000Z"
-    },
-    {
-      "name": "Botev Vratsa vs Arda lúc 22:30 | LOGAN",
-      "link": "/truc-tiep/botev-vratsa-vs-arda-luc-2230-ngay-07-03-2026/",
-      "runtime": 1772897400,
-      "datetime": "2026-03-07T15:30:00.000Z"
-    },
-    {
-      "name": "FK Isloch Minsk vs Dinamo Minsk lúc 22:30",
-      "link": "/truc-tiep/fk-isloch-minsk-vs-dinamo-minsk-luc-2230-ngay-07-03-2026/",
-      "runtime": 1772897400,
-      "datetime": "2026-03-07T15:30:00.000Z"
     },
     {
       "name": "FC Nantes vs Angers lúc 23:00 | KEN",
@@ -234,12 +192,6 @@
     {
       "name": "Arctic Pandas vs Verdant lúc 00:00",
       "link": "/truc-tiep/arctic-pandas-vs-verdant-luc-0000-ngay-08-03-2026/",
-      "runtime": 1772902800,
-      "datetime": "2026-03-07T17:00:00.000Z"
-    },
-    {
-      "name": "Team Yandex  vs Heroic lúc 00:00",
-      "link": "/truc-tiep/team-yandex-vs-heroic-luc-0000-ngay-08-03-2026/",
       "runtime": 1772902800,
       "datetime": "2026-03-07T17:00:00.000Z"
     },
@@ -476,6 +428,48 @@
       "link": "/truc-tiep/widzew-lodz-vs-lech-poznan-luc-0215-ngay-08-03-2026/",
       "runtime": 1772910900,
       "datetime": "2026-03-07T19:15:00.000Z"
+    },
+    {
+      "name": "VfL Bochum vs Kaiserslautern lúc 02:30 | JAY",
+      "link": "/truc-tiep/vfl-bochum-vs-kaiserslautern-luc-0230-ngay-08-03-2026/",
+      "runtime": 1772911800,
+      "datetime": "2026-03-07T19:30:00.000Z"
+    },
+    {
+      "name": "Lugano vs Luzern lúc 02:30",
+      "link": "/truc-tiep/lugano-vs-luzern-luc-0230-ngay-08-03-2026/",
+      "runtime": 1772911800,
+      "datetime": "2026-03-07T19:30:00.000Z"
+    },
+    {
+      "name": "Kahraba Ismailia vs Enppi lúc 02:30",
+      "link": "/truc-tiep/kahraba-ismailia-vs-enppi-luc-0230-ngay-08-03-2026/",
+      "runtime": 1772911800,
+      "datetime": "2026-03-07T19:30:00.000Z"
+    },
+    {
+      "name": "Ghazl El Mahallah vs Pharco lúc 02:30",
+      "link": "/truc-tiep/ghazl-el-mahallah-vs-pharco-luc-0230-ngay-08-03-2026/",
+      "runtime": 1772911800,
+      "datetime": "2026-03-07T19:30:00.000Z"
+    },
+    {
+      "name": "New York City vs Orlando City lúc 02:30 | ZARA",
+      "link": "/truc-tiep/new-york-city-vs-orlando-city-luc-0230-ngay-08-03-2026/",
+      "runtime": 1772911800,
+      "datetime": "2026-03-07T19:30:00.000Z"
+    },
+    {
+      "name": "Smouha SC vs Future FC lúc 02:30",
+      "link": "/truc-tiep/smouha-sc-vs-future-fc-luc-0230-ngay-08-03-2026/",
+      "runtime": 1772911800,
+      "datetime": "2026-03-07T19:30:00.000Z"
+    },
+    {
+      "name": "Akane Yamaguchi vs Wang Zhiyi lúc 02:30",
+      "link": "/truc-tiep/akane-yamaguchi-vs-wang-zhiyi-luc-0230-ngay-08-03-2026/",
+      "runtime": 1772911800,
+      "datetime": "2026-03-07T19:30:00.000Z"
     }
   ]
 }
