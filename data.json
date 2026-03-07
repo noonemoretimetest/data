@@ -1,19 +1,13 @@
 {
   "success": true,
-  "total_matches": 83,
-  "updated_at": "2026-03-07T11:15:17.077Z",
+  "total_matches": 87,
+  "updated_at": "2026-03-07T11:34:22.806Z",
   "matches": [
     {
       "name": "Carstensz Esports vs Cloud Dawning lúc 14:00",
       "link": "/truc-tiep/carstensz-esports-vs-cloud-dawning-luc-1400-ngay-07-03-2026/",
       "runtime": 1772866800,
       "datetime": "2026-03-07T07:00:00.000Z"
-    },
-    {
-      "name": "Rising Gaming vs Clocks lúc 15:00",
-      "link": "/truc-tiep/rising-gaming-vs-clocks-luc-1500-ngay-07-03-2026/",
-      "runtime": 1772870400,
-      "datetime": "2026-03-07T08:00:00.000Z"
     },
     {
       "name": "Taiwan Beer Leopards vs Hsinchu Lioneers lúc 16:00 | ALAN",
@@ -500,6 +494,36 @@
       "link": "/truc-tiep/kuching-city-fc-vs-sabah-luc-2015-ngay-07-03-2026/",
       "runtime": 1772889300,
       "datetime": "2026-03-07T13:15:00.000Z"
+    },
+    {
+      "name": "Persita vs Madura United lúc 20:30 | TONI",
+      "link": "/truc-tiep/persita-vs-madura-united-luc-2030-ngay-07-03-2026/",
+      "runtime": 1772890200,
+      "datetime": "2026-03-07T13:30:00.000Z"
+    },
+    {
+      "name": "Nữ Hungary vs Nữ Azerbaijan lúc 20:30",
+      "link": "/truc-tiep/nu-hungary-vs-nu-azerbaijan-luc-2030-ngay-07-03-2026/",
+      "runtime": 1772890200,
+      "datetime": "2026-03-07T13:30:00.000Z"
+    },
+    {
+      "name": "Obolon Kyiv vs Kryvbas lúc 20:30",
+      "link": "/truc-tiep/obolon-kyiv-vs-kryvbas-luc-2030-ngay-07-03-2026/",
+      "runtime": 1772890200,
+      "datetime": "2026-03-07T13:30:00.000Z"
+    },
+    {
+      "name": "Borneo FC vs Persebaya lúc 20:30",
+      "link": "/truc-tiep/borneo-fc-vs-persebaya-luc-2030-ngay-07-03-2026/",
+      "runtime": 1772890200,
+      "datetime": "2026-03-07T13:30:00.000Z"
+    },
+    {
+      "name": "Ordabasy vs Irtysh Pavlodar lúc 20:30",
+      "link": "/truc-tiep/ordabasy-vs-irtysh-pavlodar-luc-2030-ngay-07-03-2026/",
+      "runtime": 1772890200,
+      "datetime": "2026-03-07T13:30:00.000Z"
     }
   ]
 }
