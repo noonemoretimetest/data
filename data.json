@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 86,
-  "updated_at": "2026-03-07T14:26:36.718Z",
+  "total_matches": 84,
+  "updated_at": "2026-03-07T14:53:48.369Z",
   "matches": [
     {
       "name": "Lakshya Sen vs Victor Lai lúc 19:00",
@@ -14,36 +14,6 @@
       "link": "/truc-tiep/lazer-cats-vs-novaq-luc-1900-ngay-07-03-2026/",
       "runtime": 1772884800,
       "datetime": "2026-03-07T12:00:00.000Z"
-    },
-    {
-      "name": "Hull City vs Millwall lúc 19:30 | KEN",
-      "link": "/truc-tiep/hull-city-vs-millwall-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
-    },
-    {
-      "name": "Lion City vs Geylang United lúc 19:30",
-      "link": "/truc-tiep/lion-city-vs-geylang-united-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
-    },
-    {
-      "name": "Nakhon Ratchasima vs Buriram United lúc 19:30 | LOGAN",
-      "link": "/truc-tiep/nakhon-ratchasima-vs-buriram-united-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
-    },
-    {
-      "name": "Metaloglobus vs UTA Arad lúc 19:30",
-      "link": "/truc-tiep/metaloglobus-vs-uta-arad-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
-    },
-    {
-      "name": "Parnu JK Vaprus vs Paide Linnameeskond lúc 19:30",
-      "link": "/truc-tiep/parnu-jk-vaprus-vs-paide-linnameeskond-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
     },
     {
       "name": "Nữ Goztepe vs Nữ Fenerbahce lúc 19:30",
@@ -60,12 +30,6 @@
     {
       "name": "Osasuna vs RCD Mallorca lúc 20:00 | MAX",
       "link": "/truc-tiep/osasuna-vs-rcd-mallorca-luc-2000-ngay-07-03-2026/",
-      "runtime": 1772888400,
-      "datetime": "2026-03-07T13:00:00.000Z"
-    },
-    {
-      "name": "Septemvri Sofia vs Cherno More Varna lúc 20:00 | JAY",
-      "link": "/truc-tiep/septemvri-sofia-vs-cherno-more-varna-luc-2000-ngay-07-03-2026/",
       "runtime": 1772888400,
       "datetime": "2026-03-07T13:00:00.000Z"
     },
@@ -518,6 +482,30 @@
       "link": "/truc-tiep/venezia-vs-bc-reggiana-1919-luc-2315-ngay-07-03-2026/",
       "runtime": 1772900100,
       "datetime": "2026-03-07T16:15:00.000Z"
+    },
+    {
+      "name": "Piast Gliwice vs Zaglebie Lubin lúc 23:30",
+      "link": "/truc-tiep/piast-gliwice-vs-zaglebie-lubin-luc-2330-ngay-07-03-2026/",
+      "runtime": 1772901000,
+      "datetime": "2026-03-07T16:30:00.000Z"
+    },
+    {
+      "name": "NS Mura vs ND Primorje lúc 23:30",
+      "link": "/truc-tiep/ns-mura-vs-nd-primorje-luc-2330-ngay-07-03-2026/",
+      "runtime": 1772901000,
+      "datetime": "2026-03-07T16:30:00.000Z"
+    },
+    {
+      "name": "Slask Wroclaw vs Wisla Krakow lúc 23:30",
+      "link": "/truc-tiep/slask-wroclaw-vs-wisla-krakow-luc-2330-ngay-07-03-2026/",
+      "runtime": 1772901000,
+      "datetime": "2026-03-07T16:30:00.000Z"
+    },
+    {
+      "name": "Zawiercie vs Cuprum lúc 23:30",
+      "link": "/truc-tiep/zawiercie-vs-cuprum-luc-2330-ngay-07-03-2026/",
+      "runtime": 1772901000,
+      "datetime": "2026-03-07T16:30:00.000Z"
     }
   ]
 }
