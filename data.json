@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-03-07T21:15:56.929Z",
+  "total_matches": 58,
+  "updated_at": "2026-03-07T21:36:39.977Z",
   "matches": [
     {
       "name": "Ex  Zero Tenacity vs HAVU lúc 01:00",
       "link": "/truc-tiep/ex-zero-tenacity-vs-havu-luc-0100-ngay-08-03-2026/",
       "runtime": 1772906400,
       "datetime": "2026-03-07T18:00:00.000Z"
-    },
-    {
-      "name": "VfL Bochum vs Kaiserslautern lúc 02:30 | JAY",
-      "link": "/truc-tiep/vfl-bochum-vs-kaiserslautern-luc-0230-ngay-08-03-2026/",
-      "runtime": 1772911800,
-      "datetime": "2026-03-07T19:30:00.000Z"
-    },
-    {
-      "name": "Lugano vs Luzern lúc 02:30",
-      "link": "/truc-tiep/lugano-vs-luzern-luc-0230-ngay-08-03-2026/",
-      "runtime": 1772911800,
-      "datetime": "2026-03-07T19:30:00.000Z"
-    },
-    {
-      "name": "Kahraba Ismailia vs Enppi lúc 02:30",
-      "link": "/truc-tiep/kahraba-ismailia-vs-enppi-luc-0230-ngay-08-03-2026/",
-      "runtime": 1772911800,
-      "datetime": "2026-03-07T19:30:00.000Z"
-    },
-    {
-      "name": "Ghazl El Mahallah vs Pharco lúc 02:30",
-      "link": "/truc-tiep/ghazl-el-mahallah-vs-pharco-luc-0230-ngay-08-03-2026/",
-      "runtime": 1772911800,
-      "datetime": "2026-03-07T19:30:00.000Z"
     },
     {
       "name": "New York City vs Orlando City lúc 02:30 | ZARA",
@@ -356,6 +332,24 @@
       "link": "/truc-tiep/marinos-de-anzoaegui-vs-panteras-de-miranda-luc-0600-ngay-08-03-2026/",
       "runtime": 1772924400,
       "datetime": "2026-03-07T23:00:00.000Z"
+    },
+    {
+      "name": "O.Higgins vs Univ Catolica lúc 06:30",
+      "link": "/truc-tiep/o-higgins-vs-univ-catolica-luc-0630-ngay-08-03-2026/",
+      "runtime": 1772926200,
+      "datetime": "2026-03-07T23:30:00.000Z"
+    },
+    {
+      "name": "CA Penarol vs Danubio FC lúc 06:30",
+      "link": "/truc-tiep/ca-penarol-vs-danubio-fc-luc-0630-ngay-08-03-2026/",
+      "runtime": 1772926200,
+      "datetime": "2026-03-07T23:30:00.000Z"
+    },
+    {
+      "name": "Club Libertad vs Sportivo Luqueno lúc 06:30",
+      "link": "/truc-tiep/club-libertad-vs-sportivo-luqueno-luc-0630-ngay-08-03-2026/",
+      "runtime": 1772926200,
+      "datetime": "2026-03-07T23:30:00.000Z"
     }
   ]
 }
