@@ -1,47 +1,11 @@
 {
   "success": true,
-  "total_matches": 85,
-  "updated_at": "2026-03-07T13:58:10.463Z",
+  "total_matches": 86,
+  "updated_at": "2026-03-07T14:26:36.718Z",
   "matches": [
-    {
-      "name": "Darmstadt 98 vs Holstein Kiel lúc 19:00 | EREZ",
-      "link": "/truc-tiep/darmstadt-98-vs-holstein-kiel-luc-1900-ngay-07-03-2026/",
-      "runtime": 1772884800,
-      "datetime": "2026-03-07T12:00:00.000Z"
-    },
-    {
-      "name": "Paderborn 07 vs E.Braunschweig lúc 19:00 | LEE",
-      "link": "/truc-tiep/paderborn-07-vs-e-braunschweig-luc-1900-ngay-07-03-2026/",
-      "runtime": 1772884800,
-      "datetime": "2026-03-07T12:00:00.000Z"
-    },
-    {
-      "name": "Malut United vs PSM Makassar lúc 19:00",
-      "link": "/truc-tiep/malut-united-vs-psm-makassar-luc-1900-ngay-07-03-2026/",
-      "runtime": 1772884800,
-      "datetime": "2026-03-07T12:00:00.000Z"
-    },
-    {
-      "name": "PT Prachuap FC vs Muang Thong Utd lúc 19:00",
-      "link": "/truc-tiep/pt-prachuap-fc-vs-muang-thong-utd-luc-1900-ngay-07-03-2026/",
-      "runtime": 1772884800,
-      "datetime": "2026-03-07T12:00:00.000Z"
-    },
-    {
-      "name": "Chernomorets vs SKA Khabarovsk lúc 19:00",
-      "link": "/truc-tiep/chernomorets-vs-ska-khabarovsk-luc-1900-ngay-07-03-2026/",
-      "runtime": 1772884800,
-      "datetime": "2026-03-07T12:00:00.000Z"
-    },
     {
       "name": "Lakshya Sen vs Victor Lai lúc 19:00",
       "link": "/truc-tiep/lakshya-sen-vs-victor-lai-luc-1900-ngay-07-03-2026/",
-      "runtime": 1772884800,
-      "datetime": "2026-03-07T12:00:00.000Z"
-    },
-    {
-      "name": "Nữ Aydin Bld. Spor vs Nữ Beşiktaş lúc 19:00",
-      "link": "/truc-tiep/nu-aydin-bld-spor-vs-nu-besiktas-luc-1900-ngay-07-03-2026/",
       "runtime": 1772884800,
       "datetime": "2026-03-07T12:00:00.000Z"
     },
@@ -52,38 +16,8 @@
       "datetime": "2026-03-07T12:00:00.000Z"
     },
     {
-      "name": "Mansfield Town vs Arsenal lúc 19:15 | ZIZU",
-      "link": "/truc-tiep/mansfield-town-vs-arsenal-luc-1915-ngay-07-03-2026/",
-      "runtime": 1772885700,
-      "datetime": "2026-03-07T12:15:00.000Z"
-    },
-    {
-      "name": "Suduva vs Transinvest lúc 19:15",
-      "link": "/truc-tiep/suduva-vs-transinvest-luc-1915-ngay-07-03-2026/",
-      "runtime": 1772885700,
-      "datetime": "2026-03-07T12:15:00.000Z"
-    },
-    {
       "name": "Hull City vs Millwall lúc 19:30 | KEN",
       "link": "/truc-tiep/hull-city-vs-millwall-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
-    },
-    {
-      "name": "Blackburn Rovers vs Portsmouth lúc 19:30 | ZARA",
-      "link": "/truc-tiep/blackburn-rovers-vs-portsmouth-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
-    },
-    {
-      "name": "Nữ Anh  vs Nữ Iceland lúc 19:30",
-      "link": "/truc-tiep/nu-anh-vs-nu-iceland-luc-1930-ngay-07-03-2026/",
-      "runtime": 1772886600,
-      "datetime": "2026-03-07T12:30:00.000Z"
-    },
-    {
-      "name": "Nữ Phần Lan vs Nữ Latvia lúc 19:30",
-      "link": "/truc-tiep/nu-phan-lan-vs-nu-latvia-luc-1930-ngay-07-03-2026/",
       "runtime": 1772886600,
       "datetime": "2026-03-07T12:30:00.000Z"
     },
@@ -512,6 +446,78 @@
       "link": "/truc-tiep/nu-xu-wales-vs-nu-montenegro-luc-2230-ngay-07-03-2026/",
       "runtime": 1772897400,
       "datetime": "2026-03-07T15:30:00.000Z"
+    },
+    {
+      "name": "FC Nantes vs Angers lúc 23:00 | KEN",
+      "link": "/truc-tiep/fc-nantes-vs-angers-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Nizhniy Novgorod vs FC Sochi lúc 23:00 | YUNO",
+      "link": "/truc-tiep/nizhniy-novgorod-vs-fc-sochi-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "AEK Athens vs AEL Larisa lúc 23:00 | OLER",
+      "link": "/truc-tiep/aek-athens-vs-ael-larisa-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Zalaegerszegi TE vs Győri ETO FC lúc 23:00",
+      "link": "/truc-tiep/zalaegerszegi-te-vs-gyori-eto-fc-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Moquegua vs Sport Huancayo lúc 23:00",
+      "link": "/truc-tiep/moquegua-vs-sport-huancayo-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Viborg vs Copenhagen lúc 23:00",
+      "link": "/truc-tiep/viborg-vs-copenhagen-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Nữ Bồ Đào Nha vs Nữ Slovakia lúc 23:00 | XMEN",
+      "link": "/truc-tiep/nu-bo-dao-nha-vs-nu-slovakia-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Nữ Bỉ vs Nữ Israel  lúc 23:00",
+      "link": "/truc-tiep/nu-bi-vs-nu-israel-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Nữ Croatia vs Nữ Kosovo lúc 23:00",
+      "link": "/truc-tiep/nu-croatia-vs-nu-kosovo-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Dinamo Batumi vs Gagra FC lúc 23:00",
+      "link": "/truc-tiep/dinamo-batumi-vs-gagra-fc-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "BOMBA Team vs Orzeł Barcząca Esports lúc 23:00",
+      "link": "/truc-tiep/bomba-team-vs-orzel-barczaca-esports-luc-2300-ngay-07-03-2026/",
+      "runtime": 1772899200,
+      "datetime": "2026-03-07T16:00:00.000Z"
+    },
+    {
+      "name": "Venezia vs BC Reggiana 1919 lúc 23:15",
+      "link": "/truc-tiep/venezia-vs-bc-reggiana-1919-luc-2315-ngay-07-03-2026/",
+      "runtime": 1772900100,
+      "datetime": "2026-03-07T16:15:00.000Z"
     }
   ]
 }
