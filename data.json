@@ -1,98 +1,8 @@
 {
   "success": true,
-  "total_matches": 86,
-  "updated_at": "2026-03-07T11:49:43.567Z",
+  "total_matches": 92,
+  "updated_at": "2026-03-07T12:34:26.456Z",
   "matches": [
-    {
-      "name": "Carstensz Esports vs Cloud Dawning lúc 14:00",
-      "link": "/truc-tiep/carstensz-esports-vs-cloud-dawning-luc-1400-ngay-07-03-2026/",
-      "runtime": 1772866800,
-      "datetime": "2026-03-07T07:00:00.000Z"
-    },
-    {
-      "name": "NAVI Junior vs HEROIC Academy lúc 16:00",
-      "link": "/truc-tiep/navi-junior-vs-heroic-academy-luc-1600-ngay-07-03-2026/",
-      "runtime": 1772874000,
-      "datetime": "2026-03-07T09:00:00.000Z"
-    },
-    {
-      "name": "Hoàng Anh Gia Lai vs Hồ Chí Minh lúc 17:00 | KEN",
-      "link": "/truc-tiep/hoang-anh-gia-lai-vs-ho-chi-minh-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Kuban Krasnodar vs Alania Vladikavkaz lúc 17:00",
-      "link": "/truc-tiep/kuban-krasnodar-vs-alania-vladikavkaz-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Napoli U20 vs Sassuolo U20 lúc 17:00",
-      "link": "/truc-tiep/napoli-u20-vs-sassuolo-u20-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Zenit II  vs Dinamo Briansk lúc 17:00",
-      "link": "/truc-tiep/zenit-ii-vs-dinamo-briansk-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Galatasaray S.K. vs Turk Telekom lúc 17:00",
-      "link": "/truc-tiep/galatasaray-s-k-vs-turk-telekom-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Siddhant Banthia/Alexander Donski vs Jay Clarke/Max Houkes lúc 17:00",
-      "link": "/truc-tiep/siddhant-banthia-alexander-donski-vs-jay-clarke-max-houkes-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Estelle Cascino/Nicole Fossa Huergo vs Miriam Kolodziejova/Jesika Maleckova lúc 17:00",
-      "link": "/truc-tiep/estelle-cascino-nicole-fossa-huergo-vs-miriam-kolodziejova-jesika-maleckova-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "TVF Spor Lisesi vs Duzce lúc 17:00",
-      "link": "/truc-tiep/tvf-spor-lisesi-vs-duzce-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Ngựa Hí Esports vs SN CyberCore Esports lúc 17:00",
-      "link": "/truc-tiep/ngua-hi-esports-vs-sn-cybercore-esports-luc-1700-ngay-07-03-2026/",
-      "runtime": 1772877600,
-      "datetime": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "name": "Lin Chun-yi vs Kunlavut Vitidsarn lúc 17:20",
-      "link": "/truc-tiep/lin-chun-yi-vs-kunlavut-vitidsarn-luc-1720-ngay-07-03-2026/",
-      "runtime": 1772878800,
-      "datetime": "2026-03-07T10:20:00.000Z"
-    },
-    {
-      "name": "Sivasspor vs Keciorengucu lúc 17:30",
-      "link": "/truc-tiep/sivasspor-vs-keciorengucu-luc-1730-ngay-07-03-2026/",
-      "runtime": 1772879400,
-      "datetime": "2026-03-07T10:30:00.000Z"
-    },
-    {
-      "name": "Erzurum BB vs Manisa FK lúc 17:30",
-      "link": "/truc-tiep/erzurum-bb-vs-manisa-fk-luc-1730-ngay-07-03-2026/",
-      "runtime": 1772879400,
-      "datetime": "2026-03-07T10:30:00.000Z"
-    },
-    {
-      "name": "FC Flora Tallinn vs FC Nomme United lúc 17:30",
-      "link": "/truc-tiep/fc-flora-tallinn-vs-fc-nomme-united-luc-1730-ngay-07-03-2026/",
-      "runtime": 1772879400,
-      "datetime": "2026-03-07T10:30:00.000Z"
-    },
     {
       "name": "Tai Po vs Kitchee lúc 17:30",
       "link": "/truc-tiep/tai-po-vs-kitchee-luc-1730-ngay-07-03-2026/",
@@ -174,12 +84,6 @@
     {
       "name": "Dangkor Senchey vs Kirivong Chey lúc 18:00",
       "link": "/truc-tiep/dangkor-senchey-vs-kirivong-chey-luc-1800-ngay-07-03-2026/",
-      "runtime": 1772881200,
-      "datetime": "2026-03-07T11:00:00.000Z"
-    },
-    {
-      "name": "Onikisubat vs Fenerbahce 2 lúc 18:00",
-      "link": "/truc-tiep/onikisubat-vs-fenerbahce-2-luc-1800-ngay-07-03-2026/",
       "runtime": 1772881200,
       "datetime": "2026-03-07T11:00:00.000Z"
     },
@@ -518,6 +422,138 @@
       "link": "/truc-tiep/korona-kielce-vs-lks-nieciecza-luc-2045-ngay-07-03-2026/",
       "runtime": 1772891100,
       "datetime": "2026-03-07T13:45:00.000Z"
+    },
+    {
+      "name": "Cagliari vs Como lúc 21:00 | LOUIS",
+      "link": "/truc-tiep/cagliari-vs-como-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Negeri Sembilan vs Penang FC lúc 21:00",
+      "link": "/truc-tiep/negeri-sembilan-vs-penang-fc-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Kuala Lumpur FC vs Melaka FC lúc 21:00",
+      "link": "/truc-tiep/kuala-lumpur-fc-vs-melaka-fc-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Nữ North Macedonia vs Nữ Andorra lúc 21:00",
+      "link": "/truc-tiep/nu-north-macedonia-vs-nu-andorra-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "FK Liepaja vs Riga FC lúc 21:00",
+      "link": "/truc-tiep/fk-liepaja-vs-riga-fc-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Bohemians 1905 vs Slovan Liberec lúc 21:00",
+      "link": "/truc-tiep/bohemians-1905-vs-slovan-liberec-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Spezia vs Monza lúc 21:00",
+      "link": "/truc-tiep/spezia-vs-monza-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "SudTirol vs ACD Virtus Entella lúc 21:00",
+      "link": "/truc-tiep/sudtirol-vs-acd-virtus-entella-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Habitpharm Javor vs Cukaricki Stankom lúc 21:00",
+      "link": "/truc-tiep/habitpharm-javor-vs-cukaricki-stankom-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Avellino vs Padova lúc 21:00",
+      "link": "/truc-tiep/avellino-vs-padova-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Kerala Blasters FC vs Chennaiyin FC lúc 21:00",
+      "link": "/truc-tiep/kerala-blasters-fc-vs-chennaiyin-fc-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Alashkert vs Ararat-Armenia  lúc 21:00",
+      "link": "/truc-tiep/alashkert-vs-ararat-armenia-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "CSKA Moscow vs Barnaul lúc 21:00",
+      "link": "/truc-tiep/cska-moscow-vs-barnaul-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "Team Falcons vs Team Nemesis lúc 21:00",
+      "link": "/truc-tiep/team-falcons-vs-team-nemesis-luc-2100-ngay-07-03-2026/",
+      "runtime": 1772892000,
+      "datetime": "2026-03-07T14:00:00.000Z"
+    },
+    {
+      "name": "SC Freiburg vs Bayer Leverkusen lúc 21:30 | BRUCE",
+      "link": "/truc-tiep/sc-freiburg-vs-bayer-leverkusen-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
+    },
+    {
+      "name": "Heidenheim vs TSG Hoffenheim lúc 21:30 | RYAN",
+      "link": "/truc-tiep/heidenheim-vs-tsg-hoffenheim-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
+    },
+    {
+      "name": "Mainz 05 vs VfB Stuttgart lúc 21:30 | ASTRA",
+      "link": "/truc-tiep/mainz-05-vs-vfb-stuttgart-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
+    },
+    {
+      "name": "RB Leipzig vs Augsburg lúc 21:30 | FINN",
+      "link": "/truc-tiep/rb-leipzig-vs-augsburg-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
+    },
+    {
+      "name": "VfL Wolfsburg vs Hamburger SV lúc 21:30 | POLO",
+      "link": "/truc-tiep/vfl-wolfsburg-vs-hamburger-sv-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
+    },
+    {
+      "name": "Michalovce vs Slovan Bratislava lúc 21:30",
+      "link": "/truc-tiep/michalovce-vs-slovan-bratislava-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
+    },
+    {
+      "name": "FK Kosice vs Trencin lúc 21:30",
+      "link": "/truc-tiep/fk-kosice-vs-trencin-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
+    },
+    {
+      "name": "MFK Skalica vs Tatran Presov lúc 21:30",
+      "link": "/truc-tiep/mfk-skalica-vs-tatran-presov-luc-2130-ngay-07-03-2026/",
+      "runtime": 1772893800,
+      "datetime": "2026-03-07T14:30:00.000Z"
     }
   ]
 }
