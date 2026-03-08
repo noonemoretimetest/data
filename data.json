@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 84,
-  "updated_at": "2026-03-08T14:31:09.118Z",
+  "total_matches": 80,
+  "updated_at": "2026-03-08T14:54:46.120Z",
   "matches": [
     {
       "name": "MOUZ NXT vs GenOne lúc 18:30",
@@ -16,36 +16,6 @@
       "datetime": "2026-03-08T12:00:00.000Z"
     },
     {
-      "name": "Preuben Munster vs Hertha Berlin lúc 19:30 | YUNO",
-      "link": "/truc-tiep/preuben-munster-vs-hertha-berlin-luc-1930-ngay-08-03-2026/",
-      "runtime": 1772973000,
-      "datetime": "2026-03-08T12:30:00.000Z"
-    },
-    {
-      "name": "Karlsruher SC vs Dynamo Dresden lúc 19:30 | MON",
-      "link": "/truc-tiep/karlsruher-sc-vs-dynamo-dresden-luc-1930-ngay-08-03-2026/",
-      "runtime": 1772973000,
-      "datetime": "2026-03-08T12:30:00.000Z"
-    },
-    {
-      "name": "Otelul Galati vs Hermannstadt lúc 19:30",
-      "link": "/truc-tiep/otelul-galati-vs-hermannstadt-luc-1930-ngay-08-03-2026/",
-      "runtime": 1772973000,
-      "datetime": "2026-03-08T12:30:00.000Z"
-    },
-    {
-      "name": "Young Lions vs Tampines Rovers lúc 19:30",
-      "link": "/truc-tiep/young-lions-vs-tampines-rovers-luc-1930-ngay-08-03-2026/",
-      "runtime": 1772973000,
-      "datetime": "2026-03-08T12:30:00.000Z"
-    },
-    {
-      "name": "RC Montevideo vs Cerro Montevideo lúc 19:45",
-      "link": "/truc-tiep/rc-montevideo-vs-cerro-montevideo-luc-1945-ngay-08-03-2026/",
-      "runtime": 1772973900,
-      "datetime": "2026-03-08T12:45:00.000Z"
-    },
-    {
       "name": "Villarreal vs Elche lúc 20:00 | ZIZU",
       "link": "/truc-tiep/villarreal-vs-elche-luc-2000-ngay-08-03-2026/",
       "runtime": 1772974800,
@@ -54,12 +24,6 @@
     {
       "name": "Konyaspor vs Kasimpasa lúc 20:00 | HELLO",
       "link": "/truc-tiep/konyaspor-vs-kasimpasa-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "St. Gallen vs FC Basel 1893 lúc 20:00 | JAY",
-      "link": "/truc-tiep/st-gallen-vs-fc-basel-1893-luc-2000-ngay-08-03-2026/",
       "runtime": 1772974800,
       "datetime": "2026-03-08T13:00:00.000Z"
     },
@@ -506,6 +470,18 @@
       "link": "/truc-tiep/nk-aluminij-vs-fc-koper-luc-2330-ngay-08-03-2026/",
       "runtime": 1772987400,
       "datetime": "2026-03-08T16:30:00.000Z"
+    },
+    {
+      "name": "Kazincbarcika vs Debreceni VSC lúc 23:45",
+      "link": "/truc-tiep/kazincbarcika-vs-debreceni-vsc-luc-2345-ngay-08-03-2026/",
+      "runtime": 1772988300,
+      "datetime": "2026-03-08T16:45:00.000Z"
+    },
+    {
+      "name": "Vukovar 1991 vs Rijeka lúc 23:45",
+      "link": "/truc-tiep/vukovar-1991-vs-rijeka-luc-2345-ngay-08-03-2026/",
+      "runtime": 1772988300,
+      "datetime": "2026-03-08T16:45:00.000Z"
     }
   ]
 }
