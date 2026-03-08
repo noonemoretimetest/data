@@ -1,20 +1,8 @@
 {
   "success": true,
-  "total_matches": 35,
-  "updated_at": "2026-03-08T07:27:32.277Z",
+  "total_matches": 38,
+  "updated_at": "2026-03-08T07:53:38.191Z",
   "matches": [
-    {
-      "name": "Nữ Kurobe Aqua Fairies vs Nữ Ageo lúc 12:05",
-      "link": "/truc-tiep/nu-kurobe-aqua-fairies-vs-nu-ageo-luc-1205-ngay-08-03-2026/",
-      "runtime": 1772946300,
-      "datetime": "2026-03-08T05:05:00.000Z"
-    },
-    {
-      "name": "South China AA vs Hoi King lúc 12:30",
-      "link": "/truc-tiep/south-china-aa-vs-hoi-king-luc-1230-ngay-08-03-2026/",
-      "runtime": 1772947800,
-      "datetime": "2026-03-08T05:30:00.000Z"
-    },
     {
       "name": "Gamba Osaka vs V-Varen Nagasaki lúc 13:00 | ZARA",
       "link": "/truc-tiep/gamba-osaka-vs-v-varen-nagasaki-luc-1300-ngay-08-03-2026/",
@@ -124,6 +112,24 @@
       "datetime": "2026-03-08T07:30:00.000Z"
     },
     {
+      "name": "Lia Karatancheva vs Chloe Paquet lúc 14:30",
+      "link": "/truc-tiep/lia-karatancheva-vs-chloe-paquet-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Julia Riera vs Katarina Zavatska lúc 14:30",
+      "link": "/truc-tiep/julia-riera-vs-katarina-zavatska-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Carole Monnet vs Selina Atay lúc 14:30",
+      "link": "/truc-tiep/carole-monnet-vs-selina-atay-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
       "name": "Tuloy FC vs Aguilas-UMak FC lúc 15:00",
       "link": "/truc-tiep/tuloy-fc-vs-aguilas-umak-fc-luc-1500-ngay-08-03-2026/",
       "runtime": 1772956800,
@@ -212,6 +218,18 @@
       "link": "/truc-tiep/panasonic-panthers-vs-toray-arrows-luc-1605-ngay-08-03-2026/",
       "runtime": 1772960700,
       "datetime": "2026-03-08T09:05:00.000Z"
+    },
+    {
+      "name": "Sparta Praha B vs Usti nad Labem lúc 16:30",
+      "link": "/truc-tiep/sparta-praha-b-vs-usti-nad-labem-luc-1630-ngay-08-03-2026/",
+      "runtime": 1772962200,
+      "datetime": "2026-03-08T09:30:00.000Z"
+    },
+    {
+      "name": "Trenkwalder Admira vs SK Austria  lúc 16:30",
+      "link": "/truc-tiep/trenkwalder-admira-vs-sk-austria-luc-1630-ngay-08-03-2026/",
+      "runtime": 1772962200,
+      "datetime": "2026-03-08T09:30:00.000Z"
     }
   ]
 }
