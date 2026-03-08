@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 61,
-  "updated_at": "2026-03-08T20:19:11.655Z",
+  "total_matches": 60,
+  "updated_at": "2026-03-08T20:44:57.008Z",
   "matches": [
     {
       "name": "Kim Won-ho/Seo Seung-jae vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 22:40",
@@ -32,18 +32,6 @@
       "link": "/truc-tiep/mouz-nxt-vs-acend-luc-0100-ngay-09-03-2026/",
       "runtime": 1772992800,
       "datetime": "2026-03-08T18:00:00.000Z"
-    },
-    {
-      "name": "Macara vs Tecnico Uni. lúc 01:30",
-      "link": "/truc-tiep/macara-vs-tecnico-uni-luc-0130-ngay-09-03-2026/",
-      "runtime": 1772994600,
-      "datetime": "2026-03-08T18:30:00.000Z"
-    },
-    {
-      "name": "Pescara vs Bari lúc 01:30",
-      "link": "/truc-tiep/pescara-vs-bari-luc-0130-ngay-09-03-2026/",
-      "runtime": 1772994600,
-      "datetime": "2026-03-08T18:30:00.000Z"
     },
     {
       "name": "Jeddah Sports Club vs Al Ula FC lúc 01:45",
@@ -368,6 +356,12 @@
       "link": "/truc-tiep/pitagoras-minas-vs-vivo-franca-luc-0510-ngay-09-03-2026/",
       "runtime": 1773007800,
       "datetime": "2026-03-08T22:10:00.000Z"
+    },
+    {
+      "name": "Boca Juniors vs Tucuman De Gimnasia lúc 05:30",
+      "link": "/truc-tiep/boca-juniors-vs-tucuman-de-gimnasia-luc-0530-ngay-09-03-2026/",
+      "runtime": 1773009000,
+      "datetime": "2026-03-08T22:30:00.000Z"
     }
   ]
 }
