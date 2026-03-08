@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-03-08T22:17:49.082Z",
+  "total_matches": 60,
+  "updated_at": "2026-03-08T22:44:58.510Z",
   "matches": [
     {
       "name": "Kim Won-ho/Seo Seung-jae vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 22:40",
@@ -14,18 +14,6 @@
       "link": "/truc-tiep/mouz-nxt-vs-acend-luc-0100-ngay-09-03-2026/",
       "runtime": 1772992800,
       "datetime": "2026-03-08T18:00:00.000Z"
-    },
-    {
-      "name": "Los Angeles Lakers vs New York Knicks lúc 02:30",
-      "link": "/truc-tiep/los-angeles-lakers-vs-new-york-knicks-luc-0230-ngay-09-03-2026/",
-      "runtime": 1772998200,
-      "datetime": "2026-03-08T19:30:00.000Z"
-    },
-    {
-      "name": "Ben Shelton vs Learner Tien lúc 03:00 | VIC",
-      "link": "/truc-tiep/ben-shelton-vs-learner-tien-luc-0300-ngay-09-03-2026/",
-      "runtime": 1773000000,
-      "datetime": "2026-03-08T20:00:00.000Z"
     },
     {
       "name": "Alejandro Davidovich Fokina vs Jakub Mensik lúc 03:00",
@@ -44,24 +32,6 @@
       "link": "/truc-tiep/marton-fucsovics-vs-arthur-fils-luc-0320-ngay-09-03-2026/",
       "runtime": 1773001200,
       "datetime": "2026-03-08T20:20:00.000Z"
-    },
-    {
-      "name": "Santa Clara vs Vitoria Guimaraes lúc 03:30 | EREZ",
-      "link": "/truc-tiep/santa-clara-vs-vitoria-guimaraes-luc-0330-ngay-09-03-2026/",
-      "runtime": 1773001800,
-      "datetime": "2026-03-08T20:30:00.000Z"
-    },
-    {
-      "name": "NY Red Bulls vs Montreal Impact lúc 03:30 | ASTRA",
-      "link": "/truc-tiep/ny-red-bulls-vs-montreal-impact-luc-0330-ngay-09-03-2026/",
-      "runtime": 1773001800,
-      "datetime": "2026-03-08T20:30:00.000Z"
-    },
-    {
-      "name": "Los Chankas vs Uni. Deportes lúc 03:30",
-      "link": "/truc-tiep/los-chankas-vs-uni-deportes-luc-0330-ngay-09-03-2026/",
-      "runtime": 1773001800,
-      "datetime": "2026-03-08T20:30:00.000Z"
     },
     {
       "name": "Universidad Católica vs Leones del Norte lúc 04:00",
@@ -262,6 +232,12 @@
       "datetime": "2026-03-08T23:00:00.000Z"
     },
     {
+      "name": "Gabriel Diallo vs Felix Auger Aliassime lúc 06:10",
+      "link": "/truc-tiep/gabriel-diallo-vs-felix-auger-aliassime-luc-0610-ngay-09-03-2026/",
+      "runtime": 1773011400,
+      "datetime": "2026-03-08T23:10:00.000Z"
+    },
+    {
       "name": "CA Independente vs UMECIT lúc 06:15",
       "link": "/truc-tiep/ca-independente-vs-umecit-luc-0615-ngay-09-03-2026/",
       "runtime": 1773011700,
@@ -344,6 +320,48 @@
       "link": "/truc-tiep/lag-vs-wanted-goons-luc-0700-ngay-09-03-2026/",
       "runtime": 1773014400,
       "datetime": "2026-03-09T00:00:00.000Z"
+    },
+    {
+      "name": "Austin FC II vs Ventura County FC lúc 07:30 | XMEN",
+      "link": "/truc-tiep/austin-fc-ii-vs-ventura-county-fc-luc-0730-ngay-09-03-2026/",
+      "runtime": 1773016200,
+      "datetime": "2026-03-09T00:30:00.000Z"
+    },
+    {
+      "name": "Waterhouse FC vs Montego Bay Utd lúc 07:30",
+      "link": "/truc-tiep/waterhouse-fc-vs-montego-bay-utd-luc-0730-ngay-09-03-2026/",
+      "runtime": 1773016200,
+      "datetime": "2026-03-09T00:30:00.000Z"
+    },
+    {
+      "name": "Union de Santa Fe vs Obras Sanitarias  lúc 07:30",
+      "link": "/truc-tiep/union-de-santa-fe-vs-obras-sanitarias-luc-0730-ngay-09-03-2026/",
+      "runtime": 1773016200,
+      "datetime": "2026-03-09T00:30:00.000Z"
+    },
+    {
+      "name": "Siena College vs Fairfield University lúc 07:30",
+      "link": "/truc-tiep/siena-college-vs-fairfield-university-luc-0730-ngay-09-03-2026/",
+      "runtime": 1773016200,
+      "datetime": "2026-03-09T00:30:00.000Z"
+    },
+    {
+      "name": "Hindu Club vs Colon de Corrientes lúc 07:30",
+      "link": "/truc-tiep/hindu-club-vs-colon-de-corrientes-luc-0730-ngay-09-03-2026/",
+      "runtime": 1773016200,
+      "datetime": "2026-03-09T00:30:00.000Z"
+    },
+    {
+      "name": "SportsBetExpert vs Chicken Coop lúc 07:30",
+      "link": "/truc-tiep/sportsbetexpert-vs-chicken-coop-luc-0730-ngay-09-03-2026/",
+      "runtime": 1773016200,
+      "datetime": "2026-03-09T00:30:00.000Z"
+    },
+    {
+      "name": "Anna Danilina/Aleksandra Krunic vs Lyudmyla Kichenok/Desirae Krawczyk lúc 07:40",
+      "link": "/truc-tiep/anna-danilina-aleksandra-krunic-vs-lyudmyla-kichenok-desirae-krawczyk-luc-0740-ngay-09-03-2026/",
+      "runtime": 1773016800,
+      "datetime": "2026-03-09T00:40:00.000Z"
     }
   ]
 }
