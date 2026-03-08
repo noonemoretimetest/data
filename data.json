@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 56,
-  "updated_at": "2026-03-08T21:18:01.861Z",
+  "total_matches": 58,
+  "updated_at": "2026-03-08T21:41:03.555Z",
   "matches": [
     {
       "name": "Kim Won-ho/Seo Seung-jae vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 22:40",
@@ -16,28 +16,10 @@
       "datetime": "2026-03-08T18:00:00.000Z"
     },
     {
-      "name": "Brooklyn FC vs Indy Eleven lúc 02:00",
-      "link": "/truc-tiep/brooklyn-fc-vs-indy-eleven-luc-0200-ngay-09-03-2026/",
-      "runtime": 1772996400,
-      "datetime": "2026-03-08T19:00:00.000Z"
-    },
-    {
       "name": "FURIA Esports vs Cloud9 lúc 02:00",
       "link": "/truc-tiep/furia-esports-vs-cloud9-luc-0200-ngay-09-03-2026/",
       "runtime": 1772996400,
       "datetime": "2026-03-08T19:00:00.000Z"
-    },
-    {
-      "name": "Rayo Zuliano vs U.C.V FC lúc 02:30",
-      "link": "/truc-tiep/rayo-zuliano-vs-u-c-v-fc-luc-0230-ngay-09-03-2026/",
-      "runtime": 1772998200,
-      "datetime": "2026-03-08T19:30:00.000Z"
-    },
-    {
-      "name": "Saint Mirren vs Partick Thistle FC lúc 02:30",
-      "link": "/truc-tiep/saint-mirren-vs-partick-thistle-fc-luc-0230-ngay-09-03-2026/",
-      "runtime": 1772998200,
-      "datetime": "2026-03-08T19:30:00.000Z"
     },
     {
       "name": "Los Angeles Lakers vs New York Knicks lúc 02:30",
@@ -338,6 +320,36 @@
       "link": "/truc-tiep/ca-independente-vs-umecit-luc-0615-ngay-09-03-2026/",
       "runtime": 1773011700,
       "datetime": "2026-03-08T23:15:00.000Z"
+    },
+    {
+      "name": "Palestino vs Cobresal lúc 06:30",
+      "link": "/truc-tiep/palestino-vs-cobresal-luc-0630-ngay-09-03-2026/",
+      "runtime": 1773012600,
+      "datetime": "2026-03-08T23:30:00.000Z"
+    },
+    {
+      "name": "Monagas SC vs Trujillanos lúc 06:30",
+      "link": "/truc-tiep/monagas-sc-vs-trujillanos-luc-0630-ngay-09-03-2026/",
+      "runtime": 1773012600,
+      "datetime": "2026-03-08T23:30:00.000Z"
+    },
+    {
+      "name": "Rubio nu vs Sportivo 2 de Mayo lúc 06:30",
+      "link": "/truc-tiep/rubio-nu-vs-sportivo-2-de-mayo-luc-0630-ngay-09-03-2026/",
+      "runtime": 1773012600,
+      "datetime": "2026-03-08T23:30:00.000Z"
+    },
+    {
+      "name": "Novorizontino vs Palmeiras lúc 06:30",
+      "link": "/truc-tiep/novorizontino-vs-palmeiras-luc-0630-ngay-09-03-2026/",
+      "runtime": 1773012600,
+      "datetime": "2026-03-08T23:30:00.000Z"
+    },
+    {
+      "name": "Atletico Argentino Junin vs Independiente Oliva lúc 06:30",
+      "link": "/truc-tiep/atletico-argentino-junin-vs-independiente-oliva-luc-0630-ngay-09-03-2026/",
+      "runtime": 1773012600,
+      "datetime": "2026-03-08T23:30:00.000Z"
     }
   ]
 }
