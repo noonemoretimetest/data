@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 70,
-  "updated_at": "2026-03-08T09:34:09.292Z",
+  "total_matches": 68,
+  "updated_at": "2026-03-08T09:54:54.931Z",
   "matches": [
-    {
-      "name": "Hồng Kông Rangers vs Lee Man lúc 14:00",
-      "link": "/truc-tiep/hong-kong-rangers-vs-lee-man-luc-1400-ngay-08-03-2026/",
-      "runtime": 1772953200,
-      "datetime": "2026-03-08T07:00:00.000Z"
-    },
-    {
-      "name": "FC Anyang vs Jeju SK FC lúc 14:30 | LOUIS",
-      "link": "/truc-tiep/fc-anyang-vs-jeju-sk-fc-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Zhejiang Greentown vs Qingdao Island lúc 14:30 | ASTRA",
-      "link": "/truc-tiep/zhejiang-greentown-vs-qingdao-island-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
     {
       "name": "Julia Riera vs Katarina Zavatska lúc 14:30",
       "link": "/truc-tiep/julia-riera-vs-katarina-zavatska-luc-1430-ngay-08-03-2026/",
@@ -48,12 +30,6 @@
     {
       "name": "Stefan Latinovic vs Michiel de Krom lúc 15:00",
       "link": "/truc-tiep/stefan-latinovic-vs-michiel-de-krom-luc-1500-ngay-08-03-2026/",
-      "runtime": 1772956800,
-      "datetime": "2026-03-08T08:00:00.000Z"
-    },
-    {
-      "name": "Gray Voelzke vs Maik Steiner lúc 15:00",
-      "link": "/truc-tiep/gray-voelzke-vs-maik-steiner-luc-1500-ngay-08-03-2026/",
       "runtime": 1772956800,
       "datetime": "2026-03-08T08:00:00.000Z"
     },
@@ -174,6 +150,18 @@
     {
       "name": "Trenkwalder Admira vs SK Austria  lúc 16:30",
       "link": "/truc-tiep/trenkwalder-admira-vs-sk-austria-luc-1630-ngay-08-03-2026/",
+      "runtime": 1772962200,
+      "datetime": "2026-03-08T09:30:00.000Z"
+    },
+    {
+      "name": "Viktoria Plzen B vs SK Petrin Plzen lúc 16:30",
+      "link": "/truc-tiep/viktoria-plzen-b-vs-sk-petrin-plzen-luc-1630-ngay-08-03-2026/",
+      "runtime": 1772962200,
+      "datetime": "2026-03-08T09:30:00.000Z"
+    },
+    {
+      "name": "FC Artmedia Petrzalka vs MFK Zvolen lúc 16:30",
+      "link": "/truc-tiep/fc-artmedia-petrzalka-vs-mfk-zvolen-luc-1630-ngay-08-03-2026/",
       "runtime": 1772962200,
       "datetime": "2026-03-08T09:30:00.000Z"
     },
