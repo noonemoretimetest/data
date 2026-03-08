@@ -1,49 +1,13 @@
 {
   "success": true,
-  "total_matches": 52,
-  "updated_at": "2026-03-08T05:15:24.646Z",
+  "total_matches": 50,
+  "updated_at": "2026-03-08T05:58:59.271Z",
   "matches": [
-    {
-      "name": "Alexander Bublik vs Vit Kopriva lúc 09:50",
-      "link": "/truc-tiep/alexander-bublik-vs-vit-kopriva-luc-0950-ngay-08-03-2026/",
-      "runtime": 1772938200,
-      "datetime": "2026-03-08T02:50:00.000Z"
-    },
-    {
-      "name": "Daniil Medvedev vs Alejandro Tabilo lúc 10:10 | VIC",
-      "link": "/truc-tiep/daniil-medvedev-vs-alejandro-tabilo-luc-1010-ngay-08-03-2026/",
-      "runtime": 1772939400,
-      "datetime": "2026-03-08T03:10:00.000Z"
-    },
     {
       "name": "Ugo Humbert vs Alex Michelsen lúc 10:20",
       "link": "/truc-tiep/ugo-humbert-vs-alex-michelsen-luc-1020-ngay-08-03-2026/",
       "runtime": 1772940000,
       "datetime": "2026-03-08T03:20:00.000Z"
-    },
-    {
-      "name": "Portland Timbers vs Vancouver Whitecaps lúc 10:30 | BRUCE",
-      "link": "/truc-tiep/portland-timbers-vs-vancouver-whitecaps-luc-1030-ngay-08-03-2026/",
-      "runtime": 1772940600,
-      "datetime": "2026-03-08T03:30:00.000Z"
-    },
-    {
-      "name": "Los Angeles FC vs FC Dallas lúc 10:30 | TONI",
-      "link": "/truc-tiep/los-angeles-fc-vs-fc-dallas-luc-1030-ngay-08-03-2026/",
-      "runtime": 1772940600,
-      "datetime": "2026-03-08T03:30:00.000Z"
-    },
-    {
-      "name": "AV Alta vs Richmond Kickers lúc 10:30",
-      "link": "/truc-tiep/av-alta-vs-richmond-kickers-luc-1030-ngay-08-03-2026/",
-      "runtime": 1772940600,
-      "datetime": "2026-03-08T03:30:00.000Z"
-    },
-    {
-      "name": "Brigham Young vs Texas Tech lúc 10:30",
-      "link": "/truc-tiep/brigham-young-vs-texas-tech-luc-1030-ngay-08-03-2026/",
-      "runtime": 1772940600,
-      "datetime": "2026-03-08T03:30:00.000Z"
     },
     {
       "name": "Fagiano Okayama vs Kyoto Sanga lúc 10:55 | ASTRA",
@@ -60,12 +24,6 @@
     {
       "name": "Wollongong Wolves vs Sydney FC (Y) lúc 11:00",
       "link": "/truc-tiep/wollongong-wolves-vs-sydney-fc-y-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Melbourne City NPL vs Oakleigh Cannons lúc 11:00",
-      "link": "/truc-tiep/melbourne-city-npl-vs-oakleigh-cannons-luc-1100-ngay-08-03-2026/",
       "runtime": 1772942400,
       "datetime": "2026-03-08T04:00:00.000Z"
     },
@@ -110,18 +68,6 @@
       "link": "/truc-tiep/laura-siegemund-vs-elina-svitolina-luc-1100-ngay-08-03-2026/",
       "runtime": 1772942400,
       "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Nữ Denso Airybees vs Nữ Prestige Aranmare lúc 11:05",
-      "link": "/truc-tiep/nu-denso-airybees-vs-nu-prestige-aranmare-luc-1105-ngay-08-03-2026/",
-      "runtime": 1772942700,
-      "datetime": "2026-03-08T04:05:00.000Z"
-    },
-    {
-      "name": "JT Thunders vs Nagoya lúc 11:05",
-      "link": "/truc-tiep/jt-thunders-vs-nagoya-luc-1105-ngay-08-03-2026/",
-      "runtime": 1772942700,
-      "datetime": "2026-03-08T04:05:00.000Z"
     },
     {
       "name": "Gimcheon Sangmu  vs Jeonbuk Hyundai lúc 12:00 | KEN",
@@ -314,6 +260,48 @@
       "link": "/truc-tiep/nu-hyundai-hillstate-vs-nu-ai-peppers-luc-1400-ngay-08-03-2026/",
       "runtime": 1772953200,
       "datetime": "2026-03-08T07:00:00.000Z"
+    },
+    {
+      "name": "FC Anyang vs Jeju SK FC lúc 14:30 | LOUIS",
+      "link": "/truc-tiep/fc-anyang-vs-jeju-sk-fc-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Zhejiang Greentown vs Qingdao Island lúc 14:30 | ASTRA",
+      "link": "/truc-tiep/zhejiang-greentown-vs-qingdao-island-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Hwaseong FC vs Gimhae City lúc 14:30 | OLER",
+      "link": "/truc-tiep/hwaseong-fc-vs-gimhae-city-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Cheonan City vs Gimpo FC lúc 14:30",
+      "link": "/truc-tiep/cheonan-city-vs-gimpo-fc-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Tainan Steel vs Taichung Futuro lúc 14:30",
+      "link": "/truc-tiep/tainan-steel-vs-taichung-futuro-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Tatung FC vs Taiwan Power lúc 14:30",
+      "link": "/truc-tiep/tatung-fc-vs-taiwan-power-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Wonju Dongbu Promy vs Daegu KOGAS lúc 14:30 | STEP",
+      "link": "/truc-tiep/wonju-dongbu-promy-vs-daegu-kogas-luc-1430-ngay-08-03-2026/",
+      "runtime": 1772955000,
+      "datetime": "2026-03-08T07:30:00.000Z"
     }
   ]
 }
