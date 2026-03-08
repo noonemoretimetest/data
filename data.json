@@ -1,61 +1,13 @@
 {
   "success": true,
-  "total_matches": 76,
-  "updated_at": "2026-03-08T16:56:26.319Z",
+  "total_matches": 81,
+  "updated_at": "2026-03-08T17:20:45.374Z",
   "matches": [
     {
-      "name": "Neftekhimik FC vs Fakel  lúc 21:30",
-      "link": "/truc-tiep/neftekhimik-fc-vs-fakel-luc-2130-ngay-08-03-2026/",
-      "runtime": 1772980200,
-      "datetime": "2026-03-08T14:30:00.000Z"
-    },
-    {
-      "name": "Nicolas Villalon Valdes vs Ryan Dickerson lúc 21:50",
-      "link": "/truc-tiep/nicolas-villalon-valdes-vs-ryan-dickerson-luc-2150-ngay-08-03-2026/",
-      "runtime": 1772981400,
-      "datetime": "2026-03-08T14:50:00.000Z"
-    },
-    {
-      "name": "KAA Gent vs KV Mechelen lúc 22:00 | NEMO",
-      "link": "/truc-tiep/kaa-gent-vs-kv-mechelen-luc-2200-ngay-08-03-2026/",
+      "name": "Bryne vs Rosenborg lúc 22:00",
+      "link": "/truc-tiep/bryne-vs-rosenborg-luc-2200-ngay-08-03-2026/",
       "runtime": 1772982000,
       "datetime": "2026-03-08T15:00:00.000Z"
-    },
-    {
-      "name": "Volos NPS vs OFI Crete lúc 22:00",
-      "link": "/truc-tiep/volos-nps-vs-ofi-crete-luc-2200-ngay-08-03-2026/",
-      "runtime": 1772982000,
-      "datetime": "2026-03-08T15:00:00.000Z"
-    },
-    {
-      "name": "FK Spartak Voda vs FK IMT Belgrad lúc 22:00",
-      "link": "/truc-tiep/fk-spartak-voda-vs-fk-imt-belgrad-luc-2200-ngay-08-03-2026/",
-      "runtime": 1772982000,
-      "datetime": "2026-03-08T15:00:00.000Z"
-    },
-    {
-      "name": "Constantin Bittoun Kouzmine vs Petr Nesterov lúc 22:10",
-      "link": "/truc-tiep/constantin-bittoun-kouzmine-vs-petr-nesterov-luc-2210-ngay-08-03-2026/",
-      "runtime": 1772982600,
-      "datetime": "2026-03-08T15:10:00.000Z"
-    },
-    {
-      "name": "Getafe vs Real Betis lúc 22:15 | MAX",
-      "link": "/truc-tiep/getafe-vs-real-betis-luc-2215-ngay-08-03-2026/",
-      "runtime": 1772982900,
-      "datetime": "2026-03-08T15:15:00.000Z"
-    },
-    {
-      "name": "Andorra CF vs Sporting Gijon lúc 22:15",
-      "link": "/truc-tiep/andorra-cf-vs-sporting-gijon-luc-2215-ngay-08-03-2026/",
-      "runtime": 1772982900,
-      "datetime": "2026-03-08T15:15:00.000Z"
-    },
-    {
-      "name": "Qarabag vs Araz Nakhchivan lúc 22:15",
-      "link": "/truc-tiep/qarabag-vs-araz-nakhchivan-luc-2215-ngay-08-03-2026/",
-      "runtime": 1772982900,
-      "datetime": "2026-03-08T15:15:00.000Z"
     },
     {
       "name": "Estrela Amadora  vs Gil Vicente lúc 22:30 | MON",
@@ -458,6 +410,84 @@
       "link": "/truc-tiep/al-zulfi-vs-al-wehda-fc-luc-0145-ngay-09-03-2026/",
       "runtime": 1772995500,
       "datetime": "2026-03-08T18:45:00.000Z"
+    },
+    {
+      "name": "NEC Nijmegen vs Volendam lúc 02:00 | FINN",
+      "link": "/truc-tiep/nec-nijmegen-vs-volendam-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Al-Ramtha SC vs Al Wehdat lúc 02:00",
+      "link": "/truc-tiep/al-ramtha-sc-vs-al-wehdat-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Olympiakos vs PAOK Saloniki lúc 02:00 | YUNO",
+      "link": "/truc-tiep/olympiakos-vs-paok-saloniki-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Columbus Crew B vs New York City B lúc 02:00",
+      "link": "/truc-tiep/columbus-crew-b-vs-new-york-city-b-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Chattanooga vs Connecticut United FC lúc 02:00",
+      "link": "/truc-tiep/chattanooga-vs-connecticut-united-fc-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Philadelphia Union II vs Cincinnati II lúc 02:00 | TONI",
+      "link": "/truc-tiep/philadelphia-union-ii-vs-cincinnati-ii-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Brooklyn FC vs Indy Eleven lúc 02:00",
+      "link": "/truc-tiep/brooklyn-fc-vs-indy-eleven-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Tormenta FC vs Spokane Velocity lúc 02:00",
+      "link": "/truc-tiep/tormenta-fc-vs-spokane-velocity-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Nova Iguacu vs Sampaio Correa RJ lúc 02:00",
+      "link": "/truc-tiep/nova-iguacu-vs-sampaio-correa-rj-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Portuguesa Carioca vs CFRJ Marica RJ lúc 02:00",
+      "link": "/truc-tiep/portuguesa-carioca-vs-cfrj-marica-rj-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Nữ Bielsko Biala vs Nữ Nowy Mazowiecki lúc 02:00",
+      "link": "/truc-tiep/nu-bielsko-biala-vs-nu-nowy-mazowiecki-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "FURIA Esports vs Cloud9 lúc 02:00",
+      "link": "/truc-tiep/furia-esports-vs-cloud9-luc-0200-ngay-09-03-2026/",
+      "runtime": 1772996400,
+      "datetime": "2026-03-08T19:00:00.000Z"
+    },
+    {
+      "name": "Legia Warszawa vs Cracovia Krakow lúc 02:15 | ZARA",
+      "link": "/truc-tiep/legia-warszawa-vs-cracovia-krakow-luc-0215-ngay-09-03-2026/",
+      "runtime": 1772997300,
+      "datetime": "2026-03-08T19:15:00.000Z"
     }
   ]
 }
