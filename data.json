@@ -1,23 +1,11 @@
 {
   "success": true,
-  "total_matches": 52,
-  "updated_at": "2026-03-08T08:58:48.043Z",
+  "total_matches": 70,
+  "updated_at": "2026-03-08T09:34:09.292Z",
   "matches": [
-    {
-      "name": "Kaohsiung Aquas vs New Taipei CTBC DEA lúc 13:30",
-      "link": "/truc-tiep/kaohsiung-aquas-vs-new-taipei-ctbc-dea-luc-1330-ngay-08-03-2026/",
-      "runtime": 1772951400,
-      "datetime": "2026-03-08T06:30:00.000Z"
-    },
     {
       "name": "Hồng Kông Rangers vs Lee Man lúc 14:00",
       "link": "/truc-tiep/hong-kong-rangers-vs-lee-man-luc-1400-ngay-08-03-2026/",
-      "runtime": 1772953200,
-      "datetime": "2026-03-08T07:00:00.000Z"
-    },
-    {
-      "name": "Nữ Hyundai Hillstate  vs Nữ AI Peppers lúc 14:00",
-      "link": "/truc-tiep/nu-hyundai-hillstate-vs-nu-ai-peppers-luc-1400-ngay-08-03-2026/",
       "runtime": 1772953200,
       "datetime": "2026-03-08T07:00:00.000Z"
     },
@@ -30,42 +18,6 @@
     {
       "name": "Zhejiang Greentown vs Qingdao Island lúc 14:30 | ASTRA",
       "link": "/truc-tiep/zhejiang-greentown-vs-qingdao-island-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Hwaseong FC vs Gimhae City lúc 14:30 | OLER",
-      "link": "/truc-tiep/hwaseong-fc-vs-gimhae-city-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Cheonan City vs Gimpo FC lúc 14:30",
-      "link": "/truc-tiep/cheonan-city-vs-gimpo-fc-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Tainan Steel vs Taichung Futuro lúc 14:30",
-      "link": "/truc-tiep/tainan-steel-vs-taichung-futuro-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Tatung FC vs Taiwan Power lúc 14:30",
-      "link": "/truc-tiep/tatung-fc-vs-taiwan-power-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Wonju Dongbu Promy vs Daegu KOGAS lúc 14:30 | STEP",
-      "link": "/truc-tiep/wonju-dongbu-promy-vs-daegu-kogas-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Lia Karatancheva vs Chloe Paquet lúc 14:30",
-      "link": "/truc-tiep/lia-karatancheva-vs-chloe-paquet-luc-1430-ngay-08-03-2026/",
       "runtime": 1772955000,
       "datetime": "2026-03-08T07:30:00.000Z"
     },
@@ -102,12 +54,6 @@
     {
       "name": "Gray Voelzke vs Maik Steiner lúc 15:00",
       "link": "/truc-tiep/gray-voelzke-vs-maik-steiner-luc-1500-ngay-08-03-2026/",
-      "runtime": 1772956800,
-      "datetime": "2026-03-08T08:00:00.000Z"
-    },
-    {
-      "name": "Ivan Marrero Curbelo vs Etienne Niyigena lúc 15:00",
-      "link": "/truc-tiep/ivan-marrero-curbelo-vs-etienne-niyigena-luc-1500-ngay-08-03-2026/",
       "runtime": 1772956800,
       "datetime": "2026-03-08T08:00:00.000Z"
     },
@@ -172,14 +118,32 @@
       "datetime": "2026-03-08T09:00:00.000Z"
     },
     {
-      "name": "Enisey vs Lokomotiv Kuban lúc 16:00",
-      "link": "/truc-tiep/enisey-vs-lokomotiv-kuban-luc-1600-ngay-08-03-2026/",
+      "name": "FC Asiagoal vs FK Dordoi Bishkek lúc 16:00",
+      "link": "/truc-tiep/fc-asiagoal-vs-fk-dordoi-bishkek-luc-1600-ngay-08-03-2026/",
+      "runtime": 1772960400,
+      "datetime": "2026-03-08T09:00:00.000Z"
+    },
+    {
+      "name": "AFC Metalul Buzau vs A.C.F. Gloria Bistrita lúc 16:00",
+      "link": "/truc-tiep/afc-metalul-buzau-vs-a-c-f-gloria-bistrita-luc-1600-ngay-08-03-2026/",
+      "runtime": 1772960400,
+      "datetime": "2026-03-08T09:00:00.000Z"
+    },
+    {
+      "name": "Teplice B vs SK Slovan Varnsdorf lúc 16:00",
+      "link": "/truc-tiep/teplice-b-vs-sk-slovan-varnsdorf-luc-1600-ngay-08-03-2026/",
       "runtime": 1772960400,
       "datetime": "2026-03-08T09:00:00.000Z"
     },
     {
       "name": "Taiwan Beer Leopards vs New Taipei Kings lúc 16:00",
       "link": "/truc-tiep/taiwan-beer-leopards-vs-new-taipei-kings-luc-1600-ngay-08-03-2026/",
+      "runtime": 1772960400,
+      "datetime": "2026-03-08T09:00:00.000Z"
+    },
+    {
+      "name": "Enisey vs Lokomotiv Kuban lúc 16:00",
+      "link": "/truc-tiep/enisey-vs-lokomotiv-kuban-luc-1600-ngay-08-03-2026/",
       "runtime": 1772960400,
       "datetime": "2026-03-08T09:00:00.000Z"
     },
@@ -314,6 +278,150 @@
       "link": "/truc-tiep/fc-dobrudzha-dobrich-vs-beroe-stara-zagora-luc-1745-ngay-08-03-2026/",
       "runtime": 1772966700,
       "datetime": "2026-03-08T10:45:00.000Z"
+    },
+    {
+      "name": "Becamex Hồ Chí Minh vs Thể Công Viettel lúc 18:00 | FINN",
+      "link": "/truc-tiep/becamex-ho-chi-minh-vs-the-cong-viettel-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "PVF CAND vs Nam Định lúc 18:00 | POLO",
+      "link": "/truc-tiep/pvf-cand-vs-nam-dinh-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Quy Nhơn United vs PVF-CAND B lúc 18:00 | LOGAN",
+      "link": "/truc-tiep/quy-nhon-united-vs-pvf-cand-b-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Wuhan Three Towns vs Beijing Guoan lúc 18:00 | EREZ",
+      "link": "/truc-tiep/wuhan-three-towns-vs-beijing-guoan-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Fc Meshakhte Tkibuli vs Samgurali Tskh lúc 18:00",
+      "link": "/truc-tiep/fc-meshakhte-tkibuli-vs-samgurali-tskh-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Zorya vs SC Poltava lúc 18:00",
+      "link": "/truc-tiep/zorya-vs-sc-poltava-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Kaya FC vs Stallion Laguna FC lúc 18:00",
+      "link": "/truc-tiep/kaya-fc-vs-stallion-laguna-fc-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Dinamo Brest vs Maxline Vitebsk lúc 18:00",
+      "link": "/truc-tiep/dinamo-brest-vs-maxline-vitebsk-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Znicz Pruszkow vs Odra Opole lúc 18:00",
+      "link": "/truc-tiep/znicz-pruszkow-vs-odra-opole-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Kaisar Kyzylorda vs Zhenis Astana lúc 18:00",
+      "link": "/truc-tiep/kaisar-kyzylorda-vs-zhenis-astana-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Ye Hong-wei/Chan Nicole Gonzales vs Thom Gicquel/Delphine Delrue lúc 18:00",
+      "link": "/truc-tiep/ye-hong-wei-chan-nicole-gonzales-vs-thom-gicquel-delphine-delrue-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "NOVEX vs L Guide Gaming lúc 18:00",
+      "link": "/truc-tiep/novex-vs-l-guide-gaming-luc-1800-ngay-08-03-2026/",
+      "runtime": 1772967600,
+      "datetime": "2026-03-08T11:00:00.000Z"
+    },
+    {
+      "name": "Sparta Rotterdam vs PEC Zwolle lúc 18:15 | NEMO",
+      "link": "/truc-tiep/sparta-rotterdam-vs-pec-zwolle-luc-1815-ngay-08-03-2026/",
+      "runtime": 1772968500,
+      "datetime": "2026-03-08T11:15:00.000Z"
+    },
+    {
+      "name": "Motor Lublin vs Gornik Zabrze lúc 18:15",
+      "link": "/truc-tiep/motor-lublin-vs-gornik-zabrze-luc-1815-ngay-08-03-2026/",
+      "runtime": 1772968500,
+      "datetime": "2026-03-08T11:15:00.000Z"
+    },
+    {
+      "name": "C.B. Breogan Lugo vs Barcelona lúc 18:15",
+      "link": "/truc-tiep/c-b-breogan-lugo-vs-barcelona-luc-1815-ngay-08-03-2026/",
+      "runtime": 1772968500,
+      "datetime": "2026-03-08T11:15:00.000Z"
+    },
+    {
+      "name": "Lecce vs Cremonese lúc 18:30 | BRUCE",
+      "link": "/truc-tiep/lecce-vs-cremonese-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Krylya Sovetov vs Dynamo Makhachkala lúc 18:30 | OLER",
+      "link": "/truc-tiep/krylya-sovetov-vs-dynamo-makhachkala-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Trat FC vs Nongbua Pitchaya lúc 18:30",
+      "link": "/truc-tiep/trat-fc-vs-nongbua-pitchaya-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Nakhon Pathom vs Kasetsart FC lúc 18:30",
+      "link": "/truc-tiep/nakhon-pathom-vs-kasetsart-fc-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Shijiazhuang Xianglan vs Hefei Kuangfeng lúc 18:30 | TOMMY",
+      "link": "/truc-tiep/shijiazhuang-xianglan-vs-hefei-kuangfeng-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Hangzhou Jingwei vs Jiaozuo lúc 18:30 | STEP",
+      "link": "/truc-tiep/hangzhou-jingwei-vs-jiaozuo-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Lakshya Sen vs Lin Chun-yi lúc 18:30",
+      "link": "/truc-tiep/lakshya-sen-vs-lin-chun-yi-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Nữ Ankaragucu  vs Nữ Sigorta Sakarya lúc 18:30",
+      "link": "/truc-tiep/nu-ankaragucu-vs-nu-sigorta-sakarya-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "MOUZ NXT vs GenOne lúc 18:30",
+      "link": "/truc-tiep/mouz-nxt-vs-genone-luc-1830-ngay-08-03-2026/",
+      "runtime": 1772969400,
+      "datetime": "2026-03-08T11:30:00.000Z"
     }
   ]
 }
