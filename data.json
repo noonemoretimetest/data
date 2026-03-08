@@ -1,68 +1,8 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-08T05:58:59.271Z",
+  "total_matches": 43,
+  "updated_at": "2026-03-08T06:51:17.955Z",
   "matches": [
-    {
-      "name": "Ugo Humbert vs Alex Michelsen lúc 10:20",
-      "link": "/truc-tiep/ugo-humbert-vs-alex-michelsen-luc-1020-ngay-08-03-2026/",
-      "runtime": 1772940000,
-      "datetime": "2026-03-08T03:20:00.000Z"
-    },
-    {
-      "name": "Fagiano Okayama vs Kyoto Sanga lúc 10:55 | ASTRA",
-      "link": "/truc-tiep/fagiano-okayama-vs-kyoto-sanga-luc-1055-ngay-08-03-2026/",
-      "runtime": 1772942100,
-      "datetime": "2026-03-08T03:55:00.000Z"
-    },
-    {
-      "name": "Vanraure Hachi vs Yokohama FC lúc 11:00",
-      "link": "/truc-tiep/vanraure-hachi-vs-yokohama-fc-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Wollongong Wolves vs Sydney FC (Y) lúc 11:00",
-      "link": "/truc-tiep/wollongong-wolves-vs-sydney-fc-y-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Preston Lions vs Heidelberg United lúc 11:00",
-      "link": "/truc-tiep/preston-lions-vs-heidelberg-united-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Brisbane Roar (Y) vs Gold Coast United lúc 11:00",
-      "link": "/truc-tiep/brisbane-roar-y-vs-gold-coast-united-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Grange Thistle SC vs Southside Eagles lúc 11:00",
-      "link": "/truc-tiep/grange-thistle-sc-vs-southside-eagles-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Nữ Maca Searle vs Nữ Manly Utd lúc 11:00",
-      "link": "/truc-tiep/nu-maca-searle-vs-nu-manly-utd-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Nữ Albirex Niigata vs Nữ Cerezo Osaka lúc 11:00",
-      "link": "/truc-tiep/nu-albirex-niigata-vs-nu-cerezo-osaka-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
-    {
-      "name": "Zonkeys de Tijuana vs Pioneros de Los Mochis lúc 11:00",
-      "link": "/truc-tiep/zonkeys-de-tijuana-vs-pioneros-de-los-mochis-luc-1100-ngay-08-03-2026/",
-      "runtime": 1772942400,
-      "datetime": "2026-03-08T04:00:00.000Z"
-    },
     {
       "name": "Laura Siegemund vs Elina Svitolina lúc 11:00 | LUCAS",
       "link": "/truc-tiep/laura-siegemund-vs-elina-svitolina-luc-1100-ngay-08-03-2026/",
@@ -302,6 +242,24 @@
       "link": "/truc-tiep/wonju-dongbu-promy-vs-daegu-kogas-luc-1430-ngay-08-03-2026/",
       "runtime": 1772955000,
       "datetime": "2026-03-08T07:30:00.000Z"
+    },
+    {
+      "name": "Tuloy FC vs Aguilas-UMak FC lúc 15:00",
+      "link": "/truc-tiep/tuloy-fc-vs-aguilas-umak-fc-luc-1500-ngay-08-03-2026/",
+      "runtime": 1772956800,
+      "datetime": "2026-03-08T08:00:00.000Z"
+    },
+    {
+      "name": "Yenisey Krasnoyarsk vs FC KAMAZ  lúc 15:00",
+      "link": "/truc-tiep/yenisey-krasnoyarsk-vs-fc-kamaz-luc-1500-ngay-08-03-2026/",
+      "runtime": 1772956800,
+      "datetime": "2026-03-08T08:00:00.000Z"
+    },
+    {
+      "name": "New Meta vs Clocks lúc 15:00",
+      "link": "/truc-tiep/new-meta-vs-clocks-luc-1500-ngay-08-03-2026/",
+      "runtime": 1772956800,
+      "datetime": "2026-03-08T08:00:00.000Z"
     }
   ]
 }
