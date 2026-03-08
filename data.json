@@ -1,7 +1,7 @@
 {
   "success": true,
   "total_matches": 80,
-  "updated_at": "2026-03-08T14:54:46.120Z",
+  "updated_at": "2026-03-08T15:18:11.469Z",
   "matches": [
     {
       "name": "MOUZ NXT vs GenOne lúc 18:30",
@@ -16,62 +16,8 @@
       "datetime": "2026-03-08T12:00:00.000Z"
     },
     {
-      "name": "Villarreal vs Elche lúc 20:00 | ZIZU",
-      "link": "/truc-tiep/villarreal-vs-elche-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "Konyaspor vs Kasimpasa lúc 20:00 | HELLO",
-      "link": "/truc-tiep/konyaspor-vs-kasimpasa-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
       "name": "Rangers vs Celtic FC lúc 20:00",
       "link": "/truc-tiep/rangers-vs-celtic-fc-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "Radnik Surdulica vs Radnicki Nis lúc 20:00",
-      "link": "/truc-tiep/radnik-surdulica-vs-radnicki-nis-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "Boluspor vs Iğdır FK lúc 20:00",
-      "link": "/truc-tiep/boluspor-vs-igdir-fk-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "BKMA vs FC Noah lúc 20:00",
-      "link": "/truc-tiep/bkma-vs-fc-noah-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "FC Astana vs Zhetysu Taldykorgan lúc 20:00",
-      "link": "/truc-tiep/fc-astana-vs-zhetysu-taldykorgan-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "Las Palmas vs AD Ceuta lúc 20:00",
-      "link": "/truc-tiep/las-palmas-vs-ad-ceuta-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "Torpedo Moscow vs Rodina Moscow lúc 20:00",
-      "link": "/truc-tiep/torpedo-moscow-vs-rodina-moscow-luc-2000-ngay-08-03-2026/",
-      "runtime": 1772974800,
-      "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "Nữ Fenerbahce II vs Nữ Eczacibasi 2 lúc 20:00",
-      "link": "/truc-tiep/nu-fenerbahce-ii-vs-nu-eczacibasi-2-luc-2000-ngay-08-03-2026/",
       "runtime": 1772974800,
       "datetime": "2026-03-08T13:00:00.000Z"
     },
@@ -80,12 +26,6 @@
       "link": "/truc-tiep/saigon-warriors-vs-ngua-hi-esports-luc-2000-ngay-08-03-2026/",
       "runtime": 1772974800,
       "datetime": "2026-03-08T13:00:00.000Z"
-    },
-    {
-      "name": "CSKA 1948 Sofia vs Botev Plovdiv lúc 20:15 | TONI",
-      "link": "/truc-tiep/cska-1948-sofia-vs-botev-plovdiv-luc-2015-ngay-08-03-2026/",
-      "runtime": 1772975700,
-      "datetime": "2026-03-08T13:15:00.000Z"
     },
     {
       "name": "Port Vale vs Sunderland lúc 20:30 | LOUIS",
@@ -436,14 +376,14 @@
       "datetime": "2026-03-08T16:15:00.000Z"
     },
     {
-      "name": "Union Berlin vs Werder Bremen lúc 23:30 | LOUIS",
-      "link": "/truc-tiep/union-berlin-vs-werder-bremen-luc-2330-ngay-08-03-2026/",
+      "name": "Leeds United vs Norwich City lúc 23:30 | ZIZU",
+      "link": "/truc-tiep/leeds-united-vs-norwich-city-luc-2330-ngay-08-03-2026/",
       "runtime": 1772987400,
       "datetime": "2026-03-08T16:30:00.000Z"
     },
     {
-      "name": "Leeds United vs Norwich City lúc 23:30 | ZIZU",
-      "link": "/truc-tiep/leeds-united-vs-norwich-city-luc-2330-ngay-08-03-2026/",
+      "name": "Union Berlin vs Werder Bremen lúc 23:30 | LOUIS",
+      "link": "/truc-tiep/union-berlin-vs-werder-bremen-luc-2330-ngay-08-03-2026/",
       "runtime": 1772987400,
       "datetime": "2026-03-08T16:30:00.000Z"
     },
@@ -482,6 +422,66 @@
       "link": "/truc-tiep/vukovar-1991-vs-rijeka-luc-2345-ngay-08-03-2026/",
       "runtime": 1772988300,
       "datetime": "2026-03-08T16:45:00.000Z"
+    },
+    {
+      "name": "Genoa vs AS Roma lúc 00:00 | ASTRA",
+      "link": "/truc-tiep/genoa-vs-as-roma-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Fenerbahce vs Samsunspor lúc 00:00 | EREZ",
+      "link": "/truc-tiep/fenerbahce-vs-samsunspor-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Midtjylland vs Aarhus AGF lúc 00:00",
+      "link": "/truc-tiep/midtjylland-vs-aarhus-agf-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Vojvodina  vs Partizan Belgrade lúc 00:00",
+      "link": "/truc-tiep/vojvodina-vs-partizan-belgrade-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Dunajska Streda vs Sport Podbrezova lúc 00:00",
+      "link": "/truc-tiep/dunajska-streda-vs-sport-podbrezova-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Levadiakos vs Panathinaikos lúc 00:00 | LOGAN",
+      "link": "/truc-tiep/levadiakos-vs-panathinaikos-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Bodrum FK vs Erokspor lúc 00:00",
+      "link": "/truc-tiep/bodrum-fk-vs-erokspor-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Flamurtari vs Vllaznia Shkoder lúc 00:00",
+      "link": "/truc-tiep/flamurtari-vs-vllaznia-shkoder-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Cleveland Cavaliers vs Boston Celtics lúc 00:00 | ALAN",
+      "link": "/truc-tiep/cleveland-cavaliers-vs-boston-celtics-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
+    },
+    {
+      "name": "Verona vs Milano lúc 00:00",
+      "link": "/truc-tiep/verona-vs-milano-luc-0000-ngay-09-03-2026/",
+      "runtime": 1772989200,
+      "datetime": "2026-03-08T17:00:00.000Z"
     }
   ]
 }
