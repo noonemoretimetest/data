@@ -1,25 +1,13 @@
 {
   "success": true,
-  "total_matches": 68,
-  "updated_at": "2026-03-08T09:54:54.931Z",
+  "total_matches": 75,
+  "updated_at": "2026-03-08T10:19:28.879Z",
   "matches": [
     {
       "name": "Julia Riera vs Katarina Zavatska lúc 14:30",
       "link": "/truc-tiep/julia-riera-vs-katarina-zavatska-luc-1430-ngay-08-03-2026/",
       "runtime": 1772955000,
       "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Tuloy FC vs Aguilas-UMak FC lúc 15:00",
-      "link": "/truc-tiep/tuloy-fc-vs-aguilas-umak-fc-luc-1500-ngay-08-03-2026/",
-      "runtime": 1772956800,
-      "datetime": "2026-03-08T08:00:00.000Z"
-    },
-    {
-      "name": "Yenisey Krasnoyarsk vs FC KAMAZ  lúc 15:00",
-      "link": "/truc-tiep/yenisey-krasnoyarsk-vs-fc-kamaz-luc-1500-ngay-08-03-2026/",
-      "runtime": 1772956800,
-      "datetime": "2026-03-08T08:00:00.000Z"
     },
     {
       "name": "Luca Potenza vs Peter Makk lúc 15:00",
@@ -42,12 +30,6 @@
     {
       "name": "Nagasaki Velca vs Alvark Tokyo lúc 15:05",
       "link": "/truc-tiep/nagasaki-velca-vs-alvark-tokyo-luc-1505-ngay-08-03-2026/",
-      "runtime": 1772957100,
-      "datetime": "2026-03-08T08:05:00.000Z"
-    },
-    {
-      "name": "Sunrockers Shibuya vs Sendai 89ers lúc 15:05",
-      "link": "/truc-tiep/sunrockers-shibuya-vs-sendai-89ers-luc-1505-ngay-08-03-2026/",
       "runtime": 1772957100,
       "datetime": "2026-03-08T08:05:00.000Z"
     },
@@ -124,12 +106,6 @@
       "datetime": "2026-03-08T09:00:00.000Z"
     },
     {
-      "name": "Nữ Kolejliler vs Nữ Muratpasa lúc 16:00",
-      "link": "/truc-tiep/nu-kolejliler-vs-nu-muratpasa-luc-1600-ngay-08-03-2026/",
-      "runtime": 1772960400,
-      "datetime": "2026-03-08T09:00:00.000Z"
-    },
-    {
       "name": "Bilibili Gaming vs JD Gaming lúc 16:00",
       "link": "/truc-tiep/bilibili-gaming-vs-jd-gaming-luc-1600-ngay-08-03-2026/",
       "runtime": 1772960400,
@@ -198,6 +174,12 @@
     {
       "name": "Medical Trabzonspor vs Pinar Karsiyaka lúc 17:00",
       "link": "/truc-tiep/medical-trabzonspor-vs-pinar-karsiyaka-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "Eero Vasa vs Siddhant Banthia lúc 17:00",
+      "link": "/truc-tiep/eero-vasa-vs-siddhant-banthia-luc-1700-ngay-08-03-2026/",
       "runtime": 1772964000,
       "datetime": "2026-03-08T10:00:00.000Z"
     },
@@ -410,6 +392,66 @@
       "link": "/truc-tiep/mouz-nxt-vs-genone-luc-1830-ngay-08-03-2026/",
       "runtime": 1772969400,
       "datetime": "2026-03-08T11:30:00.000Z"
+    },
+    {
+      "name": "Fulham vs Southampton lúc 19:00 | MAX",
+      "link": "/truc-tiep/fulham-vs-southampton-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "BG Pathum United vs Chonburi FC lúc 19:00",
+      "link": "/truc-tiep/bg-pathum-united-vs-chonburi-fc-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "Jelgava vs Tukums-2000 lúc 19:00",
+      "link": "/truc-tiep/jelgava-vs-tukums-2000-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "Djurgardens vs Brommapojkarna lúc 19:00",
+      "link": "/truc-tiep/djurgardens-vs-brommapojkarna-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "AFC Wimbledon vs Northampton Town lúc 19:00",
+      "link": "/truc-tiep/afc-wimbledon-vs-northampton-town-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "Elfsborg vs IK Sirius FK lúc 19:00",
+      "link": "/truc-tiep/elfsborg-vs-ik-sirius-fk-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "Banik Ostrava vs FC Zlín lúc 19:00",
+      "link": "/truc-tiep/banik-ostrava-vs-fc-zlin-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "Liu Shengshu/Tan Ning vs Baek Ha-na/Lee So-Hee lúc 19:00",
+      "link": "/truc-tiep/liu-shengshu-tan-ning-vs-baek-ha-na-lee-so-hee-luc-1900-ngay-08-03-2026/",
+      "runtime": 1772971200,
+      "datetime": "2026-03-08T12:00:00.000Z"
+    },
+    {
+      "name": "Hà Nội FC vs Công An Hà Nội lúc 19:15 | KEN",
+      "link": "/truc-tiep/ha-noi-fc-vs-cong-an-ha-noi-luc-1915-ngay-08-03-2026/",
+      "runtime": 1772972100,
+      "datetime": "2026-03-08T12:15:00.000Z"
+    },
+    {
+      "name": "Banga Gargzdai vs FK Riteriai lúc 19:15",
+      "link": "/truc-tiep/banga-gargzdai-vs-fk-riteriai-luc-1915-ngay-08-03-2026/",
+      "runtime": 1772972100,
+      "datetime": "2026-03-08T12:15:00.000Z"
     }
   ]
 }
