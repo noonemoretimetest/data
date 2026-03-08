@@ -1,44 +1,8 @@
 {
   "success": true,
-  "total_matches": 38,
-  "updated_at": "2026-03-08T07:53:38.191Z",
+  "total_matches": 45,
+  "updated_at": "2026-03-08T08:24:11.466Z",
   "matches": [
-    {
-      "name": "Gamba Osaka vs V-Varen Nagasaki lúc 13:00 | ZARA",
-      "link": "/truc-tiep/gamba-osaka-vs-v-varen-nagasaki-luc-1300-ngay-08-03-2026/",
-      "runtime": 1772949600,
-      "datetime": "2026-03-08T06:00:00.000Z"
-    },
-    {
-      "name": "Nữ Illawarra Stingrays vs Nữ WS Wanderers B lúc 13:00",
-      "link": "/truc-tiep/nu-illawarra-stingrays-vs-nu-ws-wanderers-b-luc-1300-ngay-08-03-2026/",
-      "runtime": 1772949600,
-      "datetime": "2026-03-08T06:00:00.000Z"
-    },
-    {
-      "name": "Nữ Mt Druitt Rangers vs Nữ UNSW FC lúc 13:00",
-      "link": "/truc-tiep/nu-mt-druitt-rangers-vs-nu-unsw-fc-luc-1300-ngay-08-03-2026/",
-      "runtime": 1772949600,
-      "datetime": "2026-03-08T06:00:00.000Z"
-    },
-    {
-      "name": "Siheung City vs Yeoju Citizen lúc 13:00",
-      "link": "/truc-tiep/siheung-city-vs-yeoju-citizen-luc-1300-ngay-08-03-2026/",
-      "runtime": 1772949600,
-      "datetime": "2026-03-08T06:00:00.000Z"
-    },
-    {
-      "name": "Ibaraki Robots vs Nagoya Diamond Dolphins lúc 13:05",
-      "link": "/truc-tiep/ibaraki-robots-vs-nagoya-diamond-dolphins-luc-1305-ngay-08-03-2026/",
-      "runtime": 1772949900,
-      "datetime": "2026-03-08T06:05:00.000Z"
-    },
-    {
-      "name": "Kawasaki Brave Thunders vs Shiga Lakes lúc 13:05",
-      "link": "/truc-tiep/kawasaki-brave-thunders-vs-shiga-lakes-luc-1305-ngay-08-03-2026/",
-      "runtime": 1772949900,
-      "datetime": "2026-03-08T06:05:00.000Z"
-    },
     {
       "name": "Nữ Toray Arrows vs Nữ Green Wings  lúc 13:05",
       "link": "/truc-tiep/nu-toray-arrows-vs-nu-green-wings-luc-1305-ngay-08-03-2026/",
@@ -142,10 +106,40 @@
       "datetime": "2026-03-08T08:00:00.000Z"
     },
     {
+      "name": "Luca Potenza vs Peter Makk lúc 15:00",
+      "link": "/truc-tiep/luca-potenza-vs-peter-makk-luc-1500-ngay-08-03-2026/",
+      "runtime": 1772956800,
+      "datetime": "2026-03-08T08:00:00.000Z"
+    },
+    {
+      "name": "Stefan Latinovic vs Michiel de Krom lúc 15:00",
+      "link": "/truc-tiep/stefan-latinovic-vs-michiel-de-krom-luc-1500-ngay-08-03-2026/",
+      "runtime": 1772956800,
+      "datetime": "2026-03-08T08:00:00.000Z"
+    },
+    {
+      "name": "Gray Voelzke vs Maik Steiner lúc 15:00",
+      "link": "/truc-tiep/gray-voelzke-vs-maik-steiner-luc-1500-ngay-08-03-2026/",
+      "runtime": 1772956800,
+      "datetime": "2026-03-08T08:00:00.000Z"
+    },
+    {
       "name": "New Meta vs Clocks lúc 15:00",
       "link": "/truc-tiep/new-meta-vs-clocks-luc-1500-ngay-08-03-2026/",
       "runtime": 1772956800,
       "datetime": "2026-03-08T08:00:00.000Z"
+    },
+    {
+      "name": "Nagasaki Velca vs Alvark Tokyo lúc 15:05",
+      "link": "/truc-tiep/nagasaki-velca-vs-alvark-tokyo-luc-1505-ngay-08-03-2026/",
+      "runtime": 1772957100,
+      "datetime": "2026-03-08T08:05:00.000Z"
+    },
+    {
+      "name": "Sunrockers Shibuya vs Sendai 89ers lúc 15:05",
+      "link": "/truc-tiep/sunrockers-shibuya-vs-sendai-89ers-luc-1505-ngay-08-03-2026/",
+      "runtime": 1772957100,
+      "datetime": "2026-03-08T08:05:00.000Z"
     },
     {
       "name": "Đồng Tháp vs TDTT Bắc Ninh lúc 16:00",
@@ -190,14 +184,14 @@
       "datetime": "2026-03-08T09:00:00.000Z"
     },
     {
-      "name": "Taiwan Beer Leopards vs New Taipei Kings lúc 16:00",
-      "link": "/truc-tiep/taiwan-beer-leopards-vs-new-taipei-kings-luc-1600-ngay-08-03-2026/",
+      "name": "Enisey vs Lokomotiv Kuban lúc 16:00",
+      "link": "/truc-tiep/enisey-vs-lokomotiv-kuban-luc-1600-ngay-08-03-2026/",
       "runtime": 1772960400,
       "datetime": "2026-03-08T09:00:00.000Z"
     },
     {
-      "name": "Enisey vs Lokomotiv Kuban lúc 16:00",
-      "link": "/truc-tiep/enisey-vs-lokomotiv-kuban-luc-1600-ngay-08-03-2026/",
+      "name": "Taiwan Beer Leopards vs New Taipei Kings lúc 16:00",
+      "link": "/truc-tiep/taiwan-beer-leopards-vs-new-taipei-kings-luc-1600-ngay-08-03-2026/",
       "runtime": 1772960400,
       "datetime": "2026-03-08T09:00:00.000Z"
     },
@@ -230,6 +224,54 @@
       "link": "/truc-tiep/trenkwalder-admira-vs-sk-austria-luc-1630-ngay-08-03-2026/",
       "runtime": 1772962200,
       "datetime": "2026-03-08T09:30:00.000Z"
+    },
+    {
+      "name": "TP Hồ Chí Minh II vs Khánh Hòa lúc 17:00 | JAY",
+      "link": "/truc-tiep/tp-ho-chi-minh-ii-vs-khanh-hoa-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "FK Atyrau vs Ulytau Zhezkazgan lúc 17:00",
+      "link": "/truc-tiep/fk-atyrau-vs-ulytau-zhezkazgan-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "Scolar Resita vs Corvinul Hunedoara lúc 17:00",
+      "link": "/truc-tiep/scolar-resita-vs-corvinul-hunedoara-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "Verona U20 vs Frosinone U20 lúc 17:00",
+      "link": "/truc-tiep/verona-u20-vs-frosinone-u20-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "AS Roma U20 vs Parma U20 lúc 17:00",
+      "link": "/truc-tiep/as-roma-u20-vs-parma-u20-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "Medical Trabzonspor vs Pinar Karsiyaka lúc 17:00",
+      "link": "/truc-tiep/medical-trabzonspor-vs-pinar-karsiyaka-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "Bursa vs Akkus Bld lúc 17:00",
+      "link": "/truc-tiep/bursa-vs-akkus-bld-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
+    },
+    {
+      "name": "9Gaming vs SN CyberCore Esports lúc 17:00",
+      "link": "/truc-tiep/9gaming-vs-sn-cybercore-esports-luc-1700-ngay-08-03-2026/",
+      "runtime": 1772964000,
+      "datetime": "2026-03-08T10:00:00.000Z"
     }
   ]
 }
