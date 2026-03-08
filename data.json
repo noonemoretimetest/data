@@ -1,20 +1,8 @@
 {
   "success": true,
-  "total_matches": 75,
-  "updated_at": "2026-03-08T10:19:28.879Z",
+  "total_matches": 83,
+  "updated_at": "2026-03-08T10:46:33.687Z",
   "matches": [
-    {
-      "name": "Julia Riera vs Katarina Zavatska lúc 14:30",
-      "link": "/truc-tiep/julia-riera-vs-katarina-zavatska-luc-1430-ngay-08-03-2026/",
-      "runtime": 1772955000,
-      "datetime": "2026-03-08T07:30:00.000Z"
-    },
-    {
-      "name": "Luca Potenza vs Peter Makk lúc 15:00",
-      "link": "/truc-tiep/luca-potenza-vs-peter-makk-luc-1500-ngay-08-03-2026/",
-      "runtime": 1772956800,
-      "datetime": "2026-03-08T08:00:00.000Z"
-    },
     {
       "name": "Stefan Latinovic vs Michiel de Krom lúc 15:00",
       "link": "/truc-tiep/stefan-latinovic-vs-michiel-de-krom-luc-1500-ngay-08-03-2026/",
@@ -26,12 +14,6 @@
       "link": "/truc-tiep/new-meta-vs-clocks-luc-1500-ngay-08-03-2026/",
       "runtime": 1772956800,
       "datetime": "2026-03-08T08:00:00.000Z"
-    },
-    {
-      "name": "Nagasaki Velca vs Alvark Tokyo lúc 15:05",
-      "link": "/truc-tiep/nagasaki-velca-vs-alvark-tokyo-luc-1505-ngay-08-03-2026/",
-      "runtime": 1772957100,
-      "datetime": "2026-03-08T08:05:00.000Z"
     },
     {
       "name": "Đồng Tháp vs TDTT Bắc Ninh lúc 16:00",
@@ -140,6 +122,12 @@
       "link": "/truc-tiep/fc-artmedia-petrzalka-vs-mfk-zvolen-luc-1630-ngay-08-03-2026/",
       "runtime": 1772962200,
       "datetime": "2026-03-08T09:30:00.000Z"
+    },
+    {
+      "name": "Dillon Beckles vs Denys Klok lúc 16:45",
+      "link": "/truc-tiep/dillon-beckles-vs-denys-klok-luc-1645-ngay-08-03-2026/",
+      "runtime": 1772963100,
+      "datetime": "2026-03-08T09:45:00.000Z"
     },
     {
       "name": "TP Hồ Chí Minh II vs Khánh Hòa lúc 17:00 | JAY",
@@ -452,6 +440,66 @@
       "link": "/truc-tiep/banga-gargzdai-vs-fk-riteriai-luc-1915-ngay-08-03-2026/",
       "runtime": 1772972100,
       "datetime": "2026-03-08T12:15:00.000Z"
+    },
+    {
+      "name": "Preuben Munster vs Hertha Berlin lúc 19:30 | YUNO",
+      "link": "/truc-tiep/preuben-munster-vs-hertha-berlin-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "Karlsruher SC vs Dynamo Dresden lúc 19:30 | MON",
+      "link": "/truc-tiep/karlsruher-sc-vs-dynamo-dresden-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "Hannover 96 vs Greuther Fürth lúc 19:30 | XMEN",
+      "link": "/truc-tiep/hannover-96-vs-greuther-furth-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "MTK Budapest vs Diosgyor VTK lúc 19:30",
+      "link": "/truc-tiep/mtk-budapest-vs-diosgyor-vtk-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "Tartu Tammeka vs Nomme JK Kalju lúc 19:30",
+      "link": "/truc-tiep/tartu-tammeka-vs-nomme-jk-kalju-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "Otelul Galati vs Hermannstadt lúc 19:30",
+      "link": "/truc-tiep/otelul-galati-vs-hermannstadt-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "Club Brugge vs Anderlecht lúc 19:30",
+      "link": "/truc-tiep/club-brugge-vs-anderlecht-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "Young Lions vs Tampines Rovers lúc 19:30",
+      "link": "/truc-tiep/young-lions-vs-tampines-rovers-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "Tofas Spor Kulübü vs Esenler Erokspor lúc 19:30",
+      "link": "/truc-tiep/tofas-spor-kulubu-vs-esenler-erokspor-luc-1930-ngay-08-03-2026/",
+      "runtime": 1772973000,
+      "datetime": "2026-03-08T12:30:00.000Z"
+    },
+    {
+      "name": "RC Montevideo vs Cerro Montevideo lúc 19:45",
+      "link": "/truc-tiep/rc-montevideo-vs-cerro-montevideo-luc-1945-ngay-08-03-2026/",
+      "runtime": 1772973900,
+      "datetime": "2026-03-08T12:45:00.000Z"
     }
   ]
 }
