@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 48,
-  "updated_at": "2026-03-09T21:02:07.326Z",
+  "total_matches": 43,
+  "updated_at": "2026-03-09T21:48:11.023Z",
   "matches": [
     {
       "name": "Kim Won-ho/Seo Seung-jae vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 22:40",
@@ -14,12 +14,6 @@
       "link": "/truc-tiep/team-spirit-vs-heroic-luc-0000-ngay-10-03-2026/",
       "runtime": 1773075600,
       "datetime": "2026-03-09T17:00:00.000Z"
-    },
-    {
-      "name": "Leicester City U21 vs Newcastle U21 lúc 02:00",
-      "link": "/truc-tiep/leicester-city-u21-vs-newcastle-u21-luc-0200-ngay-10-03-2026/",
-      "runtime": 1773082800,
-      "datetime": "2026-03-09T19:00:00.000Z"
     },
     {
       "name": "Alexander Bublik vs Rinky Hijikata lúc 02:10",
@@ -38,66 +32,6 @@
       "link": "/truc-tiep/west-ham-vs-brentford-luc-0230-ngay-10-03-2026/",
       "runtime": 1773084600,
       "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Talaea El Gaish vs Al Ahly FC lúc 02:30 | YUNO",
-      "link": "/truc-tiep/talaea-el-gaish-vs-al-ahly-fc-luc-2200-ngay-01-01-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Bank El Ahly vs Pyramids FC lúc 02:30 | MON",
-      "link": "/truc-tiep/bank-el-ahly-vs-pyramids-fc-luc-0230-ngay-01-03-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Almeria vs Cultural Leonesa lúc 02:30 | POLO",
-      "link": "/truc-tiep/almeria-vs-cultural-leonesa-luc-0230-ngay-10-03-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Ascoli vs Ravenna lúc 02:30",
-      "link": "/truc-tiep/ascoli-vs-ravenna-luc-0230-ngay-10-03-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Atalanta U23 vs Audace Cerignola lúc 02:30",
-      "link": "/truc-tiep/atalanta-u23-vs-audace-cerignola-luc-0230-ngay-10-03-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Catania FC vs US Casertana 1908 lúc 02:30",
-      "link": "/truc-tiep/catania-fc-vs-us-casertana-1908-luc-0230-ngay-10-03-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Perugia vs Pontedera lúc 02:30",
-      "link": "/truc-tiep/perugia-vs-pontedera-luc-0230-ngay-10-03-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Campobasso vs Arezzo lúc 02:30",
-      "link": "/truc-tiep/campobasso-vs-arezzo-luc-0230-ngay-10-03-2026/",
-      "runtime": 1773084600,
-      "datetime": "2026-03-09T19:30:00.000Z"
-    },
-    {
-      "name": "Lazio vs Sassuolo lúc 02:45 | MAX - RYAN",
-      "link": "/truc-tiep/lazio-vs-sassuolo-luc-0245-ngay-10-03-2026/",
-      "runtime": 1773085500,
-      "datetime": "2026-03-09T19:45:00.000Z"
-    },
-    {
-      "name": "Shelbourne vs Shamrock Rovers lúc 02:45",
-      "link": "/truc-tiep/shelbourne-vs-shamrock-rovers-luc-0245-ngay-10-03-2026/",
-      "runtime": 1773085500,
-      "datetime": "2026-03-09T19:45:00.000Z"
     },
     {
       "name": "Espanyol vs Real Oviedo lúc 03:00 | BRUCE - ASTRA",
@@ -290,6 +224,42 @@
       "link": "/truc-tiep/cleveland-cavaliers-vs-philadelphia-76ers-luc-0600-ngay-10-03-2026/",
       "runtime": 1773097200,
       "datetime": "2026-03-09T23:00:00.000Z"
+    },
+    {
+      "name": "Instituto de Cordoba vs Boca Juniors lúc 06:10",
+      "link": "/truc-tiep/instituto-de-cordoba-vs-boca-juniors-luc-0610-ngay-10-03-2026/",
+      "runtime": 1773097800,
+      "datetime": "2026-03-09T23:10:00.000Z"
+    },
+    {
+      "name": "Millonarios vs Cucuta Deportivo lúc 06:20 | LEE",
+      "link": "/truc-tiep/millonarios-vs-cucuta-deportivo-luc-0620-ngay-10-03-2026/",
+      "runtime": 1773098400,
+      "datetime": "2026-03-09T23:20:00.000Z"
+    },
+    {
+      "name": "Deportivo Recoleta vs Sportivo Ameliano lúc 06:30",
+      "link": "/truc-tiep/deportivo-recoleta-vs-sportivo-ameliano-luc-0630-ngay-10-03-2026/",
+      "runtime": 1773099000,
+      "datetime": "2026-03-09T23:30:00.000Z"
+    },
+    {
+      "name": "CD Copiapo S.A. vs Deportes Temuco lúc 06:30",
+      "link": "/truc-tiep/cd-copiapo-s-a-vs-deportes-temuco-luc-0630-ngay-10-03-2026/",
+      "runtime": 1773099000,
+      "datetime": "2026-03-09T23:30:00.000Z"
+    },
+    {
+      "name": "Oklahoma City Thunder vs Denver Nuggets lúc 06:30 | STEP",
+      "link": "/truc-tiep/oklahoma-city-thunder-vs-denver-nuggets-luc-0630-ngay-10-03-2026/",
+      "runtime": 1773099000,
+      "datetime": "2026-03-09T23:30:00.000Z"
+    },
+    {
+      "name": "Brooklyn Nets vs Memphis Grizzlies lúc 06:30",
+      "link": "/truc-tiep/brooklyn-nets-vs-memphis-grizzlies-luc-0630-ngay-10-03-2026/",
+      "runtime": 1773099000,
+      "datetime": "2026-03-09T23:30:00.000Z"
     }
   ]
 }
