@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 18,
-  "updated_at": "2026-03-09T06:39:16.552Z",
+  "total_matches": 30,
+  "updated_at": "2026-03-09T07:37:20.368Z",
   "matches": [
     {
       "name": "Kim Won-ho/Seo Seung-jae vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 22:40",
@@ -28,26 +28,26 @@
       "datetime": "2026-03-09T06:00:00.000Z"
     },
     {
-      "name": "Diliman College vs  Philippine (R) lúc 13:00",
-      "link": "/truc-tiep/diliman-college-vs-philippine-r-luc-1300-ngay-09-03-2026/",
-      "runtime": 1773036000,
-      "datetime": "2026-03-09T06:00:00.000Z"
-    },
-    {
       "name": "Nữ Fo Guang (R) vs Nữ Shih Hsin University  lúc 13:00",
       "link": "/truc-tiep/nu-fo-guang-r-vs-nu-shih-hsin-university-luc-1300-ngay-09-03-2026/",
       "runtime": 1773036000,
       "datetime": "2026-03-09T06:00:00.000Z"
     },
     {
-      "name": "Nuclear TigeRES vs VP.Prodigy lúc 13:00",
-      "link": "/truc-tiep/nuclear-tigeres-vs-vp-prodigy-luc-1300-ngay-09-03-2026/",
+      "name": "1win vs Donstu lúc 13:00",
+      "link": "/truc-tiep/1win-vs-donstu-luc-1300-ngay-09-03-2026/",
       "runtime": 1773036000,
       "datetime": "2026-03-09T06:00:00.000Z"
     },
     {
       "name": "TYLOO vs FengDa lúc 13:00",
       "link": "/truc-tiep/tyloo-vs-fengda-luc-1300-ngay-09-03-2026/",
+      "runtime": 1773036000,
+      "datetime": "2026-03-09T06:00:00.000Z"
+    },
+    {
+      "name": "Nuclear TigeRES vs VP.Prodigy lúc 13:00",
+      "link": "/truc-tiep/nuclear-tigeres-vs-vp-prodigy-luc-1300-ngay-09-03-2026/",
       "runtime": 1773036000,
       "datetime": "2026-03-09T06:00:00.000Z"
     },
@@ -100,16 +100,88 @@
       "datetime": "2026-03-09T08:00:00.000Z"
     },
     {
+      "name": "Aurora Gaming vs Tundra Esports lúc 15:00",
+      "link": "/truc-tiep/aurora-gaming-vs-tundra-esports-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
+    },
+    {
       "name": "Xtreme Gaming vs BetBoom Team lúc 15:00",
       "link": "/truc-tiep/xtreme-gaming-vs-betboom-team-luc-1500-ngay-09-03-2026/",
       "runtime": 1773043200,
       "datetime": "2026-03-09T08:00:00.000Z"
     },
     {
-      "name": "Aurora Gaming vs Tundra Esports lúc 15:00",
-      "link": "/truc-tiep/aurora-gaming-vs-tundra-esports-luc-1500-ngay-09-03-2026/",
-      "runtime": 1773043200,
-      "datetime": "2026-03-09T08:00:00.000Z"
+      "name": "Dalila Jakupovic vs Lisa Pigato lúc 15:40",
+      "link": "/truc-tiep/dalila-jakupovic-vs-lisa-pigato-luc-1540-ngay-09-03-2026/",
+      "runtime": 1773045600,
+      "datetime": "2026-03-09T08:40:00.000Z"
+    },
+    {
+      "name": "Nữ Bangladesh  vs Nữ Uzbekistan lúc 16:00 | LOUIS",
+      "link": "/truc-tiep/nu-bangladesh-vs-nu-uzbekistan-luc-1600-ngay-09-03-2026/",
+      "runtime": 1773046800,
+      "datetime": "2026-03-09T09:00:00.000Z"
+    },
+    {
+      "name": "Nữ Triều Tiên vs Nữ Trung Quốc lúc 16:00 | BRUCE",
+      "link": "/truc-tiep/nu-trieu-tien-vs-nu-trung-quoc-luc-1600-ngay-09-03-2026/",
+      "runtime": 1773046800,
+      "datetime": "2026-03-09T09:00:00.000Z"
+    },
+    {
+      "name": "Nữ Xinjiang Tianshan vs Nữ Jiansu Nangang lúc 16:00",
+      "link": "/truc-tiep/nu-xinjiang-tianshan-vs-nu-jiansu-nangang-luc-1600-ngay-09-03-2026/",
+      "runtime": 1773046800,
+      "datetime": "2026-03-09T09:00:00.000Z"
+    },
+    {
+      "name": "Caloocan Kankaloo\t vs MPBL D-League lúc 16:00",
+      "link": "/truc-tiep/caloocan-kankaloo-vs-mpbl-d-league-luc-1600-ngay-09-03-2026/",
+      "runtime": 1773046800,
+      "datetime": "2026-03-09T09:00:00.000Z"
+    },
+    {
+      "name": "K27 vs Sashi lúc 16:00",
+      "link": "/truc-tiep/k27-vs-sashi-luc-1600-ngay-09-03-2026/",
+      "runtime": 1773046800,
+      "datetime": "2026-03-09T09:00:00.000Z"
+    },
+    {
+      "name": "Christian Langmo vs Max Wiskandt lúc 16:10",
+      "link": "/truc-tiep/christian-langmo-vs-max-wiskandt-luc-1610-ngay-09-03-2026/",
+      "runtime": 1773047400,
+      "datetime": "2026-03-09T09:10:00.000Z"
+    },
+    {
+      "name": "Lui Maxted vs Petr Nesterov lúc 16:10",
+      "link": "/truc-tiep/lui-maxted-vs-petr-nesterov-luc-1610-ngay-09-03-2026/",
+      "runtime": 1773047400,
+      "datetime": "2026-03-09T09:10:00.000Z"
+    },
+    {
+      "name": "Melbourne Victory (R) vs FC Bulleen Lions lúc 16:30",
+      "link": "/truc-tiep/melbourne-victory-r-vs-fc-bulleen-lions-luc-1630-ngay-09-03-2026/",
+      "runtime": 1773048600,
+      "datetime": "2026-03-09T09:30:00.000Z"
+    },
+    {
+      "name": "Thitsar Arman FC vs Dagon Star United lúc 16:30 | LEE",
+      "link": "/truc-tiep/thitsar-arman-fc-vs-dagon-star-united-luc-1630-ngay-09-03-2026/",
+      "runtime": 1773048600,
+      "datetime": "2026-03-09T09:30:00.000Z"
+    },
+    {
+      "name": "Antoine Ghibaudo vs Matt Ponchet lúc 16:30",
+      "link": "/truc-tiep/antoine-ghibaudo-vs-matt-ponchet-luc-1630-ngay-09-03-2026/",
+      "runtime": 1773048600,
+      "datetime": "2026-03-09T09:30:00.000Z"
+    },
+    {
+      "name": "Lucas Poullain vs Alex Knaff lúc 16:30",
+      "link": "/truc-tiep/lucas-poullain-vs-alex-knaff-luc-1630-ngay-09-03-2026/",
+      "runtime": 1773048600,
+      "datetime": "2026-03-09T09:30:00.000Z"
     }
   ]
 }
