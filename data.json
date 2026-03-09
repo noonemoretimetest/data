@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 34,
-  "updated_at": "2026-03-09T08:05:58.865Z",
+  "total_matches": 41,
+  "updated_at": "2026-03-09T09:03:41.324Z",
   "matches": [
     {
       "name": "Kim Won-ho/Seo Seung-jae vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 22:40",
@@ -16,28 +16,10 @@
       "datetime": "2026-03-09T04:00:00.000Z"
     },
     {
-      "name": "Nuclear TigeRES vs VP.Prodigy lúc 13:00",
-      "link": "/truc-tiep/nuclear-tigeres-vs-vp-prodigy-luc-1300-ngay-09-03-2026/",
-      "runtime": 1773036000,
-      "datetime": "2026-03-09T06:00:00.000Z"
-    },
-    {
       "name": "Melbourne Victory U23 vs Bulleen Lions U23 lúc 14:00",
       "link": "/truc-tiep/melbourne-victory-u23-vs-bulleen-lions-u23-luc-1400-ngay-09-03-2026/",
       "runtime": 1773039600,
       "datetime": "2026-03-09T07:00:00.000Z"
-    },
-    {
-      "name": "Pasay Voyagers vs Marikina Shoemakers lúc 14:00",
-      "link": "/truc-tiep/pasay-voyagers-vs-marikina-shoemakers-luc-1400-ngay-09-03-2026/",
-      "runtime": 1773039600,
-      "datetime": "2026-03-09T07:00:00.000Z"
-    },
-    {
-      "name": "Anastasia Gasanova vs Mai Hontama lúc 14:30",
-      "link": "/truc-tiep/anastasia-gasanova-vs-mai-hontama-luc-1430-ngay-09-03-2026/",
-      "runtime": 1773041400,
-      "datetime": "2026-03-09T07:30:00.000Z"
     },
     {
       "name": "Carole Monnet vs Lia Karatancheva lúc 14:30",
@@ -206,6 +188,66 @@
       "link": "/truc-tiep/sunrockers-shibuya-vs-sendai-89ers-luc-1705-ngay-09-03-2026/",
       "runtime": 1773050700,
       "datetime": "2026-03-09T10:05:00.000Z"
+    },
+    {
+      "name": "Tokyo United vs Shonan United BC lúc 17:15",
+      "link": "/truc-tiep/tokyo-united-vs-shonan-united-bc-luc-1715-ngay-09-03-2026/",
+      "runtime": 1773051300,
+      "datetime": "2026-03-09T10:15:00.000Z"
+    },
+    {
+      "name": "Henry Bernet vs Stefan Dostanic lúc 17:20",
+      "link": "/truc-tiep/henry-bernet-vs-stefan-dostanic-luc-1720-ngay-09-03-2026/",
+      "runtime": 1773051600,
+      "datetime": "2026-03-09T10:20:00.000Z"
+    },
+    {
+      "name": "Buvaysar Gadamauri vs Oleksandr Ovcharenko lúc 17:30",
+      "link": "/truc-tiep/buvaysar-gadamauri-vs-oleksandr-ovcharenko-luc-1730-ngay-09-03-2026/",
+      "runtime": 1773052200,
+      "datetime": "2026-03-09T10:30:00.000Z"
+    },
+    {
+      "name": "Jonas Forejtek vs Aziz Ouakaa lúc 17:40",
+      "link": "/truc-tiep/jonas-forejtek-vs-aziz-ouakaa-luc-1740-ngay-09-03-2026/",
+      "runtime": 1773052800,
+      "datetime": "2026-03-09T10:40:00.000Z"
+    },
+    {
+      "name": "FC Pyunik vs Shirak lúc 18:00 | YUNO",
+      "link": "/truc-tiep/fc-pyunik-vs-shirak-luc-1800-ngay-09-03-2026/",
+      "runtime": 1773054000,
+      "datetime": "2026-03-09T11:00:00.000Z"
+    },
+    {
+      "name": "Rotor Volgograd vs Ural Oblast II lúc 18:00 | RYAN",
+      "link": "/truc-tiep/rotor-volgograd-vs-ural-oblast-ii-luc-1800-ngay-09-03-2026/",
+      "runtime": 1773054000,
+      "datetime": "2026-03-09T11:00:00.000Z"
+    },
+    {
+      "name": "FK Van II vs Hayq lúc 18:00",
+      "link": "/truc-tiep/fk-van-ii-vs-hayq-luc-1800-ngay-09-03-2026/",
+      "runtime": 1773054000,
+      "datetime": "2026-03-09T11:00:00.000Z"
+    },
+    {
+      "name": "Quezon Huskers vs San Juan Knights lúc 18:00",
+      "link": "/truc-tiep/quezon-huskers-vs-san-juan-knights-luc-1800-ngay-09-03-2026/",
+      "runtime": 1773054000,
+      "datetime": "2026-03-09T11:00:00.000Z"
+    },
+    {
+      "name": "Team Yandex  vs Team Falcons lúc 18:00",
+      "link": "/truc-tiep/team-yandex-vs-team-falcons-luc-1800-ngay-09-03-2026/",
+      "runtime": 1773054000,
+      "datetime": "2026-03-09T11:00:00.000Z"
+    },
+    {
+      "name": "Natus Vincere vs Vici Gaming lúc 18:00",
+      "link": "/truc-tiep/natus-vincere-vs-vici-gaming-luc-1800-ngay-09-03-2026/",
+      "runtime": 1773054000,
+      "datetime": "2026-03-09T11:00:00.000Z"
     }
   ]
 }
