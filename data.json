@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 15,
-  "updated_at": "2026-03-09T05:35:52.327Z",
+  "total_matches": 18,
+  "updated_at": "2026-03-09T06:39:16.552Z",
   "matches": [
     {
       "name": "Kim Won-ho/Seo Seung-jae vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 22:40",
@@ -10,32 +10,8 @@
       "datetime": "2026-03-08T15:40:00.000Z"
     },
     {
-      "name": "Union de Santa Fe vs Obras Sanitarias  lúc 07:30",
-      "link": "/truc-tiep/union-de-santa-fe-vs-obras-sanitarias-luc-0730-ngay-09-03-2026/",
-      "runtime": 1773016200,
-      "datetime": "2026-03-09T00:30:00.000Z"
-    },
-    {
-      "name": "River Plate vs Monteros lúc 08:00",
-      "link": "/truc-tiep/river-plate-vs-monteros-luc-0800-ngay-09-03-2026/",
-      "runtime": 1773018000,
-      "datetime": "2026-03-09T01:00:00.000Z"
-    },
-    {
-      "name": "Christopher Kosei Ono vs Bence Boros lúc 11:00",
-      "link": "/truc-tiep/christopher-kosei-ono-vs-bence-boros-luc-1100-ngay-09-03-2026/",
-      "runtime": 1773028800,
-      "datetime": "2026-03-09T04:00:00.000Z"
-    },
-    {
       "name": "Rare Atom vs Ground Zero lúc 11:00",
       "link": "/truc-tiep/rare-atom-vs-ground-zero-luc-1100-ngay-09-03-2026/",
-      "runtime": 1773028800,
-      "datetime": "2026-03-09T04:00:00.000Z"
-    },
-    {
-      "name": "Lynn Vision vs Alter Ego lúc 11:00",
-      "link": "/truc-tiep/lynn-vision-vs-alter-ego-luc-1100-ngay-09-03-2026/",
       "runtime": 1773028800,
       "datetime": "2026-03-09T04:00:00.000Z"
     },
@@ -92,6 +68,48 @@
       "link": "/truc-tiep/carole-monnet-vs-lia-karatancheva-luc-1430-ngay-09-03-2026/",
       "runtime": 1773041400,
       "datetime": "2026-03-09T07:30:00.000Z"
+    },
+    {
+      "name": "Nữ Taiwan Normal  vs Nữ CCU  lúc 15:00",
+      "link": "/truc-tiep/nu-taiwan-normal-vs-nu-ccu-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
+    },
+    {
+      "name": "University of Batangas vs Manila Central (R) lúc 15:00",
+      "link": "/truc-tiep/university-of-batangas-vs-manila-central-r-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
+    },
+    {
+      "name": "Benjamin Hassan vs Federico Iannaccone lúc 15:00",
+      "link": "/truc-tiep/benjamin-hassan-vs-federico-iannaccone-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
+    },
+    {
+      "name": "Ivan Marrero Curbelo vs Maik Steiner lúc 15:00",
+      "link": "/truc-tiep/ivan-marrero-curbelo-vs-maik-steiner-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
+    },
+    {
+      "name": "Guy Orly Iradukunda vs Stefan Latinovic lúc 15:00",
+      "link": "/truc-tiep/guy-orly-iradukunda-vs-stefan-latinovic-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
+    },
+    {
+      "name": "Xtreme Gaming vs BetBoom Team lúc 15:00",
+      "link": "/truc-tiep/xtreme-gaming-vs-betboom-team-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
+    },
+    {
+      "name": "Aurora Gaming vs Tundra Esports lúc 15:00",
+      "link": "/truc-tiep/aurora-gaming-vs-tundra-esports-luc-1500-ngay-09-03-2026/",
+      "runtime": 1773043200,
+      "datetime": "2026-03-09T08:00:00.000Z"
     }
   ]
 }
