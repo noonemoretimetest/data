@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 85,
-  "updated_at": "2026-03-10T21:24:51.297Z",
+  "total_matches": 73,
+  "updated_at": "2026-03-10T21:54:56.518Z",
   "matches": [
     {
       "name": "Motor City Cruise vs Noblesville Boom lúc 22:00",
@@ -244,12 +244,6 @@
       "datetime": "2026-03-10T19:20:00.000Z"
     },
     {
-      "name": "El Gounah vs Al Masry lúc 02:30",
-      "link": "/truc-tiep/el-gounah-vs-al-masry-luc-0230-ngay-19-01-2026/",
-      "runtime": 1773171000,
-      "datetime": "2026-03-10T19:30:00.000Z"
-    },
-    {
       "name": "DKV Joventut vs Würzburg lúc 02:30",
       "link": "/truc-tiep/dkv-joventut-vs-wurzburg-luc-0230-ngay-11-03-2026/",
       "runtime": 1773171000,
@@ -260,96 +254,6 @@
       "link": "/truc-tiep/chalon-saone-vs-unicaja-malaga-luc-0230-ngay-11-03-2026/",
       "runtime": 1773171000,
       "datetime": "2026-03-10T19:30:00.000Z"
-    },
-    {
-      "name": "Crusaders vs Cliftonville lúc 02:45",
-      "link": "/truc-tiep/crusaders-vs-cliftonville-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Barnsley vs Cardiff City lúc 02:45",
-      "link": "/truc-tiep/barnsley-vs-cardiff-city-luc-0245-ngay-01-11-2025/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Stevenage Borough vs Leyton Orient lúc 02:45",
-      "link": "/truc-tiep/stevenage-borough-vs-leyton-orient-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Doncaster Rovers vs Luton Town lúc 02:45",
-      "link": "/truc-tiep/doncaster-rovers-vs-luton-town-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Portsmouth vs Swansea City lúc 02:45",
-      "link": "/truc-tiep/portsmouth-vs-swansea-city-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Millwall vs Derby County lúc 02:45 | JAY",
-      "link": "/truc-tiep/millwall-vs-derby-county-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Leicester City vs Bristol City lúc 02:45 | POLO",
-      "link": "/truc-tiep/leicester-city-vs-bristol-city-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Sheffield Wednesday vs Watford lúc 02:45 | TONI",
-      "link": "/truc-tiep/sheffield-wednesday-vs-watford-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Wrexham vs Hull City lúc 02:45",
-      "link": "/truc-tiep/wrexham-vs-hull-city-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Mansfield Town vs Reading lúc 02:45",
-      "link": "/truc-tiep/mansfield-town-vs-reading-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Exeter City vs Lincoln City lúc 02:45",
-      "link": "/truc-tiep/exeter-city-vs-lincoln-city-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Wigan Athletic vs Plymouth Argyle lúc 02:45",
-      "link": "/truc-tiep/wigan-athletic-vs-plymouth-argyle-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Linfield FC vs Portadown lúc 02:45",
-      "link": "/truc-tiep/linfield-fc-vs-portadown-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Bangor FC vs Glentoran FC lúc 02:45",
-      "link": "/truc-tiep/bangor-fc-vs-glentoran-fc-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
-    },
-    {
-      "name": "Fleetwood Town vs Cheltenham Town lúc 02:45",
-      "link": "/truc-tiep/fleetwood-town-vs-cheltenham-town-luc-0245-ngay-11-03-2026/",
-      "runtime": 1773171900,
-      "datetime": "2026-03-10T19:45:00.000Z"
     },
     {
       "name": "Paris vs Olympiacos lúc 02:45",
@@ -364,8 +268,8 @@
       "datetime": "2026-03-10T19:45:00.000Z"
     },
     {
-      "name": "Atalanta vs Bayern Munich lúc 03:00 | LOUIS - RYAN - YUNO",
-      "link": "/truc-tiep/atalanta-vs-bayern-munich-luc-0300-ngay-11-03-2026/",
+      "name": "Newcastle United vs Barcelona lúc 03:00 | ROY - EREZ - ASTRA",
+      "link": "/truc-tiep/newcastle-united-vs-barcelona-luc-0300-ngay-11-03-2026/",
       "runtime": 1773172800,
       "datetime": "2026-03-10T20:00:00.000Z"
     },
@@ -376,8 +280,8 @@
       "datetime": "2026-03-10T20:00:00.000Z"
     },
     {
-      "name": "Newcastle United vs Barcelona lúc 03:00 | ROY - EREZ - ASTRA",
-      "link": "/truc-tiep/newcastle-united-vs-barcelona-luc-0300-ngay-11-03-2026/",
+      "name": "Atalanta vs Bayern Munich lúc 03:00 | LOUIS - RYAN - YUNO",
+      "link": "/truc-tiep/atalanta-vs-bayern-munich-luc-0300-ngay-11-03-2026/",
       "runtime": 1773172800,
       "datetime": "2026-03-10T20:00:00.000Z"
     },
@@ -512,6 +416,30 @@
       "link": "/truc-tiep/atl-bucaramanga-vs-deportivo-pereira-luc-0620-ngay-11-03-2026/",
       "runtime": 1773184800,
       "datetime": "2026-03-10T23:20:00.000Z"
+    },
+    {
+      "name": "Brooklyn Nets vs Detroit Pistons lúc 06:30",
+      "link": "/truc-tiep/brooklyn-nets-vs-detroit-pistons-luc-0630-ngay-11-03-2026/",
+      "runtime": 1773185400,
+      "datetime": "2026-03-10T23:30:00.000Z"
+    },
+    {
+      "name": "Miami Heat vs Washington Wizards lúc 06:30",
+      "link": "/truc-tiep/miami-heat-vs-washington-wizards-luc-0630-ngay-11-03-2026/",
+      "runtime": 1773185400,
+      "datetime": "2026-03-10T23:30:00.000Z"
+    },
+    {
+      "name": "Atlanta Hawks vs Dallas Mavericks lúc 06:30 | ALAN",
+      "link": "/truc-tiep/atlanta-hawks-vs-dallas-mavericks-luc-0630-ngay-11-03-2026/",
+      "runtime": 1773185400,
+      "datetime": "2026-03-10T23:30:00.000Z"
+    },
+    {
+      "name": "Paulistano Amil vs Cruzeiro lúc 06:30",
+      "link": "/truc-tiep/paulistano-amil-vs-cruzeiro-luc-0630-ngay-11-03-2026/",
+      "runtime": 1773185400,
+      "datetime": "2026-03-10T23:30:00.000Z"
     }
   ]
 }
