@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 82,
-  "updated_at": "2026-03-10T20:50:37.536Z",
+  "total_matches": 85,
+  "updated_at": "2026-03-10T21:24:51.297Z",
   "matches": [
     {
       "name": "Motor City Cruise vs Noblesville Boom lúc 22:00",
@@ -184,30 +184,6 @@
       "datetime": "2026-03-10T18:30:00.000Z"
     },
     {
-      "name": "Beerschot Wilrijk vs RSCA Futures lúc 02:00",
-      "link": "/truc-tiep/beerschot-wilrijk-vs-rsca-futures-luc-0200-ngay-11-03-2026/",
-      "runtime": 1773169200,
-      "datetime": "2026-03-10T19:00:00.000Z"
-    },
-    {
-      "name": "KAS Eupen vs K Lierse SK lúc 02:00",
-      "link": "/truc-tiep/kas-eupen-vs-k-lierse-sk-luc-0200-ngay-11-03-2026/",
-      "runtime": 1773169200,
-      "datetime": "2026-03-10T19:00:00.000Z"
-    },
-    {
-      "name": "Patro Eisden vs RFC de Liege lúc 02:00",
-      "link": "/truc-tiep/patro-eisden-vs-rfc-de-liege-luc-0200-ngay-11-03-2026/",
-      "runtime": 1773169200,
-      "datetime": "2026-03-10T19:00:00.000Z"
-    },
-    {
-      "name": "Jong Genk vs Club Nxt lúc 02:00",
-      "link": "/truc-tiep/jong-genk-vs-club-nxt-luc-0200-ngay-11-03-2026/",
-      "runtime": 1773169200,
-      "datetime": "2026-03-10T19:00:00.000Z"
-    },
-    {
       "name": "Bayern Munchen vs Löwen Braunschweig lúc 02:00",
       "link": "/truc-tiep/bayern-munchen-vs-lowen-braunschweig-luc-0200-ngay-11-03-2026/",
       "runtime": 1773169200,
@@ -388,8 +364,8 @@
       "datetime": "2026-03-10T19:45:00.000Z"
     },
     {
-      "name": "Newcastle United vs Barcelona lúc 03:00 | ROY - EREZ - ASTRA",
-      "link": "/truc-tiep/newcastle-united-vs-barcelona-luc-0300-ngay-11-03-2026/",
+      "name": "Atalanta vs Bayern Munich lúc 03:00 | LOUIS - RYAN - YUNO",
+      "link": "/truc-tiep/atalanta-vs-bayern-munich-luc-0300-ngay-11-03-2026/",
       "runtime": 1773172800,
       "datetime": "2026-03-10T20:00:00.000Z"
     },
@@ -400,8 +376,8 @@
       "datetime": "2026-03-10T20:00:00.000Z"
     },
     {
-      "name": "Atalanta vs Bayern Munich lúc 03:00 | LOUIS - RYAN - YUNO",
-      "link": "/truc-tiep/atalanta-vs-bayern-munich-luc-0300-ngay-11-03-2026/",
+      "name": "Newcastle United vs Barcelona lúc 03:00 | ROY - EREZ - ASTRA",
+      "link": "/truc-tiep/newcastle-united-vs-barcelona-luc-0300-ngay-11-03-2026/",
       "runtime": 1773172800,
       "datetime": "2026-03-10T20:00:00.000Z"
     },
@@ -494,6 +470,48 @@
       "link": "/truc-tiep/club-atletico-tigre-vs-velez-sarsfield-luc-0545-ngay-11-03-2026/",
       "runtime": 1773182700,
       "datetime": "2026-03-10T22:45:00.000Z"
+    },
+    {
+      "name": "Philadelphia Union vs Club America lúc 06:00 | ASTRA",
+      "link": "/truc-tiep/philadelphia-union-vs-club-america-luc-0600-ngay-11-03-2026/",
+      "runtime": 1773183600,
+      "datetime": "2026-03-10T23:00:00.000Z"
+    },
+    {
+      "name": "CA Cristal (AP) vs Ypiranga AP lúc 06:00",
+      "link": "/truc-tiep/ca-cristal-ap-vs-ypiranga-ap-luc-0600-ngay-11-03-2026/",
+      "runtime": 1773183600,
+      "datetime": "2026-03-10T23:00:00.000Z"
+    },
+    {
+      "name": "Philadelphia 76ers vs Memphis Grizzlies lúc 06:00 | STEP",
+      "link": "/truc-tiep/philadelphia-76ers-vs-memphis-grizzlies-luc-0600-ngay-11-03-2026/",
+      "runtime": 1773183600,
+      "datetime": "2026-03-10T23:00:00.000Z"
+    },
+    {
+      "name": "Gaiteros de Zulia vs Pioneros lúc 06:00",
+      "link": "/truc-tiep/gaiteros-de-zulia-vs-pioneros-luc-0600-ngay-11-03-2026/",
+      "runtime": 1773183600,
+      "datetime": "2026-03-10T23:00:00.000Z"
+    },
+    {
+      "name": "Diablos de Miranda vs Guaiqueries lúc 06:00",
+      "link": "/truc-tiep/diablos-de-miranda-vs-guaiqueries-luc-0600-ngay-11-03-2026/",
+      "runtime": 1773183600,
+      "datetime": "2026-03-10T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Columbus Fury vs Nữ Omaha Supernovas lúc 06:00",
+      "link": "/truc-tiep/nu-columbus-fury-vs-nu-omaha-supernovas-luc-0600-ngay-11-03-2026/",
+      "runtime": 1773183600,
+      "datetime": "2026-03-10T23:00:00.000Z"
+    },
+    {
+      "name": "Atl. Bucaramanga vs Deportivo Pereira lúc 06:20 | SILVA",
+      "link": "/truc-tiep/atl-bucaramanga-vs-deportivo-pereira-luc-0620-ngay-11-03-2026/",
+      "runtime": 1773184800,
+      "datetime": "2026-03-10T23:20:00.000Z"
     }
   ]
 }
