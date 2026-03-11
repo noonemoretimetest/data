@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 53,
-  "updated_at": "2026-03-11T22:21:53.520Z",
+  "total_matches": 55,
+  "updated_at": "2026-03-11T22:54:53.221Z",
   "matches": [
     {
       "name": "Arnaud Merkle vs Hoh Justin lúc 02:30",
@@ -26,24 +26,6 @@
       "link": "/truc-tiep/carlos-alcaraz-garfia-vs-casper-ruud-luc-0320-ngay-12-03-2026/",
       "runtime": 1773260400,
       "datetime": "2026-03-11T20:20:00.000Z"
-    },
-    {
-      "name": "Banfield vs Gimnasia La Plata lúc 03:30 | LOGAN",
-      "link": "/truc-tiep/banfield-vs-gimnasia-la-plata-luc-0330-ngay-12-03-2026/",
-      "runtime": 1773261000,
-      "datetime": "2026-03-11T20:30:00.000Z"
-    },
-    {
-      "name": "Argentinos Juniors vs Rosario Central lúc 03:30 | ZARA",
-      "link": "/truc-tiep/argentinos-juniors-vs-rosario-central-luc-0330-ngay-12-03-2026/",
-      "runtime": 1773261000,
-      "datetime": "2026-03-11T20:30:00.000Z"
-    },
-    {
-      "name": "Leones vs Envigado FC lúc 03:30",
-      "link": "/truc-tiep/leones-vs-envigado-fc-luc-0330-ngay-12-03-2026/",
-      "runtime": 1773261000,
-      "datetime": "2026-03-11T20:30:00.000Z"
     },
     {
       "name": "Génesis Policía Nacional vs Olancho FC lúc 04:00",
@@ -84,12 +66,6 @@
     {
       "name": "Sporting Cristal vs Carabobo lúc 05:00 | SILVA",
       "link": "/truc-tiep/sporting-cristal-vs-carabobo-luc-0500-ngay-12-03-2026/",
-      "runtime": 1773266400,
-      "datetime": "2026-03-11T22:00:00.000Z"
-    },
-    {
-      "name": "Katerina Siniakova vs Elina Svitolina lúc 05:00 | LUCAS",
-      "link": "/truc-tiep/katerina-siniakova-vs-elina-svitolina-luc-0500-ngay-12-03-2026/",
       "runtime": 1773266400,
       "datetime": "2026-03-11T22:00:00.000Z"
     },
@@ -292,6 +268,12 @@
       "datetime": "2026-03-11T23:30:00.000Z"
     },
     {
+      "name": "Mariano Navone vs Nick Hardt lúc 06:40",
+      "link": "/truc-tiep/mariano-navone-vs-nick-hardt-luc-0640-ngay-12-03-2026/",
+      "runtime": 1773272400,
+      "datetime": "2026-03-11T23:40:00.000Z"
+    },
+    {
       "name": "Sporting Cristal U20 vs Universidad Catolica U20 lúc 07:00",
       "link": "/truc-tiep/sporting-cristal-u20-vs-universidad-catolica-u20-luc-0700-ngay-12-03-2026/",
       "runtime": 1773273600,
@@ -320,6 +302,36 @@
       "link": "/truc-tiep/nu-houston-vs-nu-austin-luc-0700-ngay-12-03-2026/",
       "runtime": 1773273600,
       "datetime": "2026-03-12T00:00:00.000Z"
+    },
+    {
+      "name": "CR Flamengo vs Cruzeiro lúc 07:30 | TONI",
+      "link": "/truc-tiep/cr-flamengo-vs-cruzeiro-luc-0730-ngay-12-03-2026/",
+      "runtime": 1773275400,
+      "datetime": "2026-03-12T00:30:00.000Z"
+    },
+    {
+      "name": "Corinthians (SP) vs Coritiba PR lúc 07:30 | LOGAN",
+      "link": "/truc-tiep/corinthians-sp-vs-coritiba-pr-luc-0730-ngay-12-03-2026/",
+      "runtime": 1773275400,
+      "datetime": "2026-03-12T00:30:00.000Z"
+    },
+    {
+      "name": "Deportes Tolima vs O.Higgins lúc 07:30 | YUNO",
+      "link": "/truc-tiep/deportes-tolima-vs-o-higgins-luc-0730-ngay-12-03-2026/",
+      "runtime": 1773275400,
+      "datetime": "2026-03-12T00:30:00.000Z"
+    },
+    {
+      "name": "Manaus (AM) vs Londrina PR lúc 07:30",
+      "link": "/truc-tiep/manaus-am-vs-londrina-pr-luc-0730-ngay-12-03-2026/",
+      "runtime": 1773275400,
+      "datetime": "2026-03-12T00:30:00.000Z"
+    },
+    {
+      "name": "Paysandu SC vs Portuguesa Carioca lúc 07:30",
+      "link": "/truc-tiep/paysandu-sc-vs-portuguesa-carioca-luc-0730-ngay-12-03-2026/",
+      "runtime": 1773275400,
+      "datetime": "2026-03-12T00:30:00.000Z"
     }
   ]
 }
