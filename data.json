@@ -1,19 +1,13 @@
 {
   "success": true,
   "total_matches": 61,
-  "updated_at": "2026-03-11T23:19:46.632Z",
+  "updated_at": "2026-03-11T23:44:55.844Z",
   "matches": [
     {
       "name": "Seven Dark vs Maze Gaming lúc 03:00",
       "link": "/truc-tiep/seven-dark-vs-maze-gaming-luc-0300-ngay-12-03-2026/",
       "runtime": 1773259200,
       "datetime": "2026-03-11T20:00:00.000Z"
-    },
-    {
-      "name": "Carlos Alcaraz Garfia vs Casper Ruud lúc 03:20 | VIC",
-      "link": "/truc-tiep/carlos-alcaraz-garfia-vs-casper-ruud-luc-0320-ngay-12-03-2026/",
-      "runtime": 1773260400,
-      "datetime": "2026-03-11T20:20:00.000Z"
     },
     {
       "name": "Luca van Assche vs Tristan Schoolkate lúc 04:20",
@@ -48,18 +42,6 @@
     {
       "name": "Sporting Cristal vs Carabobo lúc 05:00 | SILVA",
       "link": "/truc-tiep/sporting-cristal-vs-carabobo-luc-0500-ngay-12-03-2026/",
-      "runtime": 1773266400,
-      "datetime": "2026-03-11T22:00:00.000Z"
-    },
-    {
-      "name": "Sun Lulu vs Paula Badosa lúc 05:00",
-      "link": "/truc-tiep/sun-lulu-vs-paula-badosa-luc-0500-ngay-12-03-2026/",
-      "runtime": 1773266400,
-      "datetime": "2026-03-11T22:00:00.000Z"
-    },
-    {
-      "name": "Suzano Volei vs Volei Renata lúc 05:00",
-      "link": "/truc-tiep/suzano-volei-vs-volei-renata-luc-0500-ngay-12-03-2026/",
       "runtime": 1773266400,
       "datetime": "2026-03-11T22:00:00.000Z"
     },
@@ -232,12 +214,6 @@
       "datetime": "2026-03-11T23:30:00.000Z"
     },
     {
-      "name": "Ji-Parana FC vs Genus RO lúc 06:30",
-      "link": "/truc-tiep/ji-parana-fc-vs-genus-ro-luc-0630-ngay-12-03-2026/",
-      "runtime": 1773271800,
-      "datetime": "2026-03-11T23:30:00.000Z"
-    },
-    {
       "name": "Porto Velho EC vs Atl. Goianiense lúc 06:30",
       "link": "/truc-tiep/porto-velho-ec-vs-atl-goianiense-luc-0630-ngay-12-03-2026/",
       "runtime": 1773271800,
@@ -286,6 +262,12 @@
       "datetime": "2026-03-12T00:00:00.000Z"
     },
     {
+      "name": "THUNDER dOWNUNDER vs Time Waves lúc 07:00",
+      "link": "/truc-tiep/thunder-downunder-vs-time-waves-luc-0700-ngay-12-03-2026/",
+      "runtime": 1773273600,
+      "datetime": "2026-03-12T00:00:00.000Z"
+    },
+    {
       "name": "CR Flamengo vs Cruzeiro lúc 07:30 | TONI",
       "link": "/truc-tiep/cr-flamengo-vs-cruzeiro-luc-0730-ngay-12-03-2026/",
       "runtime": 1773275400,
@@ -312,6 +294,12 @@
     {
       "name": "Paysandu SC vs Portuguesa Carioca lúc 07:30",
       "link": "/truc-tiep/paysandu-sc-vs-portuguesa-carioca-luc-0730-ngay-12-03-2026/",
+      "runtime": 1773275400,
+      "datetime": "2026-03-12T00:30:00.000Z"
+    },
+    {
+      "name": "InControl vs Zomblers lúc 07:30",
+      "link": "/truc-tiep/incontrol-vs-zomblers-luc-0730-ngay-12-03-2026/",
       "runtime": 1773275400,
       "datetime": "2026-03-12T00:30:00.000Z"
     },
@@ -368,6 +356,18 @@
       "link": "/truc-tiep/karen-khachanov-andrey-rublev-vs-arthur-rinderknech-valentin-vacherot-luc-0800-ngay-12-03-2026/",
       "runtime": 1773277200,
       "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "L.A Galaxy vs Mount Pleasant FA lúc 08:30 | RYAN",
+      "link": "/truc-tiep/l-a-galaxy-vs-mount-pleasant-fa-luc-0830-ngay-12-03-2026/",
+      "runtime": 1773279000,
+      "datetime": "2026-03-12T01:30:00.000Z"
+    },
+    {
+      "name": "Real Espana vs CD Victoria lúc 08:30",
+      "link": "/truc-tiep/real-espana-vs-cd-victoria-luc-0830-ngay-12-03-2026/",
+      "runtime": 1773279000,
+      "datetime": "2026-03-12T01:30:00.000Z"
     }
   ]
 }
