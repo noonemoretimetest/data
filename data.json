@@ -1,23 +1,11 @@
 {
   "success": true,
-  "total_matches": 55,
-  "updated_at": "2026-03-11T22:54:53.221Z",
+  "total_matches": 61,
+  "updated_at": "2026-03-11T23:19:46.632Z",
   "matches": [
-    {
-      "name": "Arnaud Merkle vs Hoh Justin lúc 02:30",
-      "link": "/truc-tiep/arnaud-merkle-vs-hoh-justin-luc-0230-ngay-12-03-2026/",
-      "runtime": 1773257400,
-      "datetime": "2026-03-11T19:30:00.000Z"
-    },
     {
       "name": "Seven Dark vs Maze Gaming lúc 03:00",
       "link": "/truc-tiep/seven-dark-vs-maze-gaming-luc-0300-ngay-12-03-2026/",
-      "runtime": 1773259200,
-      "datetime": "2026-03-11T20:00:00.000Z"
-    },
-    {
-      "name": "Volticons vs Malvinas Gaming lúc 03:00",
-      "link": "/truc-tiep/volticons-vs-malvinas-gaming-luc-0300-ngay-12-03-2026/",
       "runtime": 1773259200,
       "datetime": "2026-03-11T20:00:00.000Z"
     },
@@ -26,12 +14,6 @@
       "link": "/truc-tiep/carlos-alcaraz-garfia-vs-casper-ruud-luc-0320-ngay-12-03-2026/",
       "runtime": 1773260400,
       "datetime": "2026-03-11T20:20:00.000Z"
-    },
-    {
-      "name": "Génesis Policía Nacional vs Olancho FC lúc 04:00",
-      "link": "/truc-tiep/genesis-policia-nacional-vs-olancho-fc-luc-0400-ngay-12-03-2026/",
-      "runtime": 1773262800,
-      "datetime": "2026-03-11T21:00:00.000Z"
     },
     {
       "name": "Luca van Assche vs Tristan Schoolkate lúc 04:20",
@@ -332,6 +314,60 @@
       "link": "/truc-tiep/paysandu-sc-vs-portuguesa-carioca-luc-0730-ngay-12-03-2026/",
       "runtime": 1773275400,
       "datetime": "2026-03-12T00:30:00.000Z"
+    },
+    {
+      "name": "Ind. Rivadavia vs Barracas Central lúc 08:00",
+      "link": "/truc-tiep/ind-rivadavia-vs-barracas-central-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "Atletico Tucuman vs Aldosivi lúc 08:00 | NEMO",
+      "link": "/truc-tiep/atletico-tucuman-vs-aldosivi-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Louis Athletica vs Nữ Puebla lúc 08:00 | JEAN",
+      "link": "/truc-tiep/nu-louis-athletica-vs-nu-puebla-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "Patriotas FC vs Deportes Quindio lúc 08:00",
+      "link": "/truc-tiep/patriotas-fc-vs-deportes-quindio-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "Deportivo Catocha vs CSD Jutiapa lúc 08:00",
+      "link": "/truc-tiep/deportivo-catocha-vs-csd-jutiapa-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "International San Carlos vs Dep. Upala lúc 08:00",
+      "link": "/truc-tiep/international-san-carlos-vs-dep-upala-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "Utah Jazz vs New York Knicks lúc 08:00 | STEP",
+      "link": "/truc-tiep/utah-jazz-vs-new-york-knicks-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "Novak Djokovic vs Jack Draper lúc 08:00 | VIC",
+      "link": "/truc-tiep/novak-djokovic-vs-jack-draper-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "name": "Karen Khachanov/Andrey Rublev vs Arthur Rinderknech/Valentin Vacherot lúc 08:00",
+      "link": "/truc-tiep/karen-khachanov-andrey-rublev-vs-arthur-rinderknech-valentin-vacherot-luc-0800-ngay-12-03-2026/",
+      "runtime": 1773277200,
+      "datetime": "2026-03-12T01:00:00.000Z"
     }
   ]
 }
