@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 19,
-  "updated_at": "2026-03-11T03:54:14.958Z",
+  "total_matches": 11,
+  "updated_at": "2026-03-11T05:08:36.128Z",
   "matches": [
     {
       "name": "Anna Danilina/Karen Khachanov vs Maria Sakkari/Stefanos Tsitsipas lúc 07:00",
@@ -10,68 +10,14 @@
       "datetime": "2026-03-11T00:00:00.000Z"
     },
     {
-      "name": "Colorado vs Oklahoma State lúc 08:30",
-      "link": "/truc-tiep/colorado-vs-oklahoma-state-luc-0830-ngay-11-03-2026/",
-      "runtime": 1773192600,
-      "datetime": "2026-03-11T01:30:00.000Z"
-    },
-    {
-      "name": "Nữ Saprissa vs Nữ AD Moravia lúc 09:00",
-      "link": "/truc-tiep/nu-saprissa-vs-nu-ad-moravia-luc-0900-ngay-11-03-2026/",
-      "runtime": 1773194400,
-      "datetime": "2026-03-11T02:00:00.000Z"
-    },
-    {
-      "name": "Golden State Warriors vs Chicago Bulls lúc 09:00 | STEP",
-      "link": "/truc-tiep/golden-state-warriors-vs-chicago-bulls-luc-0900-ngay-11-03-2026/",
-      "runtime": 1773194400,
-      "datetime": "2026-03-11T02:00:00.000Z"
-    },
-    {
-      "name": "Portland Trail Blazers vs Charlotte Hornets lúc 09:00",
-      "link": "/truc-tiep/portland-trail-blazers-vs-charlotte-hornets-luc-0900-ngay-11-03-2026/",
-      "runtime": 1773194400,
-      "datetime": "2026-03-11T02:00:00.000Z"
-    },
-    {
-      "name": "Sacramento Kings vs Indiana Pacers lúc 09:00 | ALAN",
-      "link": "/truc-tiep/sacramento-kings-vs-indiana-pacers-luc-0900-ngay-11-03-2026/",
-      "runtime": 1773194400,
-      "datetime": "2026-03-11T02:00:00.000Z"
-    },
-    {
-      "name": "NCG Esports vs Fuego lúc 09:00",
-      "link": "/truc-tiep/ncg-esports-vs-fuego-luc-0900-ngay-11-03-2026/",
-      "runtime": 1773194400,
-      "datetime": "2026-03-11T02:00:00.000Z"
-    },
-    {
-      "name": "Icon Esports vs Zeu5 Esports lúc 09:00",
-      "link": "/truc-tiep/icon-esports-vs-zeu5-esports-luc-0900-ngay-11-03-2026/",
-      "runtime": 1773194400,
-      "datetime": "2026-03-11T02:00:00.000Z"
-    },
-    {
       "name": "Cristina Bucsa/Nicole Melichar-Martinez vs Gabriela Dabrowski/Luisa Stefani lúc 09:10",
       "link": "/truc-tiep/cristina-bucsa-nicole-melichar-martinez-vs-gabriela-dabrowski-luisa-stefani-luc-0910-ngay-11-03-2026/",
       "runtime": 1773195000,
       "datetime": "2026-03-11T02:10:00.000Z"
     },
     {
-      "name": "Los Angeles FC vs LD Alajuelense lúc 10:00 | RYAN",
-      "link": "/truc-tiep/los-angeles-fc-vs-ld-alajuelense-luc-1000-ngay-11-03-2026/",
-      "runtime": 1773198000,
-      "datetime": "2026-03-11T03:00:00.000Z"
-    },
-    {
       "name": "Los Angeles Lakers vs Minnesota Timberwolves lúc 10:00 | TOMMY",
       "link": "/truc-tiep/los-angeles-lakers-vs-minnesota-timberwolves-luc-1000-ngay-11-03-2026/",
-      "runtime": 1773198000,
-      "datetime": "2026-03-11T03:00:00.000Z"
-    },
-    {
-      "name": "Alexandra Eala vs Linda Noskova lúc 10:00 | VIC",
-      "link": "/truc-tiep/alexandra-eala-vs-linda-noskova-luc-1000-ngay-11-03-2026/",
       "runtime": 1773198000,
       "datetime": "2026-03-11T03:00:00.000Z"
     },
@@ -82,22 +28,10 @@
       "datetime": "2026-03-11T03:00:00.000Z"
     },
     {
-      "name": "FlyQuest vs FengDa lúc 10:00",
-      "link": "/truc-tiep/flyquest-vs-fengda-luc-1000-ngay-11-03-2026/",
-      "runtime": 1773198000,
-      "datetime": "2026-03-11T03:00:00.000Z"
-    },
-    {
       "name": "Emilio Nava vs Michael Mmoh lúc 10:10",
       "link": "/truc-tiep/emilio-nava-vs-michael-mmoh-luc-1010-ngay-11-03-2026/",
       "runtime": 1773198600,
       "datetime": "2026-03-11T03:10:00.000Z"
-    },
-    {
-      "name": "Obregon vs Caballeros de Culiacán lúc 10:15",
-      "link": "/truc-tiep/obregon-vs-caballeros-de-culiacan-luc-1015-ngay-11-03-2026/",
-      "runtime": 1773198900,
-      "datetime": "2026-03-11T03:15:00.000Z"
     },
     {
       "name": "Pioneros de Los Mochis vs Frayles de Guasave lúc 10:15",
@@ -116,6 +50,24 @@
       "link": "/truc-tiep/nu-cathay-life-vs-nu-chunghua-telecom-luc-1200-ngay-11-03-2026/",
       "runtime": 1773205200,
       "datetime": "2026-03-11T05:00:00.000Z"
+    },
+    {
+      "name": "The Huns vs TYLOO lúc 13:00",
+      "link": "/truc-tiep/the-huns-vs-tyloo-luc-1300-ngay-11-03-2026/",
+      "runtime": 1773208800,
+      "datetime": "2026-03-11T06:00:00.000Z"
+    },
+    {
+      "name": "Chinggis Warriors vs Alter Ego lúc 13:00",
+      "link": "/truc-tiep/chinggis-warriors-vs-alter-ego-luc-1300-ngay-11-03-2026/",
+      "runtime": 1773208800,
+      "datetime": "2026-03-11T06:00:00.000Z"
+    },
+    {
+      "name": "Nữ Taiyuan  vs Nữ Taipei Power  lúc 14:00",
+      "link": "/truc-tiep/nu-taiyuan-vs-nu-taipei-power-luc-1400-ngay-11-03-2026/",
+      "runtime": 1773212400,
+      "datetime": "2026-03-11T07:00:00.000Z"
     }
   ]
 }
