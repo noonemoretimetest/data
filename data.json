@@ -1,53 +1,11 @@
 {
   "success": true,
-  "total_matches": 65,
-  "updated_at": "2026-03-11T18:05:46.019Z",
+  "total_matches": 60,
+  "updated_at": "2026-03-11T19:11:37.430Z",
   "matches": [
-    {
-      "name": "AM vs FAVBET lúc 22:00",
-      "link": "/truc-tiep/am-vs-favbet-luc-2200-ngay-11-03-2026/",
-      "runtime": 1773241200,
-      "datetime": "2026-03-11T15:00:00.000Z"
-    },
-    {
-      "name": "Birmingham Legion vs Hartford Athletic lúc 23:00",
-      "link": "/truc-tiep/birmingham-legion-vs-hartford-athletic-luc-2300-ngay-11-03-2026/",
-      "runtime": 1773244800,
-      "datetime": "2026-03-11T16:00:00.000Z"
-    },
-    {
-      "name": "Unicorns of Love Sexy Edition vs Partizan Sangal lúc 23:00",
-      "link": "/truc-tiep/unicorns-of-love-sexy-edition-vs-partizan-sangal-luc-2300-ngay-11-03-2026/",
-      "runtime": 1773244800,
-      "datetime": "2026-03-11T16:00:00.000Z"
-    },
-    {
-      "name": "AC Oulu vs Akaa lúc 23:30",
-      "link": "/truc-tiep/ac-oulu-vs-akaa-luc-2330-ngay-11-03-2026/",
-      "runtime": 1773246600,
-      "datetime": "2026-03-11T16:30:00.000Z"
-    },
-    {
-      "name": "Keciorengucu vs Sakaryaspor lúc 00:00 | HELLO",
-      "link": "/truc-tiep/keciorengucu-vs-sakaryaspor-luc-0000-ngay-12-03-2026/",
-      "runtime": 1773248400,
-      "datetime": "2026-03-11T17:00:00.000Z"
-    },
-    {
-      "name": "Tatran Presov vs Tatran LM lúc 00:00",
-      "link": "/truc-tiep/tatran-presov-vs-tatran-lm-luc-0000-ngay-12-03-2026/",
-      "runtime": 1773248400,
-      "datetime": "2026-03-11T17:00:00.000Z"
-    },
     {
       "name": "Turk Telekom vs La Bruixa d\\&amp;#039;Or Manresa lúc 00:00",
       "link": "/truc-tiep/turk-telekom-vs-la-bruixa-dor-manresa-luc-0000-ngay-12-03-2026/",
-      "runtime": 1773248400,
-      "datetime": "2026-03-11T17:00:00.000Z"
-    },
-    {
-      "name": "CSKA Moscow vs Lokomotiv Kuban lúc 00:00",
-      "link": "/truc-tiep/cska-moscow-vs-lokomotiv-kuban-luc-0000-ngay-12-03-2026/",
       "runtime": 1773248400,
       "datetime": "2026-03-11T17:00:00.000Z"
     },
@@ -56,18 +14,6 @@
       "link": "/truc-tiep/caty-mcnally-vs-lanlana-tararudee-luc-0000-ngay-12-03-2026/",
       "runtime": 1773248400,
       "datetime": "2026-03-11T17:00:00.000Z"
-    },
-    {
-      "name": "CSKA Sofia vs Levski Sofia lúc 00:00",
-      "link": "/truc-tiep/cska-sofia-vs-levski-sofia-luc-0000-ngay-12-03-2026/",
-      "runtime": 1773248400,
-      "datetime": "2026-03-11T17:00:00.000Z"
-    },
-    {
-      "name": "Panitchaphon Teeraratsakul vs Magnus Johannesen lúc 00:10",
-      "link": "/truc-tiep/panitchaphon-teeraratsakul-vs-magnus-johannesen-luc-0010-ngay-12-03-2026/",
-      "runtime": 1773249000,
-      "datetime": "2026-03-11T17:10:00.000Z"
     },
     {
       "name": "Al-Sharjah vs Al-Nasr Dubai lúc 00:30",
@@ -108,12 +54,6 @@
     {
       "name": "Nữ SGS Essen  vs Nữ Werder Bremen lúc 00:30",
       "link": "/truc-tiep/nu-sgs-essen-vs-nu-werder-bremen-luc-0030-ngay-12-03-2026/",
-      "runtime": 1773250200,
-      "datetime": "2026-03-11T17:30:00.000Z"
-    },
-    {
-      "name": "Nữ Galatasaray vs Nữ Voluntari  lúc 00:30",
-      "link": "/truc-tiep/nu-galatasaray-vs-nu-voluntari-luc-0030-ngay-12-03-2026/",
       "runtime": 1773250200,
       "datetime": "2026-03-11T17:30:00.000Z"
     },
@@ -392,6 +332,36 @@
       "link": "/truc-tiep/dash-vs-r2-luc-0300-ngay-12-03-2026/",
       "runtime": 1773259200,
       "datetime": "2026-03-11T20:00:00.000Z"
+    },
+    {
+      "name": "Carlos Alcaraz Garfia vs Casper Ruud lúc 03:20 | VIC",
+      "link": "/truc-tiep/carlos-alcaraz-garfia-vs-casper-ruud-luc-0320-ngay-12-03-2026/",
+      "runtime": 1773260400,
+      "datetime": "2026-03-11T20:20:00.000Z"
+    },
+    {
+      "name": "Banfield vs Gimnasia La Plata lúc 03:30 | LOGAN",
+      "link": "/truc-tiep/banfield-vs-gimnasia-la-plata-luc-0330-ngay-12-03-2026/",
+      "runtime": 1773261000,
+      "datetime": "2026-03-11T20:30:00.000Z"
+    },
+    {
+      "name": "Argentinos Juniors vs Rosario Central lúc 03:30 | ZARA",
+      "link": "/truc-tiep/argentinos-juniors-vs-rosario-central-luc-0330-ngay-12-03-2026/",
+      "runtime": 1773261000,
+      "datetime": "2026-03-11T20:30:00.000Z"
+    },
+    {
+      "name": "Leones vs Envigado FC lúc 03:30",
+      "link": "/truc-tiep/leones-vs-envigado-fc-luc-0330-ngay-12-03-2026/",
+      "runtime": 1773261000,
+      "datetime": "2026-03-11T20:30:00.000Z"
+    },
+    {
+      "name": "Génesis Policía Nacional vs Olancho FC lúc 04:00",
+      "link": "/truc-tiep/genesis-policia-nacional-vs-olancho-fc-luc-0400-ngay-12-03-2026/",
+      "runtime": 1773262800,
+      "datetime": "2026-03-11T21:00:00.000Z"
     }
   ]
 }
