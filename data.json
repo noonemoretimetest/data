@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 63,
-  "updated_at": "2026-03-12T11:09:18.327Z",
+  "total_matches": 65,
+  "updated_at": "2026-03-12T11:45:13.773Z",
   "matches": [
-    {
-      "name": "L1ga Team vs Team Spirit Academy lúc 16:00",
-      "link": "/truc-tiep/l1ga-team-vs-team-spirit-academy-luc-1600-ngay-12-03-2026/",
-      "runtime": 1773306000,
-      "datetime": "2026-03-12T09:00:00.000Z"
-    },
     {
       "name": "Nemesis vs K27 lúc 16:00",
       "link": "/truc-tiep/nemesis-vs-k27-luc-1600-ngay-12-03-2026/",
@@ -32,12 +26,6 @@
       "link": "/truc-tiep/ivan-sabanov-matej-sabanov-vs-stefan-dostanic-ioannis-xilas-luc-1640-ngay-12-03-2026/",
       "runtime": 1773308400,
       "datetime": "2026-03-12T09:40:00.000Z"
-    },
-    {
-      "name": "Nuria Brancaccio vs Julia Grabher lúc 16:50",
-      "link": "/truc-tiep/nuria-brancaccio-vs-julia-grabher-luc-1650-ngay-12-03-2026/",
-      "runtime": 1773309000,
-      "datetime": "2026-03-12T09:50:00.000Z"
     },
     {
       "name": "Nữ Phần Lan U17 vs Nữ Romania U17 lúc 17:00 | NEMO",
@@ -82,12 +70,6 @@
       "datetime": "2026-03-12T10:00:00.000Z"
     },
     {
-      "name": "KAL Jumbos vs KB Stars lúc 17:00",
-      "link": "/truc-tiep/kal-jumbos-vs-kb-stars-luc-1700-ngay-12-03-2026/",
-      "runtime": 1773309600,
-      "datetime": "2026-03-12T10:00:00.000Z"
-    },
-    {
       "name": "Tokyo Excellence vs Rizing Zephyr Fukuoka lúc 17:05",
       "link": "/truc-tiep/tokyo-excellence-vs-rizing-zephyr-fukuoka-luc-1705-ngay-12-03-2026/",
       "runtime": 1773309900,
@@ -112,22 +94,16 @@
       "datetime": "2026-03-12T10:30:00.000Z"
     },
     {
-      "name": "Ekaterine Gorgodze/Ipek Oz vs Irina Khromacheva/Ksenia Zaytseva lúc 17:30",
-      "link": "/truc-tiep/ekaterine-gorgodze-ipek-oz-vs-irina-khromacheva-ksenia-zaytseva-luc-1730-ngay-12-03-2026/",
-      "runtime": 1773311400,
-      "datetime": "2026-03-12T10:30:00.000Z"
-    },
-    {
       "name": "Nữ Nxled Chameleons  vs Nữ Zus Thunderbelles  lúc 17:30",
       "link": "/truc-tiep/nu-nxled-chameleons-vs-nu-zus-thunderbelles-luc-1730-ngay-12-03-2026/",
       "runtime": 1773311400,
       "datetime": "2026-03-12T10:30:00.000Z"
     },
     {
-      "name": "Nữ Bỉ U17 vs Nữ Azerbaijan U17 lúc 18:00 | RYAN",
-      "link": "/truc-tiep/nu-bi-u17-vs-nu-azerbaijan-u17-luc-1800-ngay-12-03-2026/",
-      "runtime": 1773313200,
-      "datetime": "2026-03-12T11:00:00.000Z"
+      "name": "Ekaterine Gorgodze/Ipek Oz vs Irina Khromacheva/Ksenia Zaytseva lúc 17:50",
+      "link": "/truc-tiep/ekaterine-gorgodze-ipek-oz-vs-irina-khromacheva-ksenia-zaytseva-luc-1750-ngay-12-03-2026/",
+      "runtime": 1773312600,
+      "datetime": "2026-03-12T10:50:00.000Z"
     },
     {
       "name": "Nữ Faroe Islands U17 vs Nữ Slovenia U17 lúc 18:00 | SILVA",
@@ -274,14 +250,14 @@
       "datetime": "2026-03-12T12:00:00.000Z"
     },
     {
-      "name": "Avulus vs Navi Junior lúc 19:00",
-      "link": "/truc-tiep/avulus-vs-navi-junior-luc-1900-ngay-12-03-2026/",
+      "name": "MANA vs Mousquetaires lúc 19:00",
+      "link": "/truc-tiep/mana-vs-mousquetaires-luc-1900-ngay-12-03-2026/",
       "runtime": 1773316800,
       "datetime": "2026-03-12T12:00:00.000Z"
     },
     {
-      "name": "MANA vs Mousquetaires lúc 19:00",
-      "link": "/truc-tiep/mana-vs-mousquetaires-luc-1900-ngay-12-03-2026/",
+      "name": "Avulus vs Navi Junior lúc 19:00",
+      "link": "/truc-tiep/avulus-vs-navi-junior-luc-1900-ngay-12-03-2026/",
       "runtime": 1773316800,
       "datetime": "2026-03-12T12:00:00.000Z"
     },
@@ -380,6 +356,42 @@
       "link": "/truc-tiep/nu-han-quoc-vs-nu-nigeria-luc-2000-ngay-12-03-2026/",
       "runtime": 1773320400,
       "datetime": "2026-03-12T13:00:00.000Z"
+    },
+    {
+      "name": "Persis Solo FC vs Bali United lúc 20:30 | MAX",
+      "link": "/truc-tiep/persis-solo-fc-vs-bali-united-luc-2030-ngay-12-03-2026/",
+      "runtime": 1773322200,
+      "datetime": "2026-03-12T13:30:00.000Z"
+    },
+    {
+      "name": "Li Shifeng vs Yudai Okimoto lúc 20:30",
+      "link": "/truc-tiep/li-shifeng-vs-yudai-okimoto-luc-2030-ngay-12-03-2026/",
+      "runtime": 1773322200,
+      "datetime": "2026-03-12T13:30:00.000Z"
+    },
+    {
+      "name": "Kang Khai Xing/Aaron Tai vs Leo Rolly Carnando/Bagas Maulana lúc 20:30",
+      "link": "/truc-tiep/kang-khai-xing-aaron-tai-vs-leo-rolly-carnando-bagas-maulana-luc-2030-ngay-12-03-2026/",
+      "runtime": 1773322200,
+      "datetime": "2026-03-12T13:30:00.000Z"
+    },
+    {
+      "name": "Nữ Maritsa Plovdiv vs Nữ Dragoman lúc 20:30",
+      "link": "/truc-tiep/nu-maritsa-plovdiv-vs-nu-dragoman-luc-2030-ngay-12-03-2026/",
+      "runtime": 1773322200,
+      "datetime": "2026-03-12T13:30:00.000Z"
+    },
+    {
+      "name": "Jiri Kral/Ondrej Kral vs Eloi Adam/Leo Rossi  lúc 20:45",
+      "link": "/truc-tiep/jiri-kral-ondrej-kral-vs-eloi-adam-leo-rossi-luc-2045-ngay-12-03-2026/",
+      "runtime": 1773323100,
+      "datetime": "2026-03-12T13:45:00.000Z"
+    },
+    {
+      "name": "Nguyen Thuy Linh  vs Tomoka Miyazaki lúc 20:45",
+      "link": "/truc-tiep/nguyen-thuy-linh-vs-tomoka-miyazaki-luc-2045-ngay-12-03-2026/",
+      "runtime": 1773323100,
+      "datetime": "2026-03-12T13:45:00.000Z"
     }
   ]
 }
