@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-03-12T22:57:41.348Z",
+  "total_matches": 59,
+  "updated_at": "2026-03-12T23:29:03.084Z",
   "matches": [
-    {
-      "name": "Malvinas Gaming vs The New Kings lúc 03:00",
-      "link": "/truc-tiep/malvinas-gaming-vs-the-new-kings-luc-0300-ngay-13-03-2026/",
-      "runtime": 1773345600,
-      "datetime": "2026-03-12T20:00:00.000Z"
-    },
     {
       "name": "Luca van Assche vs Raphael Collignon lúc 04:20",
       "link": "/truc-tiep/luca-van-assche-vs-raphael-collignon-luc-0420-ngay-13-03-2026/",
@@ -60,12 +54,6 @@
     {
       "name": "Roberto Bautista Agut vs Valentin Royer lúc 05:00",
       "link": "/truc-tiep/roberto-bautista-agut-vs-valentin-royer-luc-0500-ngay-13-03-2026/",
-      "runtime": 1773352800,
-      "datetime": "2026-03-12T22:00:00.000Z"
-    },
-    {
-      "name": "Ninjas in Pyjamas vs Voca lúc 05:00",
-      "link": "/truc-tiep/ninjas-in-pyjamas-vs-voca-luc-0500-ngay-13-03-2026/",
       "runtime": 1773352800,
       "datetime": "2026-03-12T22:00:00.000Z"
     },
@@ -126,12 +114,6 @@
     {
       "name": "Sao Paulo vs Chapecoense SC lúc 06:00 | POLO",
       "link": "/truc-tiep/sao-paulo-vs-chapecoense-sc-luc-0600-ngay-13-03-2026/",
-      "runtime": 1773356400,
-      "datetime": "2026-03-12T23:00:00.000Z"
-    },
-    {
-      "name": "Santos AP vs Macapa lúc 06:00",
-      "link": "/truc-tiep/santos-ap-vs-macapa-luc-0600-ngay-13-03-2026/",
       "runtime": 1773356400,
       "datetime": "2026-03-12T23:00:00.000Z"
     },
@@ -344,6 +326,36 @@
       "link": "/truc-tiep/boca-juniors-vs-instituto-de-cordoba-luc-0740-ngay-13-03-2026/",
       "runtime": 1773362400,
       "datetime": "2026-03-13T00:40:00.000Z"
+    },
+    {
+      "name": "Nữ Queretaro vs Nữ Atlas lúc 08:00 | ZARA",
+      "link": "/truc-tiep/nu-queretaro-vs-nu-atlas-luc-0800-ngay-13-03-2026/",
+      "runtime": 1773363600,
+      "datetime": "2026-03-13T01:00:00.000Z"
+    },
+    {
+      "name": "Atletico Nacional vs La Familia FC lúc 08:00",
+      "link": "/truc-tiep/atletico-nacional-vs-la-familia-fc-luc-0800-ngay-13-03-2026/",
+      "runtime": 1773363600,
+      "datetime": "2026-03-13T01:00:00.000Z"
+    },
+    {
+      "name": "San Antonio Spurs vs Denver Nuggets lúc 08:00 | SIMON",
+      "link": "/truc-tiep/san-antonio-spurs-vs-denver-nuggets-luc-0800-ngay-13-03-2026/",
+      "runtime": 1773363600,
+      "datetime": "2026-03-13T01:00:00.000Z"
+    },
+    {
+      "name": "Austin Spurs vs Texas Legends lúc 08:00",
+      "link": "/truc-tiep/austin-spurs-vs-texas-legends-luc-0800-ngay-13-03-2026/",
+      "runtime": 1773363600,
+      "datetime": "2026-03-13T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Pachuca vs Nữ Tijuana lúc 08:06 | HELLO",
+      "link": "/truc-tiep/nu-pachuca-vs-nu-tijuana-luc-0806-ngay-13-03-2026/",
+      "runtime": 1773363960,
+      "datetime": "2026-03-13T01:06:00.000Z"
     }
   ]
 }
