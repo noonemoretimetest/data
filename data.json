@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 49,
-  "updated_at": "2026-03-13T21:49:06.539Z",
+  "total_matches": 48,
+  "updated_at": "2026-03-13T22:22:33.058Z",
   "matches": [
     {
       "name": "Marcel Granollers/Horacio Zeballos vs Guido Andreozzi/Manuel Guinard lúc 02:10 | VIC",
@@ -22,62 +22,8 @@
       "datetime": "2026-03-13T19:30:00.000Z"
     },
     {
-      "name": "KAA Gent vs Zulte-Waregem lúc 02:45 | NEMO",
-      "link": "/truc-tiep/kaa-gent-vs-zulte-waregem-luc-0245-ngay-14-03-2026/",
-      "runtime": 1773431100,
-      "datetime": "2026-03-13T19:45:00.000Z"
-    },
-    {
-      "name": "Dundalk vs Waterford United lúc 02:45",
-      "link": "/truc-tiep/dundalk-vs-waterford-united-luc-0245-ngay-14-03-2026/",
-      "runtime": 1773431100,
-      "datetime": "2026-03-13T19:45:00.000Z"
-    },
-    {
-      "name": "Alavés vs Villarreal lúc 03:00 | BRADY",
-      "link": "/truc-tiep/alaves-vs-villarreal-luc-0300-ngay-14-03-2026/",
-      "runtime": 1773432000,
-      "datetime": "2026-03-13T20:00:00.000Z"
-    },
-    {
-      "name": "Wrexham vs Swansea City lúc 03:00 | FINN",
-      "link": "/truc-tiep/wrexham-vs-swansea-city-luc-0300-ngay-14-03-2026/",
-      "runtime": 1773432000,
-      "datetime": "2026-03-13T20:00:00.000Z"
-    },
-    {
-      "name": "FC Cajamarca vs CD Comerciantes lúc 03:00",
-      "link": "/truc-tiep/fc-cajamarca-vs-cd-comerciantes-luc-0300-ngay-14-03-2026/",
-      "runtime": 1773432000,
-      "datetime": "2026-03-13T20:00:00.000Z"
-    },
-    {
-      "name": "Sligo Rovers vs Shamrock Rovers lúc 03:00",
-      "link": "/truc-tiep/sligo-rovers-vs-shamrock-rovers-luc-0300-ngay-14-03-2026/",
-      "runtime": 1773432000,
-      "datetime": "2026-03-13T20:00:00.000Z"
-    },
-    {
-      "name": "Mariano Navone vs Valentin Royer lúc 03:00",
-      "link": "/truc-tiep/mariano-navone-vs-valentin-royer-luc-0300-ngay-14-03-2026/",
-      "runtime": 1773432000,
-      "datetime": "2026-03-13T20:00:00.000Z"
-    },
-    {
       "name": "Erbil SC vs Al-Minaa SC lúc 03:15",
       "link": "/truc-tiep/erbil-sc-vs-al-minaa-sc-luc-0315-ngay-14-03-2026/",
-      "runtime": 1773432900,
-      "datetime": "2026-03-13T20:15:00.000Z"
-    },
-    {
-      "name": "Al Zawraa vs Naft Missan lúc 03:15",
-      "link": "/truc-tiep/al-zawraa-vs-naft-missan-luc-0315-ngay-14-03-2026/",
-      "runtime": 1773432900,
-      "datetime": "2026-03-13T20:15:00.000Z"
-    },
-    {
-      "name": "Celta Vigo B vs Tenerife lúc 03:15",
-      "link": "/truc-tiep/celta-vigo-b-vs-tenerife-luc-0315-ngay-14-03-2026/",
       "runtime": 1773432900,
       "datetime": "2026-03-13T20:15:00.000Z"
     },
@@ -296,6 +242,54 @@
       "link": "/truc-tiep/detroit-pistons-vs-memphis-grizzlies-luc-0630-ngay-14-03-2026/",
       "runtime": 1773444600,
       "datetime": "2026-03-13T23:30:00.000Z"
+    },
+    {
+      "name": "Deportivo Cuenca vs Leones del Norte lúc 07:00",
+      "link": "/truc-tiep/deportivo-cuenca-vs-leones-del-norte-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "CR Flamengo (Y) vs Independiente Medellin U20 lúc 07:00",
+      "link": "/truc-tiep/cr-flamengo-y-vs-independiente-medellin-u20-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Washington Spirit vs Nữ Portland Thorns lúc 07:00",
+      "link": "/truc-tiep/nu-washington-spirit-vs-nu-portland-thorns-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "Atletico Rafaela vs S.M San Juan lúc 07:00",
+      "link": "/truc-tiep/atletico-rafaela-vs-s-m-san-juan-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "Racing de Cordoba vs Almirante Brown lúc 07:00",
+      "link": "/truc-tiep/racing-de-cordoba-vs-almirante-brown-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "Houston Rockets vs New Orleans Pelicans lúc 07:00 | ALAN",
+      "link": "/truc-tiep/houston-rockets-vs-new-orleans-pelicans-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "Rio Grande Vipers vs Salt Lake City Stars lúc 07:00",
+      "link": "/truc-tiep/rio-grande-vipers-vs-salt-lake-city-stars-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Dallas Pulse vs Nữ Columbus Fury lúc 07:00",
+      "link": "/truc-tiep/nu-dallas-pulse-vs-nu-columbus-fury-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
     }
   ]
 }
