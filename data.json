@@ -1,47 +1,11 @@
 {
   "success": true,
   "total_matches": 48,
-  "updated_at": "2026-03-13T22:22:33.058Z",
+  "updated_at": "2026-03-13T22:57:12.110Z",
   "matches": [
-    {
-      "name": "Marcel Granollers/Horacio Zeballos vs Guido Andreozzi/Manuel Guinard lúc 02:10 | VIC",
-      "link": "/truc-tiep/marcel-granollers-horacio-zeballos-vs-guido-andreozzi-manuel-guinard-luc-0210-ngay-14-03-2026/",
-      "runtime": 1773429000,
-      "datetime": "2026-03-13T19:10:00.000Z"
-    },
-    {
-      "name": "Ceramica Cleopatra vs Talaea El Gaish lúc 02:30",
-      "link": "/truc-tiep/ceramica-cleopatra-vs-talaea-el-gaish-luc-0230-ngay-14-03-2026/",
-      "runtime": 1773430200,
-      "datetime": "2026-03-13T19:30:00.000Z"
-    },
-    {
-      "name": "Tharun Mannepalli vs Anthony Sinisuka Ginting lúc 02:30",
-      "link": "/truc-tiep/tharun-mannepalli-vs-anthony-sinisuka-ginting-luc-0230-ngay-14-03-2026/",
-      "runtime": 1773430200,
-      "datetime": "2026-03-13T19:30:00.000Z"
-    },
-    {
-      "name": "Erbil SC vs Al-Minaa SC lúc 03:15",
-      "link": "/truc-tiep/erbil-sc-vs-al-minaa-sc-luc-0315-ngay-14-03-2026/",
-      "runtime": 1773432900,
-      "datetime": "2026-03-13T20:15:00.000Z"
-    },
-    {
-      "name": "Alliance vs OG lúc 03:45",
-      "link": "/truc-tiep/alliance-vs-og-luc-0345-ngay-14-03-2026/",
-      "runtime": 1773434700,
-      "datetime": "2026-03-13T20:45:00.000Z"
-    },
     {
       "name": "Adolfo Daniel Vallejo vs Thiago Monteiro lúc 04:00",
       "link": "/truc-tiep/adolfo-daniel-vallejo-vs-thiago-monteiro-luc-0400-ngay-14-03-2026/",
-      "runtime": 1773435600,
-      "datetime": "2026-03-13T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Braga  vs Nữ Castelo Maia  lúc 04:00",
-      "link": "/truc-tiep/nu-braga-vs-nu-castelo-maia-luc-0400-ngay-14-03-2026/",
       "runtime": 1773435600,
       "datetime": "2026-03-13T21:00:00.000Z"
     },
@@ -88,12 +52,6 @@
       "datetime": "2026-03-13T22:00:00.000Z"
     },
     {
-      "name": "Nữ Botafogo RJ vs Nữ Flamengo RJ lúc 05:00",
-      "link": "/truc-tiep/nu-botafogo-rj-vs-nu-flamengo-rj-luc-0500-ngay-14-03-2026/",
-      "runtime": 1773439200,
-      "datetime": "2026-03-13T22:00:00.000Z"
-    },
-    {
       "name": "Estudiantes Tecos vs Tigres de Alica FC lúc 05:00",
       "link": "/truc-tiep/estudiantes-tecos-vs-tigres-de-alica-fc-luc-0500-ngay-14-03-2026/",
       "runtime": 1773439200,
@@ -110,6 +68,12 @@
       "link": "/truc-tiep/bc-game-vs-og-luc-0500-ngay-14-03-2026/",
       "runtime": 1773439200,
       "datetime": "2026-03-13T22:00:00.000Z"
+    },
+    {
+      "name": "Nữ Botafogo RJ vs Nữ Flamengo RJ lúc 05:30",
+      "link": "/truc-tiep/nu-botafogo-rj-vs-nu-flamengo-rj-luc-0530-ngay-14-03-2026/",
+      "runtime": 1773441000,
+      "datetime": "2026-03-13T22:30:00.000Z"
     },
     {
       "name": "Pato vs Mogi das Cruzes lúc 05:30",
@@ -202,6 +166,12 @@
       "datetime": "2026-03-13T23:00:00.000Z"
     },
     {
+      "name": "Keyd Stars vs Bounty Hunters lúc 06:00",
+      "link": "/truc-tiep/keyd-stars-vs-bounty-hunters-luc-0600-ngay-14-03-2026/",
+      "runtime": 1773442800,
+      "datetime": "2026-03-13T23:00:00.000Z"
+    },
+    {
       "name": "Once Caldas vs Deportivo Pasto lúc 06:20 | NEMO",
       "link": "/truc-tiep/once-caldas-vs-deportivo-pasto-luc-0620-ngay-14-03-2026/",
       "runtime": 1773444000,
@@ -290,6 +260,36 @@
       "link": "/truc-tiep/nu-dallas-pulse-vs-nu-columbus-fury-luc-0700-ngay-14-03-2026/",
       "runtime": 1773446400,
       "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "THUNDER dOWNUNDER vs Mindfreak lúc 07:00",
+      "link": "/truc-tiep/thunder-downunder-vs-mindfreak-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "SemperFi vs Ground Zero lúc 07:00",
+      "link": "/truc-tiep/semperfi-vs-ground-zero-luc-0700-ngay-14-03-2026/",
+      "runtime": 1773446400,
+      "datetime": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Palmeiras SP  vs Nữ SC Corinthians lúc 07:30",
+      "link": "/truc-tiep/nu-palmeiras-sp-vs-nu-sc-corinthians-luc-0730-ngay-14-03-2026/",
+      "runtime": 1773448200,
+      "datetime": "2026-03-14T00:30:00.000Z"
+    },
+    {
+      "name": "Florida A and M vs Southern lúc 07:30",
+      "link": "/truc-tiep/florida-a-and-m-vs-southern-luc-0730-ngay-14-03-2026/",
+      "runtime": 1773448200,
+      "datetime": "2026-03-14T00:30:00.000Z"
+    },
+    {
+      "name": "South Hobart (R) vs Clarence Zebras (R) lúc 07:45",
+      "link": "/truc-tiep/south-hobart-r-vs-clarence-zebras-r-luc-0745-ngay-14-03-2026/",
+      "runtime": 1773449100,
+      "datetime": "2026-03-14T00:45:00.000Z"
     }
   ]
 }
