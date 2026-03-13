@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 70,
-  "updated_at": "2026-03-13T19:49:03.771Z",
+  "total_matches": 66,
+  "updated_at": "2026-03-13T20:27:54.072Z",
   "matches": [
-    {
-      "name": "Nicolas Moreno de Alboran vs Genaro Alberto Olivieri lúc 23:30",
-      "link": "/truc-tiep/nicolas-moreno-de-alboran-vs-genaro-alberto-olivieri-luc-2330-ngay-13-03-2026/",
-      "runtime": 1773419400,
-      "datetime": "2026-03-13T16:30:00.000Z"
-    },
     {
       "name": "Partizan vs OK Vojvodina lúc 00:00",
       "link": "/truc-tiep/partizan-vs-ok-vojvodina-luc-0000-ngay-14-03-2026/",
@@ -20,60 +14,6 @@
       "link": "/truc-tiep/team-yandex-vs-team-liquid-luc-0000-ngay-14-03-2026/",
       "runtime": 1773421200,
       "datetime": "2026-03-13T17:00:00.000Z"
-    },
-    {
-      "name": "Clement Tabur vs Filippo Romano lúc 00:30",
-      "link": "/truc-tiep/clement-tabur-vs-filippo-romano-luc-0030-ngay-14-03-2026/",
-      "runtime": 1773423000,
-      "datetime": "2026-03-13T17:30:00.000Z"
-    },
-    {
-      "name": "Mamelodi Sundowns vs Stade Malien lúc 01:00",
-      "link": "/truc-tiep/mamelodi-sundowns-vs-stade-malien-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
-    },
-    {
-      "name": "Fredericia vs Randers FC lúc 01:00 | SILVA",
-      "link": "/truc-tiep/fredericia-vs-randers-fc-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
-    },
-    {
-      "name": "Dhofar SCSC vs Bahla SC lúc 01:00",
-      "link": "/truc-tiep/dhofar-scsc-vs-bahla-sc-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
-    },
-    {
-      "name": "Diala vs Al Quwa Al Jawiya lúc 01:00",
-      "link": "/truc-tiep/diala-vs-al-quwa-al-jawiya-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
-    },
-    {
-      "name": "Al-Naft SC vs Al-Najaf lúc 01:00",
-      "link": "/truc-tiep/al-naft-sc-vs-al-najaf-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
-    },
-    {
-      "name": "SC Farense vs FC Felgueiras lúc 01:00",
-      "link": "/truc-tiep/sc-farense-vs-fc-felgueiras-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
-    },
-    {
-      "name": "Sporting CP B vs GD Chaves lúc 01:00",
-      "link": "/truc-tiep/sporting-cp-b-vs-gd-chaves-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
-    },
-    {
-      "name": "Arthur Rinderknech/Valentin Vacherot vs Yuki Bhambri/Andre Goransson lúc 01:00 | VIC",
-      "link": "/truc-tiep/arthur-rinderknech-valentin-vacherot-vs-yuki-bhambri-andre-goransson-luc-0100-ngay-14-03-2026/",
-      "runtime": 1773424800,
-      "datetime": "2026-03-13T18:00:00.000Z"
     },
     {
       "name": "Alexander Blockx vs Chak Lam Coleman Wong lúc 01:00",
@@ -102,12 +42,6 @@
     {
       "name": "Sochaux vs Concarneau lúc 01:30",
       "link": "/truc-tiep/sochaux-vs-concarneau-luc-0130-ngay-14-03-2026/",
-      "runtime": 1773426600,
-      "datetime": "2026-03-13T18:30:00.000Z"
-    },
-    {
-      "name": "LASK Linz vs TSV Hartberg lúc 01:30 | XMEN",
-      "link": "/truc-tiep/lask-linz-vs-tsv-hartberg-luc-0130-ngay-14-03-2026/",
       "runtime": 1773426600,
       "datetime": "2026-03-13T18:30:00.000Z"
     },
@@ -286,14 +220,20 @@
       "datetime": "2026-03-13T19:30:00.000Z"
     },
     {
-      "name": "Torino vs Parma lúc 02:45 | ROY",
-      "link": "/truc-tiep/torino-vs-parma-luc-0245-ngay-14-03-2026/",
-      "runtime": 1773431100,
-      "datetime": "2026-03-13T19:45:00.000Z"
+      "name": "Nicolas Moreno de Alboran vs Genaro Alberto Olivieri lúc 02:35",
+      "link": "/truc-tiep/nicolas-moreno-de-alboran-vs-genaro-alberto-olivieri-luc-0235-ngay-14-03-2026/",
+      "runtime": 1773430500,
+      "datetime": "2026-03-13T19:35:00.000Z"
     },
     {
       "name": "Marseille vs AJ Auxerre lúc 02:45 | LOUIS",
       "link": "/truc-tiep/marseille-vs-aj-auxerre-luc-0245-ngay-14-03-2026/",
+      "runtime": 1773431100,
+      "datetime": "2026-03-13T19:45:00.000Z"
+    },
+    {
+      "name": "Torino vs Parma lúc 02:45 | ROY",
+      "link": "/truc-tiep/torino-vs-parma-luc-0245-ngay-14-03-2026/",
       "runtime": 1773431100,
       "datetime": "2026-03-13T19:45:00.000Z"
     },
@@ -422,6 +362,42 @@
       "link": "/truc-tiep/nu-unilife-maringa-vs-nu-renasce-sorocaba-luc-0430-ngay-14-03-2026/",
       "runtime": 1773437400,
       "datetime": "2026-03-13T21:30:00.000Z"
+    },
+    {
+      "name": "AS FAR Rabat vs Pyramids FC lúc 05:00",
+      "link": "/truc-tiep/as-far-rabat-vs-pyramids-fc-luc-0500-ngay-14-03-2026/",
+      "runtime": 1773439200,
+      "datetime": "2026-03-13T22:00:00.000Z"
+    },
+    {
+      "name": "Estudiantes Merida FC U20 vs Bolivar U20 lúc 05:00",
+      "link": "/truc-tiep/estudiantes-merida-fc-u20-vs-bolivar-u20-luc-0500-ngay-14-03-2026/",
+      "runtime": 1773439200,
+      "datetime": "2026-03-13T22:00:00.000Z"
+    },
+    {
+      "name": "Nữ Botafogo RJ vs Nữ Flamengo RJ lúc 05:00",
+      "link": "/truc-tiep/nu-botafogo-rj-vs-nu-flamengo-rj-luc-0500-ngay-14-03-2026/",
+      "runtime": 1773439200,
+      "datetime": "2026-03-13T22:00:00.000Z"
+    },
+    {
+      "name": "Estudiantes Tecos vs Tigres de Alica FC lúc 05:00",
+      "link": "/truc-tiep/estudiantes-tecos-vs-tigres-de-alica-fc-luc-0500-ngay-14-03-2026/",
+      "runtime": 1773439200,
+      "datetime": "2026-03-13T22:00:00.000Z"
+    },
+    {
+      "name": "Miomir Kecmanovic vs Adam Walton lúc 05:00",
+      "link": "/truc-tiep/miomir-kecmanovic-vs-adam-walton-luc-0500-ngay-14-03-2026/",
+      "runtime": 1773439200,
+      "datetime": "2026-03-13T22:00:00.000Z"
+    },
+    {
+      "name": "BC.Game vs OG lúc 05:00",
+      "link": "/truc-tiep/bc-game-vs-og-luc-0500-ngay-14-03-2026/",
+      "runtime": 1773439200,
+      "datetime": "2026-03-13T22:00:00.000Z"
     }
   ]
 }
