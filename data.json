@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 80,
-  "updated_at": "2026-03-14T11:26:54.803Z",
+  "total_matches": 77,
+  "updated_at": "2026-03-14T11:52:46.440Z",
   "matches": [
     {
       "name": "Liao Lixi/Shen Shiyao vs Lanny Tria Mayasari/Apriyani Rahayu lúc 12:40",
@@ -16,26 +16,8 @@
       "datetime": "2026-03-14T07:00:00.000Z"
     },
     {
-      "name": "Hsinchu Lioneers vs Kaohsiung Aquas lúc 16:00",
-      "link": "/truc-tiep/hsinchu-lioneers-vs-kaohsiung-aquas-luc-1600-ngay-14-03-2026/",
-      "runtime": 1773478800,
-      "datetime": "2026-03-14T09:00:00.000Z"
-    },
-    {
-      "name": "Nữ Boroondara Eagles vs Nữ Heidelberg United lúc 16:30",
-      "link": "/truc-tiep/nu-boroondara-eagles-vs-nu-heidelberg-united-luc-1630-ngay-14-03-2026/",
-      "runtime": 1773480600,
-      "datetime": "2026-03-14T09:30:00.000Z"
-    },
-    {
       "name": "Marco Trungelliti vs Zdenek Kolar lúc 16:40",
       "link": "/truc-tiep/marco-trungelliti-vs-zdenek-kolar-luc-1640-ngay-14-03-2026/",
-      "runtime": 1773481200,
-      "datetime": "2026-03-14T09:40:00.000Z"
-    },
-    {
-      "name": "Paul Jubb vs Maxim Mrva lúc 16:40",
-      "link": "/truc-tiep/paul-jubb-vs-maxim-mrva-luc-1640-ngay-14-03-2026/",
       "runtime": 1773481200,
       "datetime": "2026-03-14T09:40:00.000Z"
     },
@@ -58,20 +40,8 @@
       "datetime": "2026-03-14T10:00:00.000Z"
     },
     {
-      "name": "Torino U20 vs Inter Milan U20 lúc 17:00",
-      "link": "/truc-tiep/torino-u20-vs-inter-milan-u20-luc-1700-ngay-14-03-2026/",
-      "runtime": 1773482400,
-      "datetime": "2026-03-14T10:00:00.000Z"
-    },
-    {
       "name": "Kuban Krasnodar vs D. Vladivostok lúc 17:00",
       "link": "/truc-tiep/kuban-krasnodar-vs-d-vladivostok-luc-1700-ngay-14-03-2026/",
-      "runtime": 1773482400,
-      "datetime": "2026-03-14T10:00:00.000Z"
-    },
-    {
-      "name": "Nữ Galatasaray vs Nữ Goztepe lúc 17:00",
-      "link": "/truc-tiep/nu-galatasaray-vs-nu-goztepe-luc-1700-ngay-14-03-2026/",
       "runtime": 1773482400,
       "datetime": "2026-03-14T10:00:00.000Z"
     },
@@ -156,12 +126,6 @@
     {
       "name": "Tiffy Army vs Life FC lúc 18:00",
       "link": "/truc-tiep/tiffy-army-vs-life-fc-luc-1800-ngay-14-03-2026/",
-      "runtime": 1773486000,
-      "datetime": "2026-03-14T11:00:00.000Z"
-    },
-    {
-      "name": "LNZ Cherkasy vs FK Oleksandria lúc 18:00",
-      "link": "/truc-tiep/lnz-cherkasy-vs-fk-oleksandria-luc-1800-ngay-14-03-2026/",
       "runtime": 1773486000,
       "datetime": "2026-03-14T11:00:00.000Z"
     },
@@ -448,12 +412,6 @@
       "datetime": "2026-03-14T13:00:00.000Z"
     },
     {
-      "name": "Spartak Kostroma vs FC Chaika lúc 20:00",
-      "link": "/truc-tiep/spartak-kostroma-vs-fc-chaika-luc-2000-ngay-14-03-2026/",
-      "runtime": 1773493200,
-      "datetime": "2026-03-14T13:00:00.000Z"
-    },
-    {
       "name": "Reims vs Rodez Aveyron lúc 20:00",
       "link": "/truc-tiep/reims-vs-rodez-aveyron-luc-2000-ngay-14-03-2026/",
       "runtime": 1773493200,
@@ -482,6 +440,30 @@
       "link": "/truc-tiep/sabah-vs-imigresen-fc-luc-2015-ngay-14-03-2026/",
       "runtime": 1773494100,
       "datetime": "2026-03-14T13:15:00.000Z"
+    },
+    {
+      "name": "Ujpest FC vs Kisvárda FC lúc 20:30",
+      "link": "/truc-tiep/ujpest-fc-vs-kisvarda-fc-luc-2030-ngay-14-03-2026/",
+      "runtime": 1773495000,
+      "datetime": "2026-03-14T13:30:00.000Z"
+    },
+    {
+      "name": "Kudrivka vs Veres lúc 20:30",
+      "link": "/truc-tiep/kudrivka-vs-veres-luc-2030-ngay-14-03-2026/",
+      "runtime": 1773495000,
+      "datetime": "2026-03-14T13:30:00.000Z"
+    },
+    {
+      "name": "Borna Gojo vs Pavel Kotov lúc 20:30",
+      "link": "/truc-tiep/borna-gojo-vs-pavel-kotov-luc-2030-ngay-14-03-2026/",
+      "runtime": 1773495000,
+      "datetime": "2026-03-14T13:30:00.000Z"
+    },
+    {
+      "name": "Jagiellonia  vs Piast Gliwice lúc 20:45",
+      "link": "/truc-tiep/jagiellonia-vs-piast-gliwice-luc-2045-ngay-14-03-2026/",
+      "runtime": 1773495900,
+      "datetime": "2026-03-14T13:45:00.000Z"
     }
   ]
 }
