@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 93,
-  "updated_at": "2026-03-15T11:33:08.293Z",
+  "total_matches": 91,
+  "updated_at": "2026-03-15T11:53:37.786Z",
   "matches": [
     {
       "name": "BetBoom Team vs Team Liquid lúc 16:00",
@@ -34,12 +34,6 @@
       "datetime": "2026-03-15T10:00:00.000Z"
     },
     {
-      "name": "Slavia Praha B vs SK Prostejov lúc 17:00",
-      "link": "/truc-tiep/slavia-praha-b-vs-sk-prostejov-luc-1700-ngay-15-03-2026/",
-      "runtime": 1773568800,
-      "datetime": "2026-03-15T10:00:00.000Z"
-    },
-    {
       "name": "Genoa (Y) vs Cremonese U20 lúc 17:00",
       "link": "/truc-tiep/genoa-y-vs-cremonese-u20-luc-1700-ngay-15-03-2026/",
       "runtime": 1773568800,
@@ -60,12 +54,6 @@
     {
       "name": "Andrew Paulson vs Michael Vrbensky lúc 17:00",
       "link": "/truc-tiep/andrew-paulson-vs-michael-vrbensky-luc-1700-ngay-15-03-2026/",
-      "runtime": 1773568800,
-      "datetime": "2026-03-15T10:00:00.000Z"
-    },
-    {
-      "name": "Filip Pieczonka vs Maxime Janvier lúc 17:00",
-      "link": "/truc-tiep/filip-pieczonka-vs-maxime-janvier-luc-1700-ngay-15-03-2026/",
       "runtime": 1773568800,
       "datetime": "2026-03-15T10:00:00.000Z"
     },
@@ -340,13 +328,7 @@
       "datetime": "2026-03-15T12:15:00.000Z"
     },
     {
-      "name": "Alejandro Juan Mano vs Federico Arnaboldi lúc 19:20",
-      "link": "/truc-tiep/alejandro-juan-mano-vs-federico-arnaboldi-luc-1920-ngay-15-03-2026/",
-      "runtime": 1773577200,
-      "datetime": "2026-03-15T12:20:00.000Z"
-    },
-    {
-      "name": "Kaiserslautern vs Karlsruher SC lúc 19:30 | EREZ",
+      "name": "Kaiserslautern vs Karlsruher SC lúc 19:30 | RIO",
       "link": "/truc-tiep/kaiserslautern-vs-karlsruher-sc-luc-1930-ngay-15-03-2026/",
       "runtime": 1773577800,
       "datetime": "2026-03-15T12:30:00.000Z"
@@ -560,6 +542,12 @@
       "link": "/truc-tiep/felix-gill-vs-nicolas-parizzia-luc-2030-ngay-15-03-2026/",
       "runtime": 1773581400,
       "datetime": "2026-03-15T13:30:00.000Z"
+    },
+    {
+      "name": "Zaglebie Lubin vs Lech Poznan lúc 20:45",
+      "link": "/truc-tiep/zaglebie-lubin-vs-lech-poznan-luc-2045-ngay-15-03-2026/",
+      "runtime": 1773582300,
+      "datetime": "2026-03-15T13:45:00.000Z"
     }
   ]
 }
