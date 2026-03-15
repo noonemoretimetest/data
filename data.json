@@ -1,44 +1,8 @@
 {
   "success": true,
-  "total_matches": 77,
-  "updated_at": "2026-03-15T10:23:57.488Z",
+  "total_matches": 84,
+  "updated_at": "2026-03-15T11:00:02.865Z",
   "matches": [
-    {
-      "name": "Prahdiska Bagas Shujiwo vs Sun Chao lúc 13:20",
-      "link": "/truc-tiep/prahdiska-bagas-shujiwo-vs-sun-chao-luc-1320-ngay-15-03-2026/",
-      "runtime": 1773555600,
-      "datetime": "2026-03-15T06:20:00.000Z"
-    },
-    {
-      "name": "Hồng Kông FC vs Lee Man lúc 15:30",
-      "link": "/truc-tiep/hong-kong-fc-vs-lee-man-luc-1530-ngay-15-03-2026/",
-      "runtime": 1773563400,
-      "datetime": "2026-03-15T08:30:00.000Z"
-    },
-    {
-      "name": "Ural Oblast II vs Arsenal Tula lúc 15:30",
-      "link": "/truc-tiep/ural-oblast-ii-vs-arsenal-tula-luc-1530-ngay-15-03-2026/",
-      "runtime": 1773563400,
-      "datetime": "2026-03-15T08:30:00.000Z"
-    },
-    {
-      "name": "North Lakes United vs Logan Roos lúc 15:30",
-      "link": "/truc-tiep/north-lakes-united-vs-logan-roos-luc-1530-ngay-15-03-2026/",
-      "runtime": 1773563400,
-      "datetime": "2026-03-15T08:30:00.000Z"
-    },
-    {
-      "name": "TDTT Bắc Ninh vs Bà Rịa Vũng Tàu lúc 16:00 | FINN",
-      "link": "/truc-tiep/tdtt-bac-ninh-vs-ba-ria-vung-tau-luc-1600-ngay-15-03-2026/",
-      "runtime": 1773565200,
-      "datetime": "2026-03-15T09:00:00.000Z"
-    },
-    {
-      "name": "Sibir Novosibirsk vs Torpedo Miass lúc 16:00",
-      "link": "/truc-tiep/sibir-novosibirsk-vs-torpedo-miass-luc-1600-ngay-15-03-2026/",
-      "runtime": 1773565200,
-      "datetime": "2026-03-15T09:00:00.000Z"
-    },
     {
       "name": "Hsinchu Lioneers vs New Taipei Kings lúc 16:00 | STEP",
       "link": "/truc-tiep/hsinchu-lioneers-vs-new-taipei-kings-luc-1600-ngay-15-03-2026/",
@@ -62,12 +26,6 @@
       "link": "/truc-tiep/omega-vs-novaq-luc-1600-ngay-15-03-2026/",
       "runtime": 1773565200,
       "datetime": "2026-03-15T09:00:00.000Z"
-    },
-    {
-      "name": "Panasonic Panthers vs JTEKT lúc 16:05",
-      "link": "/truc-tiep/panasonic-panthers-vs-jtekt-luc-1605-ngay-15-03-2026/",
-      "runtime": 1773565500,
-      "datetime": "2026-03-15T09:05:00.000Z"
     },
     {
       "name": "Viktoria Zizkov vs Opava lúc 16:15",
@@ -132,12 +90,6 @@
     {
       "name": "Filip Pieczonka vs Maxime Janvier lúc 17:00",
       "link": "/truc-tiep/filip-pieczonka-vs-maxime-janvier-luc-1700-ngay-15-03-2026/",
-      "runtime": 1773568800,
-      "datetime": "2026-03-15T10:00:00.000Z"
-    },
-    {
-      "name": "Li Yijing/Wang Yiduo vs Jia Yi Fan/Zhang Shu Xian lúc 17:00",
-      "link": "/truc-tiep/li-yijing-wang-yiduo-vs-jia-yi-fan-zhang-shu-xian-luc-1700-ngay-15-03-2026/",
       "runtime": 1773568800,
       "datetime": "2026-03-15T10:00:00.000Z"
     },
@@ -464,6 +416,96 @@
       "link": "/truc-tiep/alejandro-juan-mano-vs-federico-arnaboldi-luc-1920-ngay-15-03-2026/",
       "runtime": 1773577200,
       "datetime": "2026-03-15T12:20:00.000Z"
+    },
+    {
+      "name": "Kaiserslautern vs Karlsruher SC lúc 19:30 | EREZ",
+      "link": "/truc-tiep/kaiserslautern-vs-karlsruher-sc-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Dynamo Dresden vs Preuben Munster lúc 19:30 | OLER",
+      "link": "/truc-tiep/dynamo-dresden-vs-preuben-munster-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Schalke 04 vs Hannover 96 lúc 19:30 | NEMO",
+      "link": "/truc-tiep/schalke-04-vs-hannover-96-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Balestier Khalsa vs Lion City lúc 19:30",
+      "link": "/truc-tiep/balestier-khalsa-vs-lion-city-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Geylang United vs Albirex Niigata lúc 19:30",
+      "link": "/truc-tiep/geylang-united-vs-albirex-niigata-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Harju JK Laagri vs Levadia Tallinn lúc 19:30",
+      "link": "/truc-tiep/harju-jk-laagri-vs-levadia-tallinn-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "FC Flora Tallinn vs Nomme JK Kalju lúc 19:30",
+      "link": "/truc-tiep/fc-flora-tallinn-vs-nomme-jk-kalju-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Cherno More Varna vs PFK Montana lúc 19:30",
+      "link": "/truc-tiep/cherno-more-varna-vs-pfk-montana-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Racing Genk vs Sint-Truidense lúc 19:30",
+      "link": "/truc-tiep/racing-genk-vs-sint-truidense-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Arsenal Dzyarz vs Slavia Mozyr lúc 19:30",
+      "link": "/truc-tiep/arsenal-dzyarz-vs-slavia-mozyr-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Mersin BSB vs Galatasaray S.K. lúc 19:30",
+      "link": "/truc-tiep/mersin-bsb-vs-galatasaray-s-k-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Christian Langmo vs Daniel Salazar lúc 19:30",
+      "link": "/truc-tiep/christian-langmo-vs-daniel-salazar-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Zhu Yijun/Li Qian vs Cheng Xing/Zhang Chi lúc 19:30",
+      "link": "/truc-tiep/zhu-yijun-li-qian-vs-cheng-xing-zhang-chi-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "FUT vs Astralis lúc 19:30",
+      "link": "/truc-tiep/fut-vs-astralis-luc-1930-ngay-15-03-2026/",
+      "runtime": 1773577800,
+      "datetime": "2026-03-15T12:30:00.000Z"
+    },
+    {
+      "name": "Central Espanol vs Cerro Largo lúc 19:55",
+      "link": "/truc-tiep/central-espanol-vs-cerro-largo-luc-1955-ngay-15-03-2026/",
+      "runtime": 1773579300,
+      "datetime": "2026-03-15T12:55:00.000Z"
     }
   ]
 }
