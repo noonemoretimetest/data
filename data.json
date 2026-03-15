@@ -1,55 +1,13 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-03-15T20:22:00.454Z",
+  "total_matches": 51,
+  "updated_at": "2026-03-15T20:57:53.927Z",
   "matches": [
     {
       "name": "Zhu Yijun/Li Qian vs Cheng Xing/Zhang Chi lúc 19:30",
       "link": "/truc-tiep/zhu-yijun-li-qian-vs-cheng-xing-zhang-chi-luc-1930-ngay-15-03-2026/",
       "runtime": 1773577800,
       "datetime": "2026-03-15T12:30:00.000Z"
-    },
-    {
-      "name": "Natus Vincere vs Aurora lúc 23:00",
-      "link": "/truc-tiep/natus-vincere-vs-aurora-luc-2300-ngay-15-03-2026/",
-      "runtime": 1773590400,
-      "datetime": "2026-03-15T16:00:00.000Z"
-    },
-    {
-      "name": "Aryna Sabalenka vs Elena Rybakina lúc 01:00 | LUCAS",
-      "link": "/truc-tiep/aryna-sabalenka-vs-elena-rybakina-luc-0100-ngay-16-03-2026/",
-      "runtime": 1773597600,
-      "datetime": "2026-03-15T18:00:00.000Z"
-    },
-    {
-      "name": "VfB Stuttgart vs RB Leipzig lúc 01:30 | YUNO",
-      "link": "/truc-tiep/vfb-stuttgart-vs-rb-leipzig-luc-0130-ngay-16-03-2026/",
-      "runtime": 1773599400,
-      "datetime": "2026-03-15T18:30:00.000Z"
-    },
-    {
-      "name": "FCSB vs Metaloglobus lúc 01:30",
-      "link": "/truc-tiep/fcsb-vs-metaloglobus-luc-0130-ngay-16-03-2026/",
-      "runtime": 1773599400,
-      "datetime": "2026-03-15T18:30:00.000Z"
-    },
-    {
-      "name": "New England vs FC Cincinnati lúc 01:30 | POLO",
-      "link": "/truc-tiep/new-england-vs-fc-cincinnati-luc-0130-ngay-16-03-2026/",
-      "runtime": 1773599400,
-      "datetime": "2026-03-15T18:30:00.000Z"
-    },
-    {
-      "name": "Radnicki 1923 vs Vojvodina  lúc 01:30",
-      "link": "/truc-tiep/radnicki-1923-vs-vojvodina-luc-0130-ngay-16-03-2026/",
-      "runtime": 1773599400,
-      "datetime": "2026-03-15T18:30:00.000Z"
-    },
-    {
-      "name": "Omonia FC vs Olympiakos Nicosia FC lúc 01:30",
-      "link": "/truc-tiep/omonia-fc-vs-olympiakos-nicosia-fc-luc-0130-ngay-16-03-2026/",
-      "runtime": 1773599400,
-      "datetime": "2026-03-15T18:30:00.000Z"
     },
     {
       "name": "Santos vs Corinthians (SP) lúc 02:00 | RYAN",
@@ -70,24 +28,6 @@
       "datetime": "2026-03-15T19:00:00.000Z"
     },
     {
-      "name": "Panathinaikos vs Panaitolikos lúc 02:00",
-      "link": "/truc-tiep/panathinaikos-vs-panaitolikos-luc-0200-ngay-16-03-2026/",
-      "runtime": 1773601200,
-      "datetime": "2026-03-15T19:00:00.000Z"
-    },
-    {
-      "name": "Columbus Crew B vs Toronto FC II lúc 02:00",
-      "link": "/truc-tiep/columbus-crew-b-vs-toronto-fc-ii-luc-0200-ngay-16-03-2026/",
-      "runtime": 1773601200,
-      "datetime": "2026-03-15T19:00:00.000Z"
-    },
-    {
-      "name": "Philadelphia Union II vs Connecticut United FC lúc 02:00",
-      "link": "/truc-tiep/philadelphia-union-ii-vs-connecticut-united-fc-luc-0200-ngay-16-03-2026/",
-      "runtime": 1773601200,
-      "datetime": "2026-03-15T19:00:00.000Z"
-    },
-    {
       "name": "Dalma Galfi vs Elvina Kalieva lúc 02:00",
       "link": "/truc-tiep/dalma-galfi-vs-elvina-kalieva-luc-0200-ngay-16-03-2026/",
       "runtime": 1773601200,
@@ -96,12 +36,6 @@
     {
       "name": "Caroline Dolehide vs Nikola Bartunkova lúc 02:00",
       "link": "/truc-tiep/caroline-dolehide-vs-nikola-bartunkova-luc-0200-ngay-16-03-2026/",
-      "runtime": 1773601200,
-      "datetime": "2026-03-15T19:00:00.000Z"
-    },
-    {
-      "name": "R2 vs MIBR Academy lúc 02:00",
-      "link": "/truc-tiep/r2-vs-mibr-academy-luc-0200-ngay-16-03-2026/",
       "runtime": 1773601200,
       "datetime": "2026-03-15T19:00:00.000Z"
     },
@@ -188,6 +122,12 @@
       "link": "/truc-tiep/nu-dallas-pulse-vs-nu-atlanta-vibe-luc-0300-ngay-16-03-2026/",
       "runtime": 1773604800,
       "datetime": "2026-03-15T20:00:00.000Z"
+    },
+    {
+      "name": "New York City B vs NY Red Bulls B lúc 03:15",
+      "link": "/truc-tiep/new-york-city-b-vs-ny-red-bulls-b-luc-0315-ngay-16-03-2026/",
+      "runtime": 1773605700,
+      "datetime": "2026-03-15T20:15:00.000Z"
     },
     {
       "name": "Nữ San Martin Porres  vs Nữ Circolo lúc 03:15",
@@ -362,6 +302,12 @@
       "link": "/truc-tiep/metanoia-wolves-vs-magicos-luc-0500-ngay-16-03-2026/",
       "runtime": 1773612000,
       "datetime": "2026-03-15T22:00:00.000Z"
+    },
+    {
+      "name": "River Plate vs Sarmiento Junin lúc 05:45 | XMEN",
+      "link": "/truc-tiep/river-plate-vs-sarmiento-junin-luc-0545-ngay-16-03-2026/",
+      "runtime": 1773614700,
+      "datetime": "2026-03-15T22:45:00.000Z"
     }
   ]
 }
