@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-16T22:26:58.313Z",
+  "total_matches": 49,
+  "updated_at": "2026-03-16T22:59:50.030Z",
   "matches": [
     {
       "name": "Zhu Yijun/Li Qian vs Cheng Xing/Zhang Chi lúc 19:30",
@@ -16,28 +16,10 @@
       "datetime": "2026-03-16T19:00:00.000Z"
     },
     {
-      "name": "Sunderland vs Durham lúc 02:45",
-      "link": "/truc-tiep/sunderland-vs-durham-luc-0245-ngay-17-03-2026/",
-      "runtime": 1773690300,
-      "datetime": "2026-03-16T19:45:00.000Z"
-    },
-    {
-      "name": "Nữ Ecuador U17 vs Nữ Chile U17 lúc 03:00",
-      "link": "/truc-tiep/nu-ecuador-u17-vs-nu-chile-u17-luc-0300-ngay-17-03-2026/",
-      "runtime": 1773691200,
-      "datetime": "2026-03-16T20:00:00.000Z"
-    },
-    {
       "name": "Lucrezia Stefanini vs Diane Parry lúc 03:25",
       "link": "/truc-tiep/lucrezia-stefanini-vs-diane-parry-luc-0325-ngay-17-03-2026/",
       "runtime": 1773692700,
       "datetime": "2026-03-16T20:25:00.000Z"
-    },
-    {
-      "name": "Nữ Colo Colo vs Magallanes (W) lúc 03:30",
-      "link": "/truc-tiep/nu-colo-colo-vs-magallanes-w-luc-0330-ngay-17-03-2026/",
-      "runtime": 1773693000,
-      "datetime": "2026-03-16T20:30:00.000Z"
     },
     {
       "name": "Vadym Ursu vs Andres Martin lúc 03:50",
@@ -64,12 +46,6 @@
       "datetime": "2026-03-16T21:00:00.000Z"
     },
     {
-      "name": "Deportes Temuco (w) vs Nữ Universidad de Chile  lúc 04:00",
-      "link": "/truc-tiep/deportes-temuco-w-vs-nu-universidad-de-chile-luc-0400-ngay-17-03-2026/",
-      "runtime": 1773694800,
-      "datetime": "2026-03-16T21:00:00.000Z"
-    },
-    {
       "name": "AD Carmelita vs Pitbulls lúc 04:00",
       "link": "/truc-tiep/ad-carmelita-vs-pitbulls-luc-0400-ngay-17-03-2026/",
       "runtime": 1773694800,
@@ -80,12 +56,6 @@
       "link": "/truc-tiep/ittihad-gharyan-vs-al-magd-luc-0400-ngay-17-03-2026/",
       "runtime": 1773694800,
       "datetime": "2026-03-16T21:00:00.000Z"
-    },
-    {
-      "name": "Envigado FC vs Real Cartagena lúc 04:05",
-      "link": "/truc-tiep/envigado-fc-vs-real-cartagena-luc-0405-ngay-17-03-2026/",
-      "runtime": 1773695100,
-      "datetime": "2026-03-16T21:05:00.000Z"
     },
     {
       "name": "Aidan Mayo vs Andres Andrade lúc 04:15",
@@ -122,6 +92,18 @@
       "link": "/truc-tiep/gamehunters-vs-pain-academy-luc-0500-ngay-17-03-2026/",
       "runtime": 1773698400,
       "datetime": "2026-03-16T22:00:00.000Z"
+    },
+    {
+      "name": "Federico Agustin Gomez vs Dan Martin lúc 05:10",
+      "link": "/truc-tiep/federico-agustin-gomez-vs-dan-martin-luc-0510-ngay-17-03-2026/",
+      "runtime": 1773699000,
+      "datetime": "2026-03-16T22:10:00.000Z"
+    },
+    {
+      "name": "Luis Miguel vs Benjamin Bonzi lúc 05:25",
+      "link": "/truc-tiep/luis-miguel-vs-benjamin-bonzi-luc-0525-ngay-17-03-2026/",
+      "runtime": 1773699900,
+      "datetime": "2026-03-16T22:25:00.000Z"
     },
     {
       "name": "Barranquilla FC vs Bogota FC lúc 05:30",
@@ -192,12 +174,6 @@
     {
       "name": "Cortulua vs Independiente Yumbo lúc 06:15",
       "link": "/truc-tiep/cortulua-vs-independiente-yumbo-luc-0615-ngay-17-03-2026/",
-      "runtime": 1773702900,
-      "datetime": "2026-03-16T23:15:00.000Z"
-    },
-    {
-      "name": "Nữ Club Olimpia vs Nữ Guarani Club  lúc 06:15",
-      "link": "/truc-tiep/nu-club-olimpia-vs-nu-guarani-club-luc-0615-ngay-17-03-2026/",
       "runtime": 1773702900,
       "datetime": "2026-03-16T23:15:00.000Z"
     },
@@ -302,6 +278,24 @@
       "link": "/truc-tiep/malvin-vs-defensor-sporting-luc-0715-ngay-17-03-2026/",
       "runtime": 1773706500,
       "datetime": "2026-03-17T00:15:00.000Z"
+    },
+    {
+      "name": "Arnett Gardens vs Racing United lúc 07:30",
+      "link": "/truc-tiep/arnett-gardens-vs-racing-united-luc-0730-ngay-17-03-2026/",
+      "runtime": 1773707400,
+      "datetime": "2026-03-17T00:30:00.000Z"
+    },
+    {
+      "name": "Santa Paula de Galvez vs Amancay Rioja lúc 07:30",
+      "link": "/truc-tiep/santa-paula-de-galvez-vs-amancay-rioja-luc-0730-ngay-17-03-2026/",
+      "runtime": 1773707400,
+      "datetime": "2026-03-17T00:30:00.000Z"
+    },
+    {
+      "name": "CA Huracan Las Heras vs Sportivo Suardi lúc 07:30",
+      "link": "/truc-tiep/ca-huracan-las-heras-vs-sportivo-suardi-luc-0730-ngay-17-03-2026/",
+      "runtime": 1773707400,
+      "datetime": "2026-03-17T00:30:00.000Z"
     }
   ]
 }
