@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 35,
-  "updated_at": "2026-03-16T08:50:03.015Z",
+  "total_matches": 49,
+  "updated_at": "2026-03-16T10:00:06.027Z",
   "matches": [
     {
       "name": "Zhu Yijun/Li Qian vs Cheng Xing/Zhang Chi lúc 19:30",
       "link": "/truc-tiep/zhu-yijun-li-qian-vs-cheng-xing-zhang-chi-luc-1930-ngay-15-03-2026/",
       "runtime": 1773577800,
       "datetime": "2026-03-15T12:30:00.000Z"
-    },
-    {
-      "name": "5star vs Chinggis Warriors lúc 13:00",
-      "link": "/truc-tiep/5star-vs-chinggis-warriors-luc-1300-ngay-16-03-2026/",
-      "runtime": 1773640800,
-      "datetime": "2026-03-16T06:00:00.000Z"
-    },
-    {
-      "name": "Nữ Ethio Electric vs Nữ Hawassa City FC lúc 14:00",
-      "link": "/truc-tiep/nu-ethio-electric-vs-nu-hawassa-city-fc-luc-1400-ngay-16-03-2026/",
-      "runtime": 1773644400,
-      "datetime": "2026-03-16T07:00:00.000Z"
-    },
-    {
-      "name": "Bulleen Lions U23 vs Brunswick Juventus U23 lúc 14:15",
-      "link": "/truc-tiep/bulleen-lions-u23-vs-brunswick-juventus-u23-luc-1415-ngay-16-03-2026/",
-      "runtime": 1773645300,
-      "datetime": "2026-03-16T07:15:00.000Z"
-    },
-    {
-      "name": "Diliman College vs Immaculada Concepcion  lúc 15:00",
-      "link": "/truc-tiep/diliman-college-vs-immaculada-concepcion-luc-1500-ngay-16-03-2026/",
-      "runtime": 1773648000,
-      "datetime": "2026-03-16T08:00:00.000Z"
     },
     {
       "name": "Nemiga Gaming vs L1ga Team lúc 15:00",
@@ -54,12 +30,6 @@
     {
       "name": "Ulytau Zhezkazgan vs Kyzylzhar  lúc 16:00 | NEMO",
       "link": "/truc-tiep/ulytau-zhezkazgan-vs-kyzylzhar-luc-1600-ngay-16-03-2026/",
-      "runtime": 1773651600,
-      "datetime": "2026-03-16T09:00:00.000Z"
-    },
-    {
-      "name": "Irtysh Pavlodar vs FK Atyrau lúc 16:00",
-      "link": "/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-luc-1600-ngay-16-03-2026/",
       "runtime": 1773651600,
       "datetime": "2026-03-16T09:00:00.000Z"
     },
@@ -94,14 +64,14 @@
       "datetime": "2026-03-16T09:00:00.000Z"
     },
     {
-      "name": "The Huns vs The-mongolz-academy lúc 16:00",
-      "link": "/truc-tiep/the-huns-vs-the-mongolz-academy-luc-1600-ngay-16-03-2026/",
+      "name": "1win vs Team lynx lúc 16:00",
+      "link": "/truc-tiep/1win-vs-team-lynx-luc-1600-ngay-16-03-2026/",
       "runtime": 1773651600,
       "datetime": "2026-03-16T09:00:00.000Z"
     },
     {
-      "name": "1win vs Team lynx lúc 16:00",
-      "link": "/truc-tiep/1win-vs-team-lynx-luc-1600-ngay-16-03-2026/",
+      "name": "The Huns vs The-mongolz-academy lúc 16:00",
+      "link": "/truc-tiep/the-huns-vs-the-mongolz-academy-luc-1600-ngay-16-03-2026/",
       "runtime": 1773651600,
       "datetime": "2026-03-16T09:00:00.000Z"
     },
@@ -120,6 +90,12 @@
     {
       "name": "FK Yelimay Semey vs Altay FK lúc 17:00 | FINN",
       "link": "/truc-tiep/fk-yelimay-semey-vs-altay-fk-luc-1700-ngay-16-03-2026/",
+      "runtime": 1773655200,
+      "datetime": "2026-03-16T10:00:00.000Z"
+    },
+    {
+      "name": "Irtysh Pavlodar vs FK Atyrau lúc 17:00",
+      "link": "/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-luc-1700-ngay-16-03-2026/",
       "runtime": 1773655200,
       "datetime": "2026-03-16T10:00:00.000Z"
     },
@@ -184,7 +160,7 @@
       "datetime": "2026-03-16T10:10:00.000Z"
     },
     {
-      "name": "Bandirmaspor vs Iğdır FK lúc 17:30 | LOUIS",
+      "name": "Bandirmaspor vs Iğdır FK lúc 17:30 | TONI",
       "link": "/truc-tiep/bandirmaspor-vs-igdir-fk-luc-1730-ngay-16-03-2026/",
       "runtime": 1773657000,
       "datetime": "2026-03-16T10:30:00.000Z"
@@ -212,6 +188,114 @@
       "link": "/truc-tiep/khimik-dzerzhinsk-vs-fk-oryol-luc-1730-ngay-16-03-2026/",
       "runtime": 1773657000,
       "datetime": "2026-03-16T10:30:00.000Z"
+    },
+    {
+      "name": "Nữ Sassuolo vs Nữ Inter Milan lúc 18:00",
+      "link": "/truc-tiep/nu-sassuolo-vs-nu-inter-milan-luc-1800-ngay-16-03-2026/",
+      "runtime": 1773658800,
+      "datetime": "2026-03-16T11:00:00.000Z"
+    },
+    {
+      "name": "Parma U20 vs Lecce U20 lúc 18:00",
+      "link": "/truc-tiep/parma-u20-vs-lecce-u20-luc-1800-ngay-16-03-2026/",
+      "runtime": 1773658800,
+      "datetime": "2026-03-16T11:00:00.000Z"
+    },
+    {
+      "name": "Nữ Anh U17 vs Nữ Croatia U17 lúc 18:00 | LOGAN",
+      "link": "/truc-tiep/nu-anh-u17-vs-nu-croatia-u17-luc-1800-ngay-16-03-2026/",
+      "runtime": 1773658800,
+      "datetime": "2026-03-16T11:00:00.000Z"
+    },
+    {
+      "name": "Esil Petropavlovsk vs Taraz Jambil lúc 18:00",
+      "link": "/truc-tiep/esil-petropavlovsk-vs-taraz-jambil-luc-1800-ngay-16-03-2026/",
+      "runtime": 1773658800,
+      "datetime": "2026-03-16T11:00:00.000Z"
+    },
+    {
+      "name": "David Jorda Sanchis vs Dali Blanch lúc 18:10 | LUCAS",
+      "link": "/truc-tiep/david-jorda-sanchis-vs-dali-blanch-luc-1810-ngay-16-03-2026/",
+      "runtime": 1773659400,
+      "datetime": "2026-03-16T11:10:00.000Z"
+    },
+    {
+      "name": "Felix Gill vs Federico Arnaboldi lúc 18:10",
+      "link": "/truc-tiep/felix-gill-vs-federico-arnaboldi-luc-1810-ngay-16-03-2026/",
+      "runtime": 1773659400,
+      "datetime": "2026-03-16T11:10:00.000Z"
+    },
+    {
+      "name": "Ararat-Armenia  vs FK Van  lúc 18:30 | NEMO",
+      "link": "/truc-tiep/ararat-armenia-vs-fk-van-luc-1830-ngay-16-03-2026/",
+      "runtime": 1773660600,
+      "datetime": "2026-03-16T11:30:00.000Z"
+    },
+    {
+      "name": "Sadarakpat vs BKMA II lúc 18:30",
+      "link": "/truc-tiep/sadarakpat-vs-bkma-ii-luc-1830-ngay-16-03-2026/",
+      "runtime": 1773660600,
+      "datetime": "2026-03-16T11:30:00.000Z"
+    },
+    {
+      "name": "Anhui Wenyi vs Guizhou Raptors lúc 18:30",
+      "link": "/truc-tiep/anhui-wenyi-vs-guizhou-raptors-luc-1830-ngay-16-03-2026/",
+      "runtime": 1773660600,
+      "datetime": "2026-03-16T11:30:00.000Z"
+    },
+    {
+      "name": "Shijiazhuang Xianglan vs Jiangxi Ganchi lúc 18:30",
+      "link": "/truc-tiep/shijiazhuang-xianglan-vs-jiangxi-ganchi-luc-1830-ngay-16-03-2026/",
+      "runtime": 1773660600,
+      "datetime": "2026-03-16T11:30:00.000Z"
+    },
+    {
+      "name": "Hefei Kuangfeng vs Shanghai Blackbird lúc 18:30",
+      "link": "/truc-tiep/hefei-kuangfeng-vs-shanghai-blackbird-luc-1830-ngay-16-03-2026/",
+      "runtime": 1773660600,
+      "datetime": "2026-03-16T11:30:00.000Z"
+    },
+    {
+      "name": "Shanghai Sharks vs Qingdao Guoxin lúc 18:35",
+      "link": "/truc-tiep/shanghai-sharks-vs-qingdao-guoxin-luc-1835-ngay-16-03-2026/",
+      "runtime": 1773660900,
+      "datetime": "2026-03-16T11:35:00.000Z"
+    },
+    {
+      "name": "Beijing Ducks vs Tianjin Pioneers lúc 18:35",
+      "link": "/truc-tiep/beijing-ducks-vs-tianjin-pioneers-luc-1835-ngay-16-03-2026/",
+      "runtime": 1773660900,
+      "datetime": "2026-03-16T11:35:00.000Z"
+    },
+    {
+      "name": "Guangsha Lions vs Ningbo Rockets lúc 18:35 | SIMON",
+      "link": "/truc-tiep/guangsha-lions-vs-ningbo-rockets-luc-1835-ngay-16-03-2026/",
+      "runtime": 1773660900,
+      "datetime": "2026-03-16T11:35:00.000Z"
+    },
+    {
+      "name": "Sichuan Blue Whales vs Jiangsu Dragons Kentier lúc 18:35",
+      "link": "/truc-tiep/sichuan-blue-whales-vs-jiangsu-dragons-kentier-luc-1835-ngay-16-03-2026/",
+      "runtime": 1773660900,
+      "datetime": "2026-03-16T11:35:00.000Z"
+    },
+    {
+      "name": "Shandong Hi-Speed vs Zhejiang Chouzhou lúc 18:35 | TOMMY",
+      "link": "/truc-tiep/shandong-hi-speed-vs-zhejiang-chouzhou-luc-1835-ngay-16-03-2026/",
+      "runtime": 1773660900,
+      "datetime": "2026-03-16T11:35:00.000Z"
+    },
+    {
+      "name": "Nanjing Monkey Kings vs Fujian Jinjiang Tourism lúc 18:35",
+      "link": "/truc-tiep/nanjing-monkey-kings-vs-fujian-jinjiang-tourism-luc-1835-ngay-16-03-2026/",
+      "runtime": 1773660900,
+      "datetime": "2026-03-16T11:35:00.000Z"
+    },
+    {
+      "name": "Shenzhen Leopards vs Guangzhou Lions lúc 18:35 | STEP",
+      "link": "/truc-tiep/shenzhen-leopards-vs-guangzhou-lions-luc-1835-ngay-16-03-2026/",
+      "runtime": 1773660900,
+      "datetime": "2026-03-16T11:35:00.000Z"
     }
   ]
 }
