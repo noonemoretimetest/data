@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 46,
-  "updated_at": "2026-03-17T22:27:26.155Z",
+  "total_matches": 53,
+  "updated_at": "2026-03-17T23:03:45.019Z",
   "matches": [
-    {
-      "name": "Nữ Salvador U17 vs Nữ CH Dominican U17 lúc 04:00",
-      "link": "/truc-tiep/nu-salvador-u17-vs-nu-ch-dominican-u17-luc-0400-ngay-18-03-2026/",
-      "runtime": 1773781200,
-      "datetime": "2026-03-17T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Canada U17 vs Nữ Nicaragua U17 lúc 04:00",
-      "link": "/truc-tiep/nu-canada-u17-vs-nu-nicaragua-u17-luc-0400-ngay-18-03-2026/",
-      "runtime": 1773781200,
-      "datetime": "2026-03-17T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Tây Ban Nha vs Nữ USA lúc 04:00",
-      "link": "/truc-tiep/nu-tay-ban-nha-vs-nu-usa-luc-0400-ngay-18-03-2026/",
-      "runtime": 1773781200,
-      "datetime": "2026-03-17T21:00:00.000Z"
-    },
     {
       "name": "Galorys vs MIBR Academy lúc 04:00",
       "link": "/truc-tiep/galorys-vs-mibr-academy-luc-0400-ngay-18-03-2026/",
@@ -130,12 +112,6 @@
       "datetime": "2026-03-17T22:30:00.000Z"
     },
     {
-      "name": "NK Steel City vs Pittsburgh R lúc 06:00",
-      "link": "/truc-tiep/nk-steel-city-vs-pittsburgh-r-luc-0600-ngay-18-03-2026/",
-      "runtime": 1773788400,
-      "datetime": "2026-03-17T23:00:00.000Z"
-    },
-    {
       "name": "Vermont Green vs Portland Hearts of Pine lúc 06:00",
       "link": "/truc-tiep/vermont-green-vs-portland-hearts-of-pine-luc-0600-ngay-18-03-2026/",
       "runtime": 1773788400,
@@ -182,12 +158,6 @@
       "link": "/truc-tiep/oddik-vs-crashers-luc-0600-ngay-18-03-2026/",
       "runtime": 1773788400,
       "datetime": "2026-03-17T23:00:00.000Z"
-    },
-    {
-      "name": "Atl. Bucaramanga vs Once Caldas lúc 06:20 | FINN",
-      "link": "/truc-tiep/atl-bucaramanga-vs-once-caldas-luc-0620-ngay-18-03-2026/",
-      "runtime": 1773789600,
-      "datetime": "2026-03-17T23:20:00.000Z"
     },
     {
       "name": "Detroit City vs Michigan Rangers FC lúc 06:30",
@@ -278,6 +248,78 @@
       "link": "/truc-tiep/central-cordoba-sde-vs-deportivo-riestra-luc-0715-ngay-18-03-2026/",
       "runtime": 1773792900,
       "datetime": "2026-03-18T00:15:00.000Z"
+    },
+    {
+      "name": "Londrina PR vs Operario PR lúc 07:30",
+      "link": "/truc-tiep/londrina-pr-vs-operario-pr-luc-0730-ngay-18-03-2026/",
+      "runtime": 1773793800,
+      "datetime": "2026-03-18T00:30:00.000Z"
+    },
+    {
+      "name": "Sport Club Recife vs Athletic Club lúc 07:30 | LOGAN",
+      "link": "/truc-tiep/sport-club-recife-vs-athletic-club-luc-0730-ngay-18-03-2026/",
+      "runtime": 1773793800,
+      "datetime": "2026-03-18T00:30:00.000Z"
+    },
+    {
+      "name": "Portuguesa Desportos vs Paysandu SC lúc 07:30",
+      "link": "/truc-tiep/portuguesa-desportos-vs-paysandu-sc-luc-0730-ngay-18-03-2026/",
+      "runtime": 1773793800,
+      "datetime": "2026-03-18T00:30:00.000Z"
+    },
+    {
+      "name": "SV Brazil Juniors vs SV Jong Aruba lúc 07:30",
+      "link": "/truc-tiep/sv-brazil-juniors-vs-sv-jong-aruba-luc-0730-ngay-18-03-2026/",
+      "runtime": 1773793800,
+      "datetime": "2026-03-18T00:30:00.000Z"
+    },
+    {
+      "name": "Quimsa vs Obras Sanitarias  lúc 07:30",
+      "link": "/truc-tiep/quimsa-vs-obras-sanitarias-luc-0730-ngay-18-03-2026/",
+      "runtime": 1773793800,
+      "datetime": "2026-03-18T00:30:00.000Z"
+    },
+    {
+      "name": "Pedro Boscardin Dias/Joao Lucas Reis Da Silva vs Alex Barrena/Andrea Collarini lúc 07:30",
+      "link": "/truc-tiep/pedro-boscardin-dias-joao-lucas-reis-da-silva-vs-alex-barrena-andrea-collarini-luc-0730-ngay-18-03-2026/",
+      "runtime": 1773793800,
+      "datetime": "2026-03-18T00:30:00.000Z"
+    },
+    {
+      "name": "Monteros vs UPCN lúc 07:30",
+      "link": "/truc-tiep/monteros-vs-upcn-luc-0730-ngay-18-03-2026/",
+      "runtime": 1773793800,
+      "datetime": "2026-03-18T00:30:00.000Z"
+    },
+    {
+      "name": "LD Alajuelense vs Los Angeles FC lúc 08:00 | ZARA",
+      "link": "/truc-tiep/ld-alajuelense-vs-los-angeles-fc-luc-0800-ngay-18-03-2026/",
+      "runtime": 1773795600,
+      "datetime": "2026-03-18T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Santos Laguna vs Nữ Cruz Azul lúc 08:00 | RIO",
+      "link": "/truc-tiep/nu-santos-laguna-vs-nu-cruz-azul-luc-0800-ngay-18-03-2026/",
+      "runtime": 1773795600,
+      "datetime": "2026-03-18T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Atletico Nacional vs Nữ Tevi Cocle lúc 08:00",
+      "link": "/truc-tiep/nu-atletico-nacional-vs-nu-tevi-cocle-luc-0800-ngay-18-03-2026/",
+      "runtime": 1773795600,
+      "datetime": "2026-03-18T01:00:00.000Z"
+    },
+    {
+      "name": "Weymouth Wales vs Bagatelle SS lúc 08:00",
+      "link": "/truc-tiep/weymouth-wales-vs-bagatelle-ss-luc-0800-ngay-18-03-2026/",
+      "runtime": 1773795600,
+      "datetime": "2026-03-18T01:00:00.000Z"
+    },
+    {
+      "name": "Rip City Remix vs South Bay Lakers lúc 08:00",
+      "link": "/truc-tiep/rip-city-remix-vs-south-bay-lakers-luc-0800-ngay-18-03-2026/",
+      "runtime": 1773795600,
+      "datetime": "2026-03-18T01:00:00.000Z"
     }
   ]
 }
