@@ -1,38 +1,8 @@
 {
   "success": true,
-  "total_matches": 47,
-  "updated_at": "2026-03-17T10:44:40.956Z",
+  "total_matches": 52,
+  "updated_at": "2026-03-17T11:39:52.696Z",
   "matches": [
-    {
-      "name": "Cloud Dawning vs Ivory lúc 14:00",
-      "link": "/truc-tiep/cloud-dawning-vs-ivory-luc-1400-ngay-17-03-2026/",
-      "runtime": 1773730800,
-      "datetime": "2026-03-17T07:00:00.000Z"
-    },
-    {
-      "name": "Yarmanya United FC vs Thitsar Arman FC lúc 16:00 | JEAN",
-      "link": "/truc-tiep/yarmanya-united-fc-vs-thitsar-arman-fc-luc-1600-ngay-17-03-2026/",
-      "runtime": 1773738000,
-      "datetime": "2026-03-17T09:00:00.000Z"
-    },
-    {
-      "name": "Nữ Amedspor vs Nữ Besiktas  lúc 16:00",
-      "link": "/truc-tiep/nu-amedspor-vs-nu-besiktas-luc-1600-ngay-17-03-2026/",
-      "runtime": 1773738000,
-      "datetime": "2026-03-17T09:00:00.000Z"
-    },
-    {
-      "name": "Mindoro Tamaraws vs Batangas Rum Masters lúc 16:00",
-      "link": "/truc-tiep/mindoro-tamaraws-vs-batangas-rum-masters-luc-1600-ngay-17-03-2026/",
-      "runtime": 1773738000,
-      "datetime": "2026-03-17T09:00:00.000Z"
-    },
-    {
-      "name": "Martin Krumich vs John Sperle lúc 16:00",
-      "link": "/truc-tiep/martin-krumich-vs-john-sperle-luc-1600-ngay-17-03-2026/",
-      "runtime": 1773738000,
-      "datetime": "2026-03-17T09:00:00.000Z"
-    },
     {
       "name": "Atreides vs Qwentry lúc 16:00",
       "link": "/truc-tiep/atreides-vs-qwentry-luc-1600-ngay-17-03-2026/",
@@ -40,26 +10,8 @@
       "datetime": "2026-03-17T09:00:00.000Z"
     },
     {
-      "name": "ECSTATIC vs Ursa lúc 16:00",
-      "link": "/truc-tiep/ecstatic-vs-ursa-luc-1600-ngay-17-03-2026/",
-      "runtime": 1773738000,
-      "datetime": "2026-03-17T09:00:00.000Z"
-    },
-    {
-      "name": "Mahar United vs Ayeyawady lúc 16:30 | ZARA",
-      "link": "/truc-tiep/mahar-united-vs-ayeyawady-luc-1630-ngay-17-03-2026/",
-      "runtime": 1773739800,
-      "datetime": "2026-03-17T09:30:00.000Z"
-    },
-    {
       "name": "Nữ Trung Quốc vs Nữ Australia lúc 17:00 | MAX",
       "link": "/truc-tiep/nu-trung-quoc-vs-nu-australia-luc-1700-ngay-17-03-2026/",
-      "runtime": 1773741600,
-      "datetime": "2026-03-17T10:00:00.000Z"
-    },
-    {
-      "name": "FC Chernigiv vs Fenix Mariupol lúc 17:00",
-      "link": "/truc-tiep/fc-chernigiv-vs-fenix-mariupol-luc-1700-ngay-17-03-2026/",
       "runtime": 1773741600,
       "datetime": "2026-03-17T10:00:00.000Z"
     },
@@ -136,22 +88,10 @@
       "datetime": "2026-03-17T10:30:00.000Z"
     },
     {
-      "name": "Aymeric Tores/Kirsten de Wit vs Tsai Fu Cheng/Sung Yu-Hsuan lúc 17:30",
-      "link": "/truc-tiep/aymeric-tores-kirsten-de-wit-vs-tsai-fu-cheng-sung-yu-hsuan-luc-1730-ngay-17-03-2026/",
-      "runtime": 1773743400,
-      "datetime": "2026-03-17T10:30:00.000Z"
-    },
-    {
       "name": "Nữ Fresh Foxies  vs Nữ Cool Smashers lúc 17:30",
       "link": "/truc-tiep/nu-fresh-foxies-vs-nu-cool-smashers-luc-1730-ngay-17-03-2026/",
       "runtime": 1773743400,
       "datetime": "2026-03-17T10:30:00.000Z"
-    },
-    {
-      "name": "Tonkid Saeheng/Tonrug Saeheng vs Koceila Mammeri/Tanina Violette Mammeri lúc 17:40",
-      "link": "/truc-tiep/tonkid-saeheng-tonrug-saeheng-vs-koceila-mammeri-tanina-violette-mammeri-luc-1740-ngay-17-03-2026/",
-      "runtime": 1773744000,
-      "datetime": "2026-03-17T10:40:00.000Z"
     },
     {
       "name": "Torreense U23 vs Santa Clara U23 lúc 18:00",
@@ -174,6 +114,12 @@
     {
       "name": "Kudrivka Nyva U21 vs Polissya Zhytomyr U21 lúc 18:00",
       "link": "/truc-tiep/kudrivka-nyva-u21-vs-polissya-zhytomyr-u21-luc-1800-ngay-17-03-2026/",
+      "runtime": 1773745200,
+      "datetime": "2026-03-17T11:00:00.000Z"
+    },
+    {
+      "name": "BFF Academy U19 vs Thimphu Raven FC lúc 18:00",
+      "link": "/truc-tiep/bff-academy-u19-vs-thimphu-raven-fc-luc-1800-ngay-17-03-2026/",
       "runtime": 1773745200,
       "datetime": "2026-03-17T11:00:00.000Z"
     },
@@ -204,12 +150,6 @@
     {
       "name": "Nerman Fatic vs Tiago Pereira lúc 18:20",
       "link": "/truc-tiep/nerman-fatic-vs-tiago-pereira-luc-1820-ngay-17-03-2026/",
-      "runtime": 1773746400,
-      "datetime": "2026-03-17T11:20:00.000Z"
-    },
-    {
-      "name": "Lai Po Yu/Lin Xiao Min vs Andy Buijk/Meerte Loos lúc 18:20",
-      "link": "/truc-tiep/lai-po-yu-lin-xiao-min-vs-andy-buijk-meerte-loos-luc-1820-ngay-17-03-2026/",
       "runtime": 1773746400,
       "datetime": "2026-03-17T11:20:00.000Z"
     },
@@ -280,10 +220,100 @@
       "datetime": "2026-03-17T12:00:00.000Z"
     },
     {
+      "name": "Pablo Llamas Ruiz vs David Jorda Sanchis lúc 19:20",
+      "link": "/truc-tiep/pablo-llamas-ruiz-vs-david-jorda-sanchis-luc-1920-ngay-17-03-2026/",
+      "runtime": 1773750000,
+      "datetime": "2026-03-17T12:20:00.000Z"
+    },
+    {
+      "name": "Louis Wessels vs Max Houkes lúc 19:20",
+      "link": "/truc-tiep/louis-wessels-vs-max-houkes-luc-1920-ngay-17-03-2026/",
+      "runtime": 1773750000,
+      "datetime": "2026-03-17T12:20:00.000Z"
+    },
+    {
+      "name": "Gilles Arnaud Bailly vs Saba Purtseladze lúc 19:20",
+      "link": "/truc-tiep/gilles-arnaud-bailly-vs-saba-purtseladze-luc-1920-ngay-17-03-2026/",
+      "runtime": 1773750000,
+      "datetime": "2026-03-17T12:20:00.000Z"
+    },
+    {
       "name": "Hougang United U23 vs Young Lions U23 lúc 19:30",
       "link": "/truc-tiep/hougang-united-u23-vs-young-lions-u23-luc-1930-ngay-17-03-2026/",
       "runtime": 1773750600,
       "datetime": "2026-03-17T12:30:00.000Z"
+    },
+    {
+      "name": "Atletico Madrid U19 vs Club Brugge U19 lúc 20:00 | RYAN",
+      "link": "/truc-tiep/atletico-madrid-u19-vs-club-brugge-u19-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Nữ Pháp U17 vs Nữ Serbia U17 lúc 20:00 | NEMO",
+      "link": "/truc-tiep/nu-phap-u17-vs-nu-serbia-u17-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Bristol City U21 vs Crewe Alexandra U21 lúc 20:00",
+      "link": "/truc-tiep/bristol-city-u21-vs-crewe-alexandra-u21-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "CD Ciclos vs FC Leones (R) lúc 20:00",
+      "link": "/truc-tiep/cd-ciclos-vs-fc-leones-r-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Simba SC vs JKT Tanzania lúc 20:00",
+      "link": "/truc-tiep/simba-sc-vs-jkt-tanzania-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Argentina U17 vs Chile U17 lúc 20:00",
+      "link": "/truc-tiep/argentina-u17-vs-chile-u17-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Nữ Philippines  vs Nữ Colombia lúc 20:00",
+      "link": "/truc-tiep/nu-philippines-vs-nu-colombia-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Gen.G Esports vs JD Gaming lúc 20:00",
+      "link": "/truc-tiep/gen-g-esports-vs-jd-gaming-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Lixo Esports vs VP.Prodigy lúc 20:00",
+      "link": "/truc-tiep/lixo-esports-vs-vp-prodigy-luc-2000-ngay-17-03-2026/",
+      "runtime": 1773752400,
+      "datetime": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "name": "Millwall U21 vs Peterborough U21 lúc 20:30",
+      "link": "/truc-tiep/millwall-u21-vs-peterborough-u21-luc-2030-ngay-17-03-2026/",
+      "runtime": 1773754200,
+      "datetime": "2026-03-17T13:30:00.000Z"
+    },
+    {
+      "name": "QPR U21 vs Sheffield Utd U21 lúc 20:30",
+      "link": "/truc-tiep/qpr-u21-vs-sheffield-utd-u21-luc-2030-ngay-17-03-2026/",
+      "runtime": 1773754200,
+      "datetime": "2026-03-17T13:30:00.000Z"
+    },
+    {
+      "name": "Charlton Athletic U21 vs Huddersfield Town U21 lúc 20:30",
+      "link": "/truc-tiep/charlton-athletic-u21-vs-huddersfield-town-u21-luc-2030-ngay-17-03-2026/",
+      "runtime": 1773754200,
+      "datetime": "2026-03-17T13:30:00.000Z"
     }
   ]
 }
