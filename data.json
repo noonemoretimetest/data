@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-03-18T20:29:45.921Z",
+  "total_matches": 59,
+  "updated_at": "2026-03-18T21:07:12.764Z",
   "matches": [
     {
       "name": "Emiliana Arango vs Oksana Selekhmeteva lúc 22:00",
@@ -58,24 +58,6 @@
       "datetime": "2026-03-18T18:20:00.000Z"
     },
     {
-      "name": "Al-Gharafa vs Al-Ahli Doha lúc 01:30",
-      "link": "/truc-tiep/al-gharafa-vs-al-ahli-doha-luc-0130-ngay-19-03-2026/",
-      "runtime": 1773858600,
-      "datetime": "2026-03-18T18:30:00.000Z"
-    },
-    {
-      "name": "Umm Salal vs Qatar SC lúc 01:30",
-      "link": "/truc-tiep/umm-salal-vs-qatar-sc-luc-0130-ngay-19-03-2026/",
-      "runtime": 1773858600,
-      "datetime": "2026-03-18T18:30:00.000Z"
-    },
-    {
-      "name": "Al-Sailiya vs Al Shahaniya lúc 01:30",
-      "link": "/truc-tiep/al-sailiya-vs-al-shahaniya-luc-0130-ngay-19-03-2026/",
-      "runtime": 1773858600,
-      "datetime": "2026-03-18T18:30:00.000Z"
-    },
-    {
       "name": "Al-Ahli SFC vs Al Hilal lúc 02:00 | OLER",
       "link": "/truc-tiep/al-ahli-sfc-vs-al-hilal-luc-0200-ngay-19-03-2026/",
       "runtime": 1773860400,
@@ -84,54 +66,6 @@
     {
       "name": "Al Kholood vs Al Ittihad(KSA) lúc 02:00 | RIO",
       "link": "/truc-tiep/al-kholood-vs-al-ittihadksa-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Sama Al Sarhan vs Al Wehdat lúc 02:00",
-      "link": "/truc-tiep/sama-al-sarhan-vs-al-wehdat-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Al-Jazeera vs Al-Hussein SC (Irbid) lúc 02:00",
-      "link": "/truc-tiep/al-jazeera-vs-al-hussein-sc-irbid-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Al Faisaly vs Al-Baqs lúc 02:00",
-      "link": "/truc-tiep/al-faisaly-vs-al-baqs-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Macara vs Delfin SC lúc 02:00",
-      "link": "/truc-tiep/macara-vs-delfin-sc-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Pescara vs ACD Virtus Entella lúc 02:00",
-      "link": "/truc-tiep/pescara-vs-acd-virtus-entella-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Avellino vs SudTirol lúc 02:00",
-      "link": "/truc-tiep/avellino-vs-sudtirol-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Carrarese vs Sampdoria lúc 02:00",
-      "link": "/truc-tiep/carrarese-vs-sampdoria-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Bizkaia Bilbao Basket vs Petkim Spor lúc 02:00",
-      "link": "/truc-tiep/bizkaia-bilbao-basket-vs-petkim-spor-luc-0200-ngay-19-03-2026/",
       "runtime": 1773860400,
       "datetime": "2026-03-18T19:00:00.000Z"
     },
@@ -202,14 +136,14 @@
       "datetime": "2026-03-18T20:00:00.000Z"
     },
     {
-      "name": "Tottenham vs Atletico Madrid lúc 03:00 | MAX - XMEN - KEN",
-      "link": "/truc-tiep/tottenham-vs-atletico-madrid-luc-0300-ngay-19-03-2026/",
+      "name": "Bayern Munich vs Atalanta lúc 03:00 | LOUIS - NEMO - RYAN",
+      "link": "/truc-tiep/bayern-munich-vs-atalanta-luc-0300-ngay-19-03-2026/",
       "runtime": 1773864000,
       "datetime": "2026-03-18T20:00:00.000Z"
     },
     {
-      "name": "Bayern Munich vs Atalanta lúc 03:00 | LOUIS - NEMO - RYAN",
-      "link": "/truc-tiep/bayern-munich-vs-atalanta-luc-0300-ngay-19-03-2026/",
+      "name": "Tottenham vs Atletico Madrid lúc 03:00 | MAX - XMEN - KEN",
+      "link": "/truc-tiep/tottenham-vs-atletico-madrid-luc-0300-ngay-19-03-2026/",
       "runtime": 1773864000,
       "datetime": "2026-03-18T20:00:00.000Z"
     },
@@ -280,12 +214,6 @@
       "datetime": "2026-03-18T21:00:00.000Z"
     },
     {
-      "name": "Metropolitanos FC vs Monagas SC lúc 04:00",
-      "link": "/truc-tiep/metropolitanos-fc-vs-monagas-sc-luc-0400-ngay-19-03-2026/",
-      "runtime": 1773867600,
-      "datetime": "2026-03-18T21:00:00.000Z"
-    },
-    {
       "name": "Deportivo Pasto vs Boyaca Chico lúc 04:10 | LOGAN",
       "link": "/truc-tiep/deportivo-pasto-vs-boyaca-chico-luc-0410-ngay-19-03-2026/",
       "runtime": 1773868200,
@@ -344,6 +272,90 @@
       "link": "/truc-tiep/dash-vs-crashers-luc-0500-ngay-19-03-2026/",
       "runtime": 1773871200,
       "datetime": "2026-03-18T22:00:00.000Z"
+    },
+    {
+      "name": "Atl. Paranaense vs Cruzeiro lúc 05:30 | OLER",
+      "link": "/truc-tiep/atl-paranaense-vs-cruzeiro-luc-0530-ngay-19-03-2026/",
+      "runtime": 1773873000,
+      "datetime": "2026-03-18T22:30:00.000Z"
+    },
+    {
+      "name": "Asheville City vs Greenville Triumph lúc 05:30",
+      "link": "/truc-tiep/asheville-city-vs-greenville-triumph-luc-0530-ngay-19-03-2026/",
+      "runtime": 1773873000,
+      "datetime": "2026-03-18T22:30:00.000Z"
+    },
+    {
+      "name": "Charleston Battery vs Florida Badgers lúc 05:30",
+      "link": "/truc-tiep/charleston-battery-vs-florida-badgers-luc-0530-ngay-19-03-2026/",
+      "runtime": 1773873000,
+      "datetime": "2026-03-18T22:30:00.000Z"
+    },
+    {
+      "name": "Pato vs Sao Jose lúc 05:30",
+      "link": "/truc-tiep/pato-vs-sao-jose-luc-0530-ngay-19-03-2026/",
+      "runtime": 1773873000,
+      "datetime": "2026-03-18T22:30:00.000Z"
+    },
+    {
+      "name": "Mirassol vs Coritiba PR lúc 06:00 | HELLO",
+      "link": "/truc-tiep/mirassol-vs-coritiba-pr-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "Atletico Mineiro vs Sao Paulo lúc 06:00 | FINN",
+      "link": "/truc-tiep/atletico-mineiro-vs-sao-paulo-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "Inter Miami vs Nashville lúc 06:00 | BRADY",
+      "link": "/truc-tiep/inter-miami-vs-nashville-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "Atl. Goianiense vs Ponte Preta lúc 06:00",
+      "link": "/truc-tiep/atl-goianiense-vs-ponte-preta-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "Louisville City vs Southern Indiana lúc 06:00",
+      "link": "/truc-tiep/louisville-city-vs-southern-indiana-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "FC Naples vs Red Force lúc 06:00",
+      "link": "/truc-tiep/fc-naples-vs-red-force-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "FC Motown vs Hartford Athletic lúc 06:00",
+      "link": "/truc-tiep/fc-motown-vs-hartford-athletic-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "Boston Celtics vs Golden State Warriors lúc 06:00 | TOMMY",
+      "link": "/truc-tiep/boston-celtics-vs-golden-state-warriors-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "Francesca Jones vs Venus Williams lúc 06:00 | VIC",
+      "link": "/truc-tiep/francesca-jones-vs-venus-williams-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Grand Rapids Rise  vs Nữ Dallas Pulse lúc 06:00",
+      "link": "/truc-tiep/nu-grand-rapids-rise-vs-nu-dallas-pulse-luc-0600-ngay-19-03-2026/",
+      "runtime": 1773874800,
+      "datetime": "2026-03-18T23:00:00.000Z"
     }
   ]
 }
