@@ -1,55 +1,13 @@
 {
   "success": true,
-  "total_matches": 61,
-  "updated_at": "2026-03-18T23:00:39.775Z",
+  "total_matches": 63,
+  "updated_at": "2026-03-18T23:44:52.110Z",
   "matches": [
     {
       "name": "Wang Tzu-wei vs Tharun Mannepalli lúc 00:20",
       "link": "/truc-tiep/wang-tzu-wei-vs-tharun-mannepalli-luc-0020-ngay-19-03-2026/",
       "runtime": 1773854400,
       "datetime": "2026-03-18T17:20:00.000Z"
-    },
-    {
-      "name": "FURIA vs TYLOO lúc 00:30",
-      "link": "/truc-tiep/furia-vs-tyloo-luc-0030-ngay-19-03-2026/",
-      "runtime": 1773855000,
-      "datetime": "2026-03-18T17:30:00.000Z"
-    },
-    {
-      "name": "Ilbirs Esports vs Dogsent lúc 02:00",
-      "link": "/truc-tiep/ilbirs-esports-vs-dogsent-luc-0200-ngay-19-03-2026/",
-      "runtime": 1773860400,
-      "datetime": "2026-03-18T19:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Pasto vs Boyaca Chico lúc 04:10 | LOGAN",
-      "link": "/truc-tiep/deportivo-pasto-vs-boyaca-chico-luc-0410-ngay-19-03-2026/",
-      "runtime": 1773868200,
-      "datetime": "2026-03-18T21:10:00.000Z"
-    },
-    {
-      "name": "Pedro Boscardin Dias vs Hernando Jose Escurra Isnardi lúc 04:10",
-      "link": "/truc-tiep/pedro-boscardin-dias-vs-hernando-jose-escurra-isnardi-luc-0410-ngay-19-03-2026/",
-      "runtime": 1773868200,
-      "datetime": "2026-03-18T21:10:00.000Z"
-    },
-    {
-      "name": "Estudiantes Merida vs Carabobo lúc 04:30",
-      "link": "/truc-tiep/estudiantes-merida-vs-carabobo-luc-0430-ngay-19-03-2026/",
-      "runtime": 1773869400,
-      "datetime": "2026-03-18T21:30:00.000Z"
-    },
-    {
-      "name": "Manta FC vs Guayaquil City lúc 04:30",
-      "link": "/truc-tiep/manta-fc-vs-guayaquil-city-luc-0430-ngay-19-03-2026/",
-      "runtime": 1773869400,
-      "datetime": "2026-03-18T21:30:00.000Z"
-    },
-    {
-      "name": "Rubio nu vs Cerro Porteno lúc 04:30",
-      "link": "/truc-tiep/rubio-nu-vs-cerro-porteno-luc-0430-ngay-19-03-2026/",
-      "runtime": 1773869400,
-      "datetime": "2026-03-18T21:30:00.000Z"
     },
     {
       "name": "Bahia vs RB Bragantino lúc 05:00",
@@ -368,6 +326,60 @@
       "link": "/truc-tiep/tlaxcala-fc-vs-atlante-fc-luc-0800-ngay-19-03-2026/",
       "runtime": 1773882000,
       "datetime": "2026-03-19T01:00:00.000Z"
+    },
+    {
+      "name": "Roraima vs Rio Negro RR lúc 08:00",
+      "link": "/truc-tiep/roraima-vs-rio-negro-rr-luc-0800-ngay-19-03-2026/",
+      "runtime": 1773882000,
+      "datetime": "2026-03-19T01:00:00.000Z"
+    },
+    {
+      "name": "Real Esteli vs Juventus Managua lúc 08:00",
+      "link": "/truc-tiep/real-esteli-vs-juventus-managua-luc-0800-ngay-19-03-2026/",
+      "runtime": 1773882000,
+      "datetime": "2026-03-19T01:00:00.000Z"
+    },
+    {
+      "name": "Managua FC vs UNAN Managua lúc 08:00",
+      "link": "/truc-tiep/managua-fc-vs-unan-managua-luc-0800-ngay-19-03-2026/",
+      "runtime": 1773882000,
+      "datetime": "2026-03-19T01:00:00.000Z"
+    },
+    {
+      "name": "Chicken Coop vs Fisher College lúc 08:00",
+      "link": "/truc-tiep/chicken-coop-vs-fisher-college-luc-0800-ngay-19-03-2026/",
+      "runtime": 1773882000,
+      "datetime": "2026-03-19T01:00:00.000Z"
+    },
+    {
+      "name": "Deportivo Cali vs Ind. Santa Fe lúc 08:30 | OLER",
+      "link": "/truc-tiep/deportivo-cali-vs-ind-santa-fe-luc-0830-ngay-19-03-2026/",
+      "runtime": 1773883800,
+      "datetime": "2026-03-19T01:30:00.000Z"
+    },
+    {
+      "name": "New Mexico United vs Cruizers FC lúc 08:30",
+      "link": "/truc-tiep/new-mexico-united-vs-cruizers-fc-luc-0830-ngay-19-03-2026/",
+      "runtime": 1773883800,
+      "datetime": "2026-03-19T01:30:00.000Z"
+    },
+    {
+      "name": "Real Espana vs Génesis Policía Nacional lúc 08:30",
+      "link": "/truc-tiep/real-espana-vs-genesis-policia-nacional-luc-0830-ngay-19-03-2026/",
+      "runtime": 1773883800,
+      "datetime": "2026-03-19T01:30:00.000Z"
+    },
+    {
+      "name": "CD FAS vs Hercules lúc 08:30",
+      "link": "/truc-tiep/cd-fas-vs-hercules-luc-0830-ngay-19-03-2026/",
+      "runtime": 1773883800,
+      "datetime": "2026-03-19T01:30:00.000Z"
+    },
+    {
+      "name": "Houston Rockets vs Los Angeles Lakers lúc 08:30 | TOMMY",
+      "link": "/truc-tiep/houston-rockets-vs-los-angeles-lakers-luc-0830-ngay-19-03-2026/",
+      "runtime": 1773883800,
+      "datetime": "2026-03-19T01:30:00.000Z"
     }
   ]
 }
