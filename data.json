@@ -1,109 +1,13 @@
 {
   "success": true,
-  "total_matches": 39,
-  "updated_at": "2026-03-18T01:45:58.425Z",
+  "total_matches": 21,
+  "updated_at": "2026-03-18T04:20:03.389Z",
   "matches": [
-    {
-      "name": "Galorys vs MIBR Academy lúc 04:00",
-      "link": "/truc-tiep/galorys-vs-mibr-academy-luc-0400-ngay-18-03-2026/",
-      "runtime": 1773781200,
-      "datetime": "2026-03-17T21:00:00.000Z"
-    },
-    {
-      "name": "Colorado Springs vs Azteca FC lúc 07:00",
-      "link": "/truc-tiep/colorado-springs-vs-azteca-fc-luc-0700-ngay-18-03-2026/",
-      "runtime": 1773792000,
-      "datetime": "2026-03-18T00:00:00.000Z"
-    },
-    {
-      "name": "Indy Eleven vs Des Moines Menace lúc 07:00",
-      "link": "/truc-tiep/indy-eleven-vs-des-moines-menace-luc-0700-ngay-18-03-2026/",
-      "runtime": 1773792000,
-      "datetime": "2026-03-18T00:00:00.000Z"
-    },
-    {
-      "name": "Leones del Norte vs  LDU Quito lúc 07:00 | NEMO",
-      "link": "/truc-tiep/leones-del-norte-vs-ldu-quito-luc-0700-ngay-18-03-2026/",
-      "runtime": 1773792000,
-      "datetime": "2026-03-18T00:00:00.000Z"
-    },
-    {
-      "name": "FC Santiago vs Atletico Hidalgo lúc 07:00",
-      "link": "/truc-tiep/fc-santiago-vs-atletico-hidalgo-luc-0700-ngay-18-03-2026/",
-      "runtime": 1773792000,
-      "datetime": "2026-03-18T00:00:00.000Z"
-    },
-    {
-      "name": "Milwaukee Bucks vs Cleveland Cavaliers lúc 07:00 | ALAN",
-      "link": "/truc-tiep/milwaukee-bucks-vs-cleveland-cavaliers-luc-0700-ngay-18-03-2026/",
-      "runtime": 1773792000,
-      "datetime": "2026-03-18T00:00:00.000Z"
-    },
-    {
-      "name": "Minnesota Timberwolves vs Phoenix Suns lúc 07:00 | STEP",
-      "link": "/truc-tiep/minnesota-timberwolves-vs-phoenix-suns-luc-0700-ngay-18-03-2026/",
-      "runtime": 1773792000,
-      "datetime": "2026-03-18T00:00:00.000Z"
-    },
     {
       "name": "Rodrigo Pacheco Mendez vs Alexis Galarneau lúc 07:00",
       "link": "/truc-tiep/rodrigo-pacheco-mendez-vs-alexis-galarneau-luc-0700-ngay-18-03-2026/",
       "runtime": 1773792000,
       "datetime": "2026-03-18T00:00:00.000Z"
-    },
-    {
-      "name": "Katerina Siniakova vs Maria Camila Osorio Serrano lúc 07:10 | VIC",
-      "link": "/truc-tiep/katerina-siniakova-vs-maria-camila-osorio-serrano-luc-0710-ngay-18-03-2026/",
-      "runtime": 1773792600,
-      "datetime": "2026-03-18T00:10:00.000Z"
-    },
-    {
-      "name": "Gimnasia Mendoza vs Estudiantes LP lúc 07:15 | YUNO",
-      "link": "/truc-tiep/gimnasia-mendoza-vs-estudiantes-lp-luc-0715-ngay-18-03-2026/",
-      "runtime": 1773792900,
-      "datetime": "2026-03-18T00:15:00.000Z"
-    },
-    {
-      "name": "Central Cordoba SDE vs Deportivo Riestra lúc 07:15 | OLER",
-      "link": "/truc-tiep/central-cordoba-sde-vs-deportivo-riestra-luc-0715-ngay-18-03-2026/",
-      "runtime": 1773792900,
-      "datetime": "2026-03-18T00:15:00.000Z"
-    },
-    {
-      "name": "Londrina PR vs Operario PR lúc 07:30",
-      "link": "/truc-tiep/londrina-pr-vs-operario-pr-luc-0730-ngay-18-03-2026/",
-      "runtime": 1773793800,
-      "datetime": "2026-03-18T00:30:00.000Z"
-    },
-    {
-      "name": "Sport Club Recife vs Athletic Club lúc 07:30 | LOGAN",
-      "link": "/truc-tiep/sport-club-recife-vs-athletic-club-luc-0730-ngay-18-03-2026/",
-      "runtime": 1773793800,
-      "datetime": "2026-03-18T00:30:00.000Z"
-    },
-    {
-      "name": "Portuguesa Desportos vs Paysandu SC lúc 07:30",
-      "link": "/truc-tiep/portuguesa-desportos-vs-paysandu-sc-luc-0730-ngay-18-03-2026/",
-      "runtime": 1773793800,
-      "datetime": "2026-03-18T00:30:00.000Z"
-    },
-    {
-      "name": "SV Brazil Juniors vs SV Jong Aruba lúc 07:30",
-      "link": "/truc-tiep/sv-brazil-juniors-vs-sv-jong-aruba-luc-0730-ngay-18-03-2026/",
-      "runtime": 1773793800,
-      "datetime": "2026-03-18T00:30:00.000Z"
-    },
-    {
-      "name": "Quimsa vs Obras Sanitarias  lúc 07:30",
-      "link": "/truc-tiep/quimsa-vs-obras-sanitarias-luc-0730-ngay-18-03-2026/",
-      "runtime": 1773793800,
-      "datetime": "2026-03-18T00:30:00.000Z"
-    },
-    {
-      "name": "Lautaro Midon vs Gonzalo Villanueva lúc 07:30",
-      "link": "/truc-tiep/lautaro-midon-vs-gonzalo-villanueva-luc-0730-ngay-18-03-2026/",
-      "runtime": 1773793800,
-      "datetime": "2026-03-18T00:30:00.000Z"
     },
     {
       "name": "Pedro Boscardin Dias/Joao Lucas Reis Da Silva vs Alex Barrena/Andrea Collarini lúc 07:30",
@@ -118,46 +22,10 @@
       "datetime": "2026-03-18T00:30:00.000Z"
     },
     {
-      "name": "LD Alajuelense vs Los Angeles FC lúc 08:00 | ZARA",
-      "link": "/truc-tiep/ld-alajuelense-vs-los-angeles-fc-luc-0800-ngay-18-03-2026/",
-      "runtime": 1773795600,
-      "datetime": "2026-03-18T01:00:00.000Z"
-    },
-    {
-      "name": "Nữ Santos Laguna vs Nữ Cruz Azul lúc 08:00 | RIO",
-      "link": "/truc-tiep/nu-santos-laguna-vs-nu-cruz-azul-luc-0800-ngay-18-03-2026/",
-      "runtime": 1773795600,
-      "datetime": "2026-03-18T01:00:00.000Z"
-    },
-    {
-      "name": "Nữ Atletico Nacional vs Nữ Tevi Cocle lúc 08:00",
-      "link": "/truc-tiep/nu-atletico-nacional-vs-nu-tevi-cocle-luc-0800-ngay-18-03-2026/",
-      "runtime": 1773795600,
-      "datetime": "2026-03-18T01:00:00.000Z"
-    },
-    {
-      "name": "Weymouth Wales vs Bagatelle SS lúc 08:00",
-      "link": "/truc-tiep/weymouth-wales-vs-bagatelle-ss-luc-0800-ngay-18-03-2026/",
-      "runtime": 1773795600,
-      "datetime": "2026-03-18T01:00:00.000Z"
-    },
-    {
-      "name": "Rip City Remix vs South Bay Lakers lúc 08:00",
-      "link": "/truc-tiep/rip-city-remix-vs-south-bay-lakers-luc-0800-ngay-18-03-2026/",
-      "runtime": 1773795600,
-      "datetime": "2026-03-18T01:00:00.000Z"
-    },
-    {
-      "name": "North Carolina State vs University of Texas lúc 08:15",
-      "link": "/truc-tiep/north-carolina-state-vs-university-of-texas-luc-0815-ngay-18-03-2026/",
-      "runtime": 1773796500,
-      "datetime": "2026-03-18T01:15:00.000Z"
-    },
-    {
-      "name": "Millonarios vs Atl. Nacional lúc 08:30 | JEAN",
-      "link": "/truc-tiep/millonarios-vs-atl-nacional-luc-0830-ngay-18-03-2026/",
-      "runtime": 1773797400,
-      "datetime": "2026-03-18T01:30:00.000Z"
+      "name": "Justo Guido Ivan/Franco Roncadelli vs Cannon Kingsley/Santiago Rodriguez Taverna lúc 08:40",
+      "link": "/truc-tiep/justo-guido-ivan-franco-roncadelli-vs-cannon-kingsley-santiago-rodriguez-taverna-luc-0840-ngay-18-03-2026/",
+      "runtime": 1773798000,
+      "datetime": "2026-03-18T01:40:00.000Z"
     },
     {
       "name": "Mac Kiger/Reese Stalder vs Valentin Basel/Franco Ribero lúc 08:40",
@@ -166,38 +34,8 @@
       "datetime": "2026-03-18T01:40:00.000Z"
     },
     {
-      "name": "Justo Guido Ivan/Franco Roncadelli vs Cannon Kingsley/Santiago Rodriguez Taverna lúc 08:40",
-      "link": "/truc-tiep/justo-guido-ivan-franco-roncadelli-vs-cannon-kingsley-santiago-rodriguez-taverna-luc-0840-ngay-18-03-2026/",
-      "runtime": 1773798000,
-      "datetime": "2026-03-18T01:40:00.000Z"
-    },
-    {
-      "name": "Phoenix Rising FC vs San Ramon lúc 09:00",
-      "link": "/truc-tiep/phoenix-rising-fc-vs-san-ramon-luc-0900-ngay-18-03-2026/",
-      "runtime": 1773799200,
-      "datetime": "2026-03-18T02:00:00.000Z"
-    },
-    {
-      "name": "Sacramento Kings vs San Antonio Spurs lúc 09:00 | ALAN",
-      "link": "/truc-tiep/sacramento-kings-vs-san-antonio-spurs-luc-0900-ngay-18-03-2026/",
-      "runtime": 1773799200,
-      "datetime": "2026-03-18T02:00:00.000Z"
-    },
-    {
       "name": "Denver Nuggets vs Philadelphia 76ers lúc 09:00 | TOMMY",
       "link": "/truc-tiep/denver-nuggets-vs-philadelphia-76ers-luc-0900-ngay-18-03-2026/",
-      "runtime": 1773799200,
-      "datetime": "2026-03-18T02:00:00.000Z"
-    },
-    {
-      "name": "Seattle vs St. Thomas lúc 09:00",
-      "link": "/truc-tiep/seattle-vs-st-thomas-luc-0900-ngay-18-03-2026/",
-      "runtime": 1773799200,
-      "datetime": "2026-03-18T02:00:00.000Z"
-    },
-    {
-      "name": "Valley Suns vs Stockton Kings lúc 09:00",
-      "link": "/truc-tiep/valley-suns-vs-stockton-kings-luc-0900-ngay-18-03-2026/",
       "runtime": 1773799200,
       "datetime": "2026-03-18T02:00:00.000Z"
     },
@@ -236,6 +74,60 @@
       "link": "/truc-tiep/nauticos-de-mazatlan-vs-zonkeys-de-tijuana-luc-1015-ngay-18-03-2026/",
       "runtime": 1773803700,
       "datetime": "2026-03-18T03:15:00.000Z"
+    },
+    {
+      "name": "Nữ Kerala United vs Nữ Dreams FC Kochi lúc 10:30",
+      "link": "/truc-tiep/nu-kerala-united-vs-nu-dreams-fc-kochi-luc-1030-ngay-18-03-2026/",
+      "runtime": 1773804600,
+      "datetime": "2026-03-18T03:30:00.000Z"
+    },
+    {
+      "name": "Vanuatu United FC vs Auckland FC (R) lúc 11:00 | RIO",
+      "link": "/truc-tiep/vanuatu-united-fc-vs-auckland-fc-r-luc-1100-ngay-18-03-2026/",
+      "runtime": 1773806400,
+      "datetime": "2026-03-18T04:00:00.000Z"
+    },
+    {
+      "name": "Changwon LG Sakers 2 vs Samsung Thunders 2 lúc 11:00",
+      "link": "/truc-tiep/changwon-lg-sakers-2-vs-samsung-thunders-2-luc-1100-ngay-18-03-2026/",
+      "runtime": 1773806400,
+      "datetime": "2026-03-18T04:00:00.000Z"
+    },
+    {
+      "name": "Yangon Galacticos vs Cloud Dawning lúc 11:00",
+      "link": "/truc-tiep/yangon-galacticos-vs-cloud-dawning-luc-1100-ngay-18-03-2026/",
+      "runtime": 1773806400,
+      "datetime": "2026-03-18T04:00:00.000Z"
+    },
+    {
+      "name": "Hekari Souths Utd vs Tahiti United FC lúc 12:00",
+      "link": "/truc-tiep/hekari-souths-utd-vs-tahiti-united-fc-luc-1200-ngay-18-03-2026/",
+      "runtime": 1773810000,
+      "datetime": "2026-03-18T05:00:00.000Z"
+    },
+    {
+      "name": "National Taiwan Arts (R) vs National Formasa (R) lúc 12:00",
+      "link": "/truc-tiep/national-taiwan-arts-r-vs-national-formasa-r-luc-1200-ngay-18-03-2026/",
+      "runtime": 1773810000,
+      "datetime": "2026-03-18T05:00:00.000Z"
+    },
+    {
+      "name": "Nữ Melbourne City vs Nữ Adelaide United lúc 12:30 | POLO",
+      "link": "/truc-tiep/nu-melbourne-city-vs-nu-adelaide-united-luc-1330-ngay-07-12-2025/",
+      "runtime": 1773811800,
+      "datetime": "2026-03-18T05:30:00.000Z"
+    },
+    {
+      "name": "Shanghai Sharks (R) vs Zhejiang Chouzhou Jinzu (R) lúc 13:00 | STEP",
+      "link": "/truc-tiep/shanghai-sharks-r-vs-zhejiang-chouzhou-jinzu-r-luc-1300-ngay-18-03-2026/",
+      "runtime": 1773813600,
+      "datetime": "2026-03-18T06:00:00.000Z"
+    },
+    {
+      "name": "Ulsan Mobis Phoebus 2 vs JKJ Red Boosters (R) lúc 13:00",
+      "link": "/truc-tiep/ulsan-mobis-phoebus-2-vs-jkj-red-boosters-r-luc-1300-ngay-18-03-2026/",
+      "runtime": 1773813600,
+      "datetime": "2026-03-18T06:00:00.000Z"
     }
   ]
 }
