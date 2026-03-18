@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-03-18T19:48:35.773Z",
+  "total_matches": 57,
+  "updated_at": "2026-03-18T20:29:45.921Z",
   "matches": [
     {
       "name": "Emiliana Arango vs Oksana Selekhmeteva lúc 22:00",
@@ -14,18 +14,6 @@
       "link": "/truc-tiep/christopher-oconnell-vs-marton-fucsovics-luc-2200-ngay-18-03-2026/",
       "runtime": 1773846000,
       "datetime": "2026-03-18T15:00:00.000Z"
-    },
-    {
-      "name": "FaZe vs Aurora lúc 22:00",
-      "link": "/truc-tiep/faze-vs-aurora-luc-2200-ngay-18-03-2026/",
-      "runtime": 1773846000,
-      "datetime": "2026-03-18T15:00:00.000Z"
-    },
-    {
-      "name": "Level Up vs Nemiga Gaming lúc 23:00",
-      "link": "/truc-tiep/level-up-vs-nemiga-gaming-luc-2300-ngay-18-03-2026/",
-      "runtime": 1773849600,
-      "datetime": "2026-03-18T16:00:00.000Z"
     },
     {
       "name": "Hailey Baptiste vs Tatjana Maria lúc 23:10 | LUCAS",
@@ -58,42 +46,6 @@
       "datetime": "2026-03-18T17:50:00.000Z"
     },
     {
-      "name": "Frosinone vs Bari lúc 01:00",
-      "link": "/truc-tiep/frosinone-vs-bari-luc-0100-ngay-19-03-2026/",
-      "runtime": 1773856800,
-      "datetime": "2026-03-18T18:00:00.000Z"
-    },
-    {
-      "name": "Al Karkh vs Naft Missan lúc 01:00",
-      "link": "/truc-tiep/al-karkh-vs-naft-missan-luc-0100-ngay-19-03-2026/",
-      "runtime": 1773856800,
-      "datetime": "2026-03-18T18:00:00.000Z"
-    },
-    {
-      "name": "Al-Minaa SC vs Diala lúc 01:00",
-      "link": "/truc-tiep/al-minaa-sc-vs-diala-luc-0100-ngay-19-03-2026/",
-      "runtime": 1773856800,
-      "datetime": "2026-03-18T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ Benfica vs Nữ Braga  lúc 01:00",
-      "link": "/truc-tiep/nu-benfica-vs-nu-braga-luc-0100-ngay-19-03-2026/",
-      "runtime": 1773856800,
-      "datetime": "2026-03-18T18:00:00.000Z"
-    },
-    {
-      "name": "Thổ Nhĩ Kỳ U17 vs Bắc Ireland U17 lúc 01:00",
-      "link": "/truc-tiep/tho-nhi-ky-u17-vs-bac-ireland-u17-luc-0100-ngay-19-03-2026/",
-      "runtime": 1773856800,
-      "datetime": "2026-03-18T18:00:00.000Z"
-    },
-    {
-      "name": "Alba Berlin vs AEK B.C. lúc 01:00",
-      "link": "/truc-tiep/alba-berlin-vs-aek-b-c-luc-0100-ngay-19-03-2026/",
-      "runtime": 1773856800,
-      "datetime": "2026-03-18T18:00:00.000Z"
-    },
-    {
       "name": "Paula Badosa vs Aliaksandra Sasnovich lúc 01:00 | LUCAS",
       "link": "/truc-tiep/paula-badosa-vs-aliaksandra-sasnovich-luc-0100-ngay-19-03-2026/",
       "runtime": 1773856800,
@@ -120,12 +72,6 @@
     {
       "name": "Al-Sailiya vs Al Shahaniya lúc 01:30",
       "link": "/truc-tiep/al-sailiya-vs-al-shahaniya-luc-0130-ngay-19-03-2026/",
-      "runtime": 1773858600,
-      "datetime": "2026-03-18T18:30:00.000Z"
-    },
-    {
-      "name": "MSK Zilina vs Sport Podbrezova lúc 01:30",
-      "link": "/truc-tiep/msk-zilina-vs-sport-podbrezova-luc-0130-ngay-19-03-2026/",
       "runtime": 1773858600,
       "datetime": "2026-03-18T18:30:00.000Z"
     },
@@ -356,6 +302,48 @@
       "link": "/truc-tiep/rubio-nu-vs-cerro-porteno-luc-0430-ngay-19-03-2026/",
       "runtime": 1773869400,
       "datetime": "2026-03-18T21:30:00.000Z"
+    },
+    {
+      "name": "Bahia vs RB Bragantino lúc 05:00",
+      "link": "/truc-tiep/bahia-vs-rb-bragantino-luc-0500-ngay-19-03-2026/",
+      "runtime": 1773871200,
+      "datetime": "2026-03-18T22:00:00.000Z"
+    },
+    {
+      "name": "Palmeiras vs Botafogo RJ lúc 05:00 | RIO",
+      "link": "/truc-tiep/palmeiras-vs-botafogo-rj-luc-0500-ngay-19-03-2026/",
+      "runtime": 1773871200,
+      "datetime": "2026-03-18T22:00:00.000Z"
+    },
+    {
+      "name": "Vila Nova vs AD Confiança lúc 05:00",
+      "link": "/truc-tiep/vila-nova-vs-ad-confianca-luc-0500-ngay-19-03-2026/",
+      "runtime": 1773871200,
+      "datetime": "2026-03-18T22:00:00.000Z"
+    },
+    {
+      "name": "Chattanooga vs Kalonji Pro Profile lúc 05:00",
+      "link": "/truc-tiep/chattanooga-vs-kalonji-pro-profile-luc-0500-ngay-19-03-2026/",
+      "runtime": 1773871200,
+      "datetime": "2026-03-18T22:00:00.000Z"
+    },
+    {
+      "name": "Darwin Blanch vs Jan-Lennard Struff lúc 05:00",
+      "link": "/truc-tiep/darwin-blanch-vs-jan-lennard-struff-luc-0500-ngay-19-03-2026/",
+      "runtime": 1773871200,
+      "datetime": "2026-03-18T22:00:00.000Z"
+    },
+    {
+      "name": "Adolfo Daniel Vallejo vs Carlos Maria Zarate lúc 05:00",
+      "link": "/truc-tiep/adolfo-daniel-vallejo-vs-carlos-maria-zarate-luc-0500-ngay-19-03-2026/",
+      "runtime": 1773871200,
+      "datetime": "2026-03-18T22:00:00.000Z"
+    },
+    {
+      "name": "DASH vs Crashers lúc 05:00",
+      "link": "/truc-tiep/dash-vs-crashers-luc-0500-ngay-19-03-2026/",
+      "runtime": 1773871200,
+      "datetime": "2026-03-18T22:00:00.000Z"
     }
   ]
 }
