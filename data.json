@@ -1,43 +1,13 @@
 {
   "success": true,
-  "total_matches": 55,
-  "updated_at": "2026-03-19T21:06:07.476Z",
+  "total_matches": 51,
+  "updated_at": "2026-03-19T21:49:57.893Z",
   "matches": [
-    {
-      "name": "Vitality vs 9z lúc 00:30",
-      "link": "/truc-tiep/vitality-vs-9z-luc-0030-ngay-20-03-2026/",
-      "runtime": 1773941400,
-      "datetime": "2026-03-19T17:30:00.000Z"
-    },
-    {
-      "name": "Nemiga vs HAVU lúc 01:00",
-      "link": "/truc-tiep/nemiga-vs-havu-luc-0100-ngay-20-03-2026/",
-      "runtime": 1773943200,
-      "datetime": "2026-03-19T18:00:00.000Z"
-    },
-    {
-      "name": "Magda Linette vs Iga Swiatek lúc 01:20",
-      "link": "/truc-tiep/magda-linette-vs-iga-swiatek-luc-0120-ngay-20-03-2026/",
-      "runtime": 1773944400,
-      "datetime": "2026-03-19T18:20:00.000Z"
-    },
-    {
-      "name": "Marin Cilic vs Alexei Popyrin lúc 01:30",
-      "link": "/truc-tiep/marin-cilic-vs-alexei-popyrin-luc-0130-ngay-20-03-2026/",
-      "runtime": 1773945000,
-      "datetime": "2026-03-19T18:30:00.000Z"
-    },
     {
       "name": "Yuta Watanabe/Maya Taguchi vs Callum Hemming/Estelle van Leeuwen lúc 01:40",
       "link": "/truc-tiep/yuta-watanabe-maya-taguchi-vs-callum-hemming-estelle-van-leeuwen-luc-0140-ngay-20-03-2026/",
       "runtime": 1773945600,
       "datetime": "2026-03-19T18:40:00.000Z"
-    },
-    {
-      "name": "KF Gardabaer vs UMF Vidir lúc 02:00",
-      "link": "/truc-tiep/kf-gardabaer-vs-umf-vidir-luc-0200-ngay-20-03-2026/",
-      "runtime": 1773946800,
-      "datetime": "2026-03-19T19:00:00.000Z"
     },
     {
       "name": "Crashers vs BESTIA Academy lúc 02:00",
@@ -52,28 +22,10 @@
       "datetime": "2026-03-19T19:10:00.000Z"
     },
     {
-      "name": "Olympiacos vs Baskonia Vitoria lúc 02:15",
-      "link": "/truc-tiep/olympiacos-vs-baskonia-vitoria-luc-0215-ngay-20-03-2026/",
-      "runtime": 1773947700,
-      "datetime": "2026-03-19T19:15:00.000Z"
-    },
-    {
-      "name": "Bayern Munchen vs BC Dubai lúc 02:30 | ALAN",
-      "link": "/truc-tiep/bayern-munchen-vs-bc-dubai-luc-0230-ngay-20-03-2026/",
-      "runtime": 1773948600,
-      "datetime": "2026-03-19T19:30:00.000Z"
-    },
-    {
-      "name": "Emilio Nava vs Tomas Machac lúc 02:40",
-      "link": "/truc-tiep/emilio-nava-vs-tomas-machac-luc-0240-ngay-20-03-2026/",
-      "runtime": 1773949200,
-      "datetime": "2026-03-19T19:40:00.000Z"
-    },
-    {
-      "name": "Paris vs KK Partizan lúc 02:45",
-      "link": "/truc-tiep/paris-vs-kk-partizan-luc-0245-ngay-20-03-2026/",
-      "runtime": 1773949500,
-      "datetime": "2026-03-19T19:45:00.000Z"
+      "name": "FC Porto vs VfB Stuttgart lúc 03:00 | KEN",
+      "link": "/truc-tiep/fc-porto-vs-vfb-stuttgart-luc-0300-ngay-20-03-2026/",
+      "runtime": 1773950400,
+      "datetime": "2026-03-19T20:00:00.000Z"
     },
     {
       "name": "Aston Villa vs LOSC Lille lúc 03:00 | ROY",
@@ -90,12 +42,6 @@
     {
       "name": "Real Betis vs Panathinaikos lúc 03:00 | MAX",
       "link": "/truc-tiep/real-betis-vs-panathinaikos-luc-0300-ngay-20-03-2026/",
-      "runtime": 1773950400,
-      "datetime": "2026-03-19T20:00:00.000Z"
-    },
-    {
-      "name": "FC Porto vs VfB Stuttgart lúc 03:00 | KEN",
-      "link": "/truc-tiep/fc-porto-vs-vfb-stuttgart-luc-0300-ngay-20-03-2026/",
       "runtime": 1773950400,
       "datetime": "2026-03-19T20:00:00.000Z"
     },
@@ -194,6 +140,18 @@
       "link": "/truc-tiep/alianza-petrolera-vs-cd-jaguares-luc-0410-ngay-20-03-2026/",
       "runtime": 1773954600,
       "datetime": "2026-03-19T21:10:00.000Z"
+    },
+    {
+      "name": "Magda Linette vs Iga Swiatek lúc 04:15",
+      "link": "/truc-tiep/magda-linette-vs-iga-swiatek-luc-0415-ngay-20-03-2026/",
+      "runtime": 1773954900,
+      "datetime": "2026-03-19T21:15:00.000Z"
+    },
+    {
+      "name": "Emilio Nava vs Tomas Machac lúc 04:25",
+      "link": "/truc-tiep/emilio-nava-vs-tomas-machac-luc-0425-ngay-20-03-2026/",
+      "runtime": 1773955500,
+      "datetime": "2026-03-19T21:25:00.000Z"
     },
     {
       "name": "Orense SC vs Mushuc Runa lúc 04:30 | JAY",
@@ -332,6 +290,24 @@
       "link": "/truc-tiep/nu-atlanta-vibe-vs-nu-orlando-valkyries-luc-0600-ngay-20-03-2026/",
       "runtime": 1773961200,
       "datetime": "2026-03-19T23:00:00.000Z"
+    },
+    {
+      "name": "Lobos UPNFM vs Atletico Choloma lúc 06:15",
+      "link": "/truc-tiep/lobos-upnfm-vs-atletico-choloma-luc-0615-ngay-20-03-2026/",
+      "runtime": 1773962100,
+      "datetime": "2026-03-19T23:15:00.000Z"
+    },
+    {
+      "name": "Deportes Tolima vs Fortaleza F.C lúc 06:20 | SILVA",
+      "link": "/truc-tiep/deportes-tolima-vs-fortaleza-f-c-luc-0620-ngay-20-03-2026/",
+      "runtime": 1773962400,
+      "datetime": "2026-03-19T23:20:00.000Z"
+    },
+    {
+      "name": "Westchester SC vs NY Renegades lúc 06:30",
+      "link": "/truc-tiep/westchester-sc-vs-ny-renegades-luc-0630-ngay-20-03-2026/",
+      "runtime": 1773963000,
+      "datetime": "2026-03-19T23:30:00.000Z"
     }
   ]
 }
