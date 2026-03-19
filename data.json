@@ -1,7 +1,7 @@
 {
   "success": true,
   "total_matches": 51,
-  "updated_at": "2026-03-19T22:22:10.328Z",
+  "updated_at": "2026-03-19T22:59:21.835Z",
   "matches": [
     {
       "name": "Yuta Watanabe/Maya Taguchi vs Callum Hemming/Estelle van Leeuwen lúc 01:40",
@@ -14,24 +14,6 @@
       "link": "/truc-tiep/gonzalo-bueno-vs-lautaro-midon-luc-0210-ngay-20-03-2026/",
       "runtime": 1773947400,
       "datetime": "2026-03-19T19:10:00.000Z"
-    },
-    {
-      "name": "AS Roma vs Bologna lúc 03:00 | LOUIS",
-      "link": "/truc-tiep/as-roma-vs-bologna-luc-0300-ngay-20-03-2026/",
-      "runtime": 1773950400,
-      "datetime": "2026-03-19T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Haiti U17 vs Nữ USA U17 lúc 04:00",
-      "link": "/truc-tiep/nu-haiti-u17-vs-nu-usa-u17-luc-0400-ngay-20-03-2026/",
-      "runtime": 1773954000,
-      "datetime": "2026-03-19T21:00:00.000Z"
-    },
-    {
-      "name": "Platense vs CD Motagua lúc 04:00",
-      "link": "/truc-tiep/platense-vs-cd-motagua-luc-0400-ngay-20-03-2026/",
-      "runtime": 1773954000,
-      "datetime": "2026-03-19T21:00:00.000Z"
     },
     {
       "name": "Aurora F.C. vs Guastatoya lúc 04:00",
@@ -308,6 +290,24 @@
       "link": "/truc-tiep/nu-indy-ignite-vs-nu-columbus-fury-luc-0700-ngay-20-03-2026/",
       "runtime": 1773964800,
       "datetime": "2026-03-20T00:00:00.000Z"
+    },
+    {
+      "name": "Chapecoense SC vs Corinthians (SP) lúc 07:30 | ZARA",
+      "link": "/truc-tiep/chapecoense-sc-vs-corinthians-sp-luc-0730-ngay-20-03-2026/",
+      "runtime": 1773966600,
+      "datetime": "2026-03-20T00:30:00.000Z"
+    },
+    {
+      "name": "Laredo Heat vs El Locomotive lúc 07:30",
+      "link": "/truc-tiep/laredo-heat-vs-el-locomotive-luc-0730-ngay-20-03-2026/",
+      "runtime": 1773966600,
+      "datetime": "2026-03-20T00:30:00.000Z"
+    },
+    {
+      "name": "Mirra Andreeva vs Mccartney Kessler lúc 07:30 | VIC",
+      "link": "/truc-tiep/mirra-andreeva-vs-mccartney-kessler-luc-0730-ngay-20-03-2026/",
+      "runtime": 1773966600,
+      "datetime": "2026-03-20T00:30:00.000Z"
     }
   ]
 }
