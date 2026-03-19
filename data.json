@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-19T23:35:28.563Z",
+  "total_matches": 47,
+  "updated_at": "2026-03-19T23:56:20.451Z",
   "matches": [
-    {
-      "name": "Gonzalo Bueno vs Lautaro Midon lúc 02:10",
-      "link": "/truc-tiep/gonzalo-bueno-vs-lautaro-midon-luc-0210-ngay-20-03-2026/",
-      "runtime": 1773947400,
-      "datetime": "2026-03-19T19:10:00.000Z"
-    },
-    {
-      "name": "Orense SC vs Mushuc Runa lúc 04:30",
-      "link": "/truc-tiep/orense-sc-vs-mushuc-runa-luc-0430-ngay-20-03-2026/",
-      "runtime": 1773955800,
-      "datetime": "2026-03-19T21:30:00.000Z"
-    },
-    {
-      "name": "Nữ Brasilia Volei vs Nữ Barueri lúc 04:30",
-      "link": "/truc-tiep/nu-brasilia-volei-vs-nu-barueri-luc-0430-ngay-20-03-2026/",
-      "runtime": 1773955800,
-      "datetime": "2026-03-19T21:30:00.000Z"
-    },
     {
       "name": "Gremio vs Vitoria BA lúc 05:00 | ASTRA",
       "link": "/truc-tiep/gremio-vs-vitoria-ba-luc-0500-ngay-20-03-2026/",
@@ -42,12 +24,6 @@
     {
       "name": "Magda Linette vs Iga Swiatek lúc 05:00",
       "link": "/truc-tiep/magda-linette-vs-iga-swiatek-luc-0500-ngay-20-03-2026/",
-      "runtime": 1773957600,
-      "datetime": "2026-03-19T22:00:00.000Z"
-    },
-    {
-      "name": "Adolfo Daniel Vallejo vs Franco Roncadelli lúc 05:00",
-      "link": "/truc-tiep/adolfo-daniel-vallejo-vs-franco-roncadelli-luc-0500-ngay-20-03-2026/",
       "runtime": 1773957600,
       "datetime": "2026-03-19T22:00:00.000Z"
     },
@@ -136,12 +112,6 @@
       "datetime": "2026-03-19T23:00:00.000Z"
     },
     {
-      "name": "Alex Michelsen vs Mattia Bellucci lúc 06:00 | VIC",
-      "link": "/truc-tiep/alex-michelsen-vs-mattia-bellucci-luc-0600-ngay-20-03-2026/",
-      "runtime": 1773961200,
-      "datetime": "2026-03-19T23:00:00.000Z"
-    },
-    {
       "name": "Jennifer Brady vs Sloane Stephens lúc 06:00",
       "link": "/truc-tiep/jennifer-brady-vs-sloane-stephens-luc-0600-ngay-20-03-2026/",
       "runtime": 1773961200,
@@ -182,6 +152,18 @@
       "link": "/truc-tiep/luciano-emanuel-ambrogi-lautaro-midon-vs-mariano-kestelboim-marcelo-zormann-da-silva-luc-0630-ngay-20-03-2026/",
       "runtime": 1773963000,
       "datetime": "2026-03-19T23:30:00.000Z"
+    },
+    {
+      "name": "Alex Michelsen vs Mattia Bellucci lúc 06:45 | VIC",
+      "link": "/truc-tiep/alex-michelsen-vs-mattia-bellucci-luc-0645-ngay-20-03-2026/",
+      "runtime": 1773963900,
+      "datetime": "2026-03-19T23:45:00.000Z"
+    },
+    {
+      "name": "Adolfo Daniel Vallejo vs Franco Roncadelli lúc 06:45",
+      "link": "/truc-tiep/adolfo-daniel-vallejo-vs-franco-roncadelli-luc-0645-ngay-20-03-2026/",
+      "runtime": 1773963900,
+      "datetime": "2026-03-19T23:45:00.000Z"
     },
     {
       "name": "Mac Kiger/Reese Stalder vs Justo Guido Ivan/Franco Roncadelli lúc 06:50",
