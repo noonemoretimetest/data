@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 22,
-  "updated_at": "2026-03-19T07:34:35.369Z",
+  "total_matches": 27,
+  "updated_at": "2026-03-19T08:05:59.894Z",
   "matches": [
-    {
-      "name": "Essence vs Interactive Philippines lúc 11:00",
-      "link": "/truc-tiep/essence-vs-interactive-philippines-luc-1100-ngay-19-03-2026/",
-      "runtime": 1773892800,
-      "datetime": "2026-03-19T04:00:00.000Z"
-    },
     {
       "name": "The Huns vs BMZ lúc 12:50",
       "link": "/truc-tiep/the-huns-vs-bmz-luc-1250-ngay-19-03-2026/",
@@ -134,6 +128,42 @@
       "link": "/truc-tiep/max-alcala-gurri-vs-alex-molcan-luc-1630-ngay-19-03-2026/",
       "runtime": 1773912600,
       "datetime": "2026-03-19T09:30:00.000Z"
+    },
+    {
+      "name": "Goyang Sono  vs Busan KCC Egis lúc 17:00 | STEP",
+      "link": "/truc-tiep/goyang-sono-vs-busan-kcc-egis-luc-1700-ngay-19-03-2026/",
+      "runtime": 1773914400,
+      "datetime": "2026-03-19T10:00:00.000Z"
+    },
+    {
+      "name": "Kimmer Coppejans vs Christoph Negritu lúc 17:00 | VIC",
+      "link": "/truc-tiep/kimmer-coppejans-vs-christoph-negritu-luc-1700-ngay-19-03-2026/",
+      "runtime": 1773914400,
+      "datetime": "2026-03-19T10:00:00.000Z"
+    },
+    {
+      "name": "Sergio Martos Gornes/Vijay Sundar Prashanth vs Benjamin Hassan/Sebastian Ofner lúc 17:00",
+      "link": "/truc-tiep/sergio-martos-gornes-vijay-sundar-prashanth-vs-benjamin-hassan-sebastian-ofner-luc-1700-ngay-19-03-2026/",
+      "runtime": 1773914400,
+      "datetime": "2026-03-19T10:00:00.000Z"
+    },
+    {
+      "name": "Hyundai Skywalkers vs KAL Jumbos lúc 17:00",
+      "link": "/truc-tiep/hyundai-skywalkers-vs-kal-jumbos-luc-1200-ngay-01-10-2025/",
+      "runtime": 1773914400,
+      "datetime": "2026-03-19T10:00:00.000Z"
+    },
+    {
+      "name": "PARIVISION vs Ninjas in Pyjamas lúc 17:00",
+      "link": "/truc-tiep/parivision-vs-ninjas-in-pyjamas-luc-1700-ngay-19-03-2026/",
+      "runtime": 1773914400,
+      "datetime": "2026-03-19T10:00:00.000Z"
+    },
+    {
+      "name": "Nemiga Gaming vs Dogsent lúc 17:00",
+      "link": "/truc-tiep/nemiga-gaming-vs-dogsent-luc-1700-ngay-19-03-2026/",
+      "runtime": 1773914400,
+      "datetime": "2026-03-19T10:00:00.000Z"
     }
   ]
 }
