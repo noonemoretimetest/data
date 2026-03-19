@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 51,
-  "updated_at": "2026-03-19T22:59:21.835Z",
+  "total_matches": 50,
+  "updated_at": "2026-03-19T23:35:28.563Z",
   "matches": [
-    {
-      "name": "Yuta Watanabe/Maya Taguchi vs Callum Hemming/Estelle van Leeuwen lúc 01:40",
-      "link": "/truc-tiep/yuta-watanabe-maya-taguchi-vs-callum-hemming-estelle-van-leeuwen-luc-0140-ngay-20-03-2026/",
-      "runtime": 1773945600,
-      "datetime": "2026-03-19T18:40:00.000Z"
-    },
     {
       "name": "Gonzalo Bueno vs Lautaro Midon lúc 02:10",
       "link": "/truc-tiep/gonzalo-bueno-vs-lautaro-midon-luc-0210-ngay-20-03-2026/",
@@ -16,44 +10,8 @@
       "datetime": "2026-03-19T19:10:00.000Z"
     },
     {
-      "name": "Aurora F.C. vs Guastatoya lúc 04:00",
-      "link": "/truc-tiep/aurora-f-c-vs-guastatoya-luc-0400-ngay-20-03-2026/",
-      "runtime": 1773954000,
-      "datetime": "2026-03-19T21:00:00.000Z"
-    },
-    {
-      "name": "Flamengo vs Pinheiros Sao Paolo lúc 04:00",
-      "link": "/truc-tiep/flamengo-vs-pinheiros-sao-paolo-luc-0400-ngay-20-03-2026/",
-      "runtime": 1773954000,
-      "datetime": "2026-03-19T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Bermuda U17 vs Nữ Puerto Rico U17 lúc 04:06",
-      "link": "/truc-tiep/nu-bermuda-u17-vs-nu-puerto-rico-u17-luc-0406-ngay-20-03-2026/",
-      "runtime": 1773954360,
-      "datetime": "2026-03-19T21:06:00.000Z"
-    },
-    {
-      "name": "Alianza Petrolera vs CD Jaguares lúc 04:10 | RYAN",
-      "link": "/truc-tiep/alianza-petrolera-vs-cd-jaguares-luc-0410-ngay-20-03-2026/",
-      "runtime": 1773954600,
-      "datetime": "2026-03-19T21:10:00.000Z"
-    },
-    {
-      "name": "Emilio Nava vs Tomas Machac lúc 04:25",
-      "link": "/truc-tiep/emilio-nava-vs-tomas-machac-luc-0425-ngay-20-03-2026/",
-      "runtime": 1773955500,
-      "datetime": "2026-03-19T21:25:00.000Z"
-    },
-    {
       "name": "Orense SC vs Mushuc Runa lúc 04:30",
       "link": "/truc-tiep/orense-sc-vs-mushuc-runa-luc-0430-ngay-20-03-2026/",
-      "runtime": 1773955800,
-      "datetime": "2026-03-19T21:30:00.000Z"
-    },
-    {
-      "name": "Nữ Mackenzie vs Nữ Unilife Maringa lúc 04:30",
-      "link": "/truc-tiep/nu-mackenzie-vs-nu-unilife-maringa-luc-0430-ngay-20-03-2026/",
       "runtime": 1773955800,
       "datetime": "2026-03-19T21:30:00.000Z"
     },
@@ -84,12 +42,6 @@
     {
       "name": "Magda Linette vs Iga Swiatek lúc 05:00",
       "link": "/truc-tiep/magda-linette-vs-iga-swiatek-luc-0500-ngay-20-03-2026/",
-      "runtime": 1773957600,
-      "datetime": "2026-03-19T22:00:00.000Z"
-    },
-    {
-      "name": "Marc Andrea Huesler vs Alex Hernandez lúc 05:00",
-      "link": "/truc-tiep/marc-andrea-huesler-vs-alex-hernandez-luc-0500-ngay-20-03-2026/",
       "runtime": 1773957600,
       "datetime": "2026-03-19T22:00:00.000Z"
     },
@@ -308,6 +260,48 @@
       "link": "/truc-tiep/mirra-andreeva-vs-mccartney-kessler-luc-0730-ngay-20-03-2026/",
       "runtime": 1773966600,
       "datetime": "2026-03-20T00:30:00.000Z"
+    },
+    {
+      "name": "Tigres UANL vs FC Cincinnati lúc 08:00 | BRADY",
+      "link": "/truc-tiep/tigres-uanl-vs-fc-cincinnati-luc-0800-ngay-20-03-2026/",
+      "runtime": 1773968400,
+      "datetime": "2026-03-20T01:00:00.000Z"
+    },
+    {
+      "name": "Zacatecoluca FC vs Luis Angel Firpo lúc 08:00",
+      "link": "/truc-tiep/zacatecoluca-fc-vs-luis-angel-firpo-luc-0800-ngay-20-03-2026/",
+      "runtime": 1773968400,
+      "datetime": "2026-03-20T01:00:00.000Z"
+    },
+    {
+      "name": "Chorrillo vs Costa Del Este (R) lúc 08:00",
+      "link": "/truc-tiep/chorrillo-vs-costa-del-este-r-luc-0800-ngay-20-03-2026/",
+      "runtime": 1773968400,
+      "datetime": "2026-03-20T01:00:00.000Z"
+    },
+    {
+      "name": "Utah Jazz vs Milwaukee Bucks lúc 08:00 | STEP",
+      "link": "/truc-tiep/utah-jazz-vs-milwaukee-bucks-luc-0800-ngay-20-03-2026/",
+      "runtime": 1773968400,
+      "datetime": "2026-03-20T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Utah Valley vs Nữ San Francisco lúc 08:00",
+      "link": "/truc-tiep/nu-utah-valley-vs-nu-san-francisco-luc-0800-ngay-20-03-2026/",
+      "runtime": 1773968400,
+      "datetime": "2026-03-20T01:00:00.000Z"
+    },
+    {
+      "name": "Ciclista Olimpico vs Obras Sanitarias  lúc 08:00",
+      "link": "/truc-tiep/ciclista-olimpico-vs-obras-sanitarias-luc-0800-ngay-20-03-2026/",
+      "runtime": 1773968400,
+      "datetime": "2026-03-20T01:00:00.000Z"
+    },
+    {
+      "name": "Dep.Independiente vs Atletico Junior lúc 08:30 | JEAN",
+      "link": "/truc-tiep/dep-independiente-vs-atletico-junior-luc-0830-ngay-20-03-2026/",
+      "runtime": 1773970200,
+      "datetime": "2026-03-20T01:30:00.000Z"
     }
   ]
 }
