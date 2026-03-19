@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-19T11:03:41.350Z",
+  "total_matches": 51,
+  "updated_at": "2026-03-19T11:52:39.104Z",
   "matches": [
     {
       "name": "The QUBE vs Nexvoid lúc 13:10",
@@ -22,12 +22,6 @@
       "datetime": "2026-03-19T09:00:00.000Z"
     },
     {
-      "name": "Daniel Michalski vs Arthur Gea lúc 16:30",
-      "link": "/truc-tiep/daniel-michalski-vs-arthur-gea-luc-1630-ngay-19-03-2026/",
-      "runtime": 1773912600,
-      "datetime": "2026-03-19T09:30:00.000Z"
-    },
-    {
       "name": "Max Alcala Gurri vs Alex Molcan lúc 16:30",
       "link": "/truc-tiep/max-alcala-gurri-vs-alex-molcan-luc-1630-ngay-19-03-2026/",
       "runtime": 1773912600,
@@ -42,12 +36,6 @@
     {
       "name": "Kimmer Coppejans vs Christoph Negritu lúc 17:00 | VIC",
       "link": "/truc-tiep/kimmer-coppejans-vs-christoph-negritu-luc-1700-ngay-19-03-2026/",
-      "runtime": 1773914400,
-      "datetime": "2026-03-19T10:00:00.000Z"
-    },
-    {
-      "name": "Sergio Martos Gornes/Vijay Sundar Prashanth vs Benjamin Hassan/Sebastian Ofner lúc 17:00",
-      "link": "/truc-tiep/sergio-martos-gornes-vijay-sundar-prashanth-vs-benjamin-hassan-sebastian-ofner-luc-1700-ngay-19-03-2026/",
       "runtime": 1773914400,
       "datetime": "2026-03-19T10:00:00.000Z"
     },
@@ -124,12 +112,6 @@
       "datetime": "2026-03-19T11:00:00.000Z"
     },
     {
-      "name": "Nữ Italy U17 vs Nữ Anh U17 lúc 18:00 | KEN",
-      "link": "/truc-tiep/nu-italy-u17-vs-nu-anh-u17-luc-1800-ngay-19-03-2026/",
-      "runtime": 1773918000,
-      "datetime": "2026-03-19T11:00:00.000Z"
-    },
-    {
       "name": "Difai Agsu FK vs Cebrayil lúc 18:00",
       "link": "/truc-tiep/difai-agsu-fk-vs-cebrayil-luc-1800-ngay-19-03-2026/",
       "runtime": 1773918000,
@@ -148,12 +130,6 @@
       "datetime": "2026-03-19T11:00:00.000Z"
     },
     {
-      "name": "Hariharan Amsakarunan/Madathil Ramachandran Arjun vs Alexander Dunn/Adam Pringle lúc 18:00",
-      "link": "/truc-tiep/hariharan-amsakarunan-madathil-ramachandran-arjun-vs-alexander-dunn-adam-pringle-luc-1800-ngay-19-03-2026/",
-      "runtime": 1773918000,
-      "datetime": "2026-03-19T11:00:00.000Z"
-    },
-    {
       "name": "Nữ Karaganda vs Nữ Turan  lúc 18:00",
       "link": "/truc-tiep/nu-karaganda-vs-nu-turan-luc-1800-ngay-19-03-2026/",
       "runtime": 1773918000,
@@ -162,12 +138,6 @@
     {
       "name": "Gilles Arnaud Bailly vs Alejandro Moro Canas lúc 18:10",
       "link": "/truc-tiep/gilles-arnaud-bailly-vs-alejandro-moro-canas-luc-1810-ngay-19-03-2026/",
-      "runtime": 1773918600,
-      "datetime": "2026-03-19T11:10:00.000Z"
-    },
-    {
-      "name": "Eng Keat Wesley Koh/Junsuke Kubo vs Hiroki Okamura/Kyohei Yamashita lúc 18:10",
-      "link": "/truc-tiep/eng-keat-wesley-koh-junsuke-kubo-vs-hiroki-okamura-kyohei-yamashita-luc-1810-ngay-19-03-2026/",
       "runtime": 1773918600,
       "datetime": "2026-03-19T11:10:00.000Z"
     },
@@ -274,14 +244,14 @@
       "datetime": "2026-03-19T12:40:00.000Z"
     },
     {
-      "name": "Lauren Lam/Allison Lee vs Ong Xin Yee/Carmen Ting lúc 19:50",
-      "link": "/truc-tiep/lauren-lam-allison-lee-vs-ong-xin-yee-carmen-ting-luc-1950-ngay-19-03-2026/",
+      "name": "Kakeru Kumagai/Hiroki Nishi vs Mihajlo Tomic/Aymeric Tores lúc 19:50",
+      "link": "/truc-tiep/kakeru-kumagai-hiroki-nishi-vs-mihajlo-tomic-aymeric-tores-luc-1950-ngay-19-03-2026/",
       "runtime": 1773924600,
       "datetime": "2026-03-19T12:50:00.000Z"
     },
     {
-      "name": "Kakeru Kumagai/Hiroki Nishi vs Mihajlo Tomic/Aymeric Tores lúc 19:50",
-      "link": "/truc-tiep/kakeru-kumagai-hiroki-nishi-vs-mihajlo-tomic-aymeric-tores-luc-1950-ngay-19-03-2026/",
+      "name": "Lauren Lam/Allison Lee vs Ong Xin Yee/Carmen Ting lúc 19:50",
+      "link": "/truc-tiep/lauren-lam-allison-lee-vs-ong-xin-yee-carmen-ting-luc-1950-ngay-19-03-2026/",
       "runtime": 1773924600,
       "datetime": "2026-03-19T12:50:00.000Z"
     },
@@ -302,6 +272,42 @@
       "link": "/truc-tiep/gen-g-esports-vs-lyon-luc-2000-ngay-19-03-2026/",
       "runtime": 1773925200,
       "datetime": "2026-03-19T13:00:00.000Z"
+    },
+    {
+      "name": "Buxoro FK vs Dinamo Samarqand lúc 20:15 | XMEN",
+      "link": "/truc-tiep/buxoro-fk-vs-dinamo-samarqand-luc-2015-ngay-19-03-2026/",
+      "runtime": 1773926100,
+      "datetime": "2026-03-19T13:15:00.000Z"
+    },
+    {
+      "name": "Hsu Wen-chi vs Natsuki Nidaira lúc 20:30",
+      "link": "/truc-tiep/hsu-wen-chi-vs-natsuki-nidaira-luc-2030-ngay-19-03-2026/",
+      "runtime": 1773927000,
+      "datetime": "2026-03-19T13:30:00.000Z"
+    },
+    {
+      "name": "Bengisu Ercetin/Nazlıcan Inci vs Margot Lambert/Camille Pognante lúc 20:30",
+      "link": "/truc-tiep/bengisu-ercetin-nazlican-inci-vs-margot-lambert-camille-pognante-luc-2030-ngay-19-03-2026/",
+      "runtime": 1773927000,
+      "datetime": "2026-03-19T13:30:00.000Z"
+    },
+    {
+      "name": "Nữ Kuanysh  vs Nữ Almaty  lúc 20:30",
+      "link": "/truc-tiep/nu-kuanysh-vs-nu-almaty-luc-2030-ngay-19-03-2026/",
+      "runtime": 1773927000,
+      "datetime": "2026-03-19T13:30:00.000Z"
+    },
+    {
+      "name": "Rachel Allessya Rose/Febi Setianingrum vs Chen Su Yu/Lee Yu-hsuan lúc 20:40",
+      "link": "/truc-tiep/rachel-allessya-rose-febi-setianingrum-vs-chen-su-yu-lee-yu-hsuan-luc-2040-ngay-19-03-2026/",
+      "runtime": 1773927600,
+      "datetime": "2026-03-19T13:40:00.000Z"
+    },
+    {
+      "name": "Anmol Kharb vs Tanvi Sharma lúc 20:40",
+      "link": "/truc-tiep/anmol-kharb-vs-tanvi-sharma-luc-2040-ngay-19-03-2026/",
+      "runtime": 1773927600,
+      "datetime": "2026-03-19T13:40:00.000Z"
     }
   ]
 }
