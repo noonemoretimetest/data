@@ -1,17 +1,11 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-20T15:59:57.948Z",
+  "total_matches": 63,
+  "updated_at": "2026-03-20T16:54:28.878Z",
   "matches": [
     {
       "name": "Diana Shnaider vs Tereza Valentova lúc 21:00",
       "link": "/truc-tiep/diana-shnaider-vs-tereza-valentova-luc-2100-ngay-20-03-2026/",
-      "runtime": 1774015200,
-      "datetime": "2026-03-20T14:00:00.000Z"
-    },
-    {
-      "name": "Terence Atmane vs Daniel Altmaier lúc 21:00",
-      "link": "/truc-tiep/terence-atmane-vs-daniel-altmaier-luc-2100-ngay-20-03-2026/",
       "runtime": 1774015200,
       "datetime": "2026-03-20T14:00:00.000Z"
     },
@@ -22,22 +16,10 @@
       "datetime": "2026-03-20T14:00:00.000Z"
     },
     {
-      "name": "Ursa vs K27 lúc 21:00",
-      "link": "/truc-tiep/ursa-vs-k27-luc-2100-ngay-20-03-2026/",
+      "name": "Terence Atmane vs Daniel Altmaier lúc 21:00",
+      "link": "/truc-tiep/terence-atmane-vs-daniel-altmaier-luc-2100-ngay-20-03-2026/",
       "runtime": 1774015200,
       "datetime": "2026-03-20T14:00:00.000Z"
-    },
-    {
-      "name": "Benjamin Hassan/Sebastian Ofner vs Liutarevich I / Pujol Navarro B lúc 21:10",
-      "link": "/truc-tiep/benjamin-hassan-sebastian-ofner-vs-liutarevich-i-pujol-navarro-b-luc-2110-ngay-20-03-2026/",
-      "runtime": 1774015800,
-      "datetime": "2026-03-20T14:10:00.000Z"
-    },
-    {
-      "name": "Slovan Ljubljana vs Triglav Gorenjska lúc 21:30",
-      "link": "/truc-tiep/slovan-ljubljana-vs-triglav-gorenjska-luc-2130-ngay-20-03-2026/",
-      "runtime": 1774017000,
-      "datetime": "2026-03-20T14:30:00.000Z"
     },
     {
       "name": "Haras El Hodood vs Ismaily SC lúc 22:00 | ASTRA",
@@ -132,12 +114,6 @@
     {
       "name": "Pitchamon Opatniputh vs Riko Gunji lúc 23:00",
       "link": "/truc-tiep/pitchamon-opatniputh-vs-riko-gunji-luc-2300-ngay-20-03-2026/",
-      "runtime": 1774022400,
-      "datetime": "2026-03-20T16:00:00.000Z"
-    },
-    {
-      "name": "Isharani Baruah vs Malvika Bansod lúc 23:00",
-      "link": "/truc-tiep/isharani-baruah-vs-malvika-bansod-luc-2300-ngay-20-03-2026/",
       "runtime": 1774022400,
       "datetime": "2026-03-20T16:00:00.000Z"
     },
@@ -302,6 +278,108 @@
       "link": "/truc-tiep/fenerbahce-istanbul-vs-olimpia-milano-luc-0045-ngay-21-03-2026/",
       "runtime": 1774028700,
       "datetime": "2026-03-20T17:45:00.000Z"
+    },
+    {
+      "name": "Wadi Degla SC vs El Gounah lúc 01:00 | XMEN",
+      "link": "/truc-tiep/wadi-degla-sc-vs-el-gounah-luc-0100-ngay-21-03-2026/",
+      "runtime": 1774029600,
+      "datetime": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "name": "Vejle vs Odense BK lúc 01:00 | YUNO",
+      "link": "/truc-tiep/vejle-vs-odense-bk-luc-0100-ngay-21-03-2026/",
+      "runtime": 1774029600,
+      "datetime": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "name": "GD Chaves vs Uniao Leiria lúc 01:00",
+      "link": "/truc-tiep/gd-chaves-vs-uniao-leiria-luc-0100-ngay-21-03-2026/",
+      "runtime": 1774029600,
+      "datetime": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "name": "KS Elbasani vs Egnatia lúc 01:00",
+      "link": "/truc-tiep/ks-elbasani-vs-egnatia-luc-0100-ngay-21-03-2026/",
+      "runtime": 1774029600,
+      "datetime": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "name": "Zalgiris Kaunas vs Real Madrid  lúc 01:00 | TOMMY",
+      "link": "/truc-tiep/zalgiris-kaunas-vs-real-madrid-luc-0100-ngay-21-03-2026/",
+      "runtime": 1774029600,
+      "datetime": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "name": "LYON vs JD Gaming lúc 01:00",
+      "link": "/truc-tiep/lyon-vs-jd-gaming-luc-0100-ngay-21-03-2026/",
+      "runtime": 1774029600,
+      "datetime": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "name": "HYPERSPIRIT vs Eternal Fire lúc 01:00",
+      "link": "/truc-tiep/hyperspirit-vs-eternal-fire-luc-0100-ngay-21-03-2026/",
+      "runtime": 1774029600,
+      "datetime": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "name": "Botic van de Zandschulp vs Taylor Fritz lúc 01:20",
+      "link": "/truc-tiep/botic-van-de-zandschulp-vs-taylor-fritz-luc-0120-ngay-21-03-2026/",
+      "runtime": 1774030800,
+      "datetime": "2026-03-20T18:20:00.000Z"
+    },
+    {
+      "name": "Aryna Sabalenka vs Ann Li lúc 01:20",
+      "link": "/truc-tiep/aryna-sabalenka-vs-ann-li-luc-0120-ngay-21-03-2026/",
+      "runtime": 1774030800,
+      "datetime": "2026-03-20T18:20:00.000Z"
+    },
+    {
+      "name": "Sturm Graz vs Red Bull Salzburg lúc 01:30 | SILVA",
+      "link": "/truc-tiep/sturm-graz-vs-red-bull-salzburg-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
+    },
+    {
+      "name": "Versailles 78 vs Fleury Merogis U.S. lúc 01:30",
+      "link": "/truc-tiep/versailles-78-vs-fleury-merogis-u-s-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
+    },
+    {
+      "name": "Villefranche vs Le Puy Foot 43 lúc 01:30",
+      "link": "/truc-tiep/villefranche-vs-le-puy-foot-43-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
+    },
+    {
+      "name": "Aubagne vs Sochaux lúc 01:30",
+      "link": "/truc-tiep/aubagne-vs-sochaux-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
+    },
+    {
+      "name": "Concarneau vs Valenciennes lúc 01:30",
+      "link": "/truc-tiep/concarneau-vs-valenciennes-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
+    },
+    {
+      "name": "Paris 13 Atletico vs FC Rouen lúc 01:30",
+      "link": "/truc-tiep/paris-13-atletico-vs-fc-rouen-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
+    },
+    {
+      "name": "Thom Gicquel/Delphine Delrue vs Cheng Xing/Zhang Chi lúc 01:30",
+      "link": "/truc-tiep/thom-gicquel-delphine-delrue-vs-cheng-xing-zhang-chi-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
+    },
+    {
+      "name": "Magnus Johannesen vs Yudai Okimoto lúc 01:30",
+      "link": "/truc-tiep/magnus-johannesen-vs-yudai-okimoto-luc-0130-ngay-21-03-2026/",
+      "runtime": 1774031400,
+      "datetime": "2026-03-20T18:30:00.000Z"
     }
   ]
 }
