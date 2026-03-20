@@ -1,20 +1,8 @@
 {
   "success": true,
-  "total_matches": 69,
-  "updated_at": "2026-03-20T19:07:32.932Z",
+  "total_matches": 62,
+  "updated_at": "2026-03-20T19:50:21.711Z",
   "matches": [
-    {
-      "name": "Diana Shnaider vs Tereza Valentova lúc 21:00",
-      "link": "/truc-tiep/diana-shnaider-vs-tereza-valentova-luc-2100-ngay-20-03-2026/",
-      "runtime": 1774015200,
-      "datetime": "2026-03-20T14:00:00.000Z"
-    },
-    {
-      "name": "Aleksandar Kovacevic vs Rei Sakamoto lúc 22:00",
-      "link": "/truc-tiep/aleksandar-kovacevic-vs-rei-sakamoto-luc-2200-ngay-20-03-2026/",
-      "runtime": 1774018800,
-      "datetime": "2026-03-20T15:00:00.000Z"
-    },
     {
       "name": "Amanda Anisimova vs Ajla Tomljanovic lúc 22:00",
       "link": "/truc-tiep/amanda-anisimova-vs-ajla-tomljanovic-luc-2200-ngay-20-03-2026/",
@@ -32,42 +20,6 @@
       "link": "/truc-tiep/power-rangers-vs-avulus-luc-0000-ngay-21-03-2026/",
       "runtime": 1774026000,
       "datetime": "2026-03-20T17:00:00.000Z"
-    },
-    {
-      "name": "Cagliari vs Napoli lúc 00:30 | ROY - ASTRA",
-      "link": "/truc-tiep/cagliari-vs-napoli-luc-0030-ngay-21-03-2026/",
-      "runtime": 1774027800,
-      "datetime": "2026-03-20T17:30:00.000Z"
-    },
-    {
-      "name": "Hannover 96 vs E.Braunschweig lúc 00:30 | BRADY",
-      "link": "/truc-tiep/hannover-96-vs-e-braunschweig-luc-0030-ngay-21-03-2026/",
-      "runtime": 1774027800,
-      "datetime": "2026-03-20T17:30:00.000Z"
-    },
-    {
-      "name": "Karlsruher SC vs Greuther Fürth lúc 00:30 | LOUIS",
-      "link": "/truc-tiep/karlsruher-sc-vs-greuther-furth-luc-0030-ngay-21-03-2026/",
-      "runtime": 1774027800,
-      "datetime": "2026-03-20T17:30:00.000Z"
-    },
-    {
-      "name": "Nữ SGS Essen  vs Nữ Bayern Munchen lúc 00:30",
-      "link": "/truc-tiep/nu-sgs-essen-vs-nu-bayern-munchen-luc-0030-ngay-21-03-2026/",
-      "runtime": 1774027800,
-      "datetime": "2026-03-20T17:30:00.000Z"
-    },
-    {
-      "name": "Zhu Yijun/Li Qian vs Ruben Garcia/Lucia Rodriguez lúc 00:40",
-      "link": "/truc-tiep/zhu-yijun-li-qian-vs-ruben-garcia-lucia-rodriguez-luc-0040-ngay-21-03-2026/",
-      "runtime": 1774028400,
-      "datetime": "2026-03-20T17:40:00.000Z"
-    },
-    {
-      "name": "Fenerbahçe Istanbul vs Olimpia Milano lúc 00:45",
-      "link": "/truc-tiep/fenerbahce-istanbul-vs-olimpia-milano-luc-0045-ngay-21-03-2026/",
-      "runtime": 1774028700,
-      "datetime": "2026-03-20T17:45:00.000Z"
     },
     {
       "name": "Wadi Degla SC vs El Gounah lúc 01:00 | XMEN",
@@ -96,12 +48,6 @@
     {
       "name": "Zalgiris Kaunas vs Real Madrid  lúc 01:00 | TOMMY",
       "link": "/truc-tiep/zalgiris-kaunas-vs-real-madrid-luc-0100-ngay-21-03-2026/",
-      "runtime": 1774029600,
-      "datetime": "2026-03-20T18:00:00.000Z"
-    },
-    {
-      "name": "LYON vs JD Gaming lúc 01:00",
-      "link": "/truc-tiep/lyon-vs-jd-gaming-luc-0100-ngay-21-03-2026/",
       "runtime": 1774029600,
       "datetime": "2026-03-20T18:00:00.000Z"
     },
@@ -346,14 +292,14 @@
       "datetime": "2026-03-20T19:55:00.000Z"
     },
     {
-      "name": "AFC Bournemouth  vs Manchester United lúc 03:00 | ROY - LOUIS - KEN",
-      "link": "/truc-tiep/afc-bournemouth-vs-manchester-united-luc-0300-ngay-21-03-2026/",
+      "name": "Villarreal vs Real Sociedad lúc 03:00 | BRADY",
+      "link": "/truc-tiep/villarreal-vs-real-sociedad-luc-0300-ngay-21-03-2026/",
       "runtime": 1774036800,
       "datetime": "2026-03-20T20:00:00.000Z"
     },
     {
-      "name": "Villarreal vs Real Sociedad lúc 03:00 | BRADY",
-      "link": "/truc-tiep/villarreal-vs-real-sociedad-luc-0300-ngay-21-03-2026/",
+      "name": "AFC Bournemouth  vs Manchester United lúc 03:00 | ROY - LOUIS - KEN",
+      "link": "/truc-tiep/afc-bournemouth-vs-manchester-united-luc-0300-ngay-21-03-2026/",
       "runtime": 1774036800,
       "datetime": "2026-03-20T20:00:00.000Z"
     },
@@ -416,6 +362,18 @@
       "link": "/truc-tiep/cerro-largo-vs-dep-maldonado-luc-0400-ngay-21-03-2026/",
       "runtime": 1774040400,
       "datetime": "2026-03-20T21:00:00.000Z"
+    },
+    {
+      "name": "Alex Barrena vs Juan Pablo Varillas lúc 04:10",
+      "link": "/truc-tiep/alex-barrena-vs-juan-pablo-varillas-luc-0410-ngay-21-03-2026/",
+      "runtime": 1774041000,
+      "datetime": "2026-03-20T21:10:00.000Z"
+    },
+    {
+      "name": "Nữ Fluminense vs Nữ Tijuca lúc 04:30",
+      "link": "/truc-tiep/nu-fluminense-vs-nu-tijuca-luc-0430-ngay-21-03-2026/",
+      "runtime": 1774042200,
+      "datetime": "2026-03-20T21:30:00.000Z"
     }
   ]
 }
