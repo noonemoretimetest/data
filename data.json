@@ -1,56 +1,8 @@
 {
   "success": true,
-  "total_matches": 64,
-  "updated_at": "2026-03-21T20:19:42.658Z",
+  "total_matches": 59,
+  "updated_at": "2026-03-21T20:45:58.420Z",
   "matches": [
-    {
-      "name": "PARIVISION vs Spirit lúc 23:00",
-      "link": "/truc-tiep/parivision-vs-spirit-luc-2300-ngay-21-03-2026/",
-      "runtime": 1774108800,
-      "datetime": "2026-03-21T16:00:00.000Z"
-    },
-    {
-      "name": "Andrey Rublev vs Alejandro Tabilo lúc 00:20",
-      "link": "/truc-tiep/andrey-rublev-vs-alejandro-tabilo-luc-0020-ngay-22-03-2026/",
-      "runtime": 1774113600,
-      "datetime": "2026-03-21T17:20:00.000Z"
-    },
-    {
-      "name": "Velez Sarsfield vs CA Lanús lúc 01:30",
-      "link": "/truc-tiep/velez-sarsfield-vs-ca-lanus-luc-0130-ngay-22-03-2026/",
-      "runtime": 1774117800,
-      "datetime": "2026-03-21T18:30:00.000Z"
-    },
-    {
-      "name": "Arges vs Universitatea Cluj lúc 01:30",
-      "link": "/truc-tiep/arges-vs-universitatea-cluj-luc-0130-ngay-22-03-2026/",
-      "runtime": 1774117800,
-      "datetime": "2026-03-21T18:30:00.000Z"
-    },
-    {
-      "name": "Modena vs Mantova lúc 01:30",
-      "link": "/truc-tiep/modena-vs-mantova-luc-0130-ngay-22-03-2026/",
-      "runtime": 1774117800,
-      "datetime": "2026-03-21T18:30:00.000Z"
-    },
-    {
-      "name": "Polonia Bytom vs GKS Tychy lúc 01:30",
-      "link": "/truc-tiep/polonia-bytom-vs-gks-tychy-luc-0130-ngay-22-03-2026/",
-      "runtime": 1774117800,
-      "datetime": "2026-03-21T18:30:00.000Z"
-    },
-    {
-      "name": "Adam Walton vs Jakub Mensik lúc 01:30",
-      "link": "/truc-tiep/adam-walton-vs-jakub-mensik-luc-0130-ngay-22-03-2026/",
-      "runtime": 1774117800,
-      "datetime": "2026-03-21T18:30:00.000Z"
-    },
-    {
-      "name": "Ruben Garcia/Lucia Rodriguez vs Mathias Christiansen/Alexandra Boje lúc 01:30",
-      "link": "/truc-tiep/ruben-garcia-lucia-rodriguez-vs-mathias-christiansen-alexandra-boje-luc-0130-ngay-22-03-2026/",
-      "runtime": 1774117800,
-      "datetime": "2026-03-21T18:30:00.000Z"
-    },
     {
       "name": "The MongolZ vs Vitality lúc 01:30",
       "link": "/truc-tiep/the-mongolz-vs-vitality-luc-0130-ngay-22-03-2026/",
@@ -100,12 +52,6 @@
       "datetime": "2026-03-21T19:00:00.000Z"
     },
     {
-      "name": "Nữ Tchalou vs Nữ Asterix Avo lúc 02:00",
-      "link": "/truc-tiep/nu-tchalou-vs-nu-asterix-avo-luc-0200-ngay-22-03-2026/",
-      "runtime": 1774119600,
-      "datetime": "2026-03-21T19:00:00.000Z"
-    },
-    {
       "name": "Rune Eaters Esports vs Level Up lúc 02:00",
       "link": "/truc-tiep/rune-eaters-esports-vs-level-up-luc-0200-ngay-22-03-2026/",
       "runtime": 1774119600,
@@ -142,18 +88,6 @@
       "datetime": "2026-03-21T19:30:00.000Z"
     },
     {
-      "name": "Brandon Nakashima vs Marin Cilic lúc 02:40",
-      "link": "/truc-tiep/brandon-nakashima-vs-marin-cilic-luc-0240-ngay-22-03-2026/",
-      "runtime": 1774122000,
-      "datetime": "2026-03-21T19:40:00.000Z"
-    },
-    {
-      "name": "Frances Tiafoe vs Arthur Cazaux lúc 02:40",
-      "link": "/truc-tiep/frances-tiafoe-vs-arthur-cazaux-luc-0240-ngay-22-03-2026/",
-      "runtime": 1774122000,
-      "datetime": "2026-03-21T19:40:00.000Z"
-    },
-    {
       "name": "Juventus vs Sassuolo lúc 02:45 | LOUIS",
       "link": "/truc-tiep/juventus-vs-sassuolo-luc-0245-ngay-22-03-2026/",
       "runtime": 1774122300,
@@ -166,14 +100,14 @@
       "datetime": "2026-03-21T19:45:00.000Z"
     },
     {
-      "name": "Leeds United vs Brentford lúc 03:00 | BRADY",
-      "link": "/truc-tiep/leeds-united-vs-brentford-luc-0300-ngay-22-03-2026/",
+      "name": "Sevilla vs Valencia CF lúc 03:00 | FINN",
+      "link": "/truc-tiep/sevilla-vs-valencia-cf-luc-0300-ngay-22-03-2026/",
       "runtime": 1774123200,
       "datetime": "2026-03-21T20:00:00.000Z"
     },
     {
-      "name": "Sevilla vs Valencia CF lúc 03:00 | FINN",
-      "link": "/truc-tiep/sevilla-vs-valencia-cf-luc-0300-ngay-22-03-2026/",
+      "name": "Leeds United vs Brentford lúc 03:00 | BRADY",
+      "link": "/truc-tiep/leeds-united-vs-brentford-luc-0300-ngay-22-03-2026/",
       "runtime": 1774123200,
       "datetime": "2026-03-21T20:00:00.000Z"
     },
@@ -220,6 +154,12 @@
       "datetime": "2026-03-21T20:05:00.000Z"
     },
     {
+      "name": "Andrey Rublev vs Alejandro Tabilo lúc 03:10",
+      "link": "/truc-tiep/andrey-rublev-vs-alejandro-tabilo-luc-0310-ngay-22-03-2026/",
+      "runtime": 1774123800,
+      "datetime": "2026-03-21T20:10:00.000Z"
+    },
+    {
       "name": "CD Tondela vs AVS Futebol  lúc 03:30 | HELLO",
       "link": "/truc-tiep/cd-tondela-vs-avs-futebol-luc-0330-ngay-22-03-2026/",
       "runtime": 1774125000,
@@ -260,6 +200,12 @@
       "link": "/truc-tiep/newell-old-boys-vs-gimnasia-mendoza-luc-0345-ngay-22-03-2026/",
       "runtime": 1774125900,
       "datetime": "2026-03-21T20:45:00.000Z"
+    },
+    {
+      "name": "Adam Walton vs Jakub Mensik lúc 03:55",
+      "link": "/truc-tiep/adam-walton-vs-jakub-mensik-luc-0355-ngay-22-03-2026/",
+      "runtime": 1774126500,
+      "datetime": "2026-03-21T20:55:00.000Z"
     },
     {
       "name": "Colo Colo vs Coquimbo Unido lúc 04:00",
@@ -370,10 +316,22 @@
       "datetime": "2026-03-21T22:00:00.000Z"
     },
     {
+      "name": "Brandon Nakashima vs Marin Cilic lúc 05:00",
+      "link": "/truc-tiep/brandon-nakashima-vs-marin-cilic-luc-0500-ngay-22-03-2026/",
+      "runtime": 1774130400,
+      "datetime": "2026-03-21T22:00:00.000Z"
+    },
+    {
       "name": "Nữ San Martin Porres  vs Nữ Circolo lúc 05:00",
       "link": "/truc-tiep/nu-san-martin-porres-vs-nu-circolo-luc-0500-ngay-22-03-2026/",
       "runtime": 1774130400,
       "datetime": "2026-03-21T22:00:00.000Z"
+    },
+    {
+      "name": "Frances Tiafoe vs Arthur Cazaux lúc 05:05",
+      "link": "/truc-tiep/frances-tiafoe-vs-arthur-cazaux-luc-0505-ngay-22-03-2026/",
+      "runtime": 1774130700,
+      "datetime": "2026-03-21T22:05:00.000Z"
     },
     {
       "name": "Nashville vs Orlando City lúc 05:15 | SILVA",
@@ -386,6 +344,18 @@
       "link": "/truc-tiep/botafogo-sp-vs-fortaleza-luc-0515-ngay-22-03-2026/",
       "runtime": 1774131300,
       "datetime": "2026-03-21T22:15:00.000Z"
+    },
+    {
+      "name": "CA Penarol vs Cerro Montevideo lúc 05:30",
+      "link": "/truc-tiep/ca-penarol-vs-cerro-montevideo-luc-0530-ngay-22-03-2026/",
+      "runtime": 1774132200,
+      "datetime": "2026-03-21T22:30:00.000Z"
+    },
+    {
+      "name": "Nữ Gotham FC vs Nữ North Carolina lúc 05:30",
+      "link": "/truc-tiep/nu-gotham-fc-vs-nu-north-carolina-luc-0530-ngay-22-03-2026/",
+      "runtime": 1774132200,
+      "datetime": "2026-03-21T22:30:00.000Z"
     }
   ]
 }
