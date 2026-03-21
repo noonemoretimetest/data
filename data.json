@@ -1,49 +1,13 @@
 {
   "success": true,
-  "total_matches": 66,
-  "updated_at": "2026-03-21T23:18:58.154Z",
+  "total_matches": 63,
+  "updated_at": "2026-03-21T23:43:02.840Z",
   "matches": [
-    {
-      "name": "Adam Walton vs Jakub Mensik lúc 03:55",
-      "link": "/truc-tiep/adam-walton-vs-jakub-mensik-luc-0355-ngay-22-03-2026/",
-      "runtime": 1774126500,
-      "datetime": "2026-03-21T20:55:00.000Z"
-    },
-    {
-      "name": "Washington Wizards vs Oklahoma City Thunder lúc 04:00 | ALAN",
-      "link": "/truc-tiep/washington-wizards-vs-oklahoma-city-thunder-luc-0400-ngay-22-03-2026/",
-      "runtime": 1774126800,
-      "datetime": "2026-03-21T21:00:00.000Z"
-    },
-    {
-      "name": "Fluminense RJ vs Atletico Mineiro lúc 04:30 | TONI",
-      "link": "/truc-tiep/fluminense-rj-vs-atletico-mineiro-luc-0430-ngay-22-03-2026/",
-      "runtime": 1774128600,
-      "datetime": "2026-03-21T21:30:00.000Z"
-    },
-    {
-      "name": "Deportivo Cuenca vs Macara lúc 04:30",
-      "link": "/truc-tiep/deportivo-cuenca-vs-macara-luc-0430-ngay-22-03-2026/",
-      "runtime": 1774128600,
-      "datetime": "2026-03-21T21:30:00.000Z"
-    },
-    {
-      "name": "Club Guaraní vs Olimpia Asuncion lúc 04:30",
-      "link": "/truc-tiep/club-guarani-vs-olimpia-asuncion-luc-0430-ngay-22-03-2026/",
-      "runtime": 1774128600,
-      "datetime": "2026-03-21T21:30:00.000Z"
-    },
     {
       "name": "Guarulhos vs SESI-SP lúc 04:30",
       "link": "/truc-tiep/guarulhos-vs-sesi-sp-luc-0430-ngay-22-03-2026/",
       "runtime": 1774128600,
       "datetime": "2026-03-21T21:30:00.000Z"
-    },
-    {
-      "name": "Nữ Cruz Azul vs Nữ Mazatlan lúc 04:45",
-      "link": "/truc-tiep/nu-cruz-azul-vs-nu-mazatlan-luc-0445-ngay-22-03-2026/",
-      "runtime": 1774129500,
-      "datetime": "2026-03-21T21:45:00.000Z"
     },
     {
       "name": "Tristan Suarez vs Gimnasia Jujuy lúc 05:00",
@@ -398,6 +362,24 @@
       "link": "/truc-tiep/belgrano-vs-racing-club-luc-0815-ngay-22-03-2026/",
       "runtime": 1774142100,
       "datetime": "2026-03-22T01:15:00.000Z"
+    },
+    {
+      "name": "CD Arabe Unido vs CD Universitario lúc 08:30",
+      "link": "/truc-tiep/cd-arabe-unido-vs-cd-universitario-luc-0830-ngay-22-03-2026/",
+      "runtime": 1774143000,
+      "datetime": "2026-03-22T01:30:00.000Z"
+    },
+    {
+      "name": "Atl. Nacional vs Internacional de Bogota lúc 08:30",
+      "link": "/truc-tiep/atl-nacional-vs-internacional-de-bogota-luc-0830-ngay-22-03-2026/",
+      "runtime": 1774143000,
+      "datetime": "2026-03-22T01:30:00.000Z"
+    },
+    {
+      "name": "Utah Jazz vs Philadelphia 76ers lúc 08:30 | TOMMY",
+      "link": "/truc-tiep/utah-jazz-vs-philadelphia-76ers-luc-0830-ngay-22-03-2026/",
+      "runtime": 1774143000,
+      "datetime": "2026-03-22T01:30:00.000Z"
     }
   ]
 }
