@@ -1,38 +1,8 @@
 {
   "success": true,
-  "total_matches": 62,
-  "updated_at": "2026-03-21T22:18:04.091Z",
+  "total_matches": 65,
+  "updated_at": "2026-03-21T22:45:16.612Z",
   "matches": [
-    {
-      "name": "Andrey Rublev vs Alejandro Tabilo lúc 03:10",
-      "link": "/truc-tiep/andrey-rublev-vs-alejandro-tabilo-luc-0310-ngay-22-03-2026/",
-      "runtime": 1774123800,
-      "datetime": "2026-03-21T20:10:00.000Z"
-    },
-    {
-      "name": "CD Tondela vs AVS Futebol  lúc 03:30 | HELLO",
-      "link": "/truc-tiep/cd-tondela-vs-avs-futebol-luc-0330-ngay-22-03-2026/",
-      "runtime": 1774125000,
-      "datetime": "2026-03-21T20:30:00.000Z"
-    },
-    {
-      "name": "Philadelphia Union vs Chicago Fire lúc 03:30 | YUNO",
-      "link": "/truc-tiep/philadelphia-union-vs-chicago-fire-luc-0330-ngay-22-03-2026/",
-      "runtime": 1774125000,
-      "datetime": "2026-03-21T20:30:00.000Z"
-    },
-    {
-      "name": "Los Chankas vs Sporting Cristal lúc 03:30",
-      "link": "/truc-tiep/los-chankas-vs-sporting-cristal-luc-0330-ngay-22-03-2026/",
-      "runtime": 1774125000,
-      "datetime": "2026-03-21T20:30:00.000Z"
-    },
-    {
-      "name": "Defensa Y Justicia vs Union Santa Fe lúc 03:45",
-      "link": "/truc-tiep/defensa-y-justicia-vs-union-santa-fe-luc-0345-ngay-22-03-2026/",
-      "runtime": 1774125900,
-      "datetime": "2026-03-21T20:45:00.000Z"
-    },
     {
       "name": "Newell Old Boys vs Gimnasia Mendoza lúc 03:45",
       "link": "/truc-tiep/newell-old-boys-vs-gimnasia-mendoza-luc-0345-ngay-22-03-2026/",
@@ -374,6 +344,54 @@
       "link": "/truc-tiep/nu-dallas-pulse-vs-nu-san-diego-mojo-luc-0700-ngay-22-03-2026/",
       "runtime": 1774137600,
       "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "Sporting Kansas vs Colorado Rapids lúc 07:30 | LOGAN",
+      "link": "/truc-tiep/sporting-kansas-vs-colorado-rapids-luc-0730-ngay-22-03-2026/",
+      "runtime": 1774139400,
+      "datetime": "2026-03-22T00:30:00.000Z"
+    },
+    {
+      "name": "St. Louis City vs New England lúc 07:30 | RYAN",
+      "link": "/truc-tiep/st-louis-city-vs-new-england-luc-0730-ngay-22-03-2026/",
+      "runtime": 1774139400,
+      "datetime": "2026-03-22T00:30:00.000Z"
+    },
+    {
+      "name": "FC Dallas vs Houston Dynamo lúc 07:30 | NEMO",
+      "link": "/truc-tiep/fc-dallas-vs-houston-dynamo-luc-0730-ngay-22-03-2026/",
+      "runtime": 1774139400,
+      "datetime": "2026-03-22T00:30:00.000Z"
+    },
+    {
+      "name": "San Antonio vs New Mexico United lúc 07:30",
+      "link": "/truc-tiep/san-antonio-vs-new-mexico-united-luc-0730-ngay-22-03-2026/",
+      "runtime": 1774139400,
+      "datetime": "2026-03-22T00:30:00.000Z"
+    },
+    {
+      "name": "Dallas Mavericks vs Los Angeles Clippers lúc 07:30",
+      "link": "/truc-tiep/dallas-mavericks-vs-los-angeles-clippers-luc-0730-ngay-22-03-2026/",
+      "runtime": 1774139400,
+      "datetime": "2026-03-22T00:30:00.000Z"
+    },
+    {
+      "name": "Martin Damm Jr vs Alexander Zverev lúc 07:30 | VIC",
+      "link": "/truc-tiep/martin-damm-jr-vs-alexander-zverev-luc-0730-ngay-22-03-2026/",
+      "runtime": 1774139400,
+      "datetime": "2026-03-22T00:30:00.000Z"
+    },
+    {
+      "name": "Austin FC vs Los Angeles FC lúc 07:45 | ZARA",
+      "link": "/truc-tiep/austin-fc-vs-los-angeles-fc-luc-0745-ngay-22-03-2026/",
+      "runtime": 1774140300,
+      "datetime": "2026-03-22T00:45:00.000Z"
+    },
+    {
+      "name": "Nữ Bay FC vs Nữ Angel City lúc 07:45",
+      "link": "/truc-tiep/nu-bay-fc-vs-nu-angel-city-luc-0745-ngay-22-03-2026/",
+      "runtime": 1774140300,
+      "datetime": "2026-03-22T00:45:00.000Z"
     }
   ]
 }
