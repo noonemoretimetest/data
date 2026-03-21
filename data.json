@@ -1,74 +1,8 @@
 {
   "success": true,
-  "total_matches": 66,
-  "updated_at": "2026-03-21T21:42:42.457Z",
+  "total_matches": 62,
+  "updated_at": "2026-03-21T22:18:04.091Z",
   "matches": [
-    {
-      "name": "Rune Eaters Esports vs Level Up lúc 02:00",
-      "link": "/truc-tiep/rune-eaters-esports-vs-level-up-luc-0200-ngay-22-03-2026/",
-      "runtime": 1774119600,
-      "datetime": "2026-03-21T19:00:00.000Z"
-    },
-    {
-      "name": "Juventus vs Sassuolo lúc 02:45 | LOUIS",
-      "link": "/truc-tiep/juventus-vs-sassuolo-luc-0245-ngay-22-03-2026/",
-      "runtime": 1774122300,
-      "datetime": "2026-03-21T19:45:00.000Z"
-    },
-    {
-      "name": "Leeds United vs Brentford lúc 03:00 | BRADY",
-      "link": "/truc-tiep/leeds-united-vs-brentford-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "Sevilla vs Valencia CF lúc 03:00 | FINN",
-      "link": "/truc-tiep/sevilla-vs-valencia-cf-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "PEC Zwolle vs NAC Breda lúc 03:00 | OLER",
-      "link": "/truc-tiep/pec-zwolle-vs-nac-breda-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "Dep. La Coruna vs Real Zaragoza lúc 03:00",
-      "link": "/truc-tiep/dep-la-coruna-vs-real-zaragoza-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "Cliftonville vs Ballymena United FC lúc 03:00",
-      "link": "/truc-tiep/cliftonville-vs-ballymena-united-fc-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "Real Santander vs Tigres Zipaquira lúc 03:00",
-      "link": "/truc-tiep/real-santander-vs-tigres-zipaquira-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "Louisville City vs Rhode Island lúc 03:00",
-      "link": "/truc-tiep/louisville-city-vs-rhode-island-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "Vila Nova vs CRB AL lúc 03:00",
-      "link": "/truc-tiep/vila-nova-vs-crb-al-luc-0300-ngay-22-03-2026/",
-      "runtime": 1774123200,
-      "datetime": "2026-03-21T20:00:00.000Z"
-    },
-    {
-      "name": "OGC Nice vs PSG lúc 03:05 | MAX",
-      "link": "/truc-tiep/ogc-nice-vs-psg-luc-0305-ngay-22-03-2026/",
-      "runtime": 1774123500,
-      "datetime": "2026-03-21T20:05:00.000Z"
-    },
     {
       "name": "Andrey Rublev vs Alejandro Tabilo lúc 03:10",
       "link": "/truc-tiep/andrey-rublev-vs-alejandro-tabilo-luc-0310-ngay-22-03-2026/",
@@ -90,18 +24,6 @@
     {
       "name": "Los Chankas vs Sporting Cristal lúc 03:30",
       "link": "/truc-tiep/los-chankas-vs-sporting-cristal-luc-0330-ngay-22-03-2026/",
-      "runtime": 1774125000,
-      "datetime": "2026-03-21T20:30:00.000Z"
-    },
-    {
-      "name": "22 de Julio vs Pottu Via Ho lúc 03:30",
-      "link": "/truc-tiep/22-de-julio-vs-pottu-via-ho-luc-0330-ngay-22-03-2026/",
-      "runtime": 1774125000,
-      "datetime": "2026-03-21T20:30:00.000Z"
-    },
-    {
-      "name": "Gualaceo SC vs Cuenca Juniors lúc 03:30",
-      "link": "/truc-tiep/gualaceo-sc-vs-cuenca-juniors-luc-0330-ngay-22-03-2026/",
       "runtime": 1774125000,
       "datetime": "2026-03-21T20:30:00.000Z"
     },
@@ -398,6 +320,60 @@
       "link": "/truc-tiep/cobresal-vs-nublense-luc-0630-ngay-22-03-2026/",
       "runtime": 1774135800,
       "datetime": "2026-03-21T23:30:00.000Z"
+    },
+    {
+      "name": "Sao Paulo vs Palmeiras lúc 07:00",
+      "link": "/truc-tiep/sao-paulo-vs-palmeiras-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "LDU Quito vs Manta FC lúc 07:00",
+      "link": "/truc-tiep/ldu-quito-vs-manta-fc-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "Huntsville City vs Chattanooga lúc 07:00",
+      "link": "/truc-tiep/huntsville-city-vs-chattanooga-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "Colorado Rapids II vs SJ Earthquakes (R) lúc 07:00",
+      "link": "/truc-tiep/colorado-rapids-ii-vs-sj-earthquakes-r-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "FC Tulsa vs Las Vegas Lights lúc 07:00",
+      "link": "/truc-tiep/fc-tulsa-vs-las-vegas-lights-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "Atlanta Hawks vs Golden State Warriors lúc 07:00 | ALAN",
+      "link": "/truc-tiep/atlanta-hawks-vs-golden-state-warriors-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "San Antonio Spurs vs Indiana Pacers lúc 07:00",
+      "link": "/truc-tiep/san-antonio-spurs-vs-indiana-pacers-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "Houston Rockets vs Miami Heat lúc 07:00",
+      "link": "/truc-tiep/houston-rockets-vs-miami-heat-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Dallas Pulse vs Nữ San Diego Mojo  lúc 07:00",
+      "link": "/truc-tiep/nu-dallas-pulse-vs-nu-san-diego-mojo-luc-0700-ngay-22-03-2026/",
+      "runtime": 1774137600,
+      "datetime": "2026-03-22T00:00:00.000Z"
     }
   ]
 }
