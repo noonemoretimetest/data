@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 80,
-  "updated_at": "2026-03-21T11:20:39.544Z",
+  "total_matches": 86,
+  "updated_at": "2026-03-21T11:52:02.801Z",
   "matches": [
     {
       "name": "MANA vs The Last Resort lúc 16:00",
@@ -482,6 +482,42 @@
       "link": "/truc-tiep/gonzalo-escobar-nino-serdarusic-vs-simone-agostini-jonas-forejtek-luc-2010-ngay-21-03-2026/",
       "runtime": 1774098600,
       "datetime": "2026-03-21T13:10:00.000Z"
+    },
+    {
+      "name": "Rukh Vynnyky vs LNZ Cherkasy lúc 20:30",
+      "link": "/truc-tiep/rukh-vynnyky-vs-lnz-cherkasy-luc-2030-ngay-21-03-2026/",
+      "runtime": 1774099800,
+      "datetime": "2026-03-21T13:30:00.000Z"
+    },
+    {
+      "name": "LKS Lodz vs Ruch Chorzow lúc 20:30",
+      "link": "/truc-tiep/lks-lodz-vs-ruch-chorzow-luc-2030-ngay-21-03-2026/",
+      "runtime": 1774099800,
+      "datetime": "2026-03-21T13:30:00.000Z"
+    },
+    {
+      "name": "Goztepe vs Konya Buyuksehir lúc 20:30",
+      "link": "/truc-tiep/goztepe-vs-konya-buyuksehir-luc-2030-ngay-21-03-2026/",
+      "runtime": 1774099800,
+      "datetime": "2026-03-21T13:30:00.000Z"
+    },
+    {
+      "name": "MOUZ vs 9z lúc 20:30",
+      "link": "/truc-tiep/mouz-vs-9z-luc-2030-ngay-21-03-2026/",
+      "runtime": 1774099800,
+      "datetime": "2026-03-21T13:30:00.000Z"
+    },
+    {
+      "name": "Cracovia Krakow vs GKS Katowice lúc 20:45 | SILVA",
+      "link": "/truc-tiep/cracovia-krakow-vs-gks-katowice-luc-2045-ngay-21-03-2026/",
+      "runtime": 1774100700,
+      "datetime": "2026-03-21T13:45:00.000Z"
+    },
+    {
+      "name": "Zawiercie vs Kedzierzyn-Kozle lúc 20:45",
+      "link": "/truc-tiep/zawiercie-vs-kedzierzyn-kozle-luc-2045-ngay-21-03-2026/",
+      "runtime": 1774100700,
+      "datetime": "2026-03-21T13:45:00.000Z"
     }
   ]
 }
