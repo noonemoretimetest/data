@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 93,
-  "updated_at": "2026-03-22T16:23:01.634Z",
+  "total_matches": 90,
+  "updated_at": "2026-03-22T16:58:43.251Z",
   "matches": [
     {
       "name": "Christian Langmo vs Simone Agostini lúc 19:30",
@@ -10,52 +10,10 @@
       "datetime": "2026-03-22T12:30:00.000Z"
     },
     {
-      "name": "G2 Esports vs Bilibili Gaming lúc 20:00",
-      "link": "/truc-tiep/g2-esports-vs-bilibili-gaming-luc-2000-ngay-22-03-2026/",
-      "runtime": 1774184400,
-      "datetime": "2026-03-22T13:00:00.000Z"
-    },
-    {
       "name": "Toma Junior Popov vs Alex Lanier lúc 20:20",
       "link": "/truc-tiep/toma-junior-popov-vs-alex-lanier-luc-2020-ngay-22-03-2026/",
       "runtime": 1774185600,
       "datetime": "2026-03-22T13:20:00.000Z"
-    },
-    {
-      "name": "Benjamin Hassan vs Sergi Perez Contri lúc 20:30",
-      "link": "/truc-tiep/benjamin-hassan-vs-sergi-perez-contri-luc-2030-ngay-22-03-2026/",
-      "runtime": 1774186200,
-      "datetime": "2026-03-22T13:30:00.000Z"
-    },
-    {
-      "name": "CSKA Moscow vs Nizhnevartovsk lúc 21:00",
-      "link": "/truc-tiep/cska-moscow-vs-nizhnevartovsk-luc-2100-ngay-22-03-2026/",
-      "runtime": 1774188000,
-      "datetime": "2026-03-22T14:00:00.000Z"
-    },
-    {
-      "name": "Daniel Cukierman vs Jefferson Wendler Filho lúc 21:10",
-      "link": "/truc-tiep/daniel-cukierman-vs-jefferson-wendler-filho-luc-2110-ngay-22-03-2026/",
-      "runtime": 1774188600,
-      "datetime": "2026-03-22T14:10:00.000Z"
-    },
-    {
-      "name": "Mainz 05 vs Eintracht Frankfurt lúc 21:30 | HELLO",
-      "link": "/truc-tiep/mainz-05-vs-eintracht-frankfurt-luc-2130-ngay-22-03-2026/",
-      "runtime": 1774189800,
-      "datetime": "2026-03-22T14:30:00.000Z"
-    },
-    {
-      "name": "MFK Skalica vs KFC Komarno lúc 21:30",
-      "link": "/truc-tiep/mfk-skalica-vs-kfc-komarno-luc-2130-ngay-22-03-2026/",
-      "runtime": 1774189800,
-      "datetime": "2026-03-22T14:30:00.000Z"
-    },
-    {
-      "name": "Transinvest vs Dziugas Telsiai lúc 21:30",
-      "link": "/truc-tiep/transinvest-vs-dziugas-telsiai-luc-2130-ngay-22-03-2026/",
-      "runtime": 1774189800,
-      "datetime": "2026-03-22T14:30:00.000Z"
     },
     {
       "name": "Team Yandex  vs Parivision lúc 21:30",
@@ -66,12 +24,6 @@
     {
       "name": "Copenhagen vs Fredericia lúc 22:00 | JAY",
       "link": "/truc-tiep/copenhagen-vs-fredericia-luc-2200-ngay-22-03-2026/",
-      "runtime": 1774191600,
-      "datetime": "2026-03-22T15:00:00.000Z"
-    },
-    {
-      "name": "Mjallby AIF vs GAIS lúc 22:00",
-      "link": "/truc-tiep/mjallby-aif-vs-gais-luc-2200-ngay-22-03-2026/",
       "runtime": 1774191600,
       "datetime": "2026-03-22T15:00:00.000Z"
     },
@@ -102,12 +54,6 @@
     {
       "name": "Besiktas GAIN vs Medical Trabzonspor lúc 22:00",
       "link": "/truc-tiep/besiktas-gain-vs-medical-trabzonspor-luc-2200-ngay-22-03-2026/",
-      "runtime": 1774191600,
-      "datetime": "2026-03-22T15:00:00.000Z"
-    },
-    {
-      "name": "Ethan Quinn vs Jiri Lehecka lúc 22:00 | VIC",
-      "link": "/truc-tiep/ethan-quinn-vs-jiri-lehecka-luc-2200-ngay-22-03-2026/",
       "runtime": 1774191600,
       "datetime": "2026-03-22T15:00:00.000Z"
     },
@@ -560,6 +506,42 @@
       "link": "/truc-tiep/carlos-alcaraz-garfia-vs-sebastian-korda-luc-0120-ngay-23-03-2026/",
       "runtime": 1774203600,
       "datetime": "2026-03-22T18:20:00.000Z"
+    },
+    {
+      "name": "Augsburg vs VfB Stuttgart lúc 01:30 | SILVA",
+      "link": "/truc-tiep/augsburg-vs-vfb-stuttgart-luc-0130-ngay-23-03-2026/",
+      "runtime": 1774204200,
+      "datetime": "2026-03-22T18:30:00.000Z"
+    },
+    {
+      "name": "Sarmiento Junin vs Aldosivi lúc 01:30",
+      "link": "/truc-tiep/sarmiento-junin-vs-aldosivi-luc-0130-ngay-23-03-2026/",
+      "runtime": 1774204200,
+      "datetime": "2026-03-22T18:30:00.000Z"
+    },
+    {
+      "name": "Nữ CH Dominican U17 vs Nữ Nicaragua U17 lúc 01:30",
+      "link": "/truc-tiep/nu-ch-dominican-u17-vs-nu-nicaragua-u17-luc-0130-ngay-23-03-2026/",
+      "runtime": 1774204200,
+      "datetime": "2026-03-22T18:30:00.000Z"
+    },
+    {
+      "name": "Minnesota United FC vs Seattle Sounders lúc 01:30 | TONI",
+      "link": "/truc-tiep/minnesota-united-fc-vs-seattle-sounders-luc-0130-ngay-23-03-2026/",
+      "runtime": 1774204200,
+      "datetime": "2026-03-22T18:30:00.000Z"
+    },
+    {
+      "name": "ACD Virtus Entella vs BC Reggiana 1919 lúc 01:30",
+      "link": "/truc-tiep/acd-virtus-entella-vs-bc-reggiana-1919-luc-0130-ngay-23-03-2026/",
+      "runtime": 1774204200,
+      "datetime": "2026-03-22T18:30:00.000Z"
+    },
+    {
+      "name": "9z vs Spirit lúc 01:30",
+      "link": "/truc-tiep/9z-vs-spirit-luc-0130-ngay-23-03-2026/",
+      "runtime": 1774204200,
+      "datetime": "2026-03-22T18:30:00.000Z"
     }
   ]
 }
