@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 65,
-  "updated_at": "2026-03-22T22:19:48.026Z",
+  "total_matches": 63,
+  "updated_at": "2026-03-22T22:47:44.578Z",
   "matches": [
     {
       "name": "Toma Junior Popov vs Alex Lanier lúc 20:20",
@@ -26,30 +26,6 @@
       "link": "/truc-tiep/chicago-flame-b-vs-carolina-core-luc-0300-ngay-23-03-2026/",
       "runtime": 1774209600,
       "datetime": "2026-03-22T20:00:00.000Z"
-    },
-    {
-      "name": "Sporting Braga vs FC Porto lúc 03:30 | HELLO",
-      "link": "/truc-tiep/sporting-braga-vs-fc-porto-luc-0330-ngay-23-03-2026/",
-      "runtime": 1774211400,
-      "datetime": "2026-03-22T20:30:00.000Z"
-    },
-    {
-      "name": "Atletico Grau vs Dep. Garcilaso lúc 03:30",
-      "link": "/truc-tiep/atletico-grau-vs-dep-garcilaso-luc-0330-ngay-23-03-2026/",
-      "runtime": 1774211400,
-      "datetime": "2026-03-22T20:30:00.000Z"
-    },
-    {
-      "name": "Barcelona SC vs Universidad Católica lúc 03:30",
-      "link": "/truc-tiep/barcelona-sc-vs-universidad-catolica-luc-0330-ngay-23-03-2026/",
-      "runtime": 1774211400,
-      "datetime": "2026-03-22T20:30:00.000Z"
-    },
-    {
-      "name": "Trujillanos vs Zamora Barinas lúc 03:30",
-      "link": "/truc-tiep/trujillanos-vs-zamora-barinas-luc-0330-ngay-23-03-2026/",
-      "runtime": 1774211400,
-      "datetime": "2026-03-22T20:30:00.000Z"
     },
     {
       "name": "Xtreme Gaming vs Team Falcons lúc 03:30",
@@ -392,6 +368,18 @@
       "link": "/truc-tiep/voca-vs-imperial-luc-0700-ngay-23-03-2026/",
       "runtime": 1774224000,
       "datetime": "2026-03-23T00:00:00.000Z"
+    },
+    {
+      "name": "Arthur Fils vs Stefanos Tsitsipas lúc 07:30 | VIC",
+      "link": "/truc-tiep/arthur-fils-vs-stefanos-tsitsipas-luc-0730-ngay-23-03-2026/",
+      "runtime": 1774225800,
+      "datetime": "2026-03-23T00:30:00.000Z"
+    },
+    {
+      "name": "UConn Huskies vs UCLA lúc 07:45",
+      "link": "/truc-tiep/uconn-huskies-vs-ucla-luc-0745-ngay-23-03-2026/",
+      "runtime": 1774226700,
+      "datetime": "2026-03-23T00:45:00.000Z"
     }
   ]
 }
