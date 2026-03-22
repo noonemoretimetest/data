@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-03-22T23:21:44.121Z",
+  "total_matches": 58,
+  "updated_at": "2026-03-22T23:56:46.374Z",
   "matches": [
     {
       "name": "Toma Junior Popov vs Alex Lanier lúc 20:20",
       "link": "/truc-tiep/toma-junior-popov-vs-alex-lanier-luc-2020-ngay-22-03-2026/",
       "runtime": 1774185600,
       "datetime": "2026-03-22T13:20:00.000Z"
-    },
-    {
-      "name": "Vitoria BA vs Mirassol lúc 04:30",
-      "link": "/truc-tiep/vitoria-ba-vs-mirassol-luc-0430-ngay-23-03-2026/",
-      "runtime": 1774215000,
-      "datetime": "2026-03-22T21:30:00.000Z"
-    },
-    {
-      "name": "Internacional RS vs Chapecoense SC lúc 04:30 | ZARA",
-      "link": "/truc-tiep/internacional-rs-vs-chapecoense-sc-luc-0430-ngay-23-03-2026/",
-      "runtime": 1774215000,
-      "datetime": "2026-03-22T21:30:00.000Z"
-    },
-    {
-      "name": "Sportivo San Lorenzo vs FC Nacional Asuncion lúc 04:30",
-      "link": "/truc-tiep/sportivo-san-lorenzo-vs-fc-nacional-asuncion-luc-0430-ngay-23-03-2026/",
-      "runtime": 1774215000,
-      "datetime": "2026-03-22T21:30:00.000Z"
-    },
-    {
-      "name": "Deportivo Tachira vs Estudiantes Merida lúc 04:30",
-      "link": "/truc-tiep/deportivo-tachira-vs-estudiantes-merida-luc-0430-ngay-23-03-2026/",
-      "runtime": 1774215000,
-      "datetime": "2026-03-22T21:30:00.000Z"
     },
     {
       "name": "Uberlandia Gabarito vs Praia Clube lúc 04:30",
@@ -72,12 +48,6 @@
     {
       "name": "Nữ Alianza Lima vs Nữ Deportivo Soan  lúc 05:00",
       "link": "/truc-tiep/nu-alianza-lima-vs-nu-deportivo-soan-luc-0500-ngay-23-03-2026/",
-      "runtime": 1774216800,
-      "datetime": "2026-03-22T22:00:00.000Z"
-    },
-    {
-      "name": "GUARA vs Atrix lúc 05:00",
-      "link": "/truc-tiep/guara-vs-atrix-luc-0500-ngay-23-03-2026/",
       "runtime": 1774216800,
       "datetime": "2026-03-22T22:00:00.000Z"
     },
@@ -362,6 +332,24 @@
       "link": "/truc-tiep/argentinos-juniors-vs-ca-platense-luc-0815-ngay-23-03-2026/",
       "runtime": 1774228500,
       "datetime": "2026-03-23T01:15:00.000Z"
+    },
+    {
+      "name": "Juticalpa vs CD Olimpia lúc 08:30",
+      "link": "/truc-tiep/juticalpa-vs-cd-olimpia-luc-0830-ngay-23-03-2026/",
+      "runtime": 1774229400,
+      "datetime": "2026-03-23T01:30:00.000Z"
+    },
+    {
+      "name": "Real Cartagena vs Union Magdalena lúc 08:30",
+      "link": "/truc-tiep/real-cartagena-vs-union-magdalena-luc-0830-ngay-23-03-2026/",
+      "runtime": 1774229400,
+      "datetime": "2026-03-23T01:30:00.000Z"
+    },
+    {
+      "name": "Alabama vs Texas Tech lúc 08:45",
+      "link": "/truc-tiep/alabama-vs-texas-tech-luc-0845-ngay-23-03-2026/",
+      "runtime": 1774230300,
+      "datetime": "2026-03-23T01:45:00.000Z"
     }
   ]
 }
