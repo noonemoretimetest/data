@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 52,
-  "updated_at": "2026-03-24T18:55:10.099Z",
+  "total_matches": 48,
+  "updated_at": "2026-03-24T19:50:37.539Z",
   "matches": [
     {
       "name": "Toma Junior Popov vs Alex Lanier lúc 20:20",
@@ -16,40 +16,10 @@
       "datetime": "2026-03-24T16:10:00.000Z"
     },
     {
-      "name": "Dep. Maldonado vs Montevideo City lúc 00:00 | HELLO",
-      "link": "/truc-tiep/dep-maldonado-vs-montevideo-city-luc-0000-ngay-25-03-2026/",
-      "runtime": 1774371600,
-      "datetime": "2026-03-24T17:00:00.000Z"
-    },
-    {
       "name": "Verva Warszawa vs Politechnika Lublin lúc 00:00",
       "link": "/truc-tiep/verva-warszawa-vs-politechnika-lublin-luc-0000-ngay-25-03-2026/",
       "runtime": 1774371600,
       "datetime": "2026-03-24T17:00:00.000Z"
-    },
-    {
-      "name": "Umm Salal vs Al Bidda SC lúc 00:15 | KEN",
-      "link": "/truc-tiep/umm-salal-vs-al-bidda-sc-luc-0015-ngay-25-03-2026/",
-      "runtime": 1774372500,
-      "datetime": "2026-03-24T17:15:00.000Z"
-    },
-    {
-      "name": "Pain Gaming vs Team Falcons lúc 00:15",
-      "link": "/truc-tiep/pain-gaming-vs-team-falcons-luc-0015-ngay-25-03-2026/",
-      "runtime": 1774372500,
-      "datetime": "2026-03-24T17:15:00.000Z"
-    },
-    {
-      "name": "Maccabi Tel Aviv vs Fenerbahçe Istanbul lúc 00:30 | ALAN",
-      "link": "/truc-tiep/maccabi-tel-aviv-vs-fenerbahce-istanbul-luc-0030-ngay-25-03-2026/",
-      "runtime": 1774373400,
-      "datetime": "2026-03-24T17:30:00.000Z"
-    },
-    {
-      "name": "Nữ Wolfsburg vs Nữ Lyon lúc 00:45 | MAX - ASTRA",
-      "link": "/truc-tiep/nu-wolfsburg-vs-nu-lyon-luc-0045-ngay-25-03-2026/",
-      "runtime": 1774374300,
-      "datetime": "2026-03-24T17:45:00.000Z"
     },
     {
       "name": "Valentin Vacherot vs Arthur Fils lúc 00:50 | LUCAS",
@@ -72,12 +42,6 @@
     {
       "name": "Rheindorf Altach B vs Bischofshofen lúc 01:00",
       "link": "/truc-tiep/rheindorf-altach-b-vs-bischofshofen-luc-0100-ngay-25-03-2026/",
-      "runtime": 1774375200,
-      "datetime": "2026-03-24T18:00:00.000Z"
-    },
-    {
-      "name": "Zalgiris Kaunas vs Bayern Munchen lúc 01:00 | STEP",
-      "link": "/truc-tiep/zalgiris-kaunas-vs-bayern-munchen-luc-0100-ngay-25-03-2026/",
       "runtime": 1774375200,
       "datetime": "2026-03-24T18:00:00.000Z"
     },
@@ -168,12 +132,6 @@
     {
       "name": "Guaguas vs Perugia lúc 02:00",
       "link": "/truc-tiep/guaguas-vs-perugia-luc-0200-ngay-25-03-2026/",
-      "runtime": 1774378800,
-      "datetime": "2026-03-24T19:00:00.000Z"
-    },
-    {
-      "name": "Movistar KOI Fénix vs Galions lúc 02:00",
-      "link": "/truc-tiep/movistar-koi-fenix-vs-galions-luc-0200-ngay-25-03-2026/",
       "runtime": 1774378800,
       "datetime": "2026-03-24T19:00:00.000Z"
     },
@@ -314,6 +272,24 @@
       "link": "/truc-tiep/deportivo-pereira-vs-cucuta-deportivo-luc-0330-ngay-25-03-2026/",
       "runtime": 1774384200,
       "datetime": "2026-03-24T20:30:00.000Z"
+    },
+    {
+      "name": "Universidad de Chile vs Union La Calera lúc 04:00",
+      "link": "/truc-tiep/universidad-de-chile-vs-union-la-calera-luc-0400-ngay-25-03-2026/",
+      "runtime": 1774386000,
+      "datetime": "2026-03-24T21:00:00.000Z"
+    },
+    {
+      "name": "Cook Islands U16 vs American Samoa U16 lúc 04:00",
+      "link": "/truc-tiep/cook-islands-u16-vs-american-samoa-u16-luc-0400-ngay-25-03-2026/",
+      "runtime": 1774386000,
+      "datetime": "2026-03-24T21:00:00.000Z"
+    },
+    {
+      "name": "Montreal Toundra vs Newfoundland Rogues lúc 04:00",
+      "link": "/truc-tiep/montreal-toundra-vs-newfoundland-rogues-luc-0400-ngay-25-03-2026/",
+      "runtime": 1774386000,
+      "datetime": "2026-03-24T21:00:00.000Z"
     }
   ]
 }
