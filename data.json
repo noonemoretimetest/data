@@ -1,43 +1,13 @@
 {
   "success": true,
-  "total_matches": 18,
-  "updated_at": "2026-03-24T05:39:06.364Z",
+  "total_matches": 17,
+  "updated_at": "2026-03-24T06:42:40.000Z",
   "matches": [
     {
       "name": "Toma Junior Popov vs Alex Lanier lúc 20:20",
       "link": "/truc-tiep/toma-junior-popov-vs-alex-lanier-luc-2020-ngay-22-03-2026/",
       "runtime": 1774185600,
       "datetime": "2026-03-22T13:20:00.000Z"
-    },
-    {
-      "name": "Maximus Jones vs Yasutaka Uchiyama lúc 10:30",
-      "link": "/truc-tiep/maximus-jones-vs-yasutaka-uchiyama-luc-1030-ngay-24-03-2026/",
-      "runtime": 1774323000,
-      "datetime": "2026-03-24T03:30:00.000Z"
-    },
-    {
-      "name": "Li Tu vs Carl Emil Overbeck lúc 10:50",
-      "link": "/truc-tiep/li-tu-vs-carl-emil-overbeck-luc-1050-ngay-24-03-2026/",
-      "runtime": 1774324200,
-      "datetime": "2026-03-24T03:50:00.000Z"
-    },
-    {
-      "name": "Liam Broady vs James Kent Trotter lúc 11:10",
-      "link": "/truc-tiep/liam-broady-vs-james-kent-trotter-luc-1110-ngay-24-03-2026/",
-      "runtime": 1774325400,
-      "datetime": "2026-03-24T04:10:00.000Z"
-    },
-    {
-      "name": "Interactive Philippines vs Cloud Dawning lúc 11:15",
-      "link": "/truc-tiep/interactive-philippines-vs-cloud-dawning-luc-1115-ngay-24-03-2026/",
-      "runtime": 1774325700,
-      "datetime": "2026-03-24T04:15:00.000Z"
-    },
-    {
-      "name": "Garhwal Diamond vs Friends United lúc 11:30",
-      "link": "/truc-tiep/garhwal-diamond-vs-friends-united-luc-1130-ngay-24-03-2026/",
-      "runtime": 1774326600,
-      "datetime": "2026-03-24T04:30:00.000Z"
     },
     {
       "name": "Lee Ming Institute  vs National Formasa (R) lúc 12:00",
@@ -110,6 +80,30 @@
       "link": "/truc-tiep/shb-da-nang-b-vs-huda-hue-luc-1430-ngay-24-03-2026/",
       "runtime": 1774337400,
       "datetime": "2026-03-24T07:30:00.000Z"
+    },
+    {
+      "name": "Trung Quốc U17 vs Tajikistan U17 lúc 15:00",
+      "link": "/truc-tiep/trung-quoc-u17-vs-tajikistan-u17-luc-1500-ngay-24-03-2026/",
+      "runtime": 1774339200,
+      "datetime": "2026-03-24T08:00:00.000Z"
+    },
+    {
+      "name": "Truong Giang Gia Dinh vs Tây Ninh lúc 15:00 | HELLO",
+      "link": "/truc-tiep/truong-giang-gia-dinh-vs-tay-ninh-luc-1500-ngay-24-03-2026/",
+      "runtime": 1774339200,
+      "datetime": "2026-03-24T08:00:00.000Z"
+    },
+    {
+      "name": "Phu Dong FC vs PVF lúc 15:00",
+      "link": "/truc-tiep/phu-dong-fc-vs-pvf-luc-1500-ngay-24-03-2026/",
+      "runtime": 1774339200,
+      "datetime": "2026-03-24T08:00:00.000Z"
+    },
+    {
+      "name": "Trẻ Công An Hà Nội vs Hanoi FC B lúc 15:30 | RYAN",
+      "link": "/truc-tiep/tre-cong-an-ha-noi-vs-hanoi-fc-b-luc-1530-ngay-24-03-2026/",
+      "runtime": 1774341000,
+      "datetime": "2026-03-24T08:30:00.000Z"
     }
   ]
 }
