@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 46,
-  "updated_at": "2026-03-24T23:02:10.501Z",
+  "total_matches": 44,
+  "updated_at": "2026-03-24T23:48:18.638Z",
   "matches": [
     {
       "name": "Toma Junior Popov vs Alex Lanier lúc 20:20",
@@ -10,26 +10,8 @@
       "datetime": "2026-03-22T13:20:00.000Z"
     },
     {
-      "name": "Verva Warszawa vs Politechnika Lublin lúc 00:00",
-      "link": "/truc-tiep/verva-warszawa-vs-politechnika-lublin-luc-0000-ngay-25-03-2026/",
-      "runtime": 1774371600,
-      "datetime": "2026-03-24T17:00:00.000Z"
-    },
-    {
-      "name": "Salonit Anhovo vs Krka lúc 01:00",
-      "link": "/truc-tiep/salonit-anhovo-vs-krka-luc-0100-ngay-25-03-2026/",
-      "runtime": 1774375200,
-      "datetime": "2026-03-24T18:00:00.000Z"
-    },
-    {
       "name": "Terence Atmane vs Frances Tiafoe lúc 03:00",
       "link": "/truc-tiep/terence-atmane-vs-frances-tiafoe-luc-0300-ngay-25-03-2026/",
-      "runtime": 1774382400,
-      "datetime": "2026-03-24T20:00:00.000Z"
-    },
-    {
-      "name": "Malvinas Gaming vs Seven Dark lúc 03:00",
-      "link": "/truc-tiep/malvinas-gaming-vs-seven-dark-luc-0300-ngay-25-03-2026/",
       "runtime": 1774382400,
       "datetime": "2026-03-24T20:00:00.000Z"
     },
@@ -42,12 +24,6 @@
     {
       "name": "Cook Islands U16 vs American Samoa U16 lúc 04:00",
       "link": "/truc-tiep/cook-islands-u16-vs-american-samoa-u16-luc-0400-ngay-25-03-2026/",
-      "runtime": 1774386000,
-      "datetime": "2026-03-24T21:00:00.000Z"
-    },
-    {
-      "name": "Montreal Toundra vs Newfoundland Rogues lúc 04:00",
-      "link": "/truc-tiep/montreal-toundra-vs-newfoundland-rogues-luc-0400-ngay-25-03-2026/",
       "runtime": 1774386000,
       "datetime": "2026-03-24T21:00:00.000Z"
     },
@@ -90,6 +66,12 @@
     {
       "name": "ASA FC vs Piaui(PI) lúc 05:30",
       "link": "/truc-tiep/asa-fc-vs-piauipi-luc-0530-ngay-25-03-2026/",
+      "runtime": 1774391400,
+      "datetime": "2026-03-24T22:30:00.000Z"
+    },
+    {
+      "name": "Blooming vs GV San Jose lúc 05:30",
+      "link": "/truc-tiep/blooming-vs-gv-san-jose-luc-0530-ngay-25-03-2026/",
       "runtime": 1774391400,
       "datetime": "2026-03-24T22:30:00.000Z"
     },
@@ -162,12 +144,6 @@
     {
       "name": "Golden Lions vs Tu Papá Esports lúc 06:00",
       "link": "/truc-tiep/golden-lions-vs-tu-papa-esports-luc-0600-ngay-25-03-2026/",
-      "runtime": 1774393200,
-      "datetime": "2026-03-24T23:00:00.000Z"
-    },
-    {
-      "name": "9z Globant vs Volticons lúc 06:00",
-      "link": "/truc-tiep/9z-globant-vs-volticons-luc-0600-ngay-25-03-2026/",
       "runtime": 1774393200,
       "datetime": "2026-03-24T23:00:00.000Z"
     },
@@ -278,6 +254,18 @@
       "link": "/truc-tiep/kwon-soon-woo-vs-august-holmgren-luc-0800-ngay-25-03-2026/",
       "runtime": 1774400400,
       "datetime": "2026-03-25T01:00:00.000Z"
+    },
+    {
+      "name": "Alex Hernandez vs Andres Andrade lúc 08:10",
+      "link": "/truc-tiep/alex-hernandez-vs-andres-andrade-luc-0810-ngay-25-03-2026/",
+      "runtime": 1774401000,
+      "datetime": "2026-03-25T01:10:00.000Z"
+    },
+    {
+      "name": "Atletico Choloma vs Génesis Policía Nacional lúc 08:30 | TONI",
+      "link": "/truc-tiep/atletico-choloma-vs-genesis-policia-nacional-luc-0830-ngay-25-03-2026/",
+      "runtime": 1774402200,
+      "datetime": "2026-03-25T01:30:00.000Z"
     }
   ]
 }
