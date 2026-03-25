@@ -1,56 +1,8 @@
 {
   "success": true,
-  "total_matches": 30,
-  "updated_at": "2026-03-25T07:49:56.407Z",
+  "total_matches": 36,
+  "updated_at": "2026-03-25T08:42:40.631Z",
   "matches": [
-    {
-      "name": "Vu Thi Trang vs Liang Ting Yu lúc 10:10",
-      "link": "/truc-tiep/vu-thi-trang-vs-liang-ting-yu-luc-1010-ngay-25-03-2026/",
-      "runtime": 1774408200,
-      "datetime": "2026-03-25T03:10:00.000Z"
-    },
-    {
-      "name": "Sun Fajing vs Masamichi Imamura lúc 10:20",
-      "link": "/truc-tiep/sun-fajing-vs-masamichi-imamura-luc-1020-ngay-25-03-2026/",
-      "runtime": 1774408800,
-      "datetime": "2026-03-25T03:20:00.000Z"
-    },
-    {
-      "name": "James Mccabe vs Hayato Matsuoka lúc 10:20",
-      "link": "/truc-tiep/james-mccabe-vs-hayato-matsuoka-luc-1020-ngay-25-03-2026/",
-      "runtime": 1774408800,
-      "datetime": "2026-03-25T03:20:00.000Z"
-    },
-    {
-      "name": "T.Matsui/Y.Uchiyama vs Ethan Cook/Tai Sach lúc 11:30",
-      "link": "/truc-tiep/t-matsui-y-uchiyama-vs-ethan-cook-tai-sach-luc-1130-ngay-25-03-2026/",
-      "runtime": 1774413000,
-      "datetime": "2026-03-25T04:30:00.000Z"
-    },
-    {
-      "name": "Justin Boulais/Patrik Niklas-Salminen vs Dan Added/Naoki Tajima lúc 11:30",
-      "link": "/truc-tiep/justin-boulais-patrik-niklas-salminen-vs-dan-added-naoki-tajima-luc-1130-ngay-25-03-2026/",
-      "runtime": 1774413000,
-      "datetime": "2026-03-25T04:30:00.000Z"
-    },
-    {
-      "name": "Aung Nicky Yemin/Sirapat Tepnarong vs Ho Wen-Hsun/Chen Yu Hsuan lúc 12:30",
-      "link": "/truc-tiep/aung-nicky-yemin-sirapat-tepnarong-vs-ho-wen-hsun-chen-yu-hsuan-luc-1230-ngay-25-03-2026/",
-      "runtime": 1774416600,
-      "datetime": "2026-03-25T05:30:00.000Z"
-    },
-    {
-      "name": "PS Unimuda vs Persitam Tamban lúc 13:00",
-      "link": "/truc-tiep/ps-unimuda-vs-persitam-tamban-luc-1300-ngay-25-03-2026/",
-      "runtime": 1774418400,
-      "datetime": "2026-03-25T06:00:00.000Z"
-    },
-    {
-      "name": "Sangmu 2 vs JKJ Red Boosters (R) lúc 13:00",
-      "link": "/truc-tiep/sangmu-2-vs-jkj-red-boosters-r-luc-1300-ngay-25-03-2026/",
-      "runtime": 1774418400,
-      "datetime": "2026-03-25T06:00:00.000Z"
-    },
     {
       "name": "Persimi Sarmi vs Eleven Wise Biak Numfor lúc 13:35",
       "link": "/truc-tiep/persimi-sarmi-vs-eleven-wise-biak-numfor-luc-1335-ngay-25-03-2026/",
@@ -78,12 +30,6 @@
     {
       "name": "FK Do stlik vs Azur FC Samarkand lúc 14:00",
       "link": "/truc-tiep/fk-do-stlik-vs-azur-fc-samarkand-luc-1400-ngay-25-03-2026/",
-      "runtime": 1774422000,
-      "datetime": "2026-03-25T07:00:00.000Z"
-    },
-    {
-      "name": "Liam Broady/Harry Wendelken vs Sun Fajing/Wu Tung-lin lúc 14:00",
-      "link": "/truc-tiep/liam-broady-harry-wendelken-vs-sun-fajing-wu-tung-lin-luc-1400-ngay-25-03-2026/",
       "runtime": 1774422000,
       "datetime": "2026-03-25T07:00:00.000Z"
     },
@@ -182,6 +128,96 @@
       "link": "/truc-tiep/cho-s-h-kim-j-h-vs-nguyen-dinh-hoang-tran-dinh-manh-luc-1635-ngay-25-03-2026/",
       "runtime": 1774431300,
       "datetime": "2026-03-25T09:35:00.000Z"
+    },
+    {
+      "name": "Bỉ U17 vs Thụy Sĩ U17 lúc 17:00 | DAVID",
+      "link": "/truc-tiep/bi-u17-vs-thuy-si-u17-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Thổ Nhĩ Kỳ U16 vs Ukraine U16 lúc 17:00",
+      "link": "/truc-tiep/tho-nhi-ky-u16-vs-ukraine-u16-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Bucaspor U19 vs Soke 1970 SK U19 lúc 17:00",
+      "link": "/truc-tiep/bucaspor-u19-vs-soke-1970-sk-u19-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Lokomotiv BFK vs Gulistan lúc 17:00",
+      "link": "/truc-tiep/lokomotiv-bfk-vs-gulistan-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Lugano vs Taverne lúc 17:00",
+      "link": "/truc-tiep/lugano-vs-taverne-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Bursaspor U19 vs Sakaryaspor U19 lúc 17:00",
+      "link": "/truc-tiep/bursaspor-u19-vs-sakaryaspor-u19-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Seoul SK Knights vs Goyang Sono  lúc 17:00 | ALAN",
+      "link": "/truc-tiep/seoul-sk-knights-vs-goyang-sono-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Bucheon Hanabank vs Nữ Woori Wibee lúc 17:00",
+      "link": "/truc-tiep/nu-bucheon-hanabank-vs-nu-woori-wibee-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Mayar Sherif vs Mia Ristic lúc 17:00 | VIC",
+      "link": "/truc-tiep/mayar-sherif-vs-mia-ristic-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Alexander Merino/Christoph Negritu vs Nicolas Barrientos/Ariel Behar lúc 17:00",
+      "link": "/truc-tiep/alexander-merino-christoph-negritu-vs-nicolas-barrientos-ariel-behar-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Bart Stevens/Joran Vliegen vs Ruehl T / Veldheer M lúc 17:00",
+      "link": "/truc-tiep/bart-stevens-joran-vliegen-vs-ruehl-t-veldheer-m-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "KB Stars vs Woori lúc 17:00",
+      "link": "/truc-tiep/kb-stars-vs-woori-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "9Gaming vs Saigon Warriors lúc 17:00",
+      "link": "/truc-tiep/9gaming-vs-saigon-warriors-luc-1700-ngay-25-03-2026/",
+      "runtime": 1774432800,
+      "datetime": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "name": "Real Kashmir vs Namdhari FC lúc 17:30 | JEAN",
+      "link": "/truc-tiep/real-kashmir-vs-namdhari-fc-luc-1730-ngay-25-03-2026/",
+      "runtime": 1774434600,
+      "datetime": "2026-03-25T10:30:00.000Z"
+    },
+    {
+      "name": "Nữ Club Chalakudy  vs Nữ Talents Association lúc 17:30",
+      "link": "/truc-tiep/nu-club-chalakudy-vs-nu-talents-association-luc-1730-ngay-25-03-2026/",
+      "runtime": 1774434600,
+      "datetime": "2026-03-25T10:30:00.000Z"
     }
   ]
 }
