@@ -1,50 +1,8 @@
 {
   "success": true,
   "total_matches": 59,
-  "updated_at": "2026-03-25T22:29:44.882Z",
+  "updated_at": "2026-03-25T23:05:57.949Z",
   "matches": [
-    {
-      "name": "Peter Bertran vs Matias Soto lúc 02:50",
-      "link": "/truc-tiep/peter-bertran-vs-matias-soto-luc-0250-ngay-26-03-2026/",
-      "runtime": 1774468200,
-      "datetime": "2026-03-25T19:50:00.000Z"
-    },
-    {
-      "name": "Alan Magadan vs Luka Pavlovic lúc 03:10",
-      "link": "/truc-tiep/alan-magadan-vs-luka-pavlovic-luc-0310-ngay-26-03-2026/",
-      "runtime": 1774469400,
-      "datetime": "2026-03-25T20:10:00.000Z"
-    },
-    {
-      "name": "Molynes United vs Montego Bay Utd lúc 03:30",
-      "link": "/truc-tiep/molynes-united-vs-montego-bay-utd-luc-0330-ngay-26-03-2026/",
-      "runtime": 1774470600,
-      "datetime": "2026-03-25T20:30:00.000Z"
-    },
-    {
-      "name": "Nublense vs Univ Catolica lúc 04:00",
-      "link": "/truc-tiep/nublense-vs-univ-catolica-luc-0400-ngay-26-03-2026/",
-      "runtime": 1774472400,
-      "datetime": "2026-03-25T21:00:00.000Z"
-    },
-    {
-      "name": "Huachipato vs Coquimbo Unido lúc 04:00",
-      "link": "/truc-tiep/huachipato-vs-coquimbo-unido-luc-0400-ngay-26-03-2026/",
-      "runtime": 1774472400,
-      "datetime": "2026-03-25T21:00:00.000Z"
-    },
-    {
-      "name": "Ituano  SP vs Agua Santa lúc 04:00 | JAY",
-      "link": "/truc-tiep/ituano-sp-vs-agua-santa-luc-0400-ngay-26-03-2026/",
-      "runtime": 1774472400,
-      "datetime": "2026-03-25T21:00:00.000Z"
-    },
-    {
-      "name": "DR Congo vs Bermuda lúc 04:00",
-      "link": "/truc-tiep/dr-congo-vs-bermuda-luc-0400-ngay-26-03-2026/",
-      "runtime": 1774472400,
-      "datetime": "2026-03-25T21:00:00.000Z"
-    },
     {
       "name": "Juan Sebastian Osorio/Andres Urrea vs Garrett Johns/Noah Schachter lúc 04:00",
       "link": "/truc-tiep/juan-sebastian-osorio-andres-urrea-vs-garrett-johns-noah-schachter-luc-0400-ngay-26-03-2026/",
@@ -96,12 +54,6 @@
     {
       "name": "Uno Mille vs Metanoia Wolves lúc 05:00",
       "link": "/truc-tiep/uno-mille-vs-metanoia-wolves-luc-0500-ngay-26-03-2026/",
-      "runtime": 1774476000,
-      "datetime": "2026-03-25T22:00:00.000Z"
-    },
-    {
-      "name": "DASH vs ShindeN lúc 05:00",
-      "link": "/truc-tiep/dash-vs-shinden-luc-0500-ngay-26-03-2026/",
       "runtime": 1774476000,
       "datetime": "2026-03-25T22:00:00.000Z"
     },
@@ -356,6 +308,54 @@
       "link": "/truc-tiep/banfield-vs-real-pilar-luc-0715-ngay-26-03-2026/",
       "runtime": 1774484100,
       "datetime": "2026-03-26T00:15:00.000Z"
+    },
+    {
+      "name": "Novorizontino vs America MG lúc 07:30",
+      "link": "/truc-tiep/novorizontino-vs-america-mg-luc-0730-ngay-26-03-2026/",
+      "runtime": 1774485000,
+      "datetime": "2026-03-26T00:30:00.000Z"
+    },
+    {
+      "name": "Chapecoense SC vs Sao Bernardo lúc 07:45",
+      "link": "/truc-tiep/chapecoense-sc-vs-sao-bernardo-luc-0745-ngay-26-03-2026/",
+      "runtime": 1774485900,
+      "datetime": "2026-03-26T00:45:00.000Z"
+    },
+    {
+      "name": "Nữ Tigres vs Nữ Club America lúc 08:00 | POLO",
+      "link": "/truc-tiep/nu-tigres-vs-nu-club-america-luc-0800-ngay-26-03-2026/",
+      "runtime": 1774486800,
+      "datetime": "2026-03-26T01:00:00.000Z"
+    },
+    {
+      "name": "America de Cali vs Llaneros FC lúc 08:00 | JEAN",
+      "link": "/truc-tiep/america-de-cali-vs-llaneros-fc-luc-0800-ngay-26-03-2026/",
+      "runtime": 1774486800,
+      "datetime": "2026-03-26T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Seattle Reign vs Nữ Kansas City lúc 08:00",
+      "link": "/truc-tiep/nu-seattle-reign-vs-nu-kansas-city-luc-0800-ngay-26-03-2026/",
+      "runtime": 1774486800,
+      "datetime": "2026-03-26T01:00:00.000Z"
+    },
+    {
+      "name": "Palm Beach Flames vs Miami United lúc 08:00",
+      "link": "/truc-tiep/palm-beach-flames-vs-miami-united-luc-0800-ngay-26-03-2026/",
+      "runtime": 1774486800,
+      "datetime": "2026-03-26T01:00:00.000Z"
+    },
+    {
+      "name": "Utah Jazz vs Washington Wizards lúc 08:00",
+      "link": "/truc-tiep/utah-jazz-vs-washington-wizards-luc-0800-ngay-26-03-2026/",
+      "runtime": 1774486800,
+      "datetime": "2026-03-26T01:00:00.000Z"
+    },
+    {
+      "name": "Auburn Tigers vs University of Nevada lúc 08:00",
+      "link": "/truc-tiep/auburn-tigers-vs-university-of-nevada-luc-0800-ngay-26-03-2026/",
+      "runtime": 1774486800,
+      "datetime": "2026-03-26T01:00:00.000Z"
     }
   ]
 }
