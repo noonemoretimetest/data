@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 54,
-  "updated_at": "2026-03-26T19:10:31.909Z",
+  "total_matches": 48,
+  "updated_at": "2026-03-26T19:58:59.483Z",
   "matches": [
     {
       "name": "Pham Thi Dieu Ly/Pham Thi Khanh vs Aoki M / Osawa H lúc 13:40",
@@ -22,12 +22,6 @@
       "datetime": "2026-03-26T14:00:00.000Z"
     },
     {
-      "name": "Al Sadd vs Al Arabi lúc 22:00",
-      "link": "/truc-tiep/al-sadd-vs-al-arabi-luc-2200-ngay-26-03-2026/",
-      "runtime": 1774537200,
-      "datetime": "2026-03-26T15:00:00.000Z"
-    },
-    {
       "name": "Lilmix vs CSDIILIT lúc 22:00",
       "link": "/truc-tiep/lilmix-vs-csdiilit-luc-2200-ngay-26-03-2026/",
       "runtime": 1774537200,
@@ -40,62 +34,14 @@
       "datetime": "2026-03-26T15:30:00.000Z"
     },
     {
-      "name": "Al Ahli vs Al Rayyan lúc 00:00",
-      "link": "/truc-tiep/al-ahli-vs-al-rayyan-luc-0000-ngay-27-03-2026/",
-      "runtime": 1774544400,
-      "datetime": "2026-03-26T17:00:00.000Z"
-    },
-    {
       "name": "VP.Prodigy vs Nemiga Gaming lúc 00:00",
       "link": "/truc-tiep/vp-prodigy-vs-nemiga-gaming-luc-0000-ngay-27-03-2026/",
       "runtime": 1774544400,
       "datetime": "2026-03-26T17:00:00.000Z"
     },
     {
-      "name": "Asane Fotball U19 vs Sogndal U19 lúc 00:30",
-      "link": "/truc-tiep/asane-fotball-u19-vs-sogndal-u19-luc-0030-ngay-27-03-2026/",
-      "runtime": 1774546200,
-      "datetime": "2026-03-26T17:30:00.000Z"
-    },
-    {
-      "name": "VfL Osnabrück vs B. Monchengladbach lúc 00:30",
-      "link": "/truc-tiep/vfl-osnabruck-vs-b-monchengladbach-luc-0030-ngay-27-03-2026/",
-      "runtime": 1774546200,
-      "datetime": "2026-03-26T17:30:00.000Z"
-    },
-    {
       "name": "ZED FC vs Arab Contractors lúc 01:00 | LOGAN",
       "link": "/truc-tiep/zed-fc-vs-arab-contractors-luc-0100-ngay-27-03-2026/",
-      "runtime": 1774548000,
-      "datetime": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "name": "Huracan (R) vs San Martin (R) lúc 01:00",
-      "link": "/truc-tiep/huracan-r-vs-san-martin-r-luc-0100-ngay-27-03-2026/",
-      "runtime": 1774548000,
-      "datetime": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "name": "CA Independiente (R) vs Quilmes (R) lúc 01:00",
-      "link": "/truc-tiep/ca-independiente-r-vs-quilmes-r-luc-0100-ngay-27-03-2026/",
-      "runtime": 1774548000,
-      "datetime": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "name": "Godoy Cruz (R) vs San Lorenzo (R) lúc 01:00",
-      "link": "/truc-tiep/godoy-cruz-r-vs-san-lorenzo-r-luc-0100-ngay-27-03-2026/",
-      "runtime": 1774548000,
-      "datetime": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "name": "Defensa y Justicia (R) vs Deportivo Riestra (R) lúc 01:00",
-      "link": "/truc-tiep/defensa-y-justicia-r-vs-deportivo-riestra-r-luc-0100-ngay-27-03-2026/",
-      "runtime": 1774548000,
-      "datetime": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ CH Séc vs Nữ Ukraine U18 lúc 01:00",
-      "link": "/truc-tiep/nu-ch-sec-vs-nu-ukraine-u18-luc-0100-ngay-27-03-2026/",
       "runtime": 1774548000,
       "datetime": "2026-03-26T18:00:00.000Z"
     },
@@ -190,14 +136,14 @@
       "datetime": "2026-03-26T19:30:00.000Z"
     },
     {
-      "name": "CH Séc vs Ireland lúc 02:45 | ASTRA - ZARA",
-      "link": "/truc-tiep/ch-sec-vs-ireland-luc-0245-ngay-27-03-2026/",
+      "name": "Ukraine vs Thụy Điển lúc 02:45 | MAX - TONI",
+      "link": "/truc-tiep/ukraine-vs-thuy-dien-luc-0245-ngay-27-03-2026/",
       "runtime": 1774554300,
       "datetime": "2026-03-26T19:45:00.000Z"
     },
     {
-      "name": "Ukraine vs Thụy Điển lúc 02:45 | MAX - TONI",
-      "link": "/truc-tiep/ukraine-vs-thuy-dien-luc-0245-ngay-27-03-2026/",
+      "name": "CH Séc vs Ireland lúc 02:45 | ASTRA - ZARA",
+      "link": "/truc-tiep/ch-sec-vs-ireland-luc-0245-ngay-27-03-2026/",
       "runtime": 1774554300,
       "datetime": "2026-03-26T19:45:00.000Z"
     },
@@ -326,6 +272,24 @@
       "link": "/truc-tiep/juan-pablo-ficovich-vs-tristan-schoolkate-luc-0400-ngay-27-03-2026/",
       "runtime": 1774558800,
       "datetime": "2026-03-26T21:00:00.000Z"
+    },
+    {
+      "name": "Galvez AC vs Amazonas FC lúc 04:30",
+      "link": "/truc-tiep/galvez-ac-vs-amazonas-fc-luc-0430-ngay-27-03-2026/",
+      "runtime": 1774560600,
+      "datetime": "2026-03-26T21:30:00.000Z"
+    },
+    {
+      "name": "Boca Juniors (R) vs Estudiantes LP (R) lúc 04:30",
+      "link": "/truc-tiep/boca-juniors-r-vs-estudiantes-lp-r-luc-0430-ngay-27-03-2026/",
+      "runtime": 1774560600,
+      "datetime": "2026-03-26T21:30:00.000Z"
+    },
+    {
+      "name": "Bahamas vs Anguilla lúc 04:30",
+      "link": "/truc-tiep/bahamas-vs-anguilla-luc-0430-ngay-27-03-2026/",
+      "runtime": 1774560600,
+      "datetime": "2026-03-26T21:30:00.000Z"
     }
   ]
 }
