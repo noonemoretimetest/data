@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 43,
-  "updated_at": "2026-03-27T23:26:17.585Z",
+  "total_matches": 46,
+  "updated_at": "2026-03-27T23:56:15.977Z",
   "matches": [
-    {
-      "name": "FC Nacional Asuncion vs Sportivo Luqueno lúc 04:30",
-      "link": "/truc-tiep/fc-nacional-asuncion-vs-sportivo-luqueno-luc-0430-ngay-28-03-2026/",
-      "runtime": 1774647000,
-      "datetime": "2026-03-27T21:30:00.000Z"
-    },
     {
       "name": "Estudiantes Tecos vs Leones Univ Guadalajara B lúc 05:00",
       "link": "/truc-tiep/estudiantes-tecos-vs-leones-univ-guadalajara-b-luc-0500-ngay-28-03-2026/",
@@ -30,12 +24,6 @@
     {
       "name": "Juan Sebastian Gomez/Matias Soto vs Sergio Luis Hernandez Ramirez/Frazier Rengifo lúc 05:00",
       "link": "/truc-tiep/juan-sebastian-gomez-matias-soto-vs-sergio-luis-hernandez-ramirez-frazier-rengifo-luc-0500-ngay-28-03-2026/",
-      "runtime": 1774648800,
-      "datetime": "2026-03-27T22:00:00.000Z"
-    },
-    {
-      "name": "ShindeN vs Uno Mille lúc 05:00",
-      "link": "/truc-tiep/shinden-vs-uno-mille-luc-0500-ngay-28-03-2026/",
       "runtime": 1774648800,
       "datetime": "2026-03-27T22:00:00.000Z"
     },
@@ -260,6 +248,36 @@
       "link": "/truc-tiep/nu-launceston-united-vs-nu-glenorchy-knights-luc-0815-ngay-28-03-2026/",
       "runtime": 1774660500,
       "datetime": "2026-03-28T01:15:00.000Z"
+    },
+    {
+      "name": "Tauro FC vs CD Universitario lúc 08:30",
+      "link": "/truc-tiep/tauro-fc-vs-cd-universitario-luc-0830-ngay-28-03-2026/",
+      "runtime": 1774661400,
+      "datetime": "2026-03-28T01:30:00.000Z"
+    },
+    {
+      "name": "UACH vs UP Mexico lúc 08:30",
+      "link": "/truc-tiep/uach-vs-up-mexico-luc-0830-ngay-28-03-2026/",
+      "runtime": 1774661400,
+      "datetime": "2026-03-28T01:30:00.000Z"
+    },
+    {
+      "name": "Diego Hidalgo/Patrik Trhac vs Juan Pablo Ficovich/Nicolas Mejia lúc 08:30",
+      "link": "/truc-tiep/diego-hidalgo-patrik-trhac-vs-juan-pablo-ficovich-nicolas-mejia-luc-0830-ngay-28-03-2026/",
+      "runtime": 1774661400,
+      "datetime": "2026-03-28T01:30:00.000Z"
+    },
+    {
+      "name": "Nomads vs Cashmere Technical lúc 08:45",
+      "link": "/truc-tiep/nomads-vs-cashmere-technical-luc-0845-ngay-28-03-2026/",
+      "runtime": 1774662300,
+      "datetime": "2026-03-28T01:45:00.000Z"
+    },
+    {
+      "name": "UConn Huskies vs Michigan State lúc 08:45",
+      "link": "/truc-tiep/uconn-huskies-vs-michigan-state-luc-0845-ngay-28-03-2026/",
+      "runtime": 1774662300,
+      "datetime": "2026-03-28T01:45:00.000Z"
     }
   ]
 }
