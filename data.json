@@ -1,56 +1,8 @@
 {
   "success": true,
-  "total_matches": 48,
-  "updated_at": "2026-03-27T20:03:42.142Z",
+  "total_matches": 34,
+  "updated_at": "2026-03-27T20:57:17.240Z",
   "matches": [
-    {
-      "name": "Andorra U21 vs Anh U21 lúc 01:30 | TONI",
-      "link": "/truc-tiep/andorra-u21-vs-anh-u21-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Valenciennes vs Aubagne lúc 01:30",
-      "link": "/truc-tiep/valenciennes-vs-aubagne-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "US Orléans vs Villefranche lúc 01:30",
-      "link": "/truc-tiep/us-orleans-vs-villefranche-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Fleury Merogis U.S. vs Bresse Péronnas 01 lúc 01:30",
-      "link": "/truc-tiep/fleury-merogis-u-s-vs-bresse-peronnas-01-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Chateauroux vs Concarneau lúc 01:30",
-      "link": "/truc-tiep/chateauroux-vs-concarneau-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Sochaux vs Quevilly Rouen lúc 01:30",
-      "link": "/truc-tiep/sochaux-vs-quevilly-rouen-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Dijon vs Versailles 78 lúc 01:30",
-      "link": "/truc-tiep/dijon-vs-versailles-78-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Stade Briochin vs Paris 13 Atletico lúc 01:30",
-      "link": "/truc-tiep/stade-briochin-vs-paris-13-atletico-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
     {
       "name": "Hy Lạp vs Paraguay lúc 02:00 | KEN",
       "link": "/truc-tiep/hy-lap-vs-paraguay-luc-0200-ngay-28-03-2026/",
@@ -64,24 +16,6 @@
       "datetime": "2026-03-27T19:00:00.000Z"
     },
     {
-      "name": "Bỉ U21 vs Áo U21 lúc 02:00 | XMEN",
-      "link": "/truc-tiep/bi-u21-vs-ao-u21-luc-0200-ngay-28-03-2026/",
-      "runtime": 1774638000,
-      "datetime": "2026-03-27T19:00:00.000Z"
-    },
-    {
-      "name": "Thụy Sỹ U21 vs Faroe Islands U21 lúc 02:00 | ZARA",
-      "link": "/truc-tiep/thuy-sy-u21-vs-faroe-islands-u21-luc-0200-ngay-28-03-2026/",
-      "runtime": 1774638000,
-      "datetime": "2026-03-27T19:00:00.000Z"
-    },
-    {
-      "name": "Scotland U21 vs CH Séc U21 lúc 02:00 | LOGAN",
-      "link": "/truc-tiep/scotland-u21-vs-ch-sec-u21-luc-0200-ngay-28-03-2026/",
-      "runtime": 1774638000,
-      "datetime": "2026-03-27T19:00:00.000Z"
-    },
-    {
       "name": "FC Rouen vs Caen lúc 02:00",
       "link": "/truc-tiep/fc-rouen-vs-caen-luc-0200-ngay-28-03-2026/",
       "runtime": 1774638000,
@@ -90,24 +24,6 @@
     {
       "name": "Guyana vs Dominica lúc 02:00",
       "link": "/truc-tiep/guyana-vs-dominica-luc-0200-ngay-28-03-2026/",
-      "runtime": 1774638000,
-      "datetime": "2026-03-27T19:00:00.000Z"
-    },
-    {
-      "name": "Bournemouth U21 vs West Bromwich U21 lúc 02:00",
-      "link": "/truc-tiep/bournemouth-u21-vs-west-bromwich-u21-luc-0200-ngay-28-03-2026/",
-      "runtime": 1774638000,
-      "datetime": "2026-03-27T19:00:00.000Z"
-    },
-    {
-      "name": "Jiri Lehecka vs Arthur Fils lúc 02:00",
-      "link": "/truc-tiep/jiri-lehecka-vs-arthur-fils-luc-0200-ngay-28-03-2026/",
-      "runtime": 1774638000,
-      "datetime": "2026-03-27T19:00:00.000Z"
-    },
-    {
-      "name": "Nữ Charleroi vs Nữ Noorderkempen lúc 02:00",
-      "link": "/truc-tiep/nu-charleroi-vs-nu-noorderkempen-luc-0200-ngay-28-03-2026/",
       "runtime": 1774638000,
       "datetime": "2026-03-27T19:00:00.000Z"
     },
