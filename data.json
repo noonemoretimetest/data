@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 55,
-  "updated_at": "2026-03-27T13:45:10.694Z",
+  "total_matches": 53,
+  "updated_at": "2026-03-27T14:44:08.326Z",
   "matches": [
     {
       "name": "Cho Song Hyun/Kim Jae Hyeon vs Lin Chia Yen/Yong Sheng Lin lúc 11:20",
@@ -10,58 +10,10 @@
       "datetime": "2026-03-27T04:20:00.000Z"
     },
     {
-      "name": "Lukas Neumayer vs Duje Ajdukovic lúc 16:30",
-      "link": "/truc-tiep/lukas-neumayer-vs-duje-ajdukovic-luc-1630-ngay-27-03-2026/",
-      "runtime": 1774603800,
-      "datetime": "2026-03-27T09:30:00.000Z"
-    },
-    {
-      "name": "Maxim Mrva vs Kimmer Coppejans lúc 16:30",
-      "link": "/truc-tiep/maxim-mrva-vs-kimmer-coppejans-luc-1630-ngay-27-03-2026/",
-      "runtime": 1774603800,
-      "datetime": "2026-03-27T09:30:00.000Z"
-    },
-    {
-      "name": "Tom Gentzsch vs Filippo Romano lúc 16:30",
-      "link": "/truc-tiep/tom-gentzsch-vs-filippo-romano-luc-1630-ngay-27-03-2026/",
-      "runtime": 1774603800,
-      "datetime": "2026-03-27T09:30:00.000Z"
-    },
-    {
-      "name": "Hamad Medjedovic vs Alexandre Muller lúc 18:30 | VIC",
-      "link": "/truc-tiep/hamad-medjedovic-vs-alexandre-muller-luc-1830-ngay-27-03-2026/",
-      "runtime": 1774611000,
-      "datetime": "2026-03-27T11:30:00.000Z"
-    },
-    {
       "name": "Michele Ribecai vs Federico Bondioli lúc 18:30",
       "link": "/truc-tiep/michele-ribecai-vs-federico-bondioli-luc-1830-ngay-27-03-2026/",
       "runtime": 1774611000,
       "datetime": "2026-03-27T11:30:00.000Z"
-    },
-    {
-      "name": "Shanxi Loongs Fenjiu vs Shandong Hi-Speed lúc 18:35",
-      "link": "/truc-tiep/shanxi-loongs-fenjiu-vs-shandong-hi-speed-luc-1835-ngay-27-03-2026/",
-      "runtime": 1774611300,
-      "datetime": "2026-03-27T11:35:00.000Z"
-    },
-    {
-      "name": "Hapoel Nof HaGalil vs Maccabi Jaffa lúc 19:00",
-      "link": "/truc-tiep/hapoel-nof-hagalil-vs-maccabi-jaffa-luc-1900-ngay-27-03-2026/",
-      "runtime": 1774612800,
-      "datetime": "2026-03-27T12:00:00.000Z"
-    },
-    {
-      "name": "Hapoel Afula vs Bnei Yehuda lúc 19:00",
-      "link": "/truc-tiep/hapoel-afula-vs-bnei-yehuda-luc-1900-ngay-27-03-2026/",
-      "runtime": 1774612800,
-      "datetime": "2026-03-27T12:00:00.000Z"
-    },
-    {
-      "name": "Djurgardens vs HJK Helsinki lúc 19:00",
-      "link": "/truc-tiep/djurgardens-vs-hjk-helsinki-luc-1900-ngay-27-03-2026/",
-      "runtime": 1774612800,
-      "datetime": "2026-03-27T12:00:00.000Z"
     },
     {
       "name": "Pedro Martinez vs Pablo Carreño Busta lúc 19:00",
@@ -74,30 +26,6 @@
       "link": "/truc-tiep/mousesports-vs-xtreme-gaming-luc-1900-ngay-27-03-2026/",
       "runtime": 1774612800,
       "datetime": "2026-03-27T12:00:00.000Z"
-    },
-    {
-      "name": "Qwentry vs Oxuji lúc 19:00",
-      "link": "/truc-tiep/qwentry-vs-oxuji-luc-1900-ngay-27-03-2026/",
-      "runtime": 1774612800,
-      "datetime": "2026-03-27T12:00:00.000Z"
-    },
-    {
-      "name": "Karbi Anglong vs Sudeva Delhi lúc 19:30",
-      "link": "/truc-tiep/karbi-anglong-vs-sudeva-delhi-luc-1930-ngay-27-03-2026/",
-      "runtime": 1774614600,
-      "datetime": "2026-03-27T12:30:00.000Z"
-    },
-    {
-      "name": "Naft Missan vs Erbil SC lúc 19:30 | ZARA",
-      "link": "/truc-tiep/naft-missan-vs-erbil-sc-luc-1930-ngay-27-03-2026/",
-      "runtime": 1774614600,
-      "datetime": "2026-03-27T12:30:00.000Z"
-    },
-    {
-      "name": "Diala vs Al-Najaf lúc 19:30 | HELLO",
-      "link": "/truc-tiep/diala-vs-al-najaf-luc-1930-ngay-27-03-2026/",
-      "runtime": 1774614600,
-      "datetime": "2026-03-27T12:30:00.000Z"
     },
     {
       "name": "Daniel Altmaier vs Enrico Dalla Valle lúc 19:40",
@@ -226,6 +154,24 @@
       "datetime": "2026-03-27T14:00:00.000Z"
     },
     {
+      "name": "MSP Batna vs Beni Oulbane lúc 21:00",
+      "link": "/truc-tiep/msp-batna-vs-beni-oulbane-luc-2100-ngay-27-03-2026/",
+      "runtime": 1774620000,
+      "datetime": "2026-03-27T14:00:00.000Z"
+    },
+    {
+      "name": "Djijel vs NRB Teleghma lúc 21:00",
+      "link": "/truc-tiep/djijel-vs-nrb-teleghma-luc-2100-ngay-27-03-2026/",
+      "runtime": 1774620000,
+      "datetime": "2026-03-27T14:00:00.000Z"
+    },
+    {
+      "name": "Hacken vs Mjallby AIF lúc 21:00",
+      "link": "/truc-tiep/hacken-vs-mjallby-aif-luc-2100-ngay-27-03-2026/",
+      "runtime": 1774620000,
+      "datetime": "2026-03-27T14:00:00.000Z"
+    },
+    {
       "name": "Thổ Nhĩ Kỳ U18 vs Bồ Đào Nha U18 lúc 21:00",
       "link": "/truc-tiep/tho-nhi-ky-u18-vs-bo-dao-nha-u18-luc-2100-ngay-27-03-2026/",
       "runtime": 1774620000,
@@ -236,6 +182,12 @@
       "link": "/truc-tiep/aurora-vs-the-mongolz-luc-2100-ngay-27-03-2026/",
       "runtime": 1774620000,
       "datetime": "2026-03-27T14:00:00.000Z"
+    },
+    {
+      "name": "Matej Dodig vs Mili Poljicak lúc 21:25",
+      "link": "/truc-tiep/matej-dodig-vs-mili-poljicak-luc-2125-ngay-27-03-2026/",
+      "runtime": 1774621500,
+      "datetime": "2026-03-27T14:25:00.000Z"
     },
     {
       "name": "Italy U20 vs Anh U20 lúc 21:30",
@@ -332,6 +284,42 @@
       "link": "/truc-tiep/team-falcons-vs-parivision-luc-2230-ngay-27-03-2026/",
       "runtime": 1774625400,
       "datetime": "2026-03-27T15:30:00.000Z"
+    },
+    {
+      "name": "Kenya vs Estonia lúc 23:00 | ROY",
+      "link": "/truc-tiep/kenya-vs-estonia-luc-2300-ngay-27-03-2026/",
+      "runtime": 1774627200,
+      "datetime": "2026-03-27T16:00:00.000Z"
+    },
+    {
+      "name": "Hy Lạp U21 vs Malta U21 lúc 23:00 | TONI",
+      "link": "/truc-tiep/hy-lap-u21-vs-malta-u21-luc-2300-ngay-27-03-2026/",
+      "runtime": 1774627200,
+      "datetime": "2026-03-27T16:00:00.000Z"
+    },
+    {
+      "name": "Mexico U20 vs Costa Rica U20 lúc 23:00",
+      "link": "/truc-tiep/mexico-u20-vs-costa-rica-u20-luc-2300-ngay-27-03-2026/",
+      "runtime": 1774627200,
+      "datetime": "2026-03-27T16:00:00.000Z"
+    },
+    {
+      "name": "Bờ Biển Ngà U23 vs Tunisia U23 lúc 23:00",
+      "link": "/truc-tiep/bo-bien-nga-u23-vs-tunisia-u23-luc-2300-ngay-27-03-2026/",
+      "runtime": 1774627200,
+      "datetime": "2026-03-27T16:00:00.000Z"
+    },
+    {
+      "name": "Nữ Bulgaria U18 vs Nữ Thụy Điển U18 lúc 23:00",
+      "link": "/truc-tiep/nu-bulgaria-u18-vs-nu-thuy-dien-u18-luc-2300-ngay-27-03-2026/",
+      "runtime": 1774627200,
+      "datetime": "2026-03-27T16:00:00.000Z"
+    },
+    {
+      "name": "Nga vs Nicaragua lúc 23:30 | DAVID",
+      "link": "/truc-tiep/nga-vs-nicaragua-luc-2330-ngay-27-03-2026/",
+      "runtime": 1774629000,
+      "datetime": "2026-03-27T16:30:00.000Z"
     }
   ]
 }
