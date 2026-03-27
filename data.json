@@ -1,44 +1,8 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-27T19:38:07.724Z",
+  "total_matches": 48,
+  "updated_at": "2026-03-27T20:03:42.142Z",
   "matches": [
-    {
-      "name": "Buyukcekmece vs Turk Telekom lúc 00:30",
-      "link": "/truc-tiep/buyukcekmece-vs-turk-telekom-luc-0030-ngay-28-03-2026/",
-      "runtime": 1774632600,
-      "datetime": "2026-03-27T17:30:00.000Z"
-    },
-    {
-      "name": "Fenerbahçe Istanbul vs Zalgiris Kaunas lúc 00:45 | STEP",
-      "link": "/truc-tiep/fenerbahce-istanbul-vs-zalgiris-kaunas-luc-0045-ngay-28-03-2026/",
-      "runtime": 1774633500,
-      "datetime": "2026-03-27T17:45:00.000Z"
-    },
-    {
-      "name": "Kosovo U21 vs Romania U21 lúc 01:00 | HELLO",
-      "link": "/truc-tiep/kosovo-u21-vs-romania-u21-luc-0100-ngay-28-03-2026/",
-      "runtime": 1774634400,
-      "datetime": "2026-03-27T18:00:00.000Z"
-    },
-    {
-      "name": "Gibraltar U21 vs Bulgaria U21 lúc 01:00 | NEMO",
-      "link": "/truc-tiep/gibraltar-u21-vs-bulgaria-u21-luc-0100-ngay-28-03-2026/",
-      "runtime": 1774634400,
-      "datetime": "2026-03-27T18:00:00.000Z"
-    },
-    {
-      "name": "Cordoba vs Mirandes lúc 01:00 | RIO",
-      "link": "/truc-tiep/cordoba-vs-mirandes-luc-0100-ngay-28-03-2026/",
-      "runtime": 1774634400,
-      "datetime": "2026-03-27T18:00:00.000Z"
-    },
-    {
-      "name": "Libya vs Niger lúc 01:00",
-      "link": "/truc-tiep/libya-vs-niger-luc-0100-ngay-28-03-2026/",
-      "runtime": 1774634400,
-      "datetime": "2026-03-27T18:00:00.000Z"
-    },
     {
       "name": "Andorra U21 vs Anh U21 lúc 01:30 | TONI",
       "link": "/truc-tiep/andorra-u21-vs-anh-u21-luc-0130-ngay-28-03-2026/",
@@ -86,18 +50,6 @@
       "link": "/truc-tiep/stade-briochin-vs-paris-13-atletico-luc-0130-ngay-28-03-2026/",
       "runtime": 1774636200,
       "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Nữ Tây Ban Nha U18 vs Nữ Azerbaijan U18 lúc 01:30",
-      "link": "/truc-tiep/nu-tay-ban-nha-u18-vs-nu-azerbaijan-u18-luc-0130-ngay-28-03-2026/",
-      "runtime": 1774636200,
-      "datetime": "2026-03-27T18:30:00.000Z"
-    },
-    {
-      "name": "Nicolas Villalon Valdes vs Matias Soto lúc 01:40",
-      "link": "/truc-tiep/nicolas-villalon-valdes-vs-matias-soto-luc-0140-ngay-28-03-2026/",
-      "runtime": 1774636800,
-      "datetime": "2026-03-27T18:40:00.000Z"
     },
     {
       "name": "Hy Lạp vs Paraguay lúc 02:00 | KEN",
@@ -302,6 +254,42 @@
       "link": "/truc-tiep/juan-pablo-ficovich-vs-luka-pavlovic-luc-0430-ngay-28-03-2026/",
       "runtime": 1774647000,
       "datetime": "2026-03-27T21:30:00.000Z"
+    },
+    {
+      "name": "Estudiantes Tecos vs Leones Univ Guadalajara B lúc 05:00",
+      "link": "/truc-tiep/estudiantes-tecos-vs-leones-univ-guadalajara-b-luc-0500-ngay-28-03-2026/",
+      "runtime": 1774648800,
+      "datetime": "2026-03-27T22:00:00.000Z"
+    },
+    {
+      "name": "Nữ Santos vs Nữ Ferroviaria SP lúc 05:00",
+      "link": "/truc-tiep/nu-santos-vs-nu-ferroviaria-sp-luc-0500-ngay-28-03-2026/",
+      "runtime": 1774648800,
+      "datetime": "2026-03-27T22:00:00.000Z"
+    },
+    {
+      "name": "Nữ Botafogo RJ vs Nữ SC Corinthians lúc 05:00",
+      "link": "/truc-tiep/nu-botafogo-rj-vs-nu-sc-corinthians-luc-0500-ngay-28-03-2026/",
+      "runtime": 1774648800,
+      "datetime": "2026-03-27T22:00:00.000Z"
+    },
+    {
+      "name": "Belize vs Sint Maarten lúc 05:00",
+      "link": "/truc-tiep/belize-vs-sint-maarten-luc-0500-ngay-28-03-2026/",
+      "runtime": 1774648800,
+      "datetime": "2026-03-27T22:00:00.000Z"
+    },
+    {
+      "name": "Juan Sebastian Gomez/Matias Soto vs Sergio Luis Hernandez Ramirez/Frazier Rengifo lúc 05:00",
+      "link": "/truc-tiep/juan-sebastian-gomez-matias-soto-vs-sergio-luis-hernandez-ramirez-frazier-rengifo-luc-0500-ngay-28-03-2026/",
+      "runtime": 1774648800,
+      "datetime": "2026-03-27T22:00:00.000Z"
+    },
+    {
+      "name": "ShindeN vs Uno Mille lúc 05:00",
+      "link": "/truc-tiep/shinden-vs-uno-mille-luc-0500-ngay-28-03-2026/",
+      "runtime": 1774648800,
+      "datetime": "2026-03-27T22:00:00.000Z"
     }
   ]
 }
