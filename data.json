@@ -1,20 +1,8 @@
 {
   "success": true,
-  "total_matches": 45,
-  "updated_at": "2026-03-26T23:37:37.723Z",
+  "total_matches": 48,
+  "updated_at": "2026-03-27T00:00:46.293Z",
   "matches": [
-    {
-      "name": "Pham Thi Dieu Ly/Pham Thi Khanh vs Aoki M / Osawa H lúc 13:40",
-      "link": "/truc-tiep/pham-thi-dieu-ly-pham-thi-khanh-vs-aoki-m-osawa-h-luc-1340-ngay-26-03-2026/",
-      "runtime": 1774507200,
-      "datetime": "2026-03-26T06:40:00.000Z"
-    },
-    {
-      "name": "Muhammad Faiq Haziq/Lok Hong Quan vs Cho Song Hyun/Kim Jae Hyeon lúc 14:15",
-      "link": "/truc-tiep/muhammad-faiq-haziq-lok-hong-quan-vs-cho-song-hyun-kim-jae-hyeon-luc-1415-ngay-26-03-2026/",
-      "runtime": 1774509300,
-      "datetime": "2026-03-26T07:15:00.000Z"
-    },
     {
       "name": "FengDa vs Alter Ego lúc 21:00",
       "link": "/truc-tiep/fengda-vs-alter-ego-luc-2100-ngay-26-03-2026/",
@@ -76,12 +64,6 @@
       "datetime": "2026-03-26T22:00:00.000Z"
     },
     {
-      "name": "Cortulua vs Tigres Zipaquira lúc 05:00",
-      "link": "/truc-tiep/cortulua-vs-tigres-zipaquira-luc-0500-ngay-27-03-2026/",
-      "runtime": 1774562400,
-      "datetime": "2026-03-26T22:00:00.000Z"
-    },
-    {
       "name": "Nữ Cruzeiro vs Nữ Fluminense  lúc 05:00",
       "link": "/truc-tiep/nu-cruzeiro-vs-nu-fluminense-luc-0500-ngay-27-03-2026/",
       "runtime": 1774562400,
@@ -90,12 +72,6 @@
     {
       "name": "Acambaro FC vs Gorilas Juanacatlán lúc 05:00",
       "link": "/truc-tiep/acambaro-fc-vs-gorilas-juanacatlan-luc-0500-ngay-27-03-2026/",
-      "runtime": 1774562400,
-      "datetime": "2026-03-26T22:00:00.000Z"
-    },
-    {
-      "name": "Felipe Meligeni Alves vs Jaime Faria lúc 05:00",
-      "link": "/truc-tiep/felipe-meligeni-alves-vs-jaime-faria-luc-0500-ngay-27-03-2026/",
       "runtime": 1774562400,
       "datetime": "2026-03-26T22:00:00.000Z"
     },
@@ -182,6 +158,12 @@
       "link": "/truc-tiep/iowa-wolves-vs-oklahoma-city-blue-luc-0630-ngay-27-03-2026/",
       "runtime": 1774567800,
       "datetime": "2026-03-26T23:30:00.000Z"
+    },
+    {
+      "name": "Felipe Meligeni Alves vs Jaime Faria lúc 06:40",
+      "link": "/truc-tiep/felipe-meligeni-alves-vs-jaime-faria-luc-0640-ngay-27-03-2026/",
+      "runtime": 1774568400,
+      "datetime": "2026-03-26T23:40:00.000Z"
     },
     {
       "name": "Argentinos Juniors vs CA Lanús lúc 07:00 | JEAN",
@@ -272,6 +254,42 @@
       "link": "/truc-tiep/union-de-santa-fe-vs-regatas-corrientes-luc-0810-ngay-27-03-2026/",
       "runtime": 1774573800,
       "datetime": "2026-03-27T01:10:00.000Z"
+    },
+    {
+      "name": "Arizona vs Arkansas lúc 08:45",
+      "link": "/truc-tiep/arizona-vs-arkansas-luc-0845-ngay-27-03-2026/",
+      "runtime": 1774575900,
+      "datetime": "2026-03-27T01:45:00.000Z"
+    },
+    {
+      "name": "Santa  Ana vs Aserri FC lúc 09:00",
+      "link": "/truc-tiep/santa-ana-vs-aserri-fc-luc-0900-ngay-27-03-2026/",
+      "runtime": 1774576800,
+      "datetime": "2026-03-27T02:00:00.000Z"
+    },
+    {
+      "name": "South Bay Lakers vs Sioux Falls Skyforce lúc 09:00",
+      "link": "/truc-tiep/south-bay-lakers-vs-sioux-falls-skyforce-luc-0900-ngay-27-03-2026/",
+      "runtime": 1774576800,
+      "datetime": "2026-03-27T02:00:00.000Z"
+    },
+    {
+      "name": "Hayato Matsuoka vs Kwon Soon-woo lúc 09:00",
+      "link": "/truc-tiep/hayato-matsuoka-vs-kwon-soon-woo-luc-0900-ngay-27-03-2026/",
+      "runtime": 1774576800,
+      "datetime": "2026-03-27T02:00:00.000Z"
+    },
+    {
+      "name": "Liam Broady vs Rio Noguchi lúc 09:00",
+      "link": "/truc-tiep/liam-broady-vs-rio-noguchi-luc-0900-ngay-27-03-2026/",
+      "runtime": 1774576800,
+      "datetime": "2026-03-27T02:00:00.000Z"
+    },
+    {
+      "name": "Midorikawa H / Matsuyama N vs Kim Jae Hyeon/Jang Ha Jeong lúc 09:00",
+      "link": "/truc-tiep/midorikawa-h-matsuyama-n-vs-kim-jae-hyeon-jang-ha-jeong-luc-0900-ngay-27-03-2026/",
+      "runtime": 1774576800,
+      "datetime": "2026-03-27T02:00:00.000Z"
     }
   ]
 }
