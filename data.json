@@ -1,121 +1,49 @@
 {
   "success": true,
-  "total_matches": 19,
-  "updated_at": "2026-03-27T03:31:00.285Z",
+  "total_matches": 7,
+  "updated_at": "2026-03-27T05:25:27.735Z",
   "matches": [
     {
-      "name": "Dorado Gaming vs Blue Otter lúc 06:00",
-      "link": "/truc-tiep/dorado-gaming-vs-blue-otter-luc-0600-ngay-27-03-2026/",
-      "runtime": 1774566000,
-      "datetime": "2026-03-26T23:00:00.000Z"
-    },
-    {
-      "name": "Arizona vs Arkansas lúc 08:45",
-      "link": "/truc-tiep/arizona-vs-arkansas-luc-0845-ngay-27-03-2026/",
-      "runtime": 1774575900,
-      "datetime": "2026-03-27T01:45:00.000Z"
-    },
-    {
-      "name": "Santa  Ana vs Aserri FC lúc 09:00",
-      "link": "/truc-tiep/santa-ana-vs-aserri-fc-luc-0900-ngay-27-03-2026/",
-      "runtime": 1774576800,
-      "datetime": "2026-03-27T02:00:00.000Z"
-    },
-    {
-      "name": "Nữ Alajuelense vs Nữ AD Moravia lúc 09:00",
-      "link": "/truc-tiep/nu-alajuelense-vs-nu-ad-moravia-luc-0900-ngay-27-03-2026/",
-      "runtime": 1774576800,
-      "datetime": "2026-03-27T02:00:00.000Z"
-    },
-    {
-      "name": "South Bay Lakers vs Sioux Falls Skyforce lúc 09:00",
-      "link": "/truc-tiep/south-bay-lakers-vs-sioux-falls-skyforce-luc-0900-ngay-27-03-2026/",
-      "runtime": 1774576800,
-      "datetime": "2026-03-27T02:00:00.000Z"
-    },
-    {
-      "name": "Hayato Matsuoka vs Kwon Soon-woo lúc 09:00",
-      "link": "/truc-tiep/hayato-matsuoka-vs-kwon-soon-woo-luc-0900-ngay-27-03-2026/",
-      "runtime": 1774576800,
-      "datetime": "2026-03-27T02:00:00.000Z"
-    },
-    {
-      "name": "Liam Broady vs Rio Noguchi lúc 09:00",
-      "link": "/truc-tiep/liam-broady-vs-rio-noguchi-luc-0900-ngay-27-03-2026/",
-      "runtime": 1774576800,
-      "datetime": "2026-03-27T02:00:00.000Z"
-    },
-    {
-      "name": "Maryville University vs Conviction lúc 09:00",
-      "link": "/truc-tiep/maryville-university-vs-conviction-luc-0900-ngay-27-03-2026/",
-      "runtime": 1774576800,
-      "datetime": "2026-03-27T02:00:00.000Z"
-    },
-    {
-      "name": "Chicken Coop vs Aether lúc 09:00",
-      "link": "/truc-tiep/chicken-coop-vs-aether-luc-0900-ngay-27-03-2026/",
-      "runtime": 1774576800,
-      "datetime": "2026-03-27T02:00:00.000Z"
-    },
-    {
-      "name": "Houston University vs University of Illinois lúc 09:05",
-      "link": "/truc-tiep/houston-university-vs-university-of-illinois-luc-0905-ngay-27-03-2026/",
-      "runtime": 1774577100,
-      "datetime": "2026-03-27T02:05:00.000Z"
-    },
-    {
-      "name": "Liang Ting Yu vs Rakshitha Sree Santhosh Ramraj lúc 09:35",
-      "link": "/truc-tiep/liang-ting-yu-vs-rakshitha-sree-santhosh-ramraj-luc-0935-ngay-27-03-2026/",
-      "runtime": 1774578900,
-      "datetime": "2026-03-27T02:35:00.000Z"
-    },
-    {
-      "name": "Necaxa U21 vs Unam Pumas U21 lúc 10:00",
-      "link": "/truc-tiep/necaxa-u21-vs-unam-pumas-u21-luc-1000-ngay-27-03-2026/",
-      "runtime": 1774580400,
-      "datetime": "2026-03-27T03:00:00.000Z"
-    },
-    {
-      "name": "New Caledonia vs Jamaica lúc 10:00 | KEN",
-      "link": "/truc-tiep/new-caledonia-vs-jamaica-luc-1000-ngay-27-03-2026/",
-      "runtime": 1774580400,
-      "datetime": "2026-03-27T03:00:00.000Z"
-    },
-    {
-      "name": "Chile vs Cape Verde lúc 10:00 | HELLO",
-      "link": "/truc-tiep/chile-vs-cape-verde-luc-1000-ngay-27-03-2026/",
-      "runtime": 1774580400,
-      "datetime": "2026-03-27T03:00:00.000Z"
-    },
-    {
-      "name": "Sun Fajing vs Yasutaka Uchiyama lúc 10:10",
-      "link": "/truc-tiep/sun-fajing-vs-yasutaka-uchiyama-luc-1010-ngay-27-03-2026/",
-      "runtime": 1774581000,
-      "datetime": "2026-03-27T03:10:00.000Z"
-    },
-    {
-      "name": "Yuta Shimizu vs Harry Wendelken lúc 10:10",
-      "link": "/truc-tiep/yuta-shimizu-vs-harry-wendelken-luc-1010-ngay-27-03-2026/",
-      "runtime": 1774581000,
-      "datetime": "2026-03-27T03:10:00.000Z"
-    },
-    {
-      "name": "Karono Karono vs Cheng Ju-Sheng lúc 10:10",
-      "link": "/truc-tiep/karono-karono-vs-cheng-ju-sheng-luc-1010-ngay-27-03-2026/",
-      "runtime": 1774581000,
-      "datetime": "2026-03-27T03:10:00.000Z"
-    },
-    {
-      "name": "Moe AOKI/Hina OSAWA vs Chen Yu Hsuan/Liu Chiao-Yun lúc 10:45",
-      "link": "/truc-tiep/moe-aoki-hina-osawa-vs-chen-yu-hsuan-liu-chiao-yun-luc-1045-ngay-27-03-2026/",
-      "runtime": 1774583100,
-      "datetime": "2026-03-27T03:45:00.000Z"
+      "name": "Justin Boulais/Patrik Niklas-Salminen vs Yusuke Kusuhara/Shunsuke Nakagawa lúc 11:10",
+      "link": "/truc-tiep/justin-boulais-patrik-niklas-salminen-vs-yusuke-kusuhara-shunsuke-nakagawa-luc-1110-ngay-27-03-2026/",
+      "runtime": 1774584600,
+      "datetime": "2026-03-27T04:10:00.000Z"
     },
     {
       "name": "Cho Song Hyun/Kim Jae Hyeon vs Lin Chia Yen/Yong Sheng Lin lúc 11:20",
       "link": "/truc-tiep/cho-song-hyun-kim-jae-hyeon-vs-lin-chia-yen-yong-sheng-lin-luc-1120-ngay-27-03-2026/",
       "runtime": 1774585200,
       "datetime": "2026-03-27T04:20:00.000Z"
+    },
+    {
+      "name": "Yuta Shimizu/James Kent Trotter vs Seiya Mizuno/Shion Motoyama lúc 12:20",
+      "link": "/truc-tiep/yuta-shimizu-james-kent-trotter-vs-seiya-mizuno-shion-motoyama-luc-1220-ngay-27-03-2026/",
+      "runtime": 1774588800,
+      "datetime": "2026-03-27T05:20:00.000Z"
+    },
+    {
+      "name": "Trung Quốc vs Curacao lúc 13:00 | SILVA",
+      "link": "/truc-tiep/trung-quoc-vs-curacao-luc-1300-ngay-27-03-2026/",
+      "runtime": 1774591200,
+      "datetime": "2026-03-27T06:00:00.000Z"
+    },
+    {
+      "name": "Japan U21 vs USA U21 lúc 13:00",
+      "link": "/truc-tiep/japan-u21-vs-usa-u21-luc-1300-ngay-27-03-2026/",
+      "runtime": 1774591200,
+      "datetime": "2026-03-27T06:00:00.000Z"
+    },
+    {
+      "name": "New Zealand vs Phần Lan lúc 13:15 | KEN",
+      "link": "/truc-tiep/new-zealand-vs-phan-lan-luc-1315-ngay-27-03-2026/",
+      "runtime": 1774592100,
+      "datetime": "2026-03-27T06:15:00.000Z"
+    },
+    {
+      "name": "EDward Gaming vs Ultra Prime lúc 14:00",
+      "link": "/truc-tiep/edward-gaming-vs-ultra-prime-luc-1400-ngay-27-03-2026/",
+      "runtime": 1774594800,
+      "datetime": "2026-03-27T07:00:00.000Z"
     }
   ]
 }
