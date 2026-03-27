@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 36,
-  "updated_at": "2026-03-27T21:34:11.830Z",
+  "total_matches": 28,
+  "updated_at": "2026-03-27T21:59:49.665Z",
   "matches": [
     {
       "name": "Guyana vs Dominica lúc 02:00",
@@ -22,62 +22,8 @@
       "datetime": "2026-03-27T19:30:00.000Z"
     },
     {
-      "name": "PAOK vs AONS Milon lúc 02:30",
-      "link": "/truc-tiep/paok-vs-aons-milon-luc-0230-ngay-28-03-2026/",
-      "runtime": 1774639800,
-      "datetime": "2026-03-27T19:30:00.000Z"
-    },
-    {
-      "name": "Anh vs Uruguay lúc 02:45 | ROY",
-      "link": "/truc-tiep/anh-vs-uruguay-luc-0245-ngay-28-03-2026/",
-      "runtime": 1774640700,
-      "datetime": "2026-03-27T19:45:00.000Z"
-    },
-    {
-      "name": "Thụy Sĩ vs Đức lúc 02:45 | MAX",
-      "link": "/truc-tiep/thuy-si-vs-duc-luc-0245-ngay-28-03-2026/",
-      "runtime": 1774640700,
-      "datetime": "2026-03-27T19:45:00.000Z"
-    },
-    {
-      "name": "Hà Lan vs Na Uy lúc 02:45 | LOUIS",
-      "link": "/truc-tiep/ha-lan-vs-na-uy-luc-0245-ngay-28-03-2026/",
-      "runtime": 1774640700,
-      "datetime": "2026-03-27T19:45:00.000Z"
-    },
-    {
-      "name": "La Rochelle vs ÉB Pau-Orthez lúc 02:50",
-      "link": "/truc-tiep/la-rochelle-vs-eb-pau-orthez-luc-0250-ngay-28-03-2026/",
-      "runtime": 1774641000,
-      "datetime": "2026-03-27T19:50:00.000Z"
-    },
-    {
-      "name": "Tây Ban Nha vs Serbia lúc 03:00 | BRADY",
-      "link": "/truc-tiep/tay-ban-nha-vs-serbia-luc-0300-ngay-28-03-2026/",
-      "runtime": 1774641600,
-      "datetime": "2026-03-27T20:00:00.000Z"
-    },
-    {
       "name": "Boca Juniors Cali vs Real Cartagena lúc 03:00",
       "link": "/truc-tiep/boca-juniors-cali-vs-real-cartagena-luc-0300-ngay-28-03-2026/",
-      "runtime": 1774641600,
-      "datetime": "2026-03-27T20:00:00.000Z"
-    },
-    {
-      "name": "CA Independiente vs Atenas lúc 03:00 | YUNO",
-      "link": "/truc-tiep/ca-independiente-vs-atenas-luc-0300-ngay-28-03-2026/",
-      "runtime": 1774641600,
-      "datetime": "2026-03-27T20:00:00.000Z"
-    },
-    {
-      "name": "Palencia Baloncesto vs Melilla Baloncesto lúc 03:00",
-      "link": "/truc-tiep/palencia-baloncesto-vs-melilla-baloncesto-luc-0300-ngay-28-03-2026/",
-      "runtime": 1774641600,
-      "datetime": "2026-03-27T20:00:00.000Z"
-    },
-    {
-      "name": "Apex Mission Impossible vs NRG eSports lúc 03:00",
-      "link": "/truc-tiep/apex-mission-impossible-vs-nrg-esports-luc-0300-ngay-28-03-2026/",
       "runtime": 1774641600,
       "datetime": "2026-03-27T20:00:00.000Z"
     },
@@ -218,6 +164,12 @@
       "link": "/truc-tiep/boston-celtics-vs-atlanta-hawks-luc-0630-ngay-28-03-2026/",
       "runtime": 1774654200,
       "datetime": "2026-03-27T23:30:00.000Z"
+    },
+    {
+      "name": "Dunedin City Royals vs Coastal Spirit lúc 06:45",
+      "link": "/truc-tiep/dunedin-city-royals-vs-coastal-spirit-luc-0645-ngay-28-03-2026/",
+      "runtime": 1774655100,
+      "datetime": "2026-03-27T23:45:00.000Z"
     }
   ]
 }
