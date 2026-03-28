@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-03-28T21:56:32.869Z",
+  "total_matches": 62,
+  "updated_at": "2026-03-28T22:27:10.001Z",
   "matches": [
-    {
-      "name": "Garaga K P / Krishnamurthy Roy P vs Cho Song Hyun/Kim Jae Hyeon lúc 15:20",
-      "link": "/truc-tiep/garaga-k-p-krishnamurthy-roy-p-vs-cho-song-hyun-kim-jae-hyeon-luc-1520-ngay-28-03-2026/",
-      "runtime": 1774686000,
-      "datetime": "2026-03-28T08:20:00.000Z"
-    },
     {
       "name": "Xtreme Gaming vs Parivision lúc 01:00",
       "link": "/truc-tiep/xtreme-gaming-vs-parivision-luc-0100-ngay-29-03-2026/",
@@ -20,60 +14,6 @@
       "link": "/truc-tiep/stefan-dostanic-vs-andres-andrade-luc-0250-ngay-29-03-2026/",
       "runtime": 1774727400,
       "datetime": "2026-03-28T19:50:00.000Z"
-    },
-    {
-      "name": "Nữ Nantes vs Nữ PSG lúc 03:00 | XMEN",
-      "link": "/truc-tiep/nu-nantes-vs-nu-psg-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "CRB AL vs Vitoria BA lúc 03:00 | SILVA",
-      "link": "/truc-tiep/crb-al-vs-vitoria-ba-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Detroit City vs Charleston Battery lúc 03:00",
-      "link": "/truc-tiep/detroit-city-vs-charleston-battery-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Retro FC Brasil vs Ceara lúc 03:00",
-      "link": "/truc-tiep/retro-fc-brasil-vs-ceara-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Maranhao vs Ferroviario CE lúc 03:00",
-      "link": "/truc-tiep/maranhao-vs-ferroviario-ce-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Bragantino vs Nữ EC Bahia lúc 03:00",
-      "link": "/truc-tiep/nu-bragantino-vs-nu-ec-bahia-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Portland Thorns vs Nữ Kansas City lúc 03:00",
-      "link": "/truc-tiep/nu-portland-thorns-vs-nu-kansas-city-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Albacete vs Castellon lúc 03:00 | FINN",
-      "link": "/truc-tiep/albacete-vs-castellon-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Basquet Girona vs Real Madrid  lúc 03:00",
-      "link": "/truc-tiep/basquet-girona-vs-real-madrid-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
     },
     {
       "name": "Metanoia Wolves vs R2 lúc 03:00",
@@ -178,14 +118,14 @@
       "datetime": "2026-03-28T22:00:00.000Z"
     },
     {
-      "name": "Club America vs Tigres UANL lúc 05:00",
-      "link": "/truc-tiep/club-america-vs-tigres-uanl-luc-0500-ngay-29-03-2026/",
+      "name": "Brazil U20 vs Paraguay U20 lúc 05:00",
+      "link": "/truc-tiep/brazil-u20-vs-paraguay-u20-luc-0500-ngay-29-03-2026/",
       "runtime": 1774735200,
       "datetime": "2026-03-28T22:00:00.000Z"
     },
     {
-      "name": "Guyana  vs SV Robinhood lúc 05:00",
-      "link": "/truc-tiep/guyana-vs-sv-robinhood-luc-0500-ngay-29-03-2026/",
+      "name": "Blooming vs The Strongest lúc 05:00",
+      "link": "/truc-tiep/blooming-vs-the-strongest-luc-0500-ngay-29-03-2026/",
       "runtime": 1774735200,
       "datetime": "2026-03-28T22:00:00.000Z"
     },
@@ -286,6 +226,12 @@
       "datetime": "2026-03-28T23:00:00.000Z"
     },
     {
+      "name": "Club America vs Tigres UANL lúc 06:00",
+      "link": "/truc-tiep/club-america-vs-tigres-uanl-luc-0600-ngay-29-03-2026/",
+      "runtime": 1774738800,
+      "datetime": "2026-03-28T23:00:00.000Z"
+    },
+    {
       "name": "Motor City Cruise vs Osceola Magic lúc 06:00",
       "link": "/truc-tiep/motor-city-cruise-vs-osceola-magic-luc-0600-ngay-29-03-2026/",
       "runtime": 1774738800,
@@ -356,6 +302,78 @@
       "link": "/truc-tiep/atlanta-hawks-vs-sacramento-kings-luc-0630-ngay-29-03-2026/",
       "runtime": 1774740600,
       "datetime": "2026-03-28T23:30:00.000Z"
+    },
+    {
+      "name": "Haiti vs Tunisia lúc 07:00",
+      "link": "/truc-tiep/haiti-vs-tunisia-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Puntarenas FC vs Sporting FC lúc 07:00",
+      "link": "/truc-tiep/puntarenas-fc-vs-sporting-fc-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Municipal vs Malacateco lúc 07:00",
+      "link": "/truc-tiep/municipal-vs-malacateco-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "FC Tulsa vs Phoenix Rising FC lúc 07:00",
+      "link": "/truc-tiep/fc-tulsa-vs-phoenix-rising-fc-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Oakland Roots vs Orange County lúc 07:00",
+      "link": "/truc-tiep/oakland-roots-vs-orange-county-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Puerto Rico vs US Virgin Islands lúc 07:00",
+      "link": "/truc-tiep/puerto-rico-vs-us-virgin-islands-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Memphis Grizzlies vs Chicago Bulls lúc 07:00 | TOMMY",
+      "link": "/truc-tiep/memphis-grizzlies-vs-chicago-bulls-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Indios de Mayaguez vs San German lúc 07:00",
+      "link": "/truc-tiep/indios-de-mayaguez-vs-san-german-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "South Bay Lakers vs Sioux Falls Skyforce lúc 07:00",
+      "link": "/truc-tiep/south-bay-lakers-vs-sioux-falls-skyforce-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Ciudad Voley vs Tucuman De Gimnasia lúc 07:00",
+      "link": "/truc-tiep/ciudad-voley-vs-tucuman-de-gimnasia-luc-0700-ngay-29-03-2026/",
+      "runtime": 1774742400,
+      "datetime": "2026-03-29T00:00:00.000Z"
+    },
+    {
+      "name": "Diego Hidalgo/Patrik Trhac vs Nathaniel Lammons/Jackson Withrow lúc 07:10",
+      "link": "/truc-tiep/diego-hidalgo-patrik-trhac-vs-nathaniel-lammons-jackson-withrow-luc-0710-ngay-29-03-2026/",
+      "runtime": 1774743000,
+      "datetime": "2026-03-29T00:10:00.000Z"
+    },
+    {
+      "name": "Racing Club vs G.San Martin Formosa lúc 07:15 | LOGAN",
+      "link": "/truc-tiep/racing-club-vs-g-san-martin-formosa-luc-0715-ngay-29-03-2026/",
+      "runtime": 1774743300,
+      "datetime": "2026-03-29T00:15:00.000Z"
     }
   ]
 }
