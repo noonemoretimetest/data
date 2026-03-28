@@ -1,43 +1,13 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-03-28T07:31:04.997Z",
+  "total_matches": 61,
+  "updated_at": "2026-03-28T08:04:05.698Z",
   "matches": [
     {
       "name": "SemperFi vs Xdm lúc 11:00",
       "link": "/truc-tiep/semperfi-vs-xdm-luc-1100-ngay-28-03-2026/",
       "runtime": 1774670400,
       "datetime": "2026-03-28T04:00:00.000Z"
-    },
-    {
-      "name": "LAN Thurston vs Hobart Zebras lúc 12:45",
-      "link": "/truc-tiep/lan-thurston-vs-hobart-zebras-luc-1245-ngay-28-03-2026/",
-      "runtime": 1774676700,
-      "datetime": "2026-03-28T05:45:00.000Z"
-    },
-    {
-      "name": "Nữ Sydney FC vs Nữ Melbourne Victory  lúc 13:00 | ASTRA",
-      "link": "/truc-tiep/nu-sydney-fc-vs-nu-melbourne-victory-luc-1300-ngay-28-03-2026/",
-      "runtime": 1774677600,
-      "datetime": "2026-03-28T06:00:00.000Z"
-    },
-    {
-      "name": "Pohang Steelers vs Gangwon FC lúc 13:00 | MAX",
-      "link": "/truc-tiep/pohang-steelers-vs-gangwon-fc-luc-1300-ngay-28-03-2026/",
-      "runtime": 1774677600,
-      "datetime": "2026-03-28T06:00:00.000Z"
-    },
-    {
-      "name": "Cooks Hill Utd vs Newcastle Olympic lúc 13:00",
-      "link": "/truc-tiep/cooks-hill-utd-vs-newcastle-olympic-luc-1300-ngay-28-03-2026/",
-      "runtime": 1774677600,
-      "datetime": "2026-03-28T06:00:00.000Z"
-    },
-    {
-      "name": "Lambton Jarvis vs Valentine lúc 13:00",
-      "link": "/truc-tiep/lambton-jarvis-vs-valentine-luc-1300-ngay-28-03-2026/",
-      "runtime": 1774677600,
-      "datetime": "2026-03-28T06:00:00.000Z"
     },
     {
       "name": "Rockdale City Suns vs Sydney United 58 FC lúc 13:00",
@@ -48,24 +18,6 @@
     {
       "name": "University NSW vs St George City FA lúc 13:00",
       "link": "/truc-tiep/university-nsw-vs-st-george-city-fa-luc-1300-ngay-28-03-2026/",
-      "runtime": 1774677600,
-      "datetime": "2026-03-28T06:00:00.000Z"
-    },
-    {
-      "name": "Canberra White Eagles vs Belconnen United lúc 13:00",
-      "link": "/truc-tiep/canberra-white-eagles-vs-belconnen-united-luc-1300-ngay-28-03-2026/",
-      "runtime": 1774677600,
-      "datetime": "2026-03-28T06:00:00.000Z"
-    },
-    {
-      "name": "J-Lease FC vs Verspah Oita lúc 13:00",
-      "link": "/truc-tiep/j-lease-fc-vs-verspah-oita-luc-1300-ngay-28-03-2026/",
-      "runtime": 1774677600,
-      "datetime": "2026-03-28T06:00:00.000Z"
-    },
-    {
-      "name": "Nữ Peninsula Power  vs Nữ Virginia United lúc 13:00",
-      "link": "/truc-tiep/nu-peninsula-power-vs-nu-virginia-united-luc-1300-ngay-28-03-2026/",
       "runtime": 1774677600,
       "datetime": "2026-03-28T06:00:00.000Z"
     },
@@ -104,12 +56,6 @@
       "link": "/truc-tiep/hsinchu-lioneers-vs-new-taipei-ctbc-dea-luc-1330-ngay-28-03-2026/",
       "runtime": 1774679400,
       "datetime": "2026-03-28T06:30:00.000Z"
-    },
-    {
-      "name": "Somerville G / Wu J vs Moe AOKI/Hina OSAWA lúc 13:35",
-      "link": "/truc-tiep/somerville-g-wu-j-vs-moe-aoki-hina-osawa-luc-1335-ngay-28-03-2026/",
-      "runtime": 1774679700,
-      "datetime": "2026-03-28T06:35:00.000Z"
     },
     {
       "name": "Metrostars SC vs Hills Knights SC lúc 13:45 | OLER",
@@ -362,6 +308,66 @@
       "link": "/truc-tiep/neroca-fc-vs-delhi-fc-luc-1630-ngay-28-03-2026/",
       "runtime": 1774690200,
       "datetime": "2026-03-28T09:30:00.000Z"
+    },
+    {
+      "name": "Đảo Síp U17 vs Thụy Sĩ U17 lúc 17:00 | LOGAN",
+      "link": "/truc-tiep/dao-sip-u17-vs-thuy-si-u17-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Krylya Sovetov vs Nữ Yenisey lúc 17:00",
+      "link": "/truc-tiep/nu-krylya-sovetov-vs-nu-yenisey-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Persipura Jayapura vs Deltras Sidoarjo lúc 17:00",
+      "link": "/truc-tiep/persipura-jayapura-vs-deltras-sidoarjo-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Strogino Moscow vs FK Ryazan lúc 17:00",
+      "link": "/truc-tiep/strogino-moscow-vs-fk-ryazan-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Besiktas  vs Nữ Galatasaray lúc 17:00",
+      "link": "/truc-tiep/nu-besiktas-vs-nu-galatasaray-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Esenler Erokspor vs Galatasaray S.K. lúc 17:00",
+      "link": "/truc-tiep/esenler-erokspor-vs-galatasaray-s-k-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Sebastian Ofner vs Pablo Carreño Busta lúc 17:00 | VIC",
+      "link": "/truc-tiep/sebastian-ofner-vs-pablo-carreno-busta-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Tim Ruehl/Mick Veldheer vs Jakub Paul/Matej Vocel lúc 17:00",
+      "link": "/truc-tiep/tim-ruehl-mick-veldheer-vs-jakub-paul-matej-vocel-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Sascha Gueymard Wayenburg vs Tom Gentzsch lúc 17:00",
+      "link": "/truc-tiep/sascha-gueymard-wayenburg-vs-tom-gentzsch-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "name": "Saigon Warriors vs Saigon Dino lúc 17:00",
+      "link": "/truc-tiep/saigon-warriors-vs-saigon-dino-luc-1700-ngay-28-03-2026/",
+      "runtime": 1774692000,
+      "datetime": "2026-03-28T10:00:00.000Z"
     }
   ]
 }
