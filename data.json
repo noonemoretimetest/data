@@ -1,25 +1,13 @@
 {
   "success": true,
-  "total_matches": 64,
-  "updated_at": "2026-03-28T20:22:43.338Z",
+  "total_matches": 58,
+  "updated_at": "2026-03-28T20:59:25.035Z",
   "matches": [
     {
       "name": "Garaga K P / Krishnamurthy Roy P vs Cho Song Hyun/Kim Jae Hyeon lúc 15:20",
       "link": "/truc-tiep/garaga-k-p-krishnamurthy-roy-p-vs-cho-song-hyun-kim-jae-hyeon-luc-1520-ngay-28-03-2026/",
       "runtime": 1774686000,
       "datetime": "2026-03-28T08:20:00.000Z"
-    },
-    {
-      "name": "VGSK Veliko Gradiste vs OK Vojvodina lúc 23:30",
-      "link": "/truc-tiep/vgsk-veliko-gradiste-vs-ok-vojvodina-luc-2330-ngay-28-03-2026/",
-      "runtime": 1774715400,
-      "datetime": "2026-03-28T16:30:00.000Z"
-    },
-    {
-      "name": "Liam Draxl vs Mitchell Krueger lúc 00:10",
-      "link": "/truc-tiep/liam-draxl-vs-mitchell-krueger-luc-0010-ngay-29-03-2026/",
-      "runtime": 1774717800,
-      "datetime": "2026-03-28T17:10:00.000Z"
     },
     {
       "name": "Alex Bolt vs Alex Rybakov lúc 00:10",
@@ -40,46 +28,10 @@
       "datetime": "2026-03-28T18:00:00.000Z"
     },
     {
-      "name": "Nữ Ujpest vs Nữ Bekescsabai lúc 01:00",
-      "link": "/truc-tiep/nu-ujpest-vs-nu-bekescsabai-luc-0100-ngay-29-03-2026/",
-      "runtime": 1774720800,
-      "datetime": "2026-03-28T18:00:00.000Z"
-    },
-    {
-      "name": "RUSTEC vs MANA lúc 01:00",
-      "link": "/truc-tiep/rustec-vs-mana-luc-0100-ngay-29-03-2026/",
-      "runtime": 1774720800,
-      "datetime": "2026-03-28T18:00:00.000Z"
-    },
-    {
       "name": "Xtreme Gaming vs Parivision lúc 01:00",
       "link": "/truc-tiep/xtreme-gaming-vs-parivision-luc-0100-ngay-29-03-2026/",
       "runtime": 1774720800,
       "datetime": "2026-03-28T18:00:00.000Z"
-    },
-    {
-      "name": "Almagro vs Deportivo Moron lúc 01:30",
-      "link": "/truc-tiep/almagro-vs-deportivo-moron-luc-0130-ngay-29-03-2026/",
-      "runtime": 1774722600,
-      "datetime": "2026-03-28T18:30:00.000Z"
-    },
-    {
-      "name": "Leandro N Alem vs Sacachispas lúc 01:30",
-      "link": "/truc-tiep/leandro-n-alem-vs-sacachispas-luc-0130-ngay-29-03-2026/",
-      "runtime": 1774722600,
-      "datetime": "2026-03-28T18:30:00.000Z"
-    },
-    {
-      "name": "Claypole vs General Lamadrid lúc 01:30",
-      "link": "/truc-tiep/claypole-vs-general-lamadrid-luc-0130-ngay-29-03-2026/",
-      "runtime": 1774722600,
-      "datetime": "2026-03-28T18:30:00.000Z"
-    },
-    {
-      "name": "Wanderers FC vs Cerro Montevideo lúc 02:00 | ZARA",
-      "link": "/truc-tiep/wanderers-fc-vs-cerro-montevideo-luc-0200-ngay-29-03-2026/",
-      "runtime": 1774724400,
-      "datetime": "2026-03-28T19:00:00.000Z"
     },
     {
       "name": "New Mexico United vs Colorado Springs lúc 02:00",
@@ -106,12 +58,6 @@
       "datetime": "2026-03-28T19:00:00.000Z"
     },
     {
-      "name": "Faroe Islands U17 vs Estonia U17 lúc 02:00",
-      "link": "/truc-tiep/faroe-islands-u17-vs-estonia-u17-luc-0200-ngay-29-03-2026/",
-      "runtime": 1774724400,
-      "datetime": "2026-03-28T19:00:00.000Z"
-    },
-    {
       "name": "Almirante Brown vs Tristan Suarez lúc 02:00",
       "link": "/truc-tiep/almirante-brown-vs-tristan-suarez-luc-0200-ngay-29-03-2026/",
       "runtime": 1774724400,
@@ -132,12 +78,6 @@
     {
       "name": "RECO ZVH vs Limburg lúc 02:00",
       "link": "/truc-tiep/reco-zvh-vs-limburg-luc-0200-ngay-29-03-2026/",
-      "runtime": 1774724400,
-      "datetime": "2026-03-28T19:00:00.000Z"
-    },
-    {
-      "name": "FURIA Esports vs LOS lúc 02:00",
-      "link": "/truc-tiep/furia-esports-vs-los-luc-0200-ngay-29-03-2026/",
       "runtime": 1774724400,
       "datetime": "2026-03-28T19:00:00.000Z"
     },
@@ -386,6 +326,30 @@
       "link": "/truc-tiep/nu-nebraska-vs-nu-salt-lake-luc-0500-ngay-29-03-2026/",
       "runtime": 1774735200,
       "datetime": "2026-03-28T22:00:00.000Z"
+    },
+    {
+      "name": "Montevideo City vs Nacional Montevideo lúc 05:30 | NEMO",
+      "link": "/truc-tiep/montevideo-city-vs-nacional-montevideo-luc-0530-ngay-29-03-2026/",
+      "runtime": 1774737000,
+      "datetime": "2026-03-28T22:30:00.000Z"
+    },
+    {
+      "name": "Gama vs Cuiaba lúc 05:30",
+      "link": "/truc-tiep/gama-vs-cuiaba-luc-0530-ngay-29-03-2026/",
+      "runtime": 1774737000,
+      "datetime": "2026-03-28T22:30:00.000Z"
+    },
+    {
+      "name": "Sertaozinho vs Juventus SP lúc 05:30",
+      "link": "/truc-tiep/sertaozinho-vs-juventus-sp-luc-0530-ngay-29-03-2026/",
+      "runtime": 1774737000,
+      "datetime": "2026-03-28T22:30:00.000Z"
+    },
+    {
+      "name": "Nữ Seattle Reign vs Nữ Racing Louisville lúc 05:30",
+      "link": "/truc-tiep/nu-seattle-reign-vs-nu-racing-louisville-luc-0530-ngay-29-03-2026/",
+      "runtime": 1774737000,
+      "datetime": "2026-03-28T22:30:00.000Z"
     }
   ]
 }
