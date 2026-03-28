@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 63,
-  "updated_at": "2026-03-28T19:08:24.368Z",
+  "total_matches": 60,
+  "updated_at": "2026-03-28T19:46:13.998Z",
   "matches": [
     {
       "name": "Garaga K P / Krishnamurthy Roy P vs Cho Song Hyun/Kim Jae Hyeon lúc 15:20",
@@ -16,12 +16,6 @@
       "datetime": "2026-03-28T16:30:00.000Z"
     },
     {
-      "name": "Canada vs Iceland lúc 00:00 | LOUIS",
-      "link": "/truc-tiep/canada-vs-iceland-luc-0000-ngay-29-03-2026/",
-      "runtime": 1774717200,
-      "datetime": "2026-03-28T17:00:00.000Z"
-    },
-    {
       "name": "Liam Draxl vs Mitchell Krueger lúc 00:10",
       "link": "/truc-tiep/liam-draxl-vs-mitchell-krueger-luc-0010-ngay-29-03-2026/",
       "runtime": 1774717800,
@@ -34,30 +28,6 @@
       "datetime": "2026-03-28T17:10:00.000Z"
     },
     {
-      "name": "Federico Agustin Gomez vs Andres Martin lúc 00:10",
-      "link": "/truc-tiep/federico-agustin-gomez-vs-andres-martin-luc-0010-ngay-29-03-2026/",
-      "runtime": 1774717800,
-      "datetime": "2026-03-28T17:10:00.000Z"
-    },
-    {
-      "name": "Nữ Arsenal vs Nữ Tottenham lúc 00:30 | FINN",
-      "link": "/truc-tiep/nu-arsenal-vs-nu-tottenham-luc-0030-ngay-29-03-2026/",
-      "runtime": 1774719000,
-      "datetime": "2026-03-28T17:30:00.000Z"
-    },
-    {
-      "name": "Malaga vs Leganes lúc 00:30 | POLO",
-      "link": "/truc-tiep/malaga-vs-leganes-luc-0030-ngay-29-03-2026/",
-      "runtime": 1774719000,
-      "datetime": "2026-03-28T17:30:00.000Z"
-    },
-    {
-      "name": "Nữ Marseille vs Nữ Montpellier lúc 00:30",
-      "link": "/truc-tiep/nu-marseille-vs-nu-montpellier-luc-0030-ngay-29-03-2026/",
-      "runtime": 1774719000,
-      "datetime": "2026-03-28T17:30:00.000Z"
-    },
-    {
       "name": "Natus Vincere vs MKOI lúc 00:30",
       "link": "/truc-tiep/natus-vincere-vs-mkoi-luc-0030-ngay-29-03-2026/",
       "runtime": 1774719000,
@@ -68,12 +38,6 @@
       "link": "/truc-tiep/natus-vincere-vs-parivision-luc-0030-ngay-29-03-2026/",
       "runtime": 1774719000,
       "datetime": "2026-03-28T17:30:00.000Z"
-    },
-    {
-      "name": "Willem II vs De Graafschap lúc 00:45",
-      "link": "/truc-tiep/willem-ii-vs-de-graafschap-luc-0045-ngay-29-03-2026/",
-      "runtime": 1774719900,
-      "datetime": "2026-03-28T17:45:00.000Z"
     },
     {
       "name": "Bỉ U19 vs Thụy Điển U19 lúc 01:00 | RIO",
@@ -122,18 +86,6 @@
       "link": "/truc-tiep/xtreme-gaming-vs-parivision-luc-0100-ngay-29-03-2026/",
       "runtime": 1774720800,
       "datetime": "2026-03-28T18:00:00.000Z"
-    },
-    {
-      "name": "Gabriel Debru vs Alexis Galarneau lúc 01:20",
-      "link": "/truc-tiep/gabriel-debru-vs-alexis-galarneau-luc-0120-ngay-29-03-2026/",
-      "runtime": 1774722000,
-      "datetime": "2026-03-28T18:20:00.000Z"
-    },
-    {
-      "name": "Stefan Dostanic vs Andres Andrade lúc 01:20",
-      "link": "/truc-tiep/stefan-dostanic-vs-andres-andrade-luc-0120-ngay-29-03-2026/",
-      "runtime": 1774722000,
-      "datetime": "2026-03-28T18:20:00.000Z"
     },
     {
       "name": "Almagro vs Deportivo Moron lúc 01:30",
@@ -220,6 +172,12 @@
       "datetime": "2026-03-28T19:00:00.000Z"
     },
     {
+      "name": "Gabriel Debru vs Alexis Galarneau lúc 02:05",
+      "link": "/truc-tiep/gabriel-debru-vs-alexis-galarneau-luc-0205-ngay-29-03-2026/",
+      "runtime": 1774724700,
+      "datetime": "2026-03-28T19:05:00.000Z"
+    },
+    {
       "name": "USA vs Bỉ lúc 02:30 | LOUIS",
       "link": "/truc-tiep/usa-vs-bi-luc-0230-ngay-29-03-2026/",
       "runtime": 1774726200,
@@ -242,6 +200,12 @@
       "link": "/truc-tiep/paris-vs-nice-luc-0230-ngay-29-03-2026/",
       "runtime": 1774726200,
       "datetime": "2026-03-28T19:30:00.000Z"
+    },
+    {
+      "name": "Stefan Dostanic vs Andres Andrade lúc 02:50",
+      "link": "/truc-tiep/stefan-dostanic-vs-andres-andrade-luc-0250-ngay-29-03-2026/",
+      "runtime": 1774727400,
+      "datetime": "2026-03-28T19:50:00.000Z"
     },
     {
       "name": "Sporting Gijon vs Dep. La Coruna lúc 03:00 | BRADY",
@@ -380,6 +344,24 @@
       "link": "/truc-tiep/oddik-vs-gamehunters-luc-0400-ngay-29-03-2026/",
       "runtime": 1774731600,
       "datetime": "2026-03-28T21:00:00.000Z"
+    },
+    {
+      "name": "Minnesota Timberwolves vs Detroit Pistons lúc 04:30 | STEP",
+      "link": "/truc-tiep/minnesota-timberwolves-vs-detroit-pistons-luc-0430-ngay-29-03-2026/",
+      "runtime": 1774733400,
+      "datetime": "2026-03-28T21:30:00.000Z"
+    },
+    {
+      "name": "Laura Valentina Villamil Arias vs Caroline Werner lúc 04:30",
+      "link": "/truc-tiep/laura-valentina-villamil-arias-vs-caroline-werner-luc-0430-ngay-29-03-2026/",
+      "runtime": 1774733400,
+      "datetime": "2026-03-28T21:30:00.000Z"
+    },
+    {
+      "name": "Nữ Cruz Azul vs Nữ Puebla lúc 04:45 | YUNO",
+      "link": "/truc-tiep/nu-cruz-azul-vs-nu-puebla-luc-0445-ngay-29-03-2026/",
+      "runtime": 1774734300,
+      "datetime": "2026-03-28T21:45:00.000Z"
     }
   ]
 }
