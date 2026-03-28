@@ -1,32 +1,8 @@
 {
   "success": true,
-  "total_matches": 62,
-  "updated_at": "2026-03-28T22:27:10.001Z",
+  "total_matches": 61,
+  "updated_at": "2026-03-28T22:59:54.080Z",
   "matches": [
-    {
-      "name": "Xtreme Gaming vs Parivision lúc 01:00",
-      "link": "/truc-tiep/xtreme-gaming-vs-parivision-luc-0100-ngay-29-03-2026/",
-      "runtime": 1774720800,
-      "datetime": "2026-03-28T18:00:00.000Z"
-    },
-    {
-      "name": "Stefan Dostanic vs Andres Andrade lúc 02:50",
-      "link": "/truc-tiep/stefan-dostanic-vs-andres-andrade-luc-0250-ngay-29-03-2026/",
-      "runtime": 1774727400,
-      "datetime": "2026-03-28T19:50:00.000Z"
-    },
-    {
-      "name": "Metanoia Wolves vs R2 lúc 03:00",
-      "link": "/truc-tiep/metanoia-wolves-vs-r2-luc-0300-ngay-29-03-2026/",
-      "runtime": 1774728000,
-      "datetime": "2026-03-28T20:00:00.000Z"
-    },
-    {
-      "name": "Kristina Mladenovic vs Mary Stoiana lúc 03:05",
-      "link": "/truc-tiep/kristina-mladenovic-vs-mary-stoiana-luc-0305-ngay-29-03-2026/",
-      "runtime": 1774728300,
-      "datetime": "2026-03-28T20:05:00.000Z"
-    },
     {
       "name": "Elina Avanesyan vs Sara Saito lúc 03:20",
       "link": "/truc-tiep/elina-avanesyan-vs-sara-saito-luc-0320-ngay-29-03-2026/",
@@ -60,12 +36,6 @@
     {
       "name": "Votuporanguense vs XV de Piracicaba lúc 04:00",
       "link": "/truc-tiep/votuporanguense-vs-xv-de-piracicaba-luc-0400-ngay-29-03-2026/",
-      "runtime": 1774731600,
-      "datetime": "2026-03-28T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Atlanta vs Nữ Madison  lúc 04:00",
-      "link": "/truc-tiep/nu-atlanta-vs-nu-madison-luc-0400-ngay-29-03-2026/",
       "runtime": 1774731600,
       "datetime": "2026-03-28T21:00:00.000Z"
     },
@@ -144,12 +114,6 @@
     {
       "name": "Delaware Blue Coats vs Capital City Go-Go lúc 05:00",
       "link": "/truc-tiep/delaware-blue-coats-vs-capital-city-go-go-luc-0500-ngay-29-03-2026/",
-      "runtime": 1774735200,
-      "datetime": "2026-03-28T22:00:00.000Z"
-    },
-    {
-      "name": "Nữ Nebraska vs Nữ Salt Lake  lúc 05:00",
-      "link": "/truc-tiep/nu-nebraska-vs-nu-salt-lake-luc-0500-ngay-29-03-2026/",
       "runtime": 1774735200,
       "datetime": "2026-03-28T22:00:00.000Z"
     },
@@ -374,6 +338,36 @@
       "link": "/truc-tiep/racing-club-vs-g-san-martin-formosa-luc-0715-ngay-29-03-2026/",
       "runtime": 1774743300,
       "datetime": "2026-03-29T00:15:00.000Z"
+    },
+    {
+      "name": "Juventude vs Novorizontino lúc 07:30",
+      "link": "/truc-tiep/juventude-vs-novorizontino-luc-0730-ngay-29-03-2026/",
+      "runtime": 1774744200,
+      "datetime": "2026-03-29T00:30:00.000Z"
+    },
+    {
+      "name": "Austin Spurs vs Mexico City Capitanes lúc 07:30",
+      "link": "/truc-tiep/austin-spurs-vs-mexico-city-capitanes-luc-0730-ngay-29-03-2026/",
+      "runtime": 1774744200,
+      "datetime": "2026-03-29T00:30:00.000Z"
+    },
+    {
+      "name": "Ciclista Olimpico vs Quimsa lúc 07:30 | STEP",
+      "link": "/truc-tiep/ciclista-olimpico-vs-quimsa-luc-0730-ngay-29-03-2026/",
+      "runtime": 1774744200,
+      "datetime": "2026-03-29T00:30:00.000Z"
+    },
+    {
+      "name": "InControl vs Fisher College lúc 07:30",
+      "link": "/truc-tiep/incontrol-vs-fisher-college-luc-0730-ngay-29-03-2026/",
+      "runtime": 1774744200,
+      "datetime": "2026-03-29T00:30:00.000Z"
+    },
+    {
+      "name": "Nữ San Diego vs Nữ Chicago Red Stars lúc 07:45",
+      "link": "/truc-tiep/nu-san-diego-vs-nu-chicago-red-stars-luc-0745-ngay-29-03-2026/",
+      "runtime": 1774745100,
+      "datetime": "2026-03-29T00:45:00.000Z"
     }
   ]
 }
