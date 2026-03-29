@@ -1,19 +1,13 @@
 {
   "success": true,
-  "total_matches": 54,
-  "updated_at": "2026-03-29T15:03:04.283Z",
+  "total_matches": 52,
+  "updated_at": "2026-03-29T15:47:38.275Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
       "link": "/truc-tiep/krishna-prasad-garaga-pruthvi-krishnamurthy-roy-vs-huang-tsung-i-lin-ting-yu-luc-1520-ngay-29-03-2026/",
       "runtime": 1774772400,
       "datetime": "2026-03-29T08:20:00.000Z"
-    },
-    {
-      "name": "MVK Academy vs Saigon Warriors lúc 17:00",
-      "link": "/truc-tiep/mvk-academy-vs-saigon-warriors-luc-1700-ngay-29-03-2026/",
-      "runtime": 1774778400,
-      "datetime": "2026-03-29T10:00:00.000Z"
     },
     {
       "name": "Henrique Rocha vs David Jorda Sanchis lúc 19:40",
@@ -32,18 +26,6 @@
       "link": "/truc-tiep/power-rangers-vs-rune-eaters-esports-luc-2000-ngay-29-03-2026/",
       "runtime": 1774789200,
       "datetime": "2026-03-29T13:00:00.000Z"
-    },
-    {
-      "name": "Chernomorets vs Rotor Volgograd lúc 20:30 | LOGAN",
-      "link": "/truc-tiep/chernomorets-vs-rotor-volgograd-luc-2030-ngay-29-03-2026/",
-      "runtime": 1774791000,
-      "datetime": "2026-03-29T13:30:00.000Z"
-    },
-    {
-      "name": "Goztepe vs Cayirova Belediyesi lúc 20:30",
-      "link": "/truc-tiep/goztepe-vs-cayirova-belediyesi-luc-2030-ngay-29-03-2026/",
-      "runtime": 1774791000,
-      "datetime": "2026-03-29T13:30:00.000Z"
     },
     {
       "name": "Armenia vs Belarus lúc 21:00 | LOUIS",
@@ -88,26 +70,8 @@
       "datetime": "2026-03-29T14:00:00.000Z"
     },
     {
-      "name": "Andrea Lazaro Garcia vs Anhelina Kalinina lúc 21:00 | VIC",
-      "link": "/truc-tiep/andrea-lazaro-garcia-vs-anhelina-kalinina-luc-2100-ngay-29-03-2026/",
-      "runtime": 1774792800,
-      "datetime": "2026-03-29T14:00:00.000Z"
-    },
-    {
-      "name": "Carlos Maria Zarate vs Gabriel Roveri Sidney lúc 21:00",
-      "link": "/truc-tiep/carlos-maria-zarate-vs-gabriel-roveri-sidney-luc-2100-ngay-29-03-2026/",
-      "runtime": 1774792800,
-      "datetime": "2026-03-29T14:00:00.000Z"
-    },
-    {
       "name": "Joao Victor Couto Loureiro vs Benjamin Torrealba lúc 21:00",
       "link": "/truc-tiep/joao-victor-couto-loureiro-vs-benjamin-torrealba-luc-2100-ngay-29-03-2026/",
-      "runtime": 1774792800,
-      "datetime": "2026-03-29T14:00:00.000Z"
-    },
-    {
-      "name": "Nữ Odintsovo vs Nữ Uralochka-NTMK lúc 21:00",
-      "link": "/truc-tiep/nu-odintsovo-vs-nu-uralochka-ntmk-luc-2100-ngay-29-03-2026/",
       "runtime": 1774792800,
       "datetime": "2026-03-29T14:00:00.000Z"
     },
@@ -244,12 +208,6 @@
       "datetime": "2026-03-29T15:30:00.000Z"
     },
     {
-      "name": "CA Juventud vs Boston River lúc 23:00 | KEN",
-      "link": "/truc-tiep/ca-juventud-vs-boston-river-luc-2300-ngay-29-03-2026/",
-      "runtime": 1774800000,
-      "datetime": "2026-03-29T16:00:00.000Z"
-    },
-    {
       "name": "Rodina Moscow vs Ural Oblast II lúc 23:00 | ZARA",
       "link": "/truc-tiep/rodina-moscow-vs-ural-oblast-ii-luc-2300-ngay-29-03-2026/",
       "runtime": 1774800000,
@@ -326,6 +284,36 @@
       "link": "/truc-tiep/leo-vs-rebels-luc-0000-ngay-30-03-2026/",
       "runtime": 1774803600,
       "datetime": "2026-03-29T17:00:00.000Z"
+    },
+    {
+      "name": "Liam Draxl vs Alexis Galarneau lúc 00:10",
+      "link": "/truc-tiep/liam-draxl-vs-alexis-galarneau-luc-0010-ngay-30-03-2026/",
+      "runtime": 1774804200,
+      "datetime": "2026-03-29T17:10:00.000Z"
+    },
+    {
+      "name": "Darja Vidmanova vs Mary Stoiana lúc 00:20",
+      "link": "/truc-tiep/darja-vidmanova-vs-mary-stoiana-luc-0020-ngay-30-03-2026/",
+      "runtime": 1774804800,
+      "datetime": "2026-03-29T17:20:00.000Z"
+    },
+    {
+      "name": "Resovia Rzeszow vs Swit Szczecin lúc 00:30",
+      "link": "/truc-tiep/resovia-rzeszow-vs-swit-szczecin-luc-0030-ngay-30-03-2026/",
+      "runtime": 1774805400,
+      "datetime": "2026-03-29T17:30:00.000Z"
+    },
+    {
+      "name": "Bursaspor vs Fenerbahçe Istanbul lúc 00:30",
+      "link": "/truc-tiep/bursaspor-vs-fenerbahce-istanbul-luc-0030-ngay-30-03-2026/",
+      "runtime": 1774805400,
+      "datetime": "2026-03-29T17:30:00.000Z"
+    },
+    {
+      "name": "Nữ ZAON Kifissia vs Nữ Olympiacos Piraeus lúc 00:30",
+      "link": "/truc-tiep/nu-zaon-kifissia-vs-nu-olympiacos-piraeus-luc-0030-ngay-30-03-2026/",
+      "runtime": 1774805400,
+      "datetime": "2026-03-29T17:30:00.000Z"
     }
   ]
 }
