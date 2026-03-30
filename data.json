@@ -1,67 +1,13 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-03-30T22:43:15.997Z",
+  "total_matches": 56,
+  "updated_at": "2026-03-30T23:29:34.941Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
       "link": "/truc-tiep/krishna-prasad-garaga-pruthvi-krishnamurthy-roy-vs-huang-tsung-i-lin-ting-yu-luc-1520-ngay-29-03-2026/",
       "runtime": 1774772400,
       "datetime": "2026-03-29T08:20:00.000Z"
-    },
-    {
-      "name": "Ulrikke Eikeri/Quinn Gleason vs Nicole Melichar-Martinez/Alexandra Panova lúc 01:50",
-      "link": "/truc-tiep/ulrikke-eikeri-quinn-gleason-vs-nicole-melichar-martinez-alexandra-panova-luc-0150-ngay-31-03-2026/",
-      "runtime": 1774896600,
-      "datetime": "2026-03-30T18:50:00.000Z"
-    },
-    {
-      "name": "Gonzalo Villanueva vs Valerio Aboian lúc 02:40",
-      "link": "/truc-tiep/gonzalo-villanueva-vs-valerio-aboian-luc-0240-ngay-31-03-2026/",
-      "runtime": 1774899600,
-      "datetime": "2026-03-30T19:40:00.000Z"
-    },
-    {
-      "name": "Miguel Tobon vs Karl Poling lúc 03:05",
-      "link": "/truc-tiep/miguel-tobon-vs-karl-poling-luc-0305-ngay-31-03-2026/",
-      "runtime": 1774901100,
-      "datetime": "2026-03-30T20:05:00.000Z"
-    },
-    {
-      "name": "Paulo Andre Saraiva Dos Santos vs Gonzalo Bueno lúc 03:50",
-      "link": "/truc-tiep/paulo-andre-saraiva-dos-santos-vs-gonzalo-bueno-luc-0350-ngay-31-03-2026/",
-      "runtime": 1774903800,
-      "datetime": "2026-03-30T20:50:00.000Z"
-    },
-    {
-      "name": "Cobresal vs Univ Catolica lúc 04:00 | TONI",
-      "link": "/truc-tiep/cobresal-vs-univ-catolica-luc-0400-ngay-31-03-2026/",
-      "runtime": 1774904400,
-      "datetime": "2026-03-30T21:00:00.000Z"
-    },
-    {
-      "name": "CD Magallanes vs Rangers Talca lúc 04:00",
-      "link": "/truc-tiep/cd-magallanes-vs-rangers-talca-luc-0400-ngay-31-03-2026/",
-      "runtime": 1774904400,
-      "datetime": "2026-03-30T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Junior vs Nữ Atl.Nacional lúc 04:00",
-      "link": "/truc-tiep/nu-junior-vs-nu-atl-nacional-luc-0400-ngay-31-03-2026/",
-      "runtime": 1774904400,
-      "datetime": "2026-03-30T21:00:00.000Z"
-    },
-    {
-      "name": "CD Choloma (R) vs Juticalpa (R) lúc 04:00",
-      "link": "/truc-tiep/cd-choloma-r-vs-juticalpa-r-luc-0400-ngay-31-03-2026/",
-      "runtime": 1774904400,
-      "datetime": "2026-03-30T21:00:00.000Z"
-    },
-    {
-      "name": "Theodore Winegar vs Mario Gonzalez Fernandez lúc 04:10",
-      "link": "/truc-tiep/theodore-winegar-vs-mario-gonzalez-fernandez-luc-0410-ngay-31-03-2026/",
-      "runtime": 1774905000,
-      "datetime": "2026-03-30T21:10:00.000Z"
     },
     {
       "name": "EC Jacuipense vs America FC Natal RN lúc 04:30",
@@ -106,12 +52,6 @@
       "datetime": "2026-03-30T22:00:00.000Z"
     },
     {
-      "name": "Estral Esports vs RMD Gaming lúc 05:00",
-      "link": "/truc-tiep/estral-esports-vs-rmd-gaming-luc-0500-ngay-31-03-2026/",
-      "runtime": 1774908000,
-      "datetime": "2026-03-30T22:00:00.000Z"
-    },
-    {
       "name": "Alex Bolt vs Wu Yibing lúc 05:10",
       "link": "/truc-tiep/alex-bolt-vs-wu-yibing-luc-0510-ngay-31-03-2026/",
       "runtime": 1774908600,
@@ -128,6 +68,24 @@
       "link": "/truc-tiep/adrm-maringa-women-vs-nu-cerrado-basquete-luc-0530-ngay-31-03-2026/",
       "runtime": 1774909800,
       "datetime": "2026-03-30T22:30:00.000Z"
+    },
+    {
+      "name": "Alex Michelsen/Learner Tien vs Santiago Gonzalez/Fernando Romboli lúc 05:30",
+      "link": "/truc-tiep/alex-michelsen-learner-tien-vs-santiago-gonzalez-fernando-romboli-luc-0530-ngay-31-03-2026/",
+      "runtime": 1774909800,
+      "datetime": "2026-03-30T22:30:00.000Z"
+    },
+    {
+      "name": "Nicolas Alvarez Varona vs Juan Bautista Torres lúc 05:40",
+      "link": "/truc-tiep/nicolas-alvarez-varona-vs-juan-bautista-torres-luc-0540-ngay-31-03-2026/",
+      "runtime": 1774910400,
+      "datetime": "2026-03-30T22:40:00.000Z"
+    },
+    {
+      "name": "Lautaro Midon vs Bruno Fernandez lúc 05:40",
+      "link": "/truc-tiep/lautaro-midon-vs-bruno-fernandez-luc-0540-ngay-31-03-2026/",
+      "runtime": 1774910400,
+      "datetime": "2026-03-30T22:40:00.000Z"
     },
     {
       "name": "Waterhouse FC vs Spanish Town Police lúc 06:00",
@@ -344,6 +302,42 @@
       "link": "/truc-tiep/argentino-de-marcos-juarez-vs-gimnasia-y-esgrima-rosario-luc-0730-ngay-31-03-2026/",
       "runtime": 1774917000,
       "datetime": "2026-03-31T00:30:00.000Z"
+    },
+    {
+      "name": "Tonga U16 vs American Samoa U16 lúc 08:00 | NEMO",
+      "link": "/truc-tiep/tonga-u16-vs-american-samoa-u16-luc-0800-ngay-31-03-2026/",
+      "runtime": 1774918800,
+      "datetime": "2026-03-31T01:00:00.000Z"
+    },
+    {
+      "name": "International San Carlos vs AD Grecia lúc 08:00",
+      "link": "/truc-tiep/international-san-carlos-vs-ad-grecia-luc-0800-ngay-31-03-2026/",
+      "runtime": 1774918800,
+      "datetime": "2026-03-31T01:00:00.000Z"
+    },
+    {
+      "name": "Utah Jazz vs Cleveland Cavaliers lúc 08:00 | ALAN",
+      "link": "/truc-tiep/utah-jazz-vs-cleveland-cavaliers-luc-0800-ngay-31-03-2026/",
+      "runtime": 1774918800,
+      "datetime": "2026-03-31T01:00:00.000Z"
+    },
+    {
+      "name": "South Carolina Women vs Nữ TCU lúc 08:00",
+      "link": "/truc-tiep/south-carolina-women-vs-nu-tcu-luc-0800-ngay-31-03-2026/",
+      "runtime": 1774918800,
+      "datetime": "2026-03-31T01:00:00.000Z"
+    },
+    {
+      "name": "Farmville vs mouse lúc 08:00",
+      "link": "/truc-tiep/farmville-vs-mouse-luc-0800-ngay-31-03-2026/",
+      "runtime": 1774918800,
+      "datetime": "2026-03-31T01:00:00.000Z"
+    },
+    {
+      "name": "Millonarios vs Fortaleza F.C lúc 08:20 | FINN",
+      "link": "/truc-tiep/millonarios-vs-fortaleza-f-c-luc-0820-ngay-31-03-2026/",
+      "runtime": 1774920000,
+      "datetime": "2026-03-31T01:20:00.000Z"
     }
   ]
 }
