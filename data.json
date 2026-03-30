@@ -1,25 +1,13 @@
 {
   "success": true,
-  "total_matches": 10,
-  "updated_at": "2026-03-30T04:43:58.873Z",
+  "total_matches": 22,
+  "updated_at": "2026-03-30T06:27:20.418Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
       "link": "/truc-tiep/krishna-prasad-garaga-pruthvi-krishnamurthy-roy-vs-huang-tsung-i-lin-ting-yu-luc-1520-ngay-29-03-2026/",
       "runtime": 1774772400,
       "datetime": "2026-03-29T08:20:00.000Z"
-    },
-    {
-      "name": "Cape Verde vs Phần Lan lúc 10:00 | BRADY",
-      "link": "/truc-tiep/cape-verde-vs-phan-lan-luc-1000-ngay-30-03-2026/",
-      "runtime": 1774839600,
-      "datetime": "2026-03-30T03:00:00.000Z"
-    },
-    {
-      "name": "Tacoma Defiance vs Ventura County FC lúc 10:00 | JAY",
-      "link": "/truc-tiep/tacoma-defiance-vs-ventura-county-fc-luc-1000-ngay-30-03-2026/",
-      "runtime": 1774839600,
-      "datetime": "2026-03-30T03:00:00.000Z"
     },
     {
       "name": "Renta Tokuda vs Hsu Yu-hsiou lúc 10:10",
@@ -40,16 +28,16 @@
       "datetime": "2026-03-30T03:30:00.000Z"
     },
     {
-      "name": "Big vs Cloud Rising lúc 10:30",
-      "link": "/truc-tiep/big-vs-cloud-rising-luc-1030-ngay-30-03-2026/",
-      "runtime": 1774841400,
-      "datetime": "2026-03-30T03:30:00.000Z"
-    },
-    {
       "name": "Liam Broady vs Kaichi Uchida lúc 11:30",
       "link": "/truc-tiep/liam-broady-vs-kaichi-uchida-luc-1130-ngay-30-03-2026/",
       "runtime": 1774845000,
       "datetime": "2026-03-30T04:30:00.000Z"
+    },
+    {
+      "name": "Harbin FC vs Ganzhou Team lúc 12:00",
+      "link": "/truc-tiep/harbin-fc-vs-ganzhou-team-luc-1200-ngay-30-03-2026/",
+      "runtime": 1774846800,
+      "datetime": "2026-03-30T05:00:00.000Z"
     },
     {
       "name": "KT Rolster Challengers vs DN SOOPers Challengers lúc 12:00",
@@ -58,10 +46,94 @@
       "datetime": "2026-03-30T05:00:00.000Z"
     },
     {
-      "name": "New Zealand vs Chile lúc 13:00 | MAX - RIO",
-      "link": "/truc-tiep/new-zealand-vs-chile-luc-1300-ngay-30-03-2026/",
-      "runtime": 1774850400,
-      "datetime": "2026-03-30T06:00:00.000Z"
+      "name": "New Zealand vs Chile lúc 13:15 | MAX - RIO",
+      "link": "/truc-tiep/new-zealand-vs-chile-luc-1315-ngay-30-03-2026/",
+      "runtime": 1774851300,
+      "datetime": "2026-03-30T06:15:00.000Z"
+    },
+    {
+      "name": "Nga U16 vs Jordan U16 lúc 14:00",
+      "link": "/truc-tiep/nga-u16-vs-jordan-u16-luc-1400-ngay-30-03-2026/",
+      "runtime": 1774854000,
+      "datetime": "2026-03-30T07:00:00.000Z"
+    },
+    {
+      "name": "Gamo Chencha vs Shashemene Ketema lúc 14:00",
+      "link": "/truc-tiep/gamo-chencha-vs-shashemene-ketema-luc-1400-ngay-30-03-2026/",
+      "runtime": 1774854000,
+      "datetime": "2026-03-30T07:00:00.000Z"
+    },
+    {
+      "name": "Nikoloz Basilashvili vs Daniel Michalski lúc 14:00 | VIC",
+      "link": "/truc-tiep/nikoloz-basilashvili-vs-daniel-michalski-luc-1400-ngay-30-03-2026/",
+      "runtime": 1774854000,
+      "datetime": "2026-03-30T07:00:00.000Z"
+    },
+    {
+      "name": "Tseng Chun-hsin vs Stefanos Sakellaridis lúc 14:00",
+      "link": "/truc-tiep/tseng-chun-hsin-vs-stefanos-sakellaridis-luc-1400-ngay-30-03-2026/",
+      "runtime": 1774854000,
+      "datetime": "2026-03-30T07:00:00.000Z"
+    },
+    {
+      "name": "George Loffhagen vs Jurij Rodionov lúc 14:00",
+      "link": "/truc-tiep/george-loffhagen-vs-jurij-rodionov-luc-1400-ngay-30-03-2026/",
+      "runtime": 1774854000,
+      "datetime": "2026-03-30T07:00:00.000Z"
+    },
+    {
+      "name": "BNK FearX Youth vs Hanwha Life Esports Challengers lúc 14:00",
+      "link": "/truc-tiep/bnk-fearx-youth-vs-hanwha-life-esports-challengers-luc-1400-ngay-30-03-2026/",
+      "runtime": 1774854000,
+      "datetime": "2026-03-30T07:00:00.000Z"
+    },
+    {
+      "name": "Nữ Denso Iris vs Nữ Fujitsu Redwave  lúc 14:30",
+      "link": "/truc-tiep/nu-denso-iris-vs-nu-fujitsu-redwave-luc-1430-ngay-30-03-2026/",
+      "runtime": 1774855800,
+      "datetime": "2026-03-30T07:30:00.000Z"
+    },
+    {
+      "name": "Ukraine U16 vs Morocco U16 lúc 15:00",
+      "link": "/truc-tiep/ukraine-u16-vs-morocco-u16-luc-1500-ngay-30-03-2026/",
+      "runtime": 1774857600,
+      "datetime": "2026-03-30T08:00:00.000Z"
+    },
+    {
+      "name": "Uzbekistan U19 vs Nhật Bản U20 lúc 15:00 | ZARA",
+      "link": "/truc-tiep/uzbekistan-u19-vs-nhat-ban-u20-luc-1500-ngay-30-03-2026/",
+      "runtime": 1774857600,
+      "datetime": "2026-03-30T08:00:00.000Z"
+    },
+    {
+      "name": "MC Oran U20 vs WA Mostaganem U20 lúc 15:00",
+      "link": "/truc-tiep/mc-oran-u20-vs-wa-mostaganem-u20-luc-1500-ngay-30-03-2026/",
+      "runtime": 1774857600,
+      "datetime": "2026-03-30T08:00:00.000Z"
+    },
+    {
+      "name": "SINNERS vs BetBoom lúc 15:00",
+      "link": "/truc-tiep/sinners-vs-betboom-luc-1500-ngay-30-03-2026/",
+      "runtime": 1774857600,
+      "datetime": "2026-03-30T08:00:00.000Z"
+    },
+    {
+      "name": "illwill vs Rebels lúc 15:00",
+      "link": "/truc-tiep/illwill-vs-rebels-luc-1500-ngay-30-03-2026/",
+      "runtime": 1774857600,
+      "datetime": "2026-03-30T08:00:00.000Z"
+    },
+    {
+      "name": "Gabriel Ghetu vs Jay Clarke lúc 15:10",
+      "link": "/truc-tiep/gabriel-ghetu-vs-jay-clarke-luc-1510-ngay-30-03-2026/",
+      "runtime": 1774858200,
+      "datetime": "2026-03-30T08:10:00.000Z"
+    },
+    {
+      "name": "Dimitar Kuzmanov vs Stefano Travaglia lúc 15:10",
+      "link": "/truc-tiep/dimitar-kuzmanov-vs-stefano-travaglia-luc-1510-ngay-30-03-2026/",
+      "runtime": 1774858200,
+      "datetime": "2026-03-30T08:10:00.000Z"
     }
   ]
 }
