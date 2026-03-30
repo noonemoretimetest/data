@@ -1,109 +1,13 @@
 {
   "success": true,
-  "total_matches": 23,
-  "updated_at": "2026-03-30T01:56:27.542Z",
+  "total_matches": 10,
+  "updated_at": "2026-03-30T04:43:58.873Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
       "link": "/truc-tiep/krishna-prasad-garaga-pruthvi-krishnamurthy-roy-vs-huang-tsung-i-lin-ting-yu-luc-1520-ngay-29-03-2026/",
       "runtime": 1774772400,
       "datetime": "2026-03-29T08:20:00.000Z"
-    },
-    {
-      "name": "Voca vs Fisher College lúc 06:00",
-      "link": "/truc-tiep/voca-vs-fisher-college-luc-0600-ngay-30-03-2026/",
-      "runtime": 1774825200,
-      "datetime": "2026-03-29T23:00:00.000Z"
-    },
-    {
-      "name": "Oklahoma City Thunder vs New York Knicks lúc 06:30 | TOMMY",
-      "link": "/truc-tiep/oklahoma-city-thunder-vs-new-york-knicks-luc-0630-ngay-30-03-2026/",
-      "runtime": 1774827000,
-      "datetime": "2026-03-29T23:30:00.000Z"
-    },
-    {
-      "name": "Waterhouse FC vs Spanish Town Police lúc 07:00",
-      "link": "/truc-tiep/waterhouse-fc-vs-spanish-town-police-luc-0700-ngay-30-03-2026/",
-      "runtime": 1774828800,
-      "datetime": "2026-03-30T00:00:00.000Z"
-    },
-    {
-      "name": "Gorilas Juanacatlán vs Acambaro FC lúc 07:00",
-      "link": "/truc-tiep/gorilas-juanacatlan-vs-acambaro-fc-luc-0700-ngay-30-03-2026/",
-      "runtime": 1774828800,
-      "datetime": "2026-03-30T00:00:00.000Z"
-    },
-    {
-      "name": "Futbol Moravia vs Escorpiones Belen lúc 07:00",
-      "link": "/truc-tiep/futbol-moravia-vs-escorpiones-belen-luc-0700-ngay-30-03-2026/",
-      "runtime": 1774828800,
-      "datetime": "2026-03-30T00:00:00.000Z"
-    },
-    {
-      "name": "Capitanes de Arecibo vs Aguada Santeros lúc 07:00",
-      "link": "/truc-tiep/capitanes-de-arecibo-vs-aguada-santeros-luc-0700-ngay-30-03-2026/",
-      "runtime": 1774828800,
-      "datetime": "2026-03-30T00:00:00.000Z"
-    },
-    {
-      "name": "Legacy vs Gaimin Gladiators lúc 07:00",
-      "link": "/truc-tiep/legacy-vs-gaimin-gladiators-luc-0700-ngay-30-03-2026/",
-      "runtime": 1774828800,
-      "datetime": "2026-03-30T00:00:00.000Z"
-    },
-    {
-      "name": "Bonaire vs Saint Martin lúc 07:30 | ASTRA",
-      "link": "/truc-tiep/bonaire-vs-saint-martin-luc-0730-ngay-30-03-2026/",
-      "runtime": 1774830600,
-      "datetime": "2026-03-30T00:30:00.000Z"
-    },
-    {
-      "name": "Marquense vs Comunicaciones lúc 08:00",
-      "link": "/truc-tiep/marquense-vs-comunicaciones-luc-0800-ngay-30-03-2026/",
-      "runtime": 1774832400,
-      "datetime": "2026-03-30T01:00:00.000Z"
-    },
-    {
-      "name": "Suchitepequez vs Coatepeque lúc 08:00",
-      "link": "/truc-tiep/suchitepequez-vs-coatepeque-luc-0800-ngay-30-03-2026/",
-      "runtime": 1774832400,
-      "datetime": "2026-03-30T01:00:00.000Z"
-    },
-    {
-      "name": "Club Guadalajara vs Atlas lúc 08:00 | RYAN",
-      "link": "/truc-tiep/club-guadalajara-vs-atlas-luc-0800-ngay-30-03-2026/",
-      "runtime": 1774832400,
-      "datetime": "2026-03-30T01:00:00.000Z"
-    },
-    {
-      "name": "Caballeros de Culiacán vs Toros Laguna lúc 08:00",
-      "link": "/truc-tiep/caballeros-de-culiacan-vs-toros-laguna-luc-0800-ngay-30-03-2026/",
-      "runtime": 1774832400,
-      "datetime": "2026-03-30T01:00:00.000Z"
-    },
-    {
-      "name": "Nữ Tijuana vs Nữ Guadalajara lúc 08:06 | DAVID",
-      "link": "/truc-tiep/nu-tijuana-vs-nu-guadalajara-luc-0806-ngay-30-03-2026/",
-      "runtime": 1774832760,
-      "datetime": "2026-03-30T01:06:00.000Z"
-    },
-    {
-      "name": "Denver Nuggets vs Golden State Warriors lúc 09:00 | NEZHA",
-      "link": "/truc-tiep/denver-nuggets-vs-golden-state-warriors-luc-0900-ngay-30-03-2026/",
-      "runtime": 1774836000,
-      "datetime": "2026-03-30T02:00:00.000Z"
-    },
-    {
-      "name": "Li Tu vs Yuki Mochizuki lúc 09:00",
-      "link": "/truc-tiep/li-tu-vs-yuki-mochizuki-luc-0900-ngay-30-03-2026/",
-      "runtime": 1774836000,
-      "datetime": "2026-03-30T02:00:00.000Z"
-    },
-    {
-      "name": "Yusuke Kusuhara vs Koki Matsuda lúc 09:00",
-      "link": "/truc-tiep/yusuke-kusuhara-vs-koki-matsuda-luc-0900-ngay-30-03-2026/",
-      "runtime": 1774836000,
-      "datetime": "2026-03-30T02:00:00.000Z"
     },
     {
       "name": "Cape Verde vs Phần Lan lúc 10:00 | BRADY",
@@ -140,6 +44,24 @@
       "link": "/truc-tiep/big-vs-cloud-rising-luc-1030-ngay-30-03-2026/",
       "runtime": 1774841400,
       "datetime": "2026-03-30T03:30:00.000Z"
+    },
+    {
+      "name": "Liam Broady vs Kaichi Uchida lúc 11:30",
+      "link": "/truc-tiep/liam-broady-vs-kaichi-uchida-luc-1130-ngay-30-03-2026/",
+      "runtime": 1774845000,
+      "datetime": "2026-03-30T04:30:00.000Z"
+    },
+    {
+      "name": "KT Rolster Challengers vs DN SOOPers Challengers lúc 12:00",
+      "link": "/truc-tiep/kt-rolster-challengers-vs-dn-soopers-challengers-luc-1200-ngay-30-03-2026/",
+      "runtime": 1774846800,
+      "datetime": "2026-03-30T05:00:00.000Z"
+    },
+    {
+      "name": "New Zealand vs Chile lúc 13:00 | MAX - RIO",
+      "link": "/truc-tiep/new-zealand-vs-chile-luc-1300-ngay-30-03-2026/",
+      "runtime": 1774850400,
+      "datetime": "2026-03-30T06:00:00.000Z"
     }
   ]
 }
