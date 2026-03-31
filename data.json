@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 22,
-  "updated_at": "2026-03-31T06:52:54.304Z",
+  "total_matches": 42,
+  "updated_at": "2026-03-31T08:04:44.178Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
@@ -16,40 +16,16 @@
       "datetime": "2026-03-31T05:00:00.000Z"
     },
     {
-      "name": "Ground Zero vs Abyssal lúc 12:00",
-      "link": "/truc-tiep/ground-zero-vs-abyssal-luc-1200-ngay-31-03-2026/",
-      "runtime": 1774933200,
-      "datetime": "2026-03-31T05:00:00.000Z"
-    },
-    {
-      "name": "James Kent Trotter vs Dan Added lúc 12:05",
-      "link": "/truc-tiep/james-kent-trotter-vs-dan-added-luc-1205-ngay-31-03-2026/",
-      "runtime": 1774933500,
-      "datetime": "2026-03-31T05:05:00.000Z"
-    },
-    {
-      "name": "Cameroon vs Trung Quốc lúc 13:00 | BRADY",
-      "link": "/truc-tiep/cameroon-vs-trung-quoc-luc-1300-ngay-31-03-2026/",
-      "runtime": 1774936800,
-      "datetime": "2026-03-31T06:00:00.000Z"
-    },
-    {
-      "name": "Waribo FC vs Persiker Keerom lúc 13:00",
-      "link": "/truc-tiep/waribo-fc-vs-persiker-keerom-luc-1300-ngay-31-03-2026/",
-      "runtime": 1774936800,
-      "datetime": "2026-03-31T06:00:00.000Z"
-    },
-    {
-      "name": "PSPP Padang Panjang vs PSLA Sicincin lúc 13:00",
-      "link": "/truc-tiep/pspp-padang-panjang-vs-psla-sicincin-luc-1300-ngay-31-03-2026/",
-      "runtime": 1774936800,
-      "datetime": "2026-03-31T06:00:00.000Z"
-    },
-    {
       "name": "Queanbeyan City U23 vs C. Croatia U23 lúc 13:30",
       "link": "/truc-tiep/queanbeyan-city-u23-vs-c-croatia-u23-luc-1330-ngay-31-03-2026/",
       "runtime": 1774938600,
       "datetime": "2026-03-31T06:30:00.000Z"
+    },
+    {
+      "name": "Hiroki Moriya vs Koki Matsuda lúc 13:50",
+      "link": "/truc-tiep/hiroki-moriya-vs-koki-matsuda-luc-1350-ngay-31-03-2026/",
+      "runtime": 1774939800,
+      "datetime": "2026-03-31T06:50:00.000Z"
     },
     {
       "name": "Triều Tiên U23 vs Thái Lan U23 lúc 14:00 | DAVID",
@@ -68,6 +44,12 @@
       "link": "/truc-tiep/thriving-vs-cloud-dawning-luc-1400-ngay-31-03-2026/",
       "runtime": 1774940400,
       "datetime": "2026-03-31T07:00:00.000Z"
+    },
+    {
+      "name": "Zhou Yi vs Yusuke Takahashi lúc 14:10",
+      "link": "/truc-tiep/zhou-yi-vs-yusuke-takahashi-luc-1410-ngay-31-03-2026/",
+      "runtime": 1774941000,
+      "datetime": "2026-03-31T07:10:00.000Z"
     },
     {
       "name": "Garhwal Diamond vs National United SC lúc 14:30",
@@ -134,6 +116,144 @@
       "link": "/truc-tiep/rare-atom-vs-boring-players-luc-1530-ngay-31-03-2026/",
       "runtime": 1774945800,
       "datetime": "2026-03-31T08:30:00.000Z"
+    },
+    {
+      "name": "Pakistan vs Myanmar lúc 16:00 | MAX",
+      "link": "/truc-tiep/pakistan-vs-myanmar-luc-1600-ngay-31-03-2026/",
+      "runtime": 1774947600,
+      "datetime": "2026-03-31T09:00:00.000Z"
+    },
+    {
+      "name": "Guinea Xích Đạo vs Madagascar lúc 16:00",
+      "link": "/truc-tiep/guinea-xich-dao-vs-madagascar-luc-1600-ngay-31-03-2026/",
+      "runtime": 1774947600,
+      "datetime": "2026-03-31T09:00:00.000Z"
+    },
+    {
+      "name": "MC Alger U20 vs JS Kabylie U20 lúc 16:00",
+      "link": "/truc-tiep/mc-alger-u20-vs-js-kabylie-u20-luc-1600-ngay-31-03-2026/",
+      "runtime": 1774947600,
+      "datetime": "2026-03-31T09:00:00.000Z"
+    },
+    {
+      "name": "Gilles Arnaud Bailly vs Kimmer Coppejans lúc 16:00",
+      "link": "/truc-tiep/gilles-arnaud-bailly-vs-kimmer-coppejans-luc-1600-ngay-31-03-2026/",
+      "runtime": 1774947600,
+      "datetime": "2026-03-31T09:00:00.000Z"
+    },
+    {
+      "name": "Maxim Mrva vs Martin Krumich lúc 16:00",
+      "link": "/truc-tiep/maxim-mrva-vs-martin-krumich-luc-1600-ngay-31-03-2026/",
+      "runtime": 1774947600,
+      "datetime": "2026-03-31T09:00:00.000Z"
+    },
+    {
+      "name": "Bilibili Gaming vs Team WE lúc 16:00",
+      "link": "/truc-tiep/bilibili-gaming-vs-team-we-luc-1600-ngay-31-03-2026/",
+      "runtime": 1774947600,
+      "datetime": "2026-03-31T09:00:00.000Z"
+    },
+    {
+      "name": "Australia vs Curacao lúc 16:10 | ASTRA",
+      "link": "/truc-tiep/australia-vs-curacao-luc-1610-ngay-31-03-2026/",
+      "runtime": 1774948200,
+      "datetime": "2026-03-31T09:10:00.000Z"
+    },
+    {
+      "name": "Shine Elastopainters vs Blackwater Bossing lúc 16:15",
+      "link": "/truc-tiep/shine-elastopainters-vs-blackwater-bossing-luc-1615-ngay-31-03-2026/",
+      "runtime": 1774948500,
+      "datetime": "2026-03-31T09:15:00.000Z"
+    },
+    {
+      "name": "Nữ Sunshine Wanderers  vs Nữ Eastern Suburbs lúc 16:30",
+      "link": "/truc-tiep/nu-sunshine-wanderers-vs-nu-eastern-suburbs-luc-1630-ngay-31-03-2026/",
+      "runtime": 1774949400,
+      "datetime": "2026-03-31T09:30:00.000Z"
+    },
+    {
+      "name": "Romania U19 vs Đan Mạch U19 lúc 17:00 | JEAN",
+      "link": "/truc-tiep/romania-u19-vs-dan-mach-u19-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Liechtenstein U19 vs Andorra U19 lúc 17:00 | OLER",
+      "link": "/truc-tiep/liechtenstein-u19-vs-andorra-u19-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Thụy Sĩ U19 vs Na Uy U19 lúc 17:00",
+      "link": "/truc-tiep/thuy-si-u19-vs-na-uy-u19-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Estonia U19 vs Ukraine U19 lúc 17:00 | LOGAN",
+      "link": "/truc-tiep/estonia-u19-vs-ukraine-u19-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Pháp U19 vs Croatia U19 lúc 17:00 | SILVA",
+      "link": "/truc-tiep/phap-u19-vs-croatia-u19-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Phần Lan U19 vs CH Séc U19 lúc 17:00 | TONI",
+      "link": "/truc-tiep/phan-lan-u19-vs-ch-sec-u19-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Thái Lan U17 vs Indonesia U17 lúc 17:00",
+      "link": "/truc-tiep/thai-lan-u17-vs-indonesia-u17-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Hàn Quốc U23 vs USA U21 lúc 17:00",
+      "link": "/truc-tiep/han-quoc-u23-vs-usa-u21-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Anyang JungKwanJang vs Changwon LG Sakers lúc 17:00 | TOMMY",
+      "link": "/truc-tiep/anyang-jungkwanjang-vs-changwon-lg-sakers-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Federico Cina vs Alexandre Muller lúc 17:00 | VIC",
+      "link": "/truc-tiep/federico-cina-vs-alexandre-muller-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Juan Manuel Cerundolo vs Kamil Majchrzak lúc 17:00",
+      "link": "/truc-tiep/juan-manuel-cerundolo-vs-kamil-majchrzak-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "Robert Cash/James Tracy vs Finn Reynolds/James Watt lúc 17:00",
+      "link": "/truc-tiep/robert-cash-james-tracy-vs-finn-reynolds-james-watt-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "DRX Challengers vs T1 Esports Academy lúc 17:00",
+      "link": "/truc-tiep/drx-challengers-vs-t1-esports-academy-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
+    },
+    {
+      "name": "AaB vs Falcons Force lúc 17:00",
+      "link": "/truc-tiep/aab-vs-falcons-force-luc-1700-ngay-31-03-2026/",
+      "runtime": 1774951200,
+      "datetime": "2026-03-31T10:00:00.000Z"
     }
   ]
 }
