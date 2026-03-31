@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 48,
-  "updated_at": "2026-03-31T09:19:18.706Z",
+  "total_matches": 60,
+  "updated_at": "2026-03-31T10:16:46.215Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
@@ -10,50 +10,14 @@
       "datetime": "2026-03-29T08:20:00.000Z"
     },
     {
-      "name": "Thriving vs Cloud Dawning lúc 14:00",
-      "link": "/truc-tiep/thriving-vs-cloud-dawning-luc-1400-ngay-31-03-2026/",
-      "runtime": 1774940400,
-      "datetime": "2026-03-31T07:00:00.000Z"
-    },
-    {
-      "name": "Garhwal Diamond vs National United SC lúc 14:30",
-      "link": "/truc-tiep/garhwal-diamond-vs-national-united-sc-luc-1430-ngay-31-03-2026/",
-      "runtime": 1774942200,
-      "datetime": "2026-03-31T07:30:00.000Z"
-    },
-    {
       "name": "CR Belouizdad U20 vs Paradou AC U20 lúc 15:00",
       "link": "/truc-tiep/cr-belouizdad-u20-vs-paradou-ac-u20-luc-1500-ngay-31-03-2026/",
       "runtime": 1774944000,
       "datetime": "2026-03-31T08:00:00.000Z"
     },
     {
-      "name": "Yapen vs Persimi Sarmi lúc 15:00",
-      "link": "/truc-tiep/yapen-vs-persimi-sarmi-luc-1500-ngay-31-03-2026/",
-      "runtime": 1774944000,
-      "datetime": "2026-03-31T08:00:00.000Z"
-    },
-    {
-      "name": "Alexander Shevchenko vs Radu David Turcanu lúc 15:00 | VIC",
-      "link": "/truc-tiep/alexander-shevchenko-vs-radu-david-turcanu-luc-1500-ngay-31-03-2026/",
-      "runtime": 1774944000,
-      "datetime": "2026-03-31T08:00:00.000Z"
-    },
-    {
-      "name": "Gabi Adrian Boitan vs Elmer Moller lúc 15:00",
-      "link": "/truc-tiep/gabi-adrian-boitan-vs-elmer-moller-luc-1500-ngay-31-03-2026/",
-      "runtime": 1774944000,
-      "datetime": "2026-03-31T08:00:00.000Z"
-    },
-    {
       "name": "Inaki Montes-de La Torre vs Eero Vasa lúc 15:00",
       "link": "/truc-tiep/inaki-montes-de-la-torre-vs-eero-vasa-luc-1500-ngay-31-03-2026/",
-      "runtime": 1774944000,
-      "datetime": "2026-03-31T08:00:00.000Z"
-    },
-    {
-      "name": "Nữ KP Brno B vs Nữ Prostejov B lúc 15:00",
-      "link": "/truc-tiep/nu-kp-brno-b-vs-nu-prostejov-b-luc-1500-ngay-31-03-2026/",
       "runtime": 1774944000,
       "datetime": "2026-03-31T08:00:00.000Z"
     },
@@ -138,12 +102,6 @@
     {
       "name": "Romania U19 vs Đan Mạch U19 lúc 17:00 | JEAN",
       "link": "/truc-tiep/romania-u19-vs-dan-mach-u19-luc-1700-ngay-31-03-2026/",
-      "runtime": 1774951200,
-      "datetime": "2026-03-31T10:00:00.000Z"
-    },
-    {
-      "name": "Liechtenstein U19 vs Andorra U19 lúc 17:00 | OLER",
-      "link": "/truc-tiep/liechtenstein-u19-vs-andorra-u19-luc-1700-ngay-31-03-2026/",
       "runtime": 1774951200,
       "datetime": "2026-03-31T10:00:00.000Z"
     },
@@ -290,6 +248,120 @@
       "link": "/truc-tiep/jd-gaming-vs-oh-my-god-luc-1800-ngay-31-03-2026/",
       "runtime": 1774954800,
       "datetime": "2026-03-31T11:00:00.000Z"
+    },
+    {
+      "name": "Balestier Khalsa FC U23 vs Albirex Niigata U23 lúc 18:30",
+      "link": "/truc-tiep/balestier-khalsa-fc-u23-vs-albirex-niigata-u23-luc-1830-ngay-31-03-2026/",
+      "runtime": 1774956600,
+      "datetime": "2026-03-31T11:30:00.000Z"
+    },
+    {
+      "name": "Trung Quốc U23 vs Việt Nam U23  lúc 18:35 | LOUIS - ZARA",
+      "link": "/truc-tiep/trung-quoc-u23-vs-viet-nam-u23-luc-1835-ngay-31-03-2026/",
+      "runtime": 1774956900,
+      "datetime": "2026-03-31T11:35:00.000Z"
+    },
+    {
+      "name": "Trung Quốc U19 vs Australia U19 lúc 18:35",
+      "link": "/truc-tiep/trung-quoc-u19-vs-australia-u19-luc-1835-ngay-31-03-2026/",
+      "runtime": 1774956900,
+      "datetime": "2026-03-31T11:35:00.000Z"
+    },
+    {
+      "name": "Jilin Northeast Tigers vs Shanghai Sharks lúc 18:35 | STEP",
+      "link": "/truc-tiep/jilin-northeast-tigers-vs-shanghai-sharks-luc-1835-ngay-31-03-2026/",
+      "runtime": 1774956900,
+      "datetime": "2026-03-31T11:35:00.000Z"
+    },
+    {
+      "name": "Guangdong Sunshine vs Jiangsu Dragons lúc 18:35 | ALAN",
+      "link": "/truc-tiep/guangdong-sunshine-vs-jiangsu-dragons-luc-1835-ngay-31-03-2026/",
+      "runtime": 1774956900,
+      "datetime": "2026-03-31T11:35:00.000Z"
+    },
+    {
+      "name": "Việt Nam vs Malaysia lúc 19:00 | ROY - MAX - BRADY",
+      "link": "/truc-tiep/viet-nam-vs-malaysia-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Kazakhstan vs Comoros lúc 19:00",
+      "link": "/truc-tiep/kazakhstan-vs-comoros-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Nepal vs Lào lúc 19:00 | POLO",
+      "link": "/truc-tiep/nepal-vs-lao-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Singapore vs Bangladesh lúc 19:00 | HELLO",
+      "link": "/truc-tiep/singapore-vs-bangladesh-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Montenegro U21 vs Ba Lan U21 lúc 19:00 | NEMO",
+      "link": "/truc-tiep/montenegro-u21-vs-ba-lan-u21-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Đan Mạch U19 vs CH Séc U19 lúc 19:00",
+      "link": "/truc-tiep/dan-mach-u19-vs-ch-sec-u19-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Hà Lan U17 vs Belarus U17 lúc 19:00",
+      "link": "/truc-tiep/ha-lan-u17-vs-belarus-u17-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Latvia U19 vs Bỉ U19 lúc 19:00",
+      "link": "/truc-tiep/latvia-u19-vs-bi-u19-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Ararat Yerevan II vs Lernayin Artsakh lúc 19:00",
+      "link": "/truc-tiep/ararat-yerevan-ii-vs-lernayin-artsakh-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Hayq vs FC Noah B lúc 19:00",
+      "link": "/truc-tiep/hayq-vs-fc-noah-b-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Erbil SC vs Al Zawraa lúc 19:00",
+      "link": "/truc-tiep/erbil-sc-vs-al-zawraa-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Newroz SC(IRQ) vs Naft Missan lúc 19:00",
+      "link": "/truc-tiep/newroz-scirq-vs-naft-missan-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Morocco U18 vs Iceland U19 lúc 19:00",
+      "link": "/truc-tiep/morocco-u18-vs-iceland-u19-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "name": "Al Shorta vs Al Quwa Al Jawiya lúc 19:00",
+      "link": "/truc-tiep/al-shorta-vs-al-quwa-al-jawiya-luc-1900-ngay-31-03-2026/",
+      "runtime": 1774958400,
+      "datetime": "2026-03-31T12:00:00.000Z"
     }
   ]
 }
