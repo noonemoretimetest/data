@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 64,
-  "updated_at": "2026-03-31T15:37:54.890Z",
+  "total_matches": 72,
+  "updated_at": "2026-03-31T16:37:28.450Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
@@ -10,104 +10,14 @@
       "datetime": "2026-03-29T08:20:00.000Z"
     },
     {
-      "name": "Minlate vs HEROIC Academy lúc 17:30",
-      "link": "/truc-tiep/minlate-vs-heroic-academy-luc-1730-ngay-31-03-2026/",
-      "runtime": 1774953000,
-      "datetime": "2026-03-31T10:30:00.000Z"
-    },
-    {
-      "name": "CA Progreso vs Liverpool URU lúc 20:55",
-      "link": "/truc-tiep/ca-progreso-vs-liverpool-uru-luc-2055-ngay-31-03-2026/",
-      "runtime": 1774965300,
-      "datetime": "2026-03-31T13:55:00.000Z"
-    },
-    {
-      "name": "Tajikistan vs Philippines lúc 21:00 | LOUIS",
-      "link": "/truc-tiep/tajikistan-vs-philippines-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Armenia U21 vs Bắc Macedonia U21 lúc 21:00",
-      "link": "/truc-tiep/armenia-u21-vs-bac-macedonia-u21-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Eswatini vs Eritrea lúc 21:00 | JAY",
-      "link": "/truc-tiep/eswatini-vs-eritrea-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Slovenia U21 vs Na Uy U21 lúc 21:00 | TONI",
-      "link": "/truc-tiep/slovenia-u21-vs-na-uy-u21-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Torreense U23 vs Famalicao U23 lúc 21:00",
-      "link": "/truc-tiep/torreense-u23-vs-famalicao-u23-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Bắc Ireland U19 vs Kazakhstan U19 lúc 21:00",
-      "link": "/truc-tiep/bac-ireland-u19-vs-kazakhstan-u19-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Romania U19 vs Ukraine U19 lúc 21:00",
-      "link": "/truc-tiep/romania-u19-vs-ukraine-u19-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Ba Lan U17 vs Croatia U17 lúc 21:00",
-      "link": "/truc-tiep/ba-lan-u17-vs-croatia-u17-luc-2100-ngay-31-03-2026/",
-      "runtime": 1774965600,
-      "datetime": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "name": "Taha Baadi/Karim Bennani vs Theo Arribage/Albano Olivetti lúc 21:15",
-      "link": "/truc-tiep/taha-baadi-karim-bennani-vs-theo-arribage-albano-olivetti-luc-2115-ngay-31-03-2026/",
-      "runtime": 1774966500,
-      "datetime": "2026-03-31T14:15:00.000Z"
-    },
-    {
       "name": "Ignacio Buse vs Matteo Berrettini lúc 21:15",
       "link": "/truc-tiep/ignacio-buse-vs-matteo-berrettini-luc-2115-ngay-31-03-2026/",
       "runtime": 1774966500,
       "datetime": "2026-03-31T14:15:00.000Z"
     },
     {
-      "name": "Hungary U21 vs Ukraine U21 lúc 21:30 | FINN",
-      "link": "/truc-tiep/hungary-u21-vs-ukraine-u21-luc-2130-ngay-31-03-2026/",
-      "runtime": 1774967400,
-      "datetime": "2026-03-31T14:30:00.000Z"
-    },
-    {
-      "name": "Pháp U17 vs Đức U17 lúc 21:30",
-      "link": "/truc-tiep/phap-u17-vs-duc-u17-luc-2130-ngay-31-03-2026/",
-      "runtime": 1774967400,
-      "datetime": "2026-03-31T14:30:00.000Z"
-    },
-    {
-      "name": "Al Qasim SC vs Diala lúc 21:30",
-      "link": "/truc-tiep/al-qasim-sc-vs-diala-luc-2130-ngay-31-03-2026/",
-      "runtime": 1774967400,
-      "datetime": "2026-03-31T14:30:00.000Z"
-    },
-    {
       "name": "Bắc Macedonia U17 vs Slovenia U17 lúc 21:30",
       "link": "/truc-tiep/bac-macedonia-u17-vs-slovenia-u17-luc-2130-ngay-31-03-2026/",
-      "runtime": 1774967400,
-      "datetime": "2026-03-31T14:30:00.000Z"
-    },
-    {
-      "name": "Parma Perm vs KK Mega Basket lúc 21:30",
-      "link": "/truc-tiep/parma-perm-vs-kk-mega-basket-luc-2130-ngay-31-03-2026/",
       "runtime": 1774967400,
       "datetime": "2026-03-31T14:30:00.000Z"
     },
@@ -172,16 +82,16 @@
       "datetime": "2026-03-31T15:00:00.000Z"
     },
     {
-      "name": "Altyn Asyr FC vs Ahal FK lúc 22:00",
-      "link": "/truc-tiep/altyn-asyr-fc-vs-ahal-fk-luc-2200-ngay-31-03-2026/",
-      "runtime": 1774969200,
-      "datetime": "2026-03-31T15:00:00.000Z"
-    },
-    {
       "name": "Silute vs Vilkaviskio Perlas lúc 22:00 | NEZHA",
       "link": "/truc-tiep/silute-vs-vilkaviskio-perlas-luc-2200-ngay-31-03-2026/",
       "runtime": 1774969200,
       "datetime": "2026-03-31T15:00:00.000Z"
+    },
+    {
+      "name": "Team Insidious vs Gamespace MCE lúc 22:15",
+      "link": "/truc-tiep/team-insidious-vs-gamespace-mce-luc-2215-ngay-31-03-2026/",
+      "runtime": 1774970100,
+      "datetime": "2026-03-31T15:15:00.000Z"
     },
     {
       "name": "Croatia U21 vs Thổ Nhĩ Kỳ U21 lúc 22:30 | MAX",
@@ -196,14 +106,20 @@
       "datetime": "2026-03-31T15:30:00.000Z"
     },
     {
-      "name": "Latvia vs Gibraltar lúc 23:00 | DAVID - JEAN",
-      "link": "/truc-tiep/latvia-vs-gibraltar-luc-2300-ngay-31-03-2026/",
-      "runtime": 1774972800,
-      "datetime": "2026-03-31T16:00:00.000Z"
+      "name": "L1ga Team vs Team Stels lúc 22:30",
+      "link": "/truc-tiep/l1ga-team-vs-team-stels-luc-2230-ngay-31-03-2026/",
+      "runtime": 1774971000,
+      "datetime": "2026-03-31T15:30:00.000Z"
     },
     {
       "name": "Luxembourg vs Malta lúc 23:00 | KEN - YUNO",
       "link": "/truc-tiep/luxembourg-vs-malta-luc-2300-ngay-31-03-2026/",
+      "runtime": 1774972800,
+      "datetime": "2026-03-31T16:00:00.000Z"
+    },
+    {
+      "name": "Latvia vs Gibraltar lúc 23:00 | DAVID - JEAN",
+      "link": "/truc-tiep/latvia-vs-gibraltar-luc-2300-ngay-31-03-2026/",
       "runtime": 1774972800,
       "datetime": "2026-03-31T16:00:00.000Z"
     },
@@ -298,10 +214,22 @@
       "datetime": "2026-03-31T16:10:00.000Z"
     },
     {
+      "name": "fnatic vs FaZe lúc 23:10",
+      "link": "/truc-tiep/fnatic-vs-faze-luc-2310-ngay-31-03-2026/",
+      "runtime": 1774973400,
+      "datetime": "2026-03-31T16:10:00.000Z"
+    },
+    {
       "name": "Syria vs Afghanistan lúc 23:15 | ROY",
       "link": "/truc-tiep/syria-vs-afghanistan-luc-2315-ngay-31-03-2026/",
       "runtime": 1774973700,
       "datetime": "2026-03-31T16:15:00.000Z"
+    },
+    {
+      "name": "Rafael Jodar vs Dusan Lajovic lúc 23:20",
+      "link": "/truc-tiep/rafael-jodar-vs-dusan-lajovic-luc-2320-ngay-31-03-2026/",
+      "runtime": 1774974000,
+      "datetime": "2026-03-31T16:20:00.000Z"
     },
     {
       "name": "Thụy Điển U21 vs Italy U21 lúc 23:30 | JAY",
@@ -376,6 +304,24 @@
       "datetime": "2026-03-31T17:00:00.000Z"
     },
     {
+      "name": "The Bandits vs DYN lúc 00:00",
+      "link": "/truc-tiep/the-bandits-vs-dyn-luc-0000-ngay-01-04-2026/",
+      "runtime": 1774976400,
+      "datetime": "2026-03-31T17:00:00.000Z"
+    },
+    {
+      "name": "R2 vs paiN Academy lúc 00:00",
+      "link": "/truc-tiep/r2-vs-pain-academy-luc-0000-ngay-01-04-2026/",
+      "runtime": 1774976400,
+      "datetime": "2026-03-31T17:00:00.000Z"
+    },
+    {
+      "name": "Alvaro Guillen Meza vs Luciano Emanuel Ambrogi lúc 00:05",
+      "link": "/truc-tiep/alvaro-guillen-meza-vs-luciano-emanuel-ambrogi-luc-0005-ngay-01-04-2026/",
+      "runtime": 1774976700,
+      "datetime": "2026-03-31T17:05:00.000Z"
+    },
+    {
       "name": "Jordan vs Nigeria lúc 00:30",
       "link": "/truc-tiep/jordan-vs-nigeria-luc-0030-ngay-01-04-2026/",
       "runtime": 1774978200,
@@ -386,6 +332,108 @@
       "link": "/truc-tiep/nam-phi-vs-panama-luc-0030-ngay-01-04-2026/",
       "runtime": 1774978200,
       "datetime": "2026-03-31T17:30:00.000Z"
+    },
+    {
+      "name": "BESTIA vs Falcons Force lúc 00:30",
+      "link": "/truc-tiep/bestia-vs-falcons-force-luc-0030-ngay-01-04-2026/",
+      "runtime": 1774978200,
+      "datetime": "2026-03-31T17:30:00.000Z"
+    },
+    {
+      "name": "Irene Burillo Escorihuela vs Jazmin Ortenzi lúc 00:50",
+      "link": "/truc-tiep/irene-burillo-escorihuela-vs-jazmin-ortenzi-luc-0050-ngay-01-04-2026/",
+      "runtime": 1774979400,
+      "datetime": "2026-03-31T17:50:00.000Z"
+    },
+    {
+      "name": "Peru vs Honduras lúc 01:00 | POLO",
+      "link": "/truc-tiep/peru-vs-honduras-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Guinea vs Benin lúc 01:00",
+      "link": "/truc-tiep/guinea-vs-benin-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Anh U21 vs Moldova U21 lúc 01:00 | RYAN",
+      "link": "/truc-tiep/anh-u21-vs-moldova-u21-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Thụy Sỹ U21 vs Estonia U21 lúc 01:00 | LOGAN",
+      "link": "/truc-tiep/thuy-sy-u21-vs-estonia-u21-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Dep. La Coruna vs Cordoba lúc 01:00 | RIO",
+      "link": "/truc-tiep/dep-la-coruna-vs-cordoba-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Ma Rốc vs Paraguay lúc 01:00",
+      "link": "/truc-tiep/ma-roc-vs-paraguay-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Scotland U19 vs Ba Lan U19 lúc 01:00",
+      "link": "/truc-tiep/scotland-u19-vs-ba-lan-u19-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Ireland U19 vs Italy U19 lúc 01:00",
+      "link": "/truc-tiep/ireland-u19-vs-italy-u19-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "JL Bourg-en-Bresse vs Turk Telekom lúc 01:00",
+      "link": "/truc-tiep/jl-bourg-en-bresse-vs-turk-telekom-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Nữ Bordeaux vs Nữ Evreux  lúc 01:00",
+      "link": "/truc-tiep/nu-bordeaux-vs-nu-evreux-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "mCon LG UltraGear vs ZennIT lúc 01:00",
+      "link": "/truc-tiep/mcon-lg-ultragear-vs-zennit-luc-0100-ngay-01-04-2026/",
+      "runtime": 1774980000,
+      "datetime": "2026-03-31T18:00:00.000Z"
+    },
+    {
+      "name": "Carlos Maria Zarate vs Juan Pablo Varillas lúc 01:20",
+      "link": "/truc-tiep/carlos-maria-zarate-vs-juan-pablo-varillas-luc-0120-ngay-01-04-2026/",
+      "runtime": 1774981200,
+      "datetime": "2026-03-31T18:20:00.000Z"
+    },
+    {
+      "name": "Algeria vs Uruguay lúc 01:30 | KEN",
+      "link": "/truc-tiep/algeria-vs-uruguay-luc-0130-ngay-01-04-2026/",
+      "runtime": 1774981800,
+      "datetime": "2026-03-31T18:30:00.000Z"
+    },
+    {
+      "name": "Scotland vs Bờ Biển Ngà lúc 01:30",
+      "link": "/truc-tiep/scotland-vs-bo-bien-nga-luc-0130-ngay-01-04-2026/",
+      "runtime": 1774981800,
+      "datetime": "2026-03-31T18:30:00.000Z"
+    },
+    {
+      "name": "Bồ Đào Nha U21 vs Scotland U21 lúc 01:30 | NEMO",
+      "link": "/truc-tiep/bo-dao-nha-u21-vs-scotland-u21-luc-0130-ngay-01-04-2026/",
+      "runtime": 1774981800,
+      "datetime": "2026-03-31T18:30:00.000Z"
     }
   ]
 }
