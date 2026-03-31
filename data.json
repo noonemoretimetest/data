@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 50,
-  "updated_at": "2026-03-31T23:03:33.794Z",
+  "total_matches": 45,
+  "updated_at": "2026-03-31T23:50:21.855Z",
   "matches": [
     {
       "name": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy vs Huang Tsung-I/Lin Ting-Yu lúc 15:20",
       "link": "/truc-tiep/krishna-prasad-garaga-pruthvi-krishnamurthy-roy-vs-huang-tsung-i-lin-ting-yu-luc-1520-ngay-29-03-2026/",
       "runtime": 1774772400,
       "datetime": "2026-03-29T08:20:00.000Z"
-    },
-    {
-      "name": "DR Congo vs Jamaica lúc 04:00 | XMEN",
-      "link": "/truc-tiep/dr-congo-vs-jamaica-luc-0400-ngay-01-04-2026/",
-      "runtime": 1774990800,
-      "datetime": "2026-03-31T21:00:00.000Z"
-    },
-    {
-      "name": "Sportivo 2 de Mayo vs FC Nacional Asuncion lúc 04:30",
-      "link": "/truc-tiep/sportivo-2-de-mayo-vs-fc-nacional-asuncion-luc-0430-ngay-01-04-2026/",
-      "runtime": 1774992600,
-      "datetime": "2026-03-31T21:30:00.000Z"
-    },
-    {
-      "name": "Juventude vs Novorizontino lúc 04:30",
-      "link": "/truc-tiep/juventude-vs-novorizontino-luc-0430-ngay-01-04-2026/",
-      "runtime": 1774992600,
-      "datetime": "2026-03-31T21:30:00.000Z"
-    },
-    {
-      "name": "Daniel Dutra Da Silva vs Juan Carlos Prado Angelo lúc 04:30",
-      "link": "/truc-tiep/daniel-dutra-da-silva-vs-juan-carlos-prado-angelo-luc-0430-ngay-01-04-2026/",
-      "runtime": 1774992600,
-      "datetime": "2026-03-31T21:30:00.000Z"
     },
     {
       "name": "Nữ Mackenzie vs Nữ Sesc RJ Flamengo lúc 04:30",
@@ -70,6 +46,12 @@
       "datetime": "2026-03-31T22:45:00.000Z"
     },
     {
+      "name": "USA vs Bồ Đào Nha lúc 06:00 | FINN",
+      "link": "/truc-tiep/usa-vs-bo-dao-nha-luc-0600-ngay-01-04-2026/",
+      "runtime": 1774998000,
+      "datetime": "2026-03-31T23:00:00.000Z"
+    },
+    {
       "name": "Indy Eleven vs Omaha lúc 06:00",
       "link": "/truc-tiep/indy-eleven-vs-omaha-luc-0600-ngay-01-04-2026/",
       "runtime": 1774998000,
@@ -100,12 +82,6 @@
       "datetime": "2026-03-31T23:00:00.000Z"
     },
     {
-      "name": "USA vs Bồ Đào Nha lúc 06:00 | FINN",
-      "link": "/truc-tiep/usa-vs-bo-dao-nha-luc-0600-ngay-01-04-2026/",
-      "runtime": 1774998000,
-      "datetime": "2026-03-31T23:00:00.000Z"
-    },
-    {
       "name": "Pittsburgh R vs Virginia Dream lúc 06:00",
       "link": "/truc-tiep/pittsburgh-r-vs-virginia-dream-luc-0600-ngay-01-04-2026/",
       "runtime": 1774998000,
@@ -132,18 +108,6 @@
     {
       "name": "Alex Michelsen vs Chak Lam Coleman Wong lúc 06:00",
       "link": "/truc-tiep/alex-michelsen-vs-chak-lam-coleman-wong-luc-0600-ngay-01-04-2026/",
-      "runtime": 1774998000,
-      "datetime": "2026-03-31T23:00:00.000Z"
-    },
-    {
-      "name": "Volticons vs Seven Dark lúc 06:00",
-      "link": "/truc-tiep/volticons-vs-seven-dark-luc-0600-ngay-01-04-2026/",
-      "runtime": 1774998000,
-      "datetime": "2026-03-31T23:00:00.000Z"
-    },
-    {
-      "name": "INTZ vs KaBuM! Ilha das Lendas lúc 06:00",
-      "link": "/truc-tiep/intz-vs-kabum-ilha-das-lendas-luc-0600-ngay-01-04-2026/",
       "runtime": 1774998000,
       "datetime": "2026-03-31T23:00:00.000Z"
     },
@@ -198,6 +162,12 @@
     {
       "name": "Everton CD vs Deportes Limache lúc 06:30",
       "link": "/truc-tiep/everton-cd-vs-deportes-limache-luc-0630-ngay-01-04-2026/",
+      "runtime": 1774999800,
+      "datetime": "2026-03-31T23:30:00.000Z"
+    },
+    {
+      "name": "Sportivo Luqueno vs Cerro Porteno lúc 06:30",
+      "link": "/truc-tiep/sportivo-luqueno-vs-cerro-porteno-luc-0630-ngay-01-04-2026/",
       "runtime": 1774999800,
       "datetime": "2026-03-31T23:30:00.000Z"
     },
