@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-04-01T22:07:33.437Z",
+  "total_matches": 58,
+  "updated_at": "2026-04-01T22:58:58.010Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -22,30 +22,6 @@
       "datetime": "2026-04-01T20:00:00.000Z"
     },
     {
-      "name": "RED Canids vs METANOIA Wolves lúc 03:00",
-      "link": "/truc-tiep/red-canids-vs-metanoia-wolves-luc-0300-ngay-02-04-2026/",
-      "runtime": 1775073600,
-      "datetime": "2026-04-01T20:00:00.000Z"
-    },
-    {
-      "name": "Keyd Stars vs ODDIK lúc 03:00",
-      "link": "/truc-tiep/keyd-stars-vs-oddik-luc-0300-ngay-02-04-2026/",
-      "runtime": 1775073600,
-      "datetime": "2026-04-01T20:00:00.000Z"
-    },
-    {
-      "name": "Thiago Agustin Tirante vs Mackenzie McDonald lúc 03:10",
-      "link": "/truc-tiep/thiago-agustin-tirante-vs-mackenzie-mcdonald-luc-0310-ngay-02-04-2026/",
-      "runtime": 1775074200,
-      "datetime": "2026-04-01T20:10:00.000Z"
-    },
-    {
-      "name": "Indep. Juniors vs San Antonio(ECU) lúc 03:30",
-      "link": "/truc-tiep/indep-juniors-vs-san-antonioecu-luc-0330-ngay-02-04-2026/",
-      "runtime": 1775075400,
-      "datetime": "2026-04-01T20:30:00.000Z"
-    },
-    {
       "name": "Colo Colo vs Huachipato lúc 04:00",
       "link": "/truc-tiep/colo-colo-vs-huachipato-luc-0400-ngay-02-04-2026/",
       "runtime": 1775077200,
@@ -58,26 +34,8 @@
       "datetime": "2026-04-01T21:00:00.000Z"
     },
     {
-      "name": "Patriotas FC vs Leones lúc 04:00",
-      "link": "/truc-tiep/patriotas-fc-vs-leones-luc-0400-ngay-02-04-2026/",
-      "runtime": 1775077200,
-      "datetime": "2026-04-01T21:00:00.000Z"
-    },
-    {
-      "name": "Coban Imperial vs Aurora F.C. lúc 04:00",
-      "link": "/truc-tiep/coban-imperial-vs-aurora-f-c-luc-0400-ngay-02-04-2026/",
-      "runtime": 1775077200,
-      "datetime": "2026-04-01T21:00:00.000Z"
-    },
-    {
       "name": "Alianza Petrolera vs Deportivo Pasto lúc 04:10 | KEN",
       "link": "/truc-tiep/alianza-petrolera-vs-deportivo-pasto-luc-0410-ngay-02-04-2026/",
-      "runtime": 1775077800,
-      "datetime": "2026-04-01T21:10:00.000Z"
-    },
-    {
-      "name": "Corentin Denolly vs Tristan Schoolkate lúc 04:10",
-      "link": "/truc-tiep/corentin-denolly-vs-tristan-schoolkate-luc-0410-ngay-02-04-2026/",
       "runtime": 1775077800,
       "datetime": "2026-04-01T21:10:00.000Z"
     },
@@ -98,6 +56,12 @@
       "link": "/truc-tiep/nu-puebla-vs-nu-queretaro-luc-0445-ngay-02-04-2026/",
       "runtime": 1775079900,
       "datetime": "2026-04-01T21:45:00.000Z"
+    },
+    {
+      "name": "Bianca Andreescu vs Sofia Kenin lúc 04:50 | VIC",
+      "link": "/truc-tiep/bianca-andreescu-vs-sofia-kenin-luc-0450-ngay-02-04-2026/",
+      "runtime": 1775080200,
+      "datetime": "2026-04-01T21:50:00.000Z"
     },
     {
       "name": "Defensa Y Justicia vs Chaco For Ever lúc 05:00 | RYAN",
@@ -132,18 +96,6 @@
     {
       "name": "Pitagoras Minas vs Cruzeiro lúc 05:00",
       "link": "/truc-tiep/pitagoras-minas-vs-cruzeiro-luc-0500-ngay-02-04-2026/",
-      "runtime": 1775080800,
-      "datetime": "2026-04-01T22:00:00.000Z"
-    },
-    {
-      "name": "Yulia Starodubtseva vs Ekaterina Alexandrova lúc 05:00 | VIC",
-      "link": "/truc-tiep/yulia-starodubtseva-vs-ekaterina-alexandrova-luc-0500-ngay-02-04-2026/",
-      "runtime": 1775080800,
-      "datetime": "2026-04-01T22:00:00.000Z"
-    },
-    {
-      "name": "RMD Gaming vs KaBuM! Ilha das Lendas lúc 05:00",
-      "link": "/truc-tiep/rmd-gaming-vs-kabum-ilha-das-lendas-luc-0500-ngay-02-04-2026/",
       "runtime": 1775080800,
       "datetime": "2026-04-01T22:00:00.000Z"
     },
@@ -244,14 +196,14 @@
       "datetime": "2026-04-01T23:00:00.000Z"
     },
     {
-      "name": "Maryville University vs Blue Otter lúc 06:00",
-      "link": "/truc-tiep/maryville-university-vs-blue-otter-luc-0600-ngay-02-04-2026/",
+      "name": "RED Academy vs INTZ lúc 06:00",
+      "link": "/truc-tiep/red-academy-vs-intz-luc-0600-ngay-02-04-2026/",
       "runtime": 1775084400,
       "datetime": "2026-04-01T23:00:00.000Z"
     },
     {
-      "name": "RED Academy vs INTZ lúc 06:00",
-      "link": "/truc-tiep/red-academy-vs-intz-luc-0600-ngay-02-04-2026/",
+      "name": "Maryville University vs Blue Otter lúc 06:00",
+      "link": "/truc-tiep/maryville-university-vs-blue-otter-luc-0600-ngay-02-04-2026/",
       "runtime": 1775084400,
       "datetime": "2026-04-01T23:00:00.000Z"
     },
@@ -356,6 +308,48 @@
       "link": "/truc-tiep/7rex-vs-ei-nerd-esports-luc-0700-ngay-02-04-2026/",
       "runtime": 1775088000,
       "datetime": "2026-04-02T00:00:00.000Z"
+    },
+    {
+      "name": "Adolfo Daniel Vallejo vs Tommy Paul lúc 07:10",
+      "link": "/truc-tiep/adolfo-daniel-vallejo-vs-tommy-paul-luc-0710-ngay-02-04-2026/",
+      "runtime": 1775088600,
+      "datetime": "2026-04-02T00:10:00.000Z"
+    },
+    {
+      "name": "Instituto vs Atletico Atlanta lúc 07:15 | ZARA",
+      "link": "/truc-tiep/instituto-vs-atletico-atlanta-luc-0715-ngay-02-04-2026/",
+      "runtime": 1775088900,
+      "datetime": "2026-04-02T00:15:00.000Z"
+    },
+    {
+      "name": "Fluminense RJ vs Corinthians (SP) lúc 07:30 | BRADY",
+      "link": "/truc-tiep/fluminense-rj-vs-corinthians-sp-luc-0730-ngay-02-04-2026/",
+      "runtime": 1775089800,
+      "datetime": "2026-04-02T00:30:00.000Z"
+    },
+    {
+      "name": "CRB AL vs Avaí FC lúc 07:30",
+      "link": "/truc-tiep/crb-al-vs-avai-fc-luc-0730-ngay-02-04-2026/",
+      "runtime": 1775089800,
+      "datetime": "2026-04-02T00:30:00.000Z"
+    },
+    {
+      "name": "Criciuma vs Athletic Club lúc 07:30",
+      "link": "/truc-tiep/criciuma-vs-athletic-club-luc-0730-ngay-02-04-2026/",
+      "runtime": 1775089800,
+      "datetime": "2026-04-02T00:30:00.000Z"
+    },
+    {
+      "name": "San Antonio vs FC Tulsa lúc 07:30",
+      "link": "/truc-tiep/san-antonio-vs-fc-tulsa-luc-0730-ngay-02-04-2026/",
+      "runtime": 1775089800,
+      "datetime": "2026-04-02T00:30:00.000Z"
+    },
+    {
+      "name": "James Duckworth vs Miguel Tobon lúc 07:30",
+      "link": "/truc-tiep/james-duckworth-vs-miguel-tobon-luc-0730-ngay-02-04-2026/",
+      "runtime": 1775089800,
+      "datetime": "2026-04-02T00:30:00.000Z"
     }
   ]
 }
