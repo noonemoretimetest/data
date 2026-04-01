@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 66,
-  "updated_at": "2026-04-01T09:37:02.251Z",
+  "total_matches": 69,
+  "updated_at": "2026-04-01T10:37:52.236Z",
   "matches": [
-    {
-      "name": "The Huns vs Xdm lúc 13:00",
-      "link": "/truc-tiep/the-huns-vs-xdm-luc-1300-ngay-01-04-2026/",
-      "runtime": 1775023200,
-      "datetime": "2026-04-01T06:00:00.000Z"
-    },
     {
       "name": "Safin Emran vs Pavel Manasek lúc 14:00",
       "link": "/truc-tiep/safin-emran-vs-pavel-manasek-luc-1400-ngay-01-04-2026/",
@@ -20,24 +14,6 @@
       "link": "/truc-tiep/jack-finlay-vs-gal-bizjak-luc-1400-ngay-01-04-2026/",
       "runtime": 1775026800,
       "datetime": "2026-04-01T07:00:00.000Z"
-    },
-    {
-      "name": "Jakob Schnaitter/Mark Wallner vs Sander Gille/Sem Verbeek lúc 15:00",
-      "link": "/truc-tiep/jakob-schnaitter-mark-wallner-vs-sander-gille-sem-verbeek-luc-1500-ngay-01-04-2026/",
-      "runtime": 1775030400,
-      "datetime": "2026-04-01T08:00:00.000Z"
-    },
-    {
-      "name": "Hanwha Life Esports vs Fredit BRION lúc 15:00",
-      "link": "/truc-tiep/hanwha-life-esports-vs-fredit-brion-luc-1500-ngay-01-04-2026/",
-      "runtime": 1775030400,
-      "datetime": "2026-04-01T08:00:00.000Z"
-    },
-    {
-      "name": "Adelaide 36ers vs Sydney Kings lúc 15:30 | NEZHA",
-      "link": "/truc-tiep/adelaide-36ers-vs-sydney-kings-luc-1530-ngay-01-04-2026/",
-      "runtime": 1775032200,
-      "datetime": "2026-04-01T08:30:00.000Z"
     },
     {
       "name": "Veysel Tasdemir vs Karl Sufryd lúc 15:30",
@@ -84,12 +60,6 @@
     {
       "name": "Canterbury Bankstown U20 vs Hurstville FC U20 lúc 16:00",
       "link": "/truc-tiep/canterbury-bankstown-u20-vs-hurstville-fc-u20-luc-1600-ngay-01-04-2026/",
-      "runtime": 1775034000,
-      "datetime": "2026-04-01T09:00:00.000Z"
-    },
-    {
-      "name": "Ignasi Forcano/Mark Vervoort vs Felix Gill/Toby Samuel lúc 16:00",
-      "link": "/truc-tiep/ignasi-forcano-mark-vervoort-vs-felix-gill-toby-samuel-luc-1600-ngay-01-04-2026/",
       "runtime": 1775034000,
       "datetime": "2026-04-01T09:00:00.000Z"
     },
@@ -398,6 +368,54 @@
       "link": "/truc-tiep/liaoning-flying-vs-xinjiang-flying-tigers-luc-1835-ngay-01-04-2026/",
       "runtime": 1775043300,
       "datetime": "2026-04-01T11:35:00.000Z"
+    },
+    {
+      "name": "FC Noah vs FC Pyunik lúc 19:00 | ASTRA",
+      "link": "/truc-tiep/fc-noah-vs-fc-pyunik-luc-1900-ngay-01-04-2026/",
+      "runtime": 1775044800,
+      "datetime": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "name": "Nữ Molde vs Nữ Lyn lúc 19:00",
+      "link": "/truc-tiep/nu-molde-vs-nu-lyn-luc-1900-ngay-01-04-2026/",
+      "runtime": 1775044800,
+      "datetime": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "name": "VC Kuzbass Kemerovo vs ASK N. Novgorod lúc 19:00",
+      "link": "/truc-tiep/vc-kuzbass-kemerovo-vs-ask-n-novgorod-luc-1900-ngay-01-04-2026/",
+      "runtime": 1775044800,
+      "datetime": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "name": "Enrico Dalla Valle vs Maxime Chazal lúc 19:10",
+      "link": "/truc-tiep/enrico-dalla-valle-vs-maxime-chazal-luc-1910-ngay-01-04-2026/",
+      "runtime": 1775045400,
+      "datetime": "2026-04-01T12:10:00.000Z"
+    },
+    {
+      "name": "Luciano Darderi vs Mattia Bellucci lúc 19:20 | VIC",
+      "link": "/truc-tiep/luciano-darderi-vs-mattia-bellucci-luc-1920-ngay-01-04-2026/",
+      "runtime": 1775046000,
+      "datetime": "2026-04-01T12:20:00.000Z"
+    },
+    {
+      "name": "Albania U16 vs Nhật Bản U16 lúc 19:30",
+      "link": "/truc-tiep/albania-u16-vs-nhat-ban-u16-luc-1930-ngay-01-04-2026/",
+      "runtime": 1775046600,
+      "datetime": "2026-04-01T12:30:00.000Z"
+    },
+    {
+      "name": "Nữ BC Samara  vs Nữ Neftyanik Avangard lúc 19:30",
+      "link": "/truc-tiep/nu-bc-samara-vs-nu-neftyanik-avangard-luc-1930-ngay-01-04-2026/",
+      "runtime": 1775046600,
+      "datetime": "2026-04-01T12:30:00.000Z"
+    },
+    {
+      "name": "HEROIC vs BetBoom lúc 19:30",
+      "link": "/truc-tiep/heroic-vs-betboom-luc-1930-ngay-01-04-2026/",
+      "runtime": 1775046600,
+      "datetime": "2026-04-01T12:30:00.000Z"
     }
   ]
 }
