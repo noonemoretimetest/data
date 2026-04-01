@@ -1,73 +1,13 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-04-01T08:13:52.601Z",
+  "total_matches": 66,
+  "updated_at": "2026-04-01T09:37:02.251Z",
   "matches": [
     {
       "name": "The Huns vs Xdm lúc 13:00",
       "link": "/truc-tiep/the-huns-vs-xdm-luc-1300-ngay-01-04-2026/",
       "runtime": 1775023200,
       "datetime": "2026-04-01T06:00:00.000Z"
-    },
-    {
-      "name": "TYLOO vs SemperFi lúc 13:00",
-      "link": "/truc-tiep/tyloo-vs-semperfi-luc-1300-ngay-01-04-2026/",
-      "runtime": 1775023200,
-      "datetime": "2026-04-01T06:00:00.000Z"
-    },
-    {
-      "name": "1win vs Yellow Submarine lúc 13:00",
-      "link": "/truc-tiep/1win-vs-yellow-submarine-luc-1300-ngay-01-04-2026/",
-      "runtime": 1775023200,
-      "datetime": "2026-04-01T06:00:00.000Z"
-    },
-    {
-      "name": "Levanga Hokkaido vs Ibaraki Robots lúc 13:05",
-      "link": "/truc-tiep/levanga-hokkaido-vs-ibaraki-robots-luc-1305-ngay-01-04-2026/",
-      "runtime": 1775023500,
-      "datetime": "2026-04-01T06:05:00.000Z"
-    },
-    {
-      "name": "Persic Cilegon vs Trisukma FC lúc 13:15",
-      "link": "/truc-tiep/persic-cilegon-vs-trisukma-fc-luc-1315-ngay-01-04-2026/",
-      "runtime": 1775024100,
-      "datetime": "2026-04-01T06:15:00.000Z"
-    },
-    {
-      "name": "Persemay Maybrat vs PS Unimuda lúc 13:15",
-      "link": "/truc-tiep/persemay-maybrat-vs-ps-unimuda-luc-1315-ngay-01-04-2026/",
-      "runtime": 1775024100,
-      "datetime": "2026-04-01T06:15:00.000Z"
-    },
-    {
-      "name": "Canberra Juventus U23 vs C. Olympic U23 lúc 13:30",
-      "link": "/truc-tiep/canberra-juventus-u23-vs-c-olympic-u23-luc-1330-ngay-01-04-2026/",
-      "runtime": 1775025000,
-      "datetime": "2026-04-01T06:30:00.000Z"
-    },
-    {
-      "name": "Jiangsu Changjin vs Changzhou Team lúc 13:30",
-      "link": "/truc-tiep/jiangsu-changjin-vs-changzhou-team-luc-1330-ngay-01-04-2026/",
-      "runtime": 1775025000,
-      "datetime": "2026-04-01T06:30:00.000Z"
-    },
-    {
-      "name": "Addis Ababa Ketema vs Menge Belashangul lúc 14:00",
-      "link": "/truc-tiep/addis-ababa-ketema-vs-menge-belashangul-luc-1400-ngay-01-04-2026/",
-      "runtime": 1775026800,
-      "datetime": "2026-04-01T07:00:00.000Z"
-    },
-    {
-      "name": "Newcastle Olympic (R) vs Adamstown Rosebud (R) lúc 14:00",
-      "link": "/truc-tiep/newcastle-olympic-r-vs-adamstown-rosebud-r-luc-1400-ngay-01-04-2026/",
-      "runtime": 1775026800,
-      "datetime": "2026-04-01T07:00:00.000Z"
-    },
-    {
-      "name": "Sungkyunkwan (R) vs Dongguk University lúc 14:00",
-      "link": "/truc-tiep/sungkyunkwan-r-vs-dongguk-university-luc-1400-ngay-01-04-2026/",
-      "runtime": 1775026800,
-      "datetime": "2026-04-01T07:00:00.000Z"
     },
     {
       "name": "Safin Emran vs Pavel Manasek lúc 14:00",
@@ -82,62 +22,14 @@
       "datetime": "2026-04-01T07:00:00.000Z"
     },
     {
-      "name": "Royal Rangers FC vs Tarun Sangha FC lúc 14:30",
-      "link": "/truc-tiep/royal-rangers-fc-vs-tarun-sangha-fc-luc-1430-ngay-01-04-2026/",
-      "runtime": 1775028600,
-      "datetime": "2026-04-01T07:30:00.000Z"
-    },
-    {
-      "name": "Nữ Eltham Wildcats  vs Nữ Keilor Thunder  lúc 14:30",
-      "link": "/truc-tiep/nu-eltham-wildcats-vs-nu-keilor-thunder-luc-1430-ngay-01-04-2026/",
-      "runtime": 1775028600,
-      "datetime": "2026-04-01T07:30:00.000Z"
-    },
-    {
-      "name": "Michael Tomic vs Madapura Ravikumar, Chethan lúc 14:30",
-      "link": "/truc-tiep/michael-tomic-vs-madapura-ravikumar-chethan-luc-1430-ngay-01-04-2026/",
-      "runtime": 1775028600,
-      "datetime": "2026-04-01T07:30:00.000Z"
-    },
-    {
-      "name": "Milan Mesterhazy vs Michael Schausberger lúc 14:30",
-      "link": "/truc-tiep/milan-mesterhazy-vs-michael-schausberger-luc-1430-ngay-01-04-2026/",
-      "runtime": 1775028600,
-      "datetime": "2026-04-01T07:30:00.000Z"
-    },
-    {
-      "name": "Diego Dedura-Palomero vs Dali Blanch lúc 15:00",
-      "link": "/truc-tiep/diego-dedura-palomero-vs-dali-blanch-luc-1500-ngay-01-04-2026/",
-      "runtime": 1775030400,
-      "datetime": "2026-04-01T08:00:00.000Z"
-    },
-    {
-      "name": "Cleeve Harper/David Stevenson vs Constantin Frantzen/Robin Haase lúc 15:00",
-      "link": "/truc-tiep/cleeve-harper-david-stevenson-vs-constantin-frantzen-robin-haase-luc-1500-ngay-01-04-2026/",
-      "runtime": 1775030400,
-      "datetime": "2026-04-01T08:00:00.000Z"
-    },
-    {
-      "name": "Tsvetan Ivanov vs Jacob Thyge lúc 15:00",
-      "link": "/truc-tiep/tsvetan-ivanov-vs-jacob-thyge-luc-1500-ngay-01-04-2026/",
-      "runtime": 1775030400,
-      "datetime": "2026-04-01T08:00:00.000Z"
-    },
-    {
-      "name": "Rasmus Andersson vs Martin, Elias lúc 15:00",
-      "link": "/truc-tiep/rasmus-andersson-vs-martin-elias-luc-1500-ngay-01-04-2026/",
+      "name": "Jakob Schnaitter/Mark Wallner vs Sander Gille/Sem Verbeek lúc 15:00",
+      "link": "/truc-tiep/jakob-schnaitter-mark-wallner-vs-sander-gille-sem-verbeek-luc-1500-ngay-01-04-2026/",
       "runtime": 1775030400,
       "datetime": "2026-04-01T08:00:00.000Z"
     },
     {
       "name": "Hanwha Life Esports vs Fredit BRION lúc 15:00",
       "link": "/truc-tiep/hanwha-life-esports-vs-fredit-brion-luc-1500-ngay-01-04-2026/",
-      "runtime": 1775030400,
-      "datetime": "2026-04-01T08:00:00.000Z"
-    },
-    {
-      "name": "B8 vs Falcons Force lúc 15:00",
-      "link": "/truc-tiep/b8-vs-falcons-force-luc-1500-ngay-01-04-2026/",
       "runtime": 1775030400,
       "datetime": "2026-04-01T08:00:00.000Z"
     },
@@ -150,12 +42,6 @@
     {
       "name": "Veysel Tasdemir vs Karl Sufryd lúc 15:30",
       "link": "/truc-tiep/veysel-tasdemir-vs-karl-sufryd-luc-1530-ngay-01-04-2026/",
-      "runtime": 1775032200,
-      "datetime": "2026-04-01T08:30:00.000Z"
-    },
-    {
-      "name": "Atan, Arda Dogac vs Andreas Roksvaag lúc 15:30",
-      "link": "/truc-tiep/atan-arda-dogac-vs-andreas-roksvaag-luc-1530-ngay-01-04-2026/",
       "runtime": 1775032200,
       "datetime": "2026-04-01T08:30:00.000Z"
     },
@@ -198,6 +84,12 @@
     {
       "name": "Canterbury Bankstown U20 vs Hurstville FC U20 lúc 16:00",
       "link": "/truc-tiep/canterbury-bankstown-u20-vs-hurstville-fc-u20-luc-1600-ngay-01-04-2026/",
+      "runtime": 1775034000,
+      "datetime": "2026-04-01T09:00:00.000Z"
+    },
+    {
+      "name": "Ignasi Forcano/Mark Vervoort vs Felix Gill/Toby Samuel lúc 16:00",
+      "link": "/truc-tiep/ignasi-forcano-mark-vervoort-vs-felix-gill-toby-samuel-luc-1600-ngay-01-04-2026/",
       "runtime": 1775034000,
       "datetime": "2026-04-01T09:00:00.000Z"
     },
@@ -322,6 +214,12 @@
       "datetime": "2026-04-01T10:00:00.000Z"
     },
     {
+      "name": "Rizing Zephyr Fukuoka vs Kumamoto Volters lúc 17:00",
+      "link": "/truc-tiep/rizing-zephyr-fukuoka-vs-kumamoto-volters-luc-1700-ngay-01-04-2026/",
+      "runtime": 1775037600,
+      "datetime": "2026-04-01T10:00:00.000Z"
+    },
+    {
       "name": "Marco Trungelliti vs Kamil Majchrzak lúc 17:00 | VIC",
       "link": "/truc-tiep/marco-trungelliti-vs-kamil-majchrzak-luc-1700-ngay-01-04-2026/",
       "runtime": 1775037600,
@@ -330,6 +228,18 @@
     {
       "name": "Elmer Moller vs Mariano Navone lúc 17:00 | LUCAS",
       "link": "/truc-tiep/elmer-moller-vs-mariano-navone-luc-1700-ngay-01-04-2026/",
+      "runtime": 1775037600,
+      "datetime": "2026-04-01T10:00:00.000Z"
+    },
+    {
+      "name": "Diego Dedura-Palomero vs Dali Blanch lúc 17:00",
+      "link": "/truc-tiep/diego-dedura-palomero-vs-dali-blanch-luc-1700-ngay-01-04-2026/",
+      "runtime": 1775037600,
+      "datetime": "2026-04-01T10:00:00.000Z"
+    },
+    {
+      "name": "Alex Martinez vs Alexander Donski lúc 17:00",
+      "link": "/truc-tiep/alex-martinez-vs-alexander-donski-luc-1700-ngay-01-04-2026/",
       "runtime": 1775037600,
       "datetime": "2026-04-01T10:00:00.000Z"
     },
@@ -344,6 +254,150 @@
       "link": "/truc-tiep/t1-vs-kt-rolster-luc-1700-ngay-01-04-2026/",
       "runtime": 1775037600,
       "datetime": "2026-04-01T10:00:00.000Z"
+    },
+    {
+      "name": "Rajasthan United FC vs Chanmari FC lúc 17:30 | JEAN",
+      "link": "/truc-tiep/rajasthan-united-fc-vs-chanmari-fc-luc-1730-ngay-01-04-2026/",
+      "runtime": 1775039400,
+      "datetime": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "name": "UD Melilla B vs UD San Pedro lúc 17:30",
+      "link": "/truc-tiep/ud-melilla-b-vs-ud-san-pedro-luc-1730-ngay-01-04-2026/",
+      "runtime": 1775039400,
+      "datetime": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "name": "Sudeva Delhi vs Shastri FC lúc 17:30",
+      "link": "/truc-tiep/sudeva-delhi-vs-shastri-fc-luc-1730-ngay-01-04-2026/",
+      "runtime": 1775039400,
+      "datetime": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "name": "Bishoftu Ketema vs Dessie Ketema lúc 17:30",
+      "link": "/truc-tiep/bishoftu-ketema-vs-dessie-ketema-luc-1730-ngay-01-04-2026/",
+      "runtime": 1775039400,
+      "datetime": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "name": "Borko Petrovic vs Sebastian Pinkowicz lúc 17:30",
+      "link": "/truc-tiep/borko-petrovic-vs-sebastian-pinkowicz-luc-1730-ngay-01-04-2026/",
+      "runtime": 1775039400,
+      "datetime": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "name": "Raia Pashova vs Lea Vybochova lúc 17:30",
+      "link": "/truc-tiep/raia-pashova-vs-lea-vybochova-luc-1730-ngay-01-04-2026/",
+      "runtime": 1775039400,
+      "datetime": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "name": "DEPO vs Legion lúc 17:30",
+      "link": "/truc-tiep/depo-vs-legion-luc-1730-ngay-01-04-2026/",
+      "runtime": 1775039400,
+      "datetime": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "name": "Nepal U20 vs Bangladesh U20 lúc 17:45 | LOGAN",
+      "link": "/truc-tiep/nepal-u20-vs-bangladesh-u20-luc-1745-ngay-01-04-2026/",
+      "runtime": 1775040300,
+      "datetime": "2026-04-01T10:45:00.000Z"
+    },
+    {
+      "name": "Kuban Krasnodar vs Dinamo Briansk lúc 18:00 | XMEN",
+      "link": "/truc-tiep/kuban-krasnodar-vs-dinamo-briansk-luc-1800-ngay-01-04-2026/",
+      "runtime": 1775041200,
+      "datetime": "2026-04-01T11:00:00.000Z"
+    },
+    {
+      "name": "Alania Vladikavkaz vs Dynamo Stavropol lúc 18:00",
+      "link": "/truc-tiep/alania-vladikavkaz-vs-dynamo-stavropol-luc-1800-ngay-01-04-2026/",
+      "runtime": 1775041200,
+      "datetime": "2026-04-01T11:00:00.000Z"
+    },
+    {
+      "name": "Nữ Lech UAM vs Nữ Pogon Szczecin lúc 18:00",
+      "link": "/truc-tiep/nu-lech-uam-vs-nu-pogon-szczecin-luc-1800-ngay-01-04-2026/",
+      "runtime": 1775041200,
+      "datetime": "2026-04-01T11:00:00.000Z"
+    },
+    {
+      "name": "New Taipei CTBC DEA vs Taipei Taishin Mars lúc 18:00",
+      "link": "/truc-tiep/new-taipei-ctbc-dea-vs-taipei-taishin-mars-luc-1800-ngay-01-04-2026/",
+      "runtime": 1775041200,
+      "datetime": "2026-04-01T11:00:00.000Z"
+    },
+    {
+      "name": "Manas Dhamne vs Ugo Blanchet lúc 18:00",
+      "link": "/truc-tiep/manas-dhamne-vs-ugo-blanchet-luc-1800-ngay-01-04-2026/",
+      "runtime": 1775041200,
+      "datetime": "2026-04-01T11:00:00.000Z"
+    },
+    {
+      "name": "Tamayo Mata, Hassel Betzie vs Lieke Van Parys lúc 18:00",
+      "link": "/truc-tiep/tamayo-mata-hassel-betzie-vs-lieke-van-parys-luc-1800-ngay-01-04-2026/",
+      "runtime": 1775041200,
+      "datetime": "2026-04-01T11:00:00.000Z"
+    },
+    {
+      "name": "Team Rostikfacekid vs Team Lens lúc 18:00",
+      "link": "/truc-tiep/team-rostikfacekid-vs-team-lens-luc-1800-ngay-01-04-2026/",
+      "runtime": 1775041200,
+      "datetime": "2026-04-01T11:00:00.000Z"
+    },
+    {
+      "name": "Corentin Moutet vs Taha Baadi lúc 18:10 | VIC",
+      "link": "/truc-tiep/corentin-moutet-vs-taha-baadi-luc-1810-ngay-01-04-2026/",
+      "runtime": 1775041800,
+      "datetime": "2026-04-01T11:10:00.000Z"
+    },
+    {
+      "name": "Luna Saban vs Fiona Scrinzi lúc 18:30",
+      "link": "/truc-tiep/luna-saban-vs-fiona-scrinzi-luc-1830-ngay-01-04-2026/",
+      "runtime": 1775043000,
+      "datetime": "2026-04-01T11:30:00.000Z"
+    },
+    {
+      "name": "Amelie Thurnherr vs Aleksandra Kurkiewicz lúc 18:30",
+      "link": "/truc-tiep/amelie-thurnherr-vs-aleksandra-kurkiewicz-luc-1830-ngay-01-04-2026/",
+      "runtime": 1775043000,
+      "datetime": "2026-04-01T11:30:00.000Z"
+    },
+    {
+      "name": "Shandong Hi-Speed vs Fujian Jinjiang Tourism lúc 18:35 | ALAN",
+      "link": "/truc-tiep/shandong-hi-speed-vs-fujian-jinjiang-tourism-luc-1835-ngay-01-04-2026/",
+      "runtime": 1775043300,
+      "datetime": "2026-04-01T11:35:00.000Z"
+    },
+    {
+      "name": "Zhejiang Chouzhou vs Beijing Ducks lúc 18:35 | TOMMY",
+      "link": "/truc-tiep/zhejiang-chouzhou-vs-beijing-ducks-luc-1835-ngay-01-04-2026/",
+      "runtime": 1775043300,
+      "datetime": "2026-04-01T11:35:00.000Z"
+    },
+    {
+      "name": "Beijing Royal Fighters vs Guangzhou Lions lúc 18:35",
+      "link": "/truc-tiep/beijing-royal-fighters-vs-guangzhou-lions-luc-1835-ngay-01-04-2026/",
+      "runtime": 1775043300,
+      "datetime": "2026-04-01T11:35:00.000Z"
+    },
+    {
+      "name": "Sichuan Blue Whales vs Shanxi Loongs Fenjiu lúc 18:35",
+      "link": "/truc-tiep/sichuan-blue-whales-vs-shanxi-loongs-fenjiu-luc-1835-ngay-01-04-2026/",
+      "runtime": 1775043300,
+      "datetime": "2026-04-01T11:35:00.000Z"
+    },
+    {
+      "name": "Qingdao Guoxin vs Tianjin Pioneers lúc 18:35",
+      "link": "/truc-tiep/qingdao-guoxin-vs-tianjin-pioneers-luc-1835-ngay-01-04-2026/",
+      "runtime": 1775043300,
+      "datetime": "2026-04-01T11:35:00.000Z"
+    },
+    {
+      "name": "Liaoning Flying vs Xinjiang Flying Tigers lúc 18:35 | NEZHA",
+      "link": "/truc-tiep/liaoning-flying-vs-xinjiang-flying-tigers-luc-1835-ngay-01-04-2026/",
+      "runtime": 1775043300,
+      "datetime": "2026-04-01T11:35:00.000Z"
     }
   ]
 }
