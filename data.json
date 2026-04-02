@@ -1,7 +1,7 @@
 {
   "success": true,
   "total_matches": 49,
-  "updated_at": "2026-04-02T23:03:08.097Z",
+  "updated_at": "2026-04-02T23:51:07.124Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -16,40 +16,10 @@
       "datetime": "2026-04-01T09:30:00.000Z"
     },
     {
-      "name": "Alan Magadan vs Matias Soto lúc 03:00",
-      "link": "/truc-tiep/alan-magadan-vs-matias-soto-luc-0300-ngay-03-04-2026/",
-      "runtime": 1775160000,
-      "datetime": "2026-04-02T20:00:00.000Z"
-    },
-    {
-      "name": "Learner Tien vs Nishesh Basavareddy lúc 03:10",
-      "link": "/truc-tiep/learner-tien-vs-nishesh-basavareddy-luc-0310-ngay-03-04-2026/",
-      "runtime": 1775160600,
-      "datetime": "2026-04-02T20:10:00.000Z"
-    },
-    {
-      "name": "America de Cali vs Atl. Bucaramanga lúc 04:10 | FINN",
-      "link": "/truc-tiep/america-de-cali-vs-atl-bucaramanga-luc-0410-ngay-03-04-2026/",
-      "runtime": 1775164200,
-      "datetime": "2026-04-02T21:10:00.000Z"
-    },
-    {
       "name": "Varvara Lepchenko vs Jessica Bouzas Maneiro lúc 04:20",
       "link": "/truc-tiep/varvara-lepchenko-vs-jessica-bouzas-maneiro-luc-0420-ngay-03-04-2026/",
       "runtime": 1775164800,
       "datetime": "2026-04-02T21:20:00.000Z"
-    },
-    {
-      "name": "Nữ CD Aguila vs Nữ Municipal Limeno lúc 04:30",
-      "link": "/truc-tiep/nu-cd-aguila-vs-nu-municipal-limeno-luc-0430-ngay-03-04-2026/",
-      "runtime": 1775165400,
-      "datetime": "2026-04-02T21:30:00.000Z"
-    },
-    {
-      "name": "Felipe Meligeni Alves vs Juan Manuel La Serna lúc 04:30",
-      "link": "/truc-tiep/felipe-meligeni-alves-vs-juan-manuel-la-serna-luc-0430-ngay-03-04-2026/",
-      "runtime": 1775165400,
-      "datetime": "2026-04-02T21:30:00.000Z"
     },
     {
       "name": "Nữ Sesi Bauru vs Nữ Praia Clube  lúc 04:30",
@@ -82,14 +52,14 @@
       "datetime": "2026-04-02T22:00:00.000Z"
     },
     {
-      "name": "Orlando Luz/Rafael Matos vs Roman Andres Burruchaga/Thiago Agustin Tirante lúc 05:00",
-      "link": "/truc-tiep/orlando-luz-rafael-matos-vs-roman-andres-burruchaga-thiago-agustin-tirante-luc-0500-ngay-03-04-2026/",
+      "name": "Iva Jovic vs Sofia Kenin lúc 05:00",
+      "link": "/truc-tiep/iva-jovic-vs-sofia-kenin-luc-0500-ngay-03-04-2026/",
       "runtime": 1775167200,
       "datetime": "2026-04-02T22:00:00.000Z"
     },
     {
-      "name": "Iva Jovic vs Sofia Kenin lúc 05:00",
-      "link": "/truc-tiep/iva-jovic-vs-sofia-kenin-luc-0500-ngay-03-04-2026/",
+      "name": "Orlando Luz/Rafael Matos vs Roman Andres Burruchaga/Thiago Agustin Tirante lúc 05:00",
+      "link": "/truc-tiep/orlando-luz-rafael-matos-vs-roman-andres-burruchaga-thiago-agustin-tirante-luc-0500-ngay-03-04-2026/",
       "runtime": 1775167200,
       "datetime": "2026-04-02T22:00:00.000Z"
     },
@@ -280,12 +250,6 @@
       "datetime": "2026-04-03T01:00:00.000Z"
     },
     {
-      "name": "Outfit 49 vs FULL SEND lúc 08:00",
-      "link": "/truc-tiep/outfit-49-vs-full-send-luc-0800-ngay-03-04-2026/",
-      "runtime": 1775178000,
-      "datetime": "2026-04-03T01:00:00.000Z"
-    },
-    {
       "name": "regain vs FlyQuest RED lúc 08:00",
       "link": "/truc-tiep/regain-vs-flyquest-red-luc-0800-ngay-03-04-2026/",
       "runtime": 1775178000,
@@ -296,6 +260,42 @@
       "link": "/truc-tiep/rekonix-vs-execration-luc-0800-ngay-03-04-2026/",
       "runtime": 1775178000,
       "datetime": "2026-04-03T01:00:00.000Z"
+    },
+    {
+      "name": "Once Caldas vs Dep.Independiente lúc 08:30 | JEAN",
+      "link": "/truc-tiep/once-caldas-vs-dep-independiente-luc-0830-ngay-03-04-2026/",
+      "runtime": 1775179800,
+      "datetime": "2026-04-03T01:30:00.000Z"
+    },
+    {
+      "name": "Real Espana vs Marathon lúc 08:30",
+      "link": "/truc-tiep/real-espana-vs-marathon-luc-0830-ngay-03-04-2026/",
+      "runtime": 1775179800,
+      "datetime": "2026-04-03T01:30:00.000Z"
+    },
+    {
+      "name": "Oklahoma City Thunder vs Los Angeles Lakers lúc 08:30 | TOMMY",
+      "link": "/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-luc-0830-ngay-03-04-2026/",
+      "runtime": 1775179800,
+      "datetime": "2026-04-03T01:30:00.000Z"
+    },
+    {
+      "name": "Illinois State vs Auburn Tigers lúc 08:30",
+      "link": "/truc-tiep/illinois-state-vs-auburn-tigers-luc-0830-ngay-03-04-2026/",
+      "runtime": 1775179800,
+      "datetime": "2026-04-03T01:30:00.000Z"
+    },
+    {
+      "name": "Alafia Ayeni/Vladyslav Orlov vs Facundo Mena/Rodrigo Pacheco Mendez lúc 08:30",
+      "link": "/truc-tiep/alafia-ayeni-vladyslav-orlov-vs-facundo-mena-rodrigo-pacheco-mendez-luc-0830-ngay-03-04-2026/",
+      "runtime": 1775179800,
+      "datetime": "2026-04-03T01:30:00.000Z"
+    },
+    {
+      "name": "regain vs Aether lúc 08:30",
+      "link": "/truc-tiep/regain-vs-aether-luc-0830-ngay-03-04-2026/",
+      "runtime": 1775179800,
+      "datetime": "2026-04-03T01:30:00.000Z"
     }
   ]
 }
