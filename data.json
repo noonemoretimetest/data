@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 48,
-  "updated_at": "2026-04-02T22:26:25.433Z",
+  "total_matches": 49,
+  "updated_at": "2026-04-02T23:03:08.097Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -22,58 +22,10 @@
       "datetime": "2026-04-02T20:00:00.000Z"
     },
     {
-      "name": "Dorado Gaming vs NRG eSports lúc 03:00",
-      "link": "/truc-tiep/dorado-gaming-vs-nrg-esports-luc-0300-ngay-03-04-2026/",
-      "runtime": 1775160000,
-      "datetime": "2026-04-02T20:00:00.000Z"
-    },
-    {
-      "name": "ODDIK vs GameHunters lúc 03:00",
-      "link": "/truc-tiep/oddik-vs-gamehunters-luc-0300-ngay-03-04-2026/",
-      "runtime": 1775160000,
-      "datetime": "2026-04-02T20:00:00.000Z"
-    },
-    {
       "name": "Learner Tien vs Nishesh Basavareddy lúc 03:10",
       "link": "/truc-tiep/learner-tien-vs-nishesh-basavareddy-luc-0310-ngay-03-04-2026/",
       "runtime": 1775160600,
       "datetime": "2026-04-02T20:10:00.000Z"
-    },
-    {
-      "name": "Cumbaya FC vs Cuniburo FC lúc 03:30",
-      "link": "/truc-tiep/cumbaya-fc-vs-cuniburo-fc-luc-0330-ngay-03-04-2026/",
-      "runtime": 1775161800,
-      "datetime": "2026-04-02T20:30:00.000Z"
-    },
-    {
-      "name": "Génesis Policía Nacional vs Juticalpa lúc 04:00",
-      "link": "/truc-tiep/genesis-policia-nacional-vs-juticalpa-luc-0400-ngay-03-04-2026/",
-      "runtime": 1775163600,
-      "datetime": "2026-04-02T21:00:00.000Z"
-    },
-    {
-      "name": "CD Achuapa vs Municipal lúc 04:00",
-      "link": "/truc-tiep/cd-achuapa-vs-municipal-luc-0400-ngay-03-04-2026/",
-      "runtime": 1775163600,
-      "datetime": "2026-04-02T21:00:00.000Z"
-    },
-    {
-      "name": "Univ Catolica vs Palestino lúc 04:00 | JAY",
-      "link": "/truc-tiep/univ-catolica-vs-palestino-luc-0400-ngay-03-04-2026/",
-      "runtime": 1775163600,
-      "datetime": "2026-04-02T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Tevi Cocle vs Nữ Rayadas de Chiriqui  lúc 04:00",
-      "link": "/truc-tiep/nu-tevi-cocle-vs-nu-rayadas-de-chiriqui-luc-0400-ngay-03-04-2026/",
-      "runtime": 1775163600,
-      "datetime": "2026-04-02T21:00:00.000Z"
-    },
-    {
-      "name": "River Plate (R) vs Gimnasia LP (R) lúc 04:00",
-      "link": "/truc-tiep/river-plate-r-vs-gimnasia-lp-r-luc-0400-ngay-03-04-2026/",
-      "runtime": 1775163600,
-      "datetime": "2026-04-02T21:00:00.000Z"
     },
     {
       "name": "America de Cali vs Atl. Bucaramanga lúc 04:10 | FINN",
@@ -290,6 +242,60 @@
       "link": "/truc-tiep/alex-michelsen-vs-alexei-popyrin-luc-0710-ngay-03-04-2026/",
       "runtime": 1775175000,
       "datetime": "2026-04-03T00:10:00.000Z"
+    },
+    {
+      "name": "Palmeiras vs Gremio lúc 07:30 | POLO",
+      "link": "/truc-tiep/palmeiras-vs-gremio-luc-0730-ngay-03-04-2026/",
+      "runtime": 1775176200,
+      "datetime": "2026-04-03T00:30:00.000Z"
+    },
+    {
+      "name": "RB Bragantino vs CR Flamengo lúc 07:30 | KEN",
+      "link": "/truc-tiep/rb-bragantino-vs-cr-flamengo-luc-0730-ngay-03-04-2026/",
+      "runtime": 1775176200,
+      "datetime": "2026-04-03T00:30:00.000Z"
+    },
+    {
+      "name": "Nữ Santos Laguna vs Nữ Pachuca lúc 08:00 | ZARA",
+      "link": "/truc-tiep/nu-santos-laguna-vs-nu-pachuca-luc-0800-ngay-03-04-2026/",
+      "runtime": 1775178000,
+      "datetime": "2026-04-03T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Guadalajara vs Nữ Mazatlan lúc 08:00 | RIO",
+      "link": "/truc-tiep/nu-guadalajara-vs-nu-mazatlan-luc-0800-ngay-03-04-2026/",
+      "runtime": 1775178000,
+      "datetime": "2026-04-03T01:00:00.000Z"
+    },
+    {
+      "name": "Malacateco vs Guastatoya lúc 08:00",
+      "link": "/truc-tiep/malacateco-vs-guastatoya-luc-0800-ngay-03-04-2026/",
+      "runtime": 1775178000,
+      "datetime": "2026-04-03T01:00:00.000Z"
+    },
+    {
+      "name": "Sporting FC vs Cartagines Deportiva lúc 08:00",
+      "link": "/truc-tiep/sporting-fc-vs-cartagines-deportiva-luc-0800-ngay-03-04-2026/",
+      "runtime": 1775178000,
+      "datetime": "2026-04-03T01:00:00.000Z"
+    },
+    {
+      "name": "Outfit 49 vs FULL SEND lúc 08:00",
+      "link": "/truc-tiep/outfit-49-vs-full-send-luc-0800-ngay-03-04-2026/",
+      "runtime": 1775178000,
+      "datetime": "2026-04-03T01:00:00.000Z"
+    },
+    {
+      "name": "regain vs FlyQuest RED lúc 08:00",
+      "link": "/truc-tiep/regain-vs-flyquest-red-luc-0800-ngay-03-04-2026/",
+      "runtime": 1775178000,
+      "datetime": "2026-04-03T01:00:00.000Z"
+    },
+    {
+      "name": "Rekonix vs Execration lúc 08:00",
+      "link": "/truc-tiep/rekonix-vs-execration-luc-0800-ngay-03-04-2026/",
+      "runtime": 1775178000,
+      "datetime": "2026-04-03T01:00:00.000Z"
     }
   ]
 }
