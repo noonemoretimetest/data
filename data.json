@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 61,
-  "updated_at": "2026-04-01T23:39:48.037Z",
+  "total_matches": 64,
+  "updated_at": "2026-04-02T00:01:09.491Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -16,24 +16,6 @@
       "datetime": "2026-04-01T09:30:00.000Z"
     },
     {
-      "name": "Nữ Puebla vs Nữ Queretaro lúc 04:45",
-      "link": "/truc-tiep/nu-puebla-vs-nu-queretaro-luc-0445-ngay-02-04-2026/",
-      "runtime": 1775079900,
-      "datetime": "2026-04-01T21:45:00.000Z"
-    },
-    {
-      "name": "Bianca Andreescu vs Sofia Kenin lúc 04:50 | VIC",
-      "link": "/truc-tiep/bianca-andreescu-vs-sofia-kenin-luc-0450-ngay-02-04-2026/",
-      "runtime": 1775080200,
-      "datetime": "2026-04-01T21:50:00.000Z"
-    },
-    {
-      "name": "Defensa Y Justicia vs Chaco For Ever lúc 05:00 | RYAN",
-      "link": "/truc-tiep/defensa-y-justicia-vs-chaco-for-ever-luc-0500-ngay-02-04-2026/",
-      "runtime": 1775080800,
-      "datetime": "2026-04-01T22:00:00.000Z"
-    },
-    {
       "name": "Chattanooga vs Tennessee Tempo lúc 05:00",
       "link": "/truc-tiep/chattanooga-vs-tennessee-tempo-luc-0500-ngay-02-04-2026/",
       "runtime": 1775080800,
@@ -46,20 +28,8 @@
       "datetime": "2026-04-01T22:00:00.000Z"
     },
     {
-      "name": "Londrina PR vs Goiás EC lúc 05:00",
-      "link": "/truc-tiep/londrina-pr-vs-goias-ec-luc-0500-ngay-02-04-2026/",
-      "runtime": 1775080800,
-      "datetime": "2026-04-01T22:00:00.000Z"
-    },
-    {
       "name": "Atl. Goianiense vs Nautico (PE) lúc 05:00",
       "link": "/truc-tiep/atl-goianiense-vs-nautico-pe-luc-0500-ngay-02-04-2026/",
-      "runtime": 1775080800,
-      "datetime": "2026-04-01T22:00:00.000Z"
-    },
-    {
-      "name": "Pitagoras Minas vs Cruzeiro lúc 05:00",
-      "link": "/truc-tiep/pitagoras-minas-vs-cruzeiro-luc-0500-ngay-02-04-2026/",
       "runtime": 1775080800,
       "datetime": "2026-04-01T22:00:00.000Z"
     },
@@ -176,12 +146,6 @@
       "link": "/truc-tiep/hailey-baptiste-vs-renata-zarazua-luc-0610-ngay-02-04-2026/",
       "runtime": 1775085000,
       "datetime": "2026-04-01T23:10:00.000Z"
-    },
-    {
-      "name": "Atletico Choloma vs Platense lúc 06:15",
-      "link": "/truc-tiep/atletico-choloma-vs-platense-luc-0615-ngay-02-04-2026/",
-      "runtime": 1775085300,
-      "datetime": "2026-04-01T23:15:00.000Z"
     },
     {
       "name": "Coritiba PR vs Vasco da Gama lúc 06:30 | ASTRA",
@@ -340,6 +304,12 @@
       "datetime": "2026-04-02T01:00:00.000Z"
     },
     {
+      "name": "Atletico Choloma vs Platense lúc 08:30",
+      "link": "/truc-tiep/atletico-choloma-vs-platense-luc-0830-ngay-02-04-2026/",
+      "runtime": 1775093400,
+      "datetime": "2026-04-02T01:30:00.000Z"
+    },
+    {
       "name": "Atl. Nacional vs Cucuta Deportivo lúc 08:30 | POLO",
       "link": "/truc-tiep/atl-nacional-vs-cucuta-deportivo-luc-0830-ngay-02-04-2026/",
       "runtime": 1775093400,
@@ -368,6 +338,54 @@
       "link": "/truc-tiep/stockton-kings-vs-iowa-wolves-luc-0830-ngay-02-04-2026/",
       "runtime": 1775093400,
       "datetime": "2026-04-02T01:30:00.000Z"
+    },
+    {
+      "name": "Orange County vs Phoenix Rising FC lúc 09:00 | NEMO",
+      "link": "/truc-tiep/orange-county-vs-phoenix-rising-fc-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
+    },
+    {
+      "name": "Marquense vs Xelaju MC lúc 09:00",
+      "link": "/truc-tiep/marquense-vs-xelaju-mc-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
+    },
+    {
+      "name": "Golden State Warriors vs San Antonio Spurs lúc 09:00 | TOMMY",
+      "link": "/truc-tiep/golden-state-warriors-vs-san-antonio-spurs-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
+    },
+    {
+      "name": "Mexico City Capitanes vs Rip City Remix lúc 09:00",
+      "link": "/truc-tiep/mexico-city-capitanes-vs-rip-city-remix-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
+    },
+    {
+      "name": "South Bay Lakers vs San Diego Clippers lúc 09:00",
+      "link": "/truc-tiep/south-bay-lakers-vs-san-diego-clippers-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
+    },
+    {
+      "name": "Hiroki Moriya vs James Kent Trotter lúc 09:00",
+      "link": "/truc-tiep/hiroki-moriya-vs-james-kent-trotter-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
+    },
+    {
+      "name": "BOSS vs LAG lúc 09:00",
+      "link": "/truc-tiep/boss-vs-lag-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
+    },
+    {
+      "name": "Vici Gaming vs Cloud Dawning lúc 09:00",
+      "link": "/truc-tiep/vici-gaming-vs-cloud-dawning-luc-0900-ngay-02-04-2026/",
+      "runtime": 1775095200,
+      "datetime": "2026-04-02T02:00:00.000Z"
     }
   ]
 }
