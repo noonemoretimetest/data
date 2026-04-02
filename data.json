@@ -1,7 +1,7 @@
 {
   "success": true,
   "total_matches": 42,
-  "updated_at": "2026-04-02T21:06:30.714Z",
+  "updated_at": "2026-04-02T21:54:07.838Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -14,36 +14,6 @@
       "link": "/truc-tiep/andersen-s-m-fliglova-n-vs-schausberger-m-thurnherr-a-luc-1630-ngay-01-04-2026/",
       "runtime": 1775035800,
       "datetime": "2026-04-01T09:30:00.000Z"
-    },
-    {
-      "name": "Nữ Lyon vs Nữ Wolfsburg lúc 02:00 | RYAN",
-      "link": "/truc-tiep/nu-lyon-vs-nu-wolfsburg-luc-0200-ngay-03-04-2026/",
-      "runtime": 1775156400,
-      "datetime": "2026-04-02T19:00:00.000Z"
-    },
-    {
-      "name": "Roman Andres Burruchaga vs Brandon Nakashima lúc 02:00",
-      "link": "/truc-tiep/roman-andres-burruchaga-vs-brandon-nakashima-luc-0200-ngay-03-04-2026/",
-      "runtime": 1775156400,
-      "datetime": "2026-04-02T19:00:00.000Z"
-    },
-    {
-      "name": "Madison Keys vs Anna Bondar lúc 02:00",
-      "link": "/truc-tiep/madison-keys-vs-anna-bondar-luc-0200-ngay-03-04-2026/",
-      "runtime": 1775156400,
-      "datetime": "2026-04-02T19:00:00.000Z"
-    },
-    {
-      "name": "Leganes vs Real Zaragoza lúc 02:30 | LOUIS",
-      "link": "/truc-tiep/leganes-vs-real-zaragoza-luc-0230-ngay-03-04-2026/",
-      "runtime": 1775158200,
-      "datetime": "2026-04-02T19:30:00.000Z"
-    },
-    {
-      "name": "Varvara Lepchenko vs Jessica Bouzas Maneiro lúc 02:30",
-      "link": "/truc-tiep/varvara-lepchenko-vs-jessica-bouzas-maneiro-luc-0230-ngay-03-04-2026/",
-      "runtime": 1775158200,
-      "datetime": "2026-04-02T19:30:00.000Z"
     },
     {
       "name": "Alan Magadan vs Matias Soto lúc 03:00",
@@ -118,12 +88,6 @@
       "datetime": "2026-04-02T21:00:00.000Z"
     },
     {
-      "name": "GameHunters vs R2 lúc 04:00",
-      "link": "/truc-tiep/gamehunters-vs-r2-luc-0400-ngay-03-04-2026/",
-      "runtime": 1775163600,
-      "datetime": "2026-04-02T21:00:00.000Z"
-    },
-    {
       "name": "America de Cali vs Atl. Bucaramanga lúc 04:10 | FINN",
       "link": "/truc-tiep/america-de-cali-vs-atl-bucaramanga-luc-0410-ngay-03-04-2026/",
       "runtime": 1775164200,
@@ -134,6 +98,12 @@
       "link": "/truc-tiep/juan-pablo-ficovich-vs-ivan-marrero-curbelo-luc-0410-ngay-03-04-2026/",
       "runtime": 1775164200,
       "datetime": "2026-04-02T21:10:00.000Z"
+    },
+    {
+      "name": "Varvara Lepchenko vs Jessica Bouzas Maneiro lúc 04:20",
+      "link": "/truc-tiep/varvara-lepchenko-vs-jessica-bouzas-maneiro-luc-0420-ngay-03-04-2026/",
+      "runtime": 1775164800,
+      "datetime": "2026-04-02T21:20:00.000Z"
     },
     {
       "name": "Nữ CD Aguila vs Nữ Municipal Limeno lúc 04:30",
@@ -254,6 +224,36 @@
       "link": "/truc-tiep/pain-academy-vs-magicos-luc-0600-ngay-03-04-2026/",
       "runtime": 1775170800,
       "datetime": "2026-04-02T23:00:00.000Z"
+    },
+    {
+      "name": "Paula Badosa vs Anna Kalinskaya lúc 06:10",
+      "link": "/truc-tiep/paula-badosa-vs-anna-kalinskaya-luc-0610-ngay-03-04-2026/",
+      "runtime": 1775171400,
+      "datetime": "2026-04-02T23:10:00.000Z"
+    },
+    {
+      "name": "CD Olimpia vs Lobos UPNFM lúc 06:15",
+      "link": "/truc-tiep/cd-olimpia-vs-lobos-upnfm-luc-0615-ngay-03-04-2026/",
+      "runtime": 1775171700,
+      "datetime": "2026-04-02T23:15:00.000Z"
+    },
+    {
+      "name": "CD Jaguares vs Millonarios lúc 06:20 | XMEN",
+      "link": "/truc-tiep/cd-jaguares-vs-millonarios-luc-0620-ngay-03-04-2026/",
+      "runtime": 1775172000,
+      "datetime": "2026-04-02T23:20:00.000Z"
+    },
+    {
+      "name": "Talleres Cordoba vs Boca Juniors lúc 06:30 | LOGAN",
+      "link": "/truc-tiep/talleres-cordoba-vs-boca-juniors-luc-0630-ngay-03-04-2026/",
+      "runtime": 1775172600,
+      "datetime": "2026-04-02T23:30:00.000Z"
+    },
+    {
+      "name": "Operario MS vs Bataguassu lúc 06:30",
+      "link": "/truc-tiep/operario-ms-vs-bataguassu-luc-0630-ngay-03-04-2026/",
+      "runtime": 1775172600,
+      "datetime": "2026-04-02T23:30:00.000Z"
     }
   ]
 }
