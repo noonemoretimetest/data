@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 42,
-  "updated_at": "2026-04-02T21:54:07.838Z",
+  "total_matches": 48,
+  "updated_at": "2026-04-02T22:26:25.433Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -40,20 +40,8 @@
       "datetime": "2026-04-02T20:10:00.000Z"
     },
     {
-      "name": "Club Atletico Tigre vs Ind. Rivadavia lúc 03:30 | YUNO",
-      "link": "/truc-tiep/club-atletico-tigre-vs-ind-rivadavia-luc-0330-ngay-03-04-2026/",
-      "runtime": 1775161800,
-      "datetime": "2026-04-02T20:30:00.000Z"
-    },
-    {
       "name": "Cumbaya FC vs Cuniburo FC lúc 03:30",
       "link": "/truc-tiep/cumbaya-fc-vs-cuniburo-fc-luc-0330-ngay-03-04-2026/",
-      "runtime": 1775161800,
-      "datetime": "2026-04-02T20:30:00.000Z"
-    },
-    {
-      "name": "Orlando Luz/Rafael Matos vs Roman Andres Burruchaga/Thiago Agustin Tirante lúc 03:30",
-      "link": "/truc-tiep/orlando-luz-rafael-matos-vs-roman-andres-burruchaga-thiago-agustin-tirante-luc-0330-ngay-03-04-2026/",
       "runtime": 1775161800,
       "datetime": "2026-04-02T20:30:00.000Z"
     },
@@ -90,12 +78,6 @@
     {
       "name": "America de Cali vs Atl. Bucaramanga lúc 04:10 | FINN",
       "link": "/truc-tiep/america-de-cali-vs-atl-bucaramanga-luc-0410-ngay-03-04-2026/",
-      "runtime": 1775164200,
-      "datetime": "2026-04-02T21:10:00.000Z"
-    },
-    {
-      "name": "Juan Pablo Ficovich vs Ivan Marrero Curbelo lúc 04:10",
-      "link": "/truc-tiep/juan-pablo-ficovich-vs-ivan-marrero-curbelo-luc-0410-ngay-03-04-2026/",
       "runtime": 1775164200,
       "datetime": "2026-04-02T21:10:00.000Z"
     },
@@ -148,10 +130,22 @@
       "datetime": "2026-04-02T22:00:00.000Z"
     },
     {
+      "name": "Orlando Luz/Rafael Matos vs Roman Andres Burruchaga/Thiago Agustin Tirante lúc 05:00",
+      "link": "/truc-tiep/orlando-luz-rafael-matos-vs-roman-andres-burruchaga-thiago-agustin-tirante-luc-0500-ngay-03-04-2026/",
+      "runtime": 1775167200,
+      "datetime": "2026-04-02T22:00:00.000Z"
+    },
+    {
       "name": "Iva Jovic vs Sofia Kenin lúc 05:00",
       "link": "/truc-tiep/iva-jovic-vs-sofia-kenin-luc-0500-ngay-03-04-2026/",
       "runtime": 1775167200,
       "datetime": "2026-04-02T22:00:00.000Z"
+    },
+    {
+      "name": "Juan Pablo Ficovich vs Ivan Marrero Curbelo lúc 05:20",
+      "link": "/truc-tiep/juan-pablo-ficovich-vs-ivan-marrero-curbelo-luc-0520-ngay-03-04-2026/",
+      "runtime": 1775168400,
+      "datetime": "2026-04-02T22:20:00.000Z"
     },
     {
       "name": "Pato vs Brasília  lúc 05:30",
@@ -254,6 +248,48 @@
       "link": "/truc-tiep/operario-ms-vs-bataguassu-luc-0630-ngay-03-04-2026/",
       "runtime": 1775172600,
       "datetime": "2026-04-02T23:30:00.000Z"
+    },
+    {
+      "name": "CD El Nacional vs Cuenca Juniors lúc 07:00",
+      "link": "/truc-tiep/cd-el-nacional-vs-cuenca-juniors-luc-0700-ngay-03-04-2026/",
+      "runtime": 1775174400,
+      "datetime": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "name": "Waterhouse FC vs Arnett Gardens lúc 07:00",
+      "link": "/truc-tiep/waterhouse-fc-vs-arnett-gardens-luc-0700-ngay-03-04-2026/",
+      "runtime": 1775174400,
+      "datetime": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "name": "Criollos de Caguas vs Santurce Crabbers lúc 07:00",
+      "link": "/truc-tiep/criollos-de-caguas-vs-santurce-crabbers-luc-0700-ngay-03-04-2026/",
+      "runtime": 1775174400,
+      "datetime": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "name": "West Virginia vs Stanford lúc 07:00",
+      "link": "/truc-tiep/west-virginia-vs-stanford-luc-0700-ngay-03-04-2026/",
+      "runtime": 1775174400,
+      "datetime": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "name": "Rodrigo Pacheco Mendez vs Luka Pavlovic lúc 07:00",
+      "link": "/truc-tiep/rodrigo-pacheco-mendez-vs-luka-pavlovic-luc-0700-ngay-03-04-2026/",
+      "runtime": 1775174400,
+      "datetime": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Fluminense vs Nữ Osasco  lúc 07:00",
+      "link": "/truc-tiep/nu-fluminense-vs-nu-osasco-luc-0700-ngay-03-04-2026/",
+      "runtime": 1775174400,
+      "datetime": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "name": "Alex Michelsen vs Alexei Popyrin lúc 07:10 | VIC",
+      "link": "/truc-tiep/alex-michelsen-vs-alexei-popyrin-luc-0710-ngay-03-04-2026/",
+      "runtime": 1775175000,
+      "datetime": "2026-04-03T00:10:00.000Z"
     }
   ]
 }
