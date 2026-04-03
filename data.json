@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 55,
-  "updated_at": "2026-04-03T07:38:38.618Z",
+  "total_matches": 66,
+  "updated_at": "2026-04-03T08:30:35.884Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -20,36 +20,6 @@
       "link": "/truc-tiep/yuta-shimizu-james-kent-trotter-vs-liam-broady-harry-wendelken-luc-1140-ngay-03-04-2026/",
       "runtime": 1775191200,
       "datetime": "2026-04-03T04:40:00.000Z"
-    },
-    {
-      "name": "Nữ Adelaide United vs Nữ Wellington Phoenix lúc 12:50 | KEN",
-      "link": "/truc-tiep/nu-adelaide-united-vs-nu-wellington-phoenix-luc-1250-ngay-03-04-2026/",
-      "runtime": 1775195400,
-      "datetime": "2026-04-03T05:50:00.000Z"
-    },
-    {
-      "name": "Nữ Manly Utd vs Nữ Mt Druitt Rangers lúc 13:00",
-      "link": "/truc-tiep/nu-manly-utd-vs-nu-mt-druitt-rangers-luc-1300-ngay-03-04-2026/",
-      "runtime": 1775196000,
-      "datetime": "2026-04-03T06:00:00.000Z"
-    },
-    {
-      "name": "A.P.I.A. Leichhardt vs Western Sydney AM lúc 13:00 | LOGAN",
-      "link": "/truc-tiep/a-p-i-a-leichhardt-vs-western-sydney-am-luc-1300-ngay-03-04-2026/",
-      "runtime": 1775196000,
-      "datetime": "2026-04-03T06:00:00.000Z"
-    },
-    {
-      "name": "Nữ West Adelaide Bearcats  vs Nữ Forestville Eagles lúc 13:00",
-      "link": "/truc-tiep/nu-west-adelaide-bearcats-vs-nu-forestville-eagles-luc-1300-ngay-03-04-2026/",
-      "runtime": 1775196000,
-      "datetime": "2026-04-03T06:00:00.000Z"
-    },
-    {
-      "name": "Nathan Lebak FC vs Trisukma FC lúc 13:30",
-      "link": "/truc-tiep/nathan-lebak-fc-vs-trisukma-fc-luc-1330-ngay-03-04-2026/",
-      "runtime": 1775197800,
-      "datetime": "2026-04-03T06:30:00.000Z"
     },
     {
       "name": "Eastern District vs Lee Man lúc 14:00",
@@ -226,6 +196,12 @@
       "datetime": "2026-04-03T08:30:00.000Z"
     },
     {
+      "name": "Ha Noi FC II vs Tre Phu Dong lúc 15:30",
+      "link": "/truc-tiep/ha-noi-fc-ii-vs-tre-phu-dong-luc-1530-ngay-03-04-2026/",
+      "runtime": 1775205000,
+      "datetime": "2026-04-03T08:30:00.000Z"
+    },
+    {
       "name": "TYLOO vs Change The Game lúc 15:30",
       "link": "/truc-tiep/tyloo-vs-change-the-game-luc-1530-ngay-03-04-2026/",
       "runtime": 1775205000,
@@ -244,7 +220,7 @@
       "datetime": "2026-04-03T08:45:00.000Z"
     },
     {
-      "name": "Đồng Tháp vs TP Hồ Chí Minh II lúc 16:00 | ASTRA",
+      "name": "Đồng Tháp vs TP Hồ Chí Minh II lúc 16:00 | MAX",
       "link": "/truc-tiep/dong-thap-vs-tp-ho-chi-minh-ii-luc-1600-ngay-03-04-2026/",
       "runtime": 1775206800,
       "datetime": "2026-04-03T09:00:00.000Z"
@@ -332,6 +308,96 @@
       "link": "/truc-tiep/faze-vs-bee-luc-1630-ngay-03-04-2026/",
       "runtime": 1775208600,
       "datetime": "2026-04-03T09:30:00.000Z"
+    },
+    {
+      "name": "Kairat Almaty II vs Shakhter lúc 17:00",
+      "link": "/truc-tiep/kairat-almaty-ii-vs-shakhter-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "FK Taraz vs Ekibastuzets lúc 17:00 | NEMO",
+      "link": "/truc-tiep/fk-taraz-vs-ekibastuzets-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Eibar vs Nữ Tenerife Egatesa lúc 17:00",
+      "link": "/truc-tiep/nu-eibar-vs-nu-tenerife-egatesa-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Rio Ave vs Nữ SF Damaiense lúc 17:00",
+      "link": "/truc-tiep/nu-rio-ave-vs-nu-sf-damaiense-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "Gil Vicente U23 vs Farense U23 lúc 17:00",
+      "link": "/truc-tiep/gil-vicente-u23-vs-farense-u23-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "Suwon Sonicboom vs Changwon LG Sakers lúc 17:00 | STEP",
+      "link": "/truc-tiep/suwon-sonicboom-vs-changwon-lg-sakers-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "BC Delta Gurjaani U22 vs Rustavi U22 lúc 17:00",
+      "link": "/truc-tiep/bc-delta-gurjaani-u22-vs-rustavi-u22-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Samsunglife Blueminx vs Nữ Woori Wibee lúc 17:00",
+      "link": "/truc-tiep/nu-samsunglife-blueminx-vs-nu-woori-wibee-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "Corentin Moutet vs Marco Trungelliti lúc 17:00 | VIC",
+      "link": "/truc-tiep/corentin-moutet-vs-marco-trungelliti-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Expressway Co vs Nữ GS Caltex lúc 17:00",
+      "link": "/truc-tiep/nu-expressway-co-vs-nu-gs-caltex-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "BNK FearX vs Fredit BRION lúc 17:00",
+      "link": "/truc-tiep/bnk-fearx-vs-fredit-brion-luc-1700-ngay-03-04-2026/",
+      "runtime": 1775210400,
+      "datetime": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "name": "UE Cornella vs Lleida lúc 17:30",
+      "link": "/truc-tiep/ue-cornella-vs-lleida-luc-1730-ngay-03-04-2026/",
+      "runtime": 1775212200,
+      "datetime": "2026-04-03T10:30:00.000Z"
+    },
+    {
+      "name": "Slovan Liberec U19 vs Slovacko U19 lúc 17:30",
+      "link": "/truc-tiep/slovan-liberec-u19-vs-slovacko-u19-luc-1730-ngay-03-04-2026/",
+      "runtime": 1775212200,
+      "datetime": "2026-04-03T10:30:00.000Z"
+    },
+    {
+      "name": "Northern United FC vs National United SC lúc 17:30",
+      "link": "/truc-tiep/northern-united-fc-vs-national-united-sc-luc-1730-ngay-03-04-2026/",
+      "runtime": 1775212200,
+      "datetime": "2026-04-03T10:30:00.000Z"
+    },
+    {
+      "name": "Bukovyna 2 vs Niva Vinica lúc 17:30",
+      "link": "/truc-tiep/bukovyna-2-vs-niva-vinica-luc-1730-ngay-03-04-2026/",
+      "runtime": 1775212200,
+      "datetime": "2026-04-03T10:30:00.000Z"
     }
   ]
 }
