@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 51,
-  "updated_at": "2026-04-03T22:27:24.221Z",
+  "total_matches": 57,
+  "updated_at": "2026-04-03T23:04:01.957Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -14,24 +14,6 @@
       "link": "/truc-tiep/andersen-s-m-fliglova-n-vs-schausberger-m-thurnherr-a-luc-1630-ngay-01-04-2026/",
       "runtime": 1775035800,
       "datetime": "2026-04-01T09:30:00.000Z"
-    },
-    {
-      "name": "22 de Julio vs Vargas Torres lúc 03:30",
-      "link": "/truc-tiep/22-de-julio-vs-vargas-torres-luc-0330-ngay-04-04-2026/",
-      "runtime": 1775248200,
-      "datetime": "2026-04-03T20:30:00.000Z"
-    },
-    {
-      "name": "Coquimbo Unido vs Cobresal lúc 03:30",
-      "link": "/truc-tiep/coquimbo-unido-vs-cobresal-luc-0330-ngay-04-04-2026/",
-      "runtime": 1775248200,
-      "datetime": "2026-04-03T20:30:00.000Z"
-    },
-    {
-      "name": "Gualaceo SC vs Pottu Via Ho lúc 03:30",
-      "link": "/truc-tiep/gualaceo-sc-vs-pottu-via-ho-luc-0330-ngay-04-04-2026/",
-      "runtime": 1775248200,
-      "datetime": "2026-04-03T20:30:00.000Z"
     },
     {
       "name": "Facundo Mena vs Tristan Schoolkate lúc 04:00",
@@ -308,6 +290,60 @@
       "link": "/truc-tiep/facundo-mena-rodrigo-pacheco-mendez-vs-mateus-alves-matias-soto-luc-0710-ngay-04-04-2026/",
       "runtime": 1775261400,
       "datetime": "2026-04-04T00:10:00.000Z"
+    },
+    {
+      "name": "Nữ Houston Dash vs Nữ Racing Louisville lúc 07:30",
+      "link": "/truc-tiep/nu-houston-dash-vs-nu-racing-louisville-luc-0730-ngay-04-04-2026/",
+      "runtime": 1775262600,
+      "datetime": "2026-04-04T00:30:00.000Z"
+    },
+    {
+      "name": "Dallas Mavericks vs Orlando Magic lúc 07:30",
+      "link": "/truc-tiep/dallas-mavericks-vs-orlando-magic-luc-0730-ngay-04-04-2026/",
+      "runtime": 1775262600,
+      "datetime": "2026-04-04T00:30:00.000Z"
+    },
+    {
+      "name": "Juan Pablo Ficovich vs Rodrigo Pacheco Mendez lúc 07:30",
+      "link": "/truc-tiep/juan-pablo-ficovich-vs-rodrigo-pacheco-mendez-luc-0730-ngay-04-04-2026/",
+      "runtime": 1775262600,
+      "datetime": "2026-04-04T00:30:00.000Z"
+    },
+    {
+      "name": "Puebla vs FC Juarez lúc 08:00 | POLO",
+      "link": "/truc-tiep/puebla-vs-fc-juarez-luc-0800-ngay-04-04-2026/",
+      "runtime": 1775264400,
+      "datetime": "2026-04-04T01:00:00.000Z"
+    },
+    {
+      "name": "Correcaminos de la U.A.T. vs Cancun FC lúc 08:00",
+      "link": "/truc-tiep/correcaminos-de-la-u-a-t-vs-cancun-fc-luc-0800-ngay-04-04-2026/",
+      "runtime": 1775264400,
+      "datetime": "2026-04-04T01:00:00.000Z"
+    },
+    {
+      "name": "Club Irapuato vs Club Atletico La Paz lúc 08:00 | JEAN",
+      "link": "/truc-tiep/club-irapuato-vs-club-atletico-la-paz-luc-0800-ngay-04-04-2026/",
+      "runtime": 1775264400,
+      "datetime": "2026-04-04T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Utah Royals vs Nữ Chicago Red Stars lúc 08:00",
+      "link": "/truc-tiep/nu-utah-royals-vs-nu-chicago-red-stars-luc-0800-ngay-04-04-2026/",
+      "runtime": 1775264400,
+      "datetime": "2026-04-04T01:00:00.000Z"
+    },
+    {
+      "name": "Gimnasia yTiro vs S.M San Juan lúc 08:00",
+      "link": "/truc-tiep/gimnasia-ytiro-vs-s-m-san-juan-luc-0800-ngay-04-04-2026/",
+      "runtime": 1775264400,
+      "datetime": "2026-04-04T01:00:00.000Z"
+    },
+    {
+      "name": "BOSS vs FlyQuest RED lúc 08:00",
+      "link": "/truc-tiep/boss-vs-flyquest-red-luc-0800-ngay-04-04-2026/",
+      "runtime": 1775264400,
+      "datetime": "2026-04-04T01:00:00.000Z"
     }
   ]
 }
