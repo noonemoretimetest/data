@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 65,
-  "updated_at": "2026-04-03T10:23:46.731Z",
+  "total_matches": 55,
+  "updated_at": "2026-04-03T11:24:12.234Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -16,88 +16,10 @@
       "datetime": "2026-04-01T09:30:00.000Z"
     },
     {
-      "name": "Vici Gaming vs Yakult Brothers lúc 14:30",
-      "link": "/truc-tiep/vici-gaming-vs-yakult-brothers-luc-1430-ngay-03-04-2026/",
-      "runtime": 1775201400,
-      "datetime": "2026-04-03T07:30:00.000Z"
-    },
-    {
-      "name": "Gen.G Esports vs KT Rolster lúc 15:00",
-      "link": "/truc-tiep/gen-g-esports-vs-kt-rolster-luc-1500-ngay-03-04-2026/",
-      "runtime": 1775203200,
-      "datetime": "2026-04-03T08:00:00.000Z"
-    },
-    {
-      "name": "Rune Eaters vs Omega lúc 15:00",
-      "link": "/truc-tiep/rune-eaters-vs-omega-luc-1500-ngay-03-04-2026/",
-      "runtime": 1775203200,
-      "datetime": "2026-04-03T08:00:00.000Z"
-    },
-    {
       "name": "Daniel Altmaier vs Dino Prizmic lúc 15:10",
       "link": "/truc-tiep/daniel-altmaier-vs-dino-prizmic-luc-1510-ngay-03-04-2026/",
       "runtime": 1775203800,
       "datetime": "2026-04-03T08:10:00.000Z"
-    },
-    {
-      "name": "Psary vs FK Olympie Brezova lúc 15:15",
-      "link": "/truc-tiep/psary-vs-fk-olympie-brezova-luc-1515-ngay-03-04-2026/",
-      "runtime": 1775204100,
-      "datetime": "2026-04-03T08:15:00.000Z"
-    },
-    {
-      "name": "Milevsko vs SK Petrin Plzen B lúc 15:15",
-      "link": "/truc-tiep/milevsko-vs-sk-petrin-plzen-b-luc-1515-ngay-03-04-2026/",
-      "runtime": 1775204100,
-      "datetime": "2026-04-03T08:15:00.000Z"
-    },
-    {
-      "name": "Arema FC vs Malut United lúc 15:30 | POLO",
-      "link": "/truc-tiep/arema-fc-vs-malut-united-luc-1530-ngay-03-04-2026/",
-      "runtime": 1775205000,
-      "datetime": "2026-04-03T08:30:00.000Z"
-    },
-    {
-      "name": "Sriwijaya FC vs PSPS Riau lúc 15:30",
-      "link": "/truc-tiep/sriwijaya-fc-vs-psps-riau-luc-1530-ngay-03-04-2026/",
-      "runtime": 1775205000,
-      "datetime": "2026-04-03T08:30:00.000Z"
-    },
-    {
-      "name": "Adelaide United vs Auckland FC lúc 15:35 | BRADY",
-      "link": "/truc-tiep/adelaide-united-vs-auckland-fc-luc-1535-ngay-03-04-2026/",
-      "runtime": 1775205300,
-      "datetime": "2026-04-03T08:35:00.000Z"
-    },
-    {
-      "name": "Đồng Tháp vs TP Hồ Chí Minh II lúc 16:00 | MAX",
-      "link": "/truc-tiep/dong-thap-vs-tp-ho-chi-minh-ii-luc-1600-ngay-03-04-2026/",
-      "runtime": 1775206800,
-      "datetime": "2026-04-03T09:00:00.000Z"
-    },
-    {
-      "name": "Văn Hiến vs Than Quảng Ninh lúc 16:00 | FINN",
-      "link": "/truc-tiep/van-hien-vs-than-quang-ninh-luc-1600-ngay-03-04-2026/",
-      "runtime": 1775206800,
-      "datetime": "2026-04-03T09:00:00.000Z"
-    },
-    {
-      "name": "Yulon Luxgen Dinos vs Bank of Taiwan lúc 16:00 | TOMMY",
-      "link": "/truc-tiep/yulon-luxgen-dinos-vs-bank-of-taiwan-luc-1600-ngay-03-04-2026/",
-      "runtime": 1775206800,
-      "datetime": "2026-04-03T09:00:00.000Z"
-    },
-    {
-      "name": "Marco Cecchinato vs Felix Gill lúc 16:00",
-      "link": "/truc-tiep/marco-cecchinato-vs-felix-gill-luc-1600-ngay-03-04-2026/",
-      "runtime": 1775206800,
-      "datetime": "2026-04-03T09:00:00.000Z"
-    },
-    {
-      "name": "Rune Eaters Esports vs VP.Prodigy lúc 16:00",
-      "link": "/truc-tiep/rune-eaters-esports-vs-vp-prodigy-luc-1600-ngay-03-04-2026/",
-      "runtime": 1775206800,
-      "datetime": "2026-04-03T09:00:00.000Z"
     },
     {
       "name": "Neroca FC vs Sporting Clube de Goa lúc 16:30",
@@ -108,24 +30,6 @@
     {
       "name": "Elva vs Viimsi JK lúc 16:30",
       "link": "/truc-tiep/elva-vs-viimsi-jk-luc-1630-ngay-03-04-2026/",
-      "runtime": 1775208600,
-      "datetime": "2026-04-03T09:30:00.000Z"
-    },
-    {
-      "name": "FC Maardu vs Tallinna Kalev lúc 16:30",
-      "link": "/truc-tiep/fc-maardu-vs-tallinna-kalev-luc-1630-ngay-03-04-2026/",
-      "runtime": 1775208600,
-      "datetime": "2026-04-03T09:30:00.000Z"
-    },
-    {
-      "name": "Levadia Tallinn U19 vs Tabasalu Charma lúc 16:30",
-      "link": "/truc-tiep/levadia-tallinn-u19-vs-tabasalu-charma-luc-1630-ngay-03-04-2026/",
-      "runtime": 1775208600,
-      "datetime": "2026-04-03T09:30:00.000Z"
-    },
-    {
-      "name": "Victoria Mykolaivka vs Nyva Ternopil lúc 16:30",
-      "link": "/truc-tiep/victoria-mykolaivka-vs-nyva-ternopil-luc-1630-ngay-03-04-2026/",
       "runtime": 1775208600,
       "datetime": "2026-04-03T09:30:00.000Z"
     },
@@ -392,6 +296,42 @@
       "link": "/truc-tiep/kuala-lumpur-fc-vs-johor-darul-takzim-luc-1915-ngay-03-04-2026/",
       "runtime": 1775218500,
       "datetime": "2026-04-03T12:15:00.000Z"
+    },
+    {
+      "name": "SC Poltava vs FK Oleksandria lúc 19:30 | TONI",
+      "link": "/truc-tiep/sc-poltava-vs-fk-oleksandria-luc-1930-ngay-03-04-2026/",
+      "runtime": 1775219400,
+      "datetime": "2026-04-03T12:30:00.000Z"
+    },
+    {
+      "name": "BetBoom vs 9INE lúc 19:30",
+      "link": "/truc-tiep/betboom-vs-9ine-luc-1930-ngay-03-04-2026/",
+      "runtime": 1775219400,
+      "datetime": "2026-04-03T12:30:00.000Z"
+    },
+    {
+      "name": "BFC Daugavpils vs FK Liepaja lúc 20:00 | HELLO",
+      "link": "/truc-tiep/bfc-daugavpils-vs-fk-liepaja-luc-2000-ngay-03-04-2026/",
+      "runtime": 1775221200,
+      "datetime": "2026-04-03T13:00:00.000Z"
+    },
+    {
+      "name": "Xorazm Urganch vs Dinamo Samarqand lúc 20:00",
+      "link": "/truc-tiep/xorazm-urganch-vs-dinamo-samarqand-luc-2000-ngay-03-04-2026/",
+      "runtime": 1775221200,
+      "datetime": "2026-04-03T13:00:00.000Z"
+    },
+    {
+      "name": "Nữ Vaxjo vs Nữ Eskilstuna United lúc 20:00",
+      "link": "/truc-tiep/nu-vaxjo-vs-nu-eskilstuna-united-luc-2000-ngay-03-04-2026/",
+      "runtime": 1775221200,
+      "datetime": "2026-04-03T13:00:00.000Z"
+    },
+    {
+      "name": "ND Gorica vs ND Beltinci lúc 20:00",
+      "link": "/truc-tiep/nd-gorica-vs-nd-beltinci-luc-2000-ngay-03-04-2026/",
+      "runtime": 1775221200,
+      "datetime": "2026-04-03T13:00:00.000Z"
     }
   ]
 }
