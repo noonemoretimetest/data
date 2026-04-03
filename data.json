@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 45,
-  "updated_at": "2026-04-03T19:53:54.900Z",
+  "total_matches": 37,
+  "updated_at": "2026-04-03T20:29:55.130Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -28,42 +28,6 @@
       "datetime": "2026-04-03T17:40:00.000Z"
     },
     {
-      "name": "Al Nassr vs Al Najma(KSA) lúc 01:00 | LOUIS - YUNO",
-      "link": "/truc-tiep/al-nassr-vs-al-najmaksa-luc-0100-ngay-04-04-2026/",
-      "runtime": 1775239200,
-      "datetime": "2026-04-03T18:00:00.000Z"
-    },
-    {
-      "name": "Gimnasia Mendoza vs Velez Sarsfield lúc 01:00",
-      "link": "/truc-tiep/gimnasia-mendoza-vs-velez-sarsfield-luc-0100-ngay-04-04-2026/",
-      "runtime": 1775239200,
-      "datetime": "2026-04-03T18:00:00.000Z"
-    },
-    {
-      "name": "Grenoble vs Clermont lúc 01:00",
-      "link": "/truc-tiep/grenoble-vs-clermont-luc-0100-ngay-04-04-2026/",
-      "runtime": 1775239200,
-      "datetime": "2026-04-03T18:00:00.000Z"
-    },
-    {
-      "name": "USL Dunkerque vs Rodez Aveyron lúc 01:00",
-      "link": "/truc-tiep/usl-dunkerque-vs-rodez-aveyron-luc-0100-ngay-04-04-2026/",
-      "runtime": 1775239200,
-      "datetime": "2026-04-03T18:00:00.000Z"
-    },
-    {
-      "name": "Annecy vs Guingamp lúc 01:00",
-      "link": "/truc-tiep/annecy-vs-guingamp-luc-0100-ngay-04-04-2026/",
-      "runtime": 1775239200,
-      "datetime": "2026-04-03T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ Bergamo vs Nữ Vallefoglia lúc 01:00",
-      "link": "/truc-tiep/nu-bergamo-vs-nu-vallefoglia-luc-0100-ngay-04-04-2026/",
-      "runtime": 1775239200,
-      "datetime": "2026-04-03T18:00:00.000Z"
-    },
-    {
       "name": "Team Lens vs Team TPaBoMaH lúc 01:00",
       "link": "/truc-tiep/team-lens-vs-team-tpabomah-luc-0100-ngay-04-04-2026/",
       "runtime": 1775239200,
@@ -74,30 +38,6 @@
       "link": "/truc-tiep/ben-shelton-vs-thiago-agustin-tirante-luc-0110-ngay-04-04-2026/",
       "runtime": 1775239800,
       "datetime": "2026-04-03T18:10:00.000Z"
-    },
-    {
-      "name": "SC Austria Lustenau vs Trenkwalder Admira lúc 01:30",
-      "link": "/truc-tiep/sc-austria-lustenau-vs-trenkwalder-admira-luc-0130-ngay-04-04-2026/",
-      "runtime": 1775241000,
-      "datetime": "2026-04-03T18:30:00.000Z"
-    },
-    {
-      "name": "Novara vs Lumezzane lúc 01:30",
-      "link": "/truc-tiep/novara-vs-lumezzane-luc-0130-ngay-04-04-2026/",
-      "runtime": 1775241000,
-      "datetime": "2026-04-03T18:30:00.000Z"
-    },
-    {
-      "name": "Livorno vs Gubbio lúc 01:30",
-      "link": "/truc-tiep/livorno-vs-gubbio-luc-0130-ngay-04-04-2026/",
-      "runtime": 1775241000,
-      "datetime": "2026-04-03T18:30:00.000Z"
-    },
-    {
-      "name": "Baskonia Vitoria vs Real Madrid  lúc 01:30 | STEP",
-      "link": "/truc-tiep/baskonia-vitoria-vs-real-madrid-luc-0130-ngay-04-04-2026/",
-      "runtime": 1775241000,
-      "datetime": "2026-04-03T18:30:00.000Z"
     },
     {
       "name": "PSG vs Toulouse FC lúc 01:45 | BRADY - ASTRA",
@@ -272,6 +212,18 @@
       "link": "/truc-tiep/nu-sesc-rj-flamengo-vs-nu-mackenzie-luc-0430-ngay-04-04-2026/",
       "runtime": 1775251800,
       "datetime": "2026-04-03T21:30:00.000Z"
+    },
+    {
+      "name": "Nữ Gremio vs Nữ Vitoria das Tabocas lúc 05:00",
+      "link": "/truc-tiep/nu-gremio-vs-nu-vitoria-das-tabocas-luc-0500-ngay-04-04-2026/",
+      "runtime": 1775253600,
+      "datetime": "2026-04-03T22:00:00.000Z"
+    },
+    {
+      "name": "Ituzaingo vs Argentino de Merlo lúc 05:00",
+      "link": "/truc-tiep/ituzaingo-vs-argentino-de-merlo-luc-0500-ngay-04-04-2026/",
+      "runtime": 1775253600,
+      "datetime": "2026-04-03T22:00:00.000Z"
     }
   ]
 }
