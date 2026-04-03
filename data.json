@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 65,
-  "updated_at": "2026-04-03T14:25:35.555Z",
+  "total_matches": 75,
+  "updated_at": "2026-04-03T15:25:05.231Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -16,22 +16,10 @@
       "datetime": "2026-04-01T09:30:00.000Z"
     },
     {
-      "name": "Adana Demirspor vs Manisa FK lúc 18:30 | ZARA",
-      "link": "/truc-tiep/adana-demirspor-vs-manisa-fk-luc-1830-ngay-03-04-2026/",
-      "runtime": 1775215800,
-      "datetime": "2026-04-03T11:30:00.000Z"
-    },
-    {
       "name": "Team lynx vs Ilbirs Esports lúc 19:00",
       "link": "/truc-tiep/team-lynx-vs-ilbirs-esports-luc-1900-ngay-03-04-2026/",
       "runtime": 1775217600,
       "datetime": "2026-04-03T12:00:00.000Z"
-    },
-    {
-      "name": "SC Poltava vs FK Oleksandria lúc 19:30 | TONI",
-      "link": "/truc-tiep/sc-poltava-vs-fk-oleksandria-luc-1930-ngay-03-04-2026/",
-      "runtime": 1775219400,
-      "datetime": "2026-04-03T12:30:00.000Z"
     },
     {
       "name": "BFC Daugavpils vs FK Liepaja lúc 20:00 | HELLO",
@@ -40,38 +28,8 @@
       "datetime": "2026-04-03T13:00:00.000Z"
     },
     {
-      "name": "Xorazm Urganch vs Dinamo Samarqand lúc 20:00",
-      "link": "/truc-tiep/xorazm-urganch-vs-dinamo-samarqand-luc-2000-ngay-03-04-2026/",
-      "runtime": 1775221200,
-      "datetime": "2026-04-03T13:00:00.000Z"
-    },
-    {
-      "name": "Nữ Vaxjo vs Nữ Eskilstuna United lúc 20:00",
-      "link": "/truc-tiep/nu-vaxjo-vs-nu-eskilstuna-united-luc-2000-ngay-03-04-2026/",
-      "runtime": 1775221200,
-      "datetime": "2026-04-03T13:00:00.000Z"
-    },
-    {
-      "name": "ND Gorica vs ND Beltinci lúc 20:00",
-      "link": "/truc-tiep/nd-gorica-vs-nd-beltinci-luc-2000-ngay-03-04-2026/",
-      "runtime": 1775221200,
-      "datetime": "2026-04-03T13:00:00.000Z"
-    },
-    {
       "name": "Turan Tovuz vs Zira FK lúc 20:30 | JAY",
       "link": "/truc-tiep/turan-tovuz-vs-zira-fk-luc-2030-ngay-03-04-2026/",
-      "runtime": 1775223000,
-      "datetime": "2026-04-03T13:30:00.000Z"
-    },
-    {
-      "name": "Sileks vs FK Shkupi lúc 20:30",
-      "link": "/truc-tiep/sileks-vs-fk-shkupi-luc-2030-ngay-03-04-2026/",
-      "runtime": 1775223000,
-      "datetime": "2026-04-03T13:30:00.000Z"
-    },
-    {
-      "name": "FK Brera Strumica vs KF Arsimi lúc 20:30",
-      "link": "/truc-tiep/fk-brera-strumica-vs-kf-arsimi-luc-2030-ngay-03-04-2026/",
       "runtime": 1775223000,
       "datetime": "2026-04-03T13:30:00.000Z"
     },
@@ -232,6 +190,12 @@
       "datetime": "2026-04-03T14:30:00.000Z"
     },
     {
+      "name": "Al-Arabi SC(KSA) vs Al Diraiyah lúc 21:30",
+      "link": "/truc-tiep/al-arabi-scksa-vs-al-diraiyah-luc-2130-ngay-03-04-2026/",
+      "runtime": 1775226600,
+      "datetime": "2026-04-03T14:30:00.000Z"
+    },
+    {
       "name": "Team Rostikfacekid vs Cake Team lúc 21:30",
       "link": "/truc-tiep/team-rostikfacekid-vs-cake-team-luc-2130-ngay-03-04-2026/",
       "runtime": 1775226600,
@@ -246,6 +210,12 @@
     {
       "name": "Dinamo Batumi vs Spaeri FC lúc 22:00",
       "link": "/truc-tiep/dinamo-batumi-vs-spaeri-fc-luc-2200-ngay-03-04-2026/",
+      "runtime": 1775228400,
+      "datetime": "2026-04-03T15:00:00.000Z"
+    },
+    {
+      "name": "Jessica Pegula vs Diana Shnaider lúc 22:00",
+      "link": "/truc-tiep/jessica-pegula-vs-diana-shnaider-luc-2200-ngay-03-04-2026/",
       "runtime": 1775228400,
       "datetime": "2026-04-03T15:00:00.000Z"
     },
@@ -304,6 +274,12 @@
       "datetime": "2026-04-03T15:30:00.000Z"
     },
     {
+      "name": "Dali Blanch vs Jonas Forejtek lúc 22:40",
+      "link": "/truc-tiep/dali-blanch-vs-jonas-forejtek-luc-2240-ngay-03-04-2026/",
+      "runtime": 1775230800,
+      "datetime": "2026-04-03T15:40:00.000Z"
+    },
+    {
       "name": "Al Kholood vs Al Khaleej lúc 23:00 | RIO",
       "link": "/truc-tiep/al-kholood-vs-al-khaleej-luc-2300-ngay-03-04-2026/",
       "runtime": 1775232000,
@@ -324,12 +300,6 @@
     {
       "name": "Sporting Cristal vs Moquegua lúc 23:00",
       "link": "/truc-tiep/sporting-cristal-vs-moquegua-luc-2300-ngay-03-04-2026/",
-      "runtime": 1775232000,
-      "datetime": "2026-04-03T16:00:00.000Z"
-    },
-    {
-      "name": "Al-Arabi SC(KSA) vs Al Diraiyah lúc 23:00",
-      "link": "/truc-tiep/al-arabi-scksa-vs-al-diraiyah-luc-2300-ngay-03-04-2026/",
       "runtime": 1775232000,
       "datetime": "2026-04-03T16:00:00.000Z"
     },
@@ -392,6 +362,96 @@
       "link": "/truc-tiep/al-ittihadksa-vs-al-hazem-luc-2315-ngay-03-04-2026/",
       "runtime": 1775232900,
       "datetime": "2026-04-03T16:15:00.000Z"
+    },
+    {
+      "name": "Daniel Altmaier vs Fabian Marozsan lúc 23:20",
+      "link": "/truc-tiep/daniel-altmaier-vs-fabian-marozsan-luc-2320-ngay-03-04-2026/",
+      "runtime": 1775233200,
+      "datetime": "2026-04-03T16:20:00.000Z"
+    },
+    {
+      "name": "Al-Budaiya vs Al Hidd lúc 23:30",
+      "link": "/truc-tiep/al-budaiya-vs-al-hidd-luc-2330-ngay-03-04-2026/",
+      "runtime": 1775233800,
+      "datetime": "2026-04-03T16:30:00.000Z"
+    },
+    {
+      "name": "Al-Ramtha SC vs Al-Ahly lúc 23:30",
+      "link": "/truc-tiep/al-ramtha-sc-vs-al-ahly-luc-2330-ngay-03-04-2026/",
+      "runtime": 1775233800,
+      "datetime": "2026-04-03T16:30:00.000Z"
+    },
+    {
+      "name": "Baghdad vs Zakho SC lúc 23:30",
+      "link": "/truc-tiep/baghdad-vs-zakho-sc-luc-2330-ngay-03-04-2026/",
+      "runtime": 1775233800,
+      "datetime": "2026-04-03T16:30:00.000Z"
+    },
+    {
+      "name": "Lokomotiv Plovdiv vs Lokomotiv Sofia lúc 23:45 | POLO",
+      "link": "/truc-tiep/lokomotiv-plovdiv-vs-lokomotiv-sofia-luc-2345-ngay-03-04-2026/",
+      "runtime": 1775234700,
+      "datetime": "2026-04-03T16:45:00.000Z"
+    },
+    {
+      "name": "Torpedo Kutaisi vs Fc Meshakhte Tkibuli lúc 00:00",
+      "link": "/truc-tiep/torpedo-kutaisi-vs-fc-meshakhte-tkibuli-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Vitoria Guimaraes vs CD Tondela lúc 00:00 | FINN",
+      "link": "/truc-tiep/vitoria-guimaraes-vs-cd-tondela-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Gagra FC vs FC Saburtalo lúc 00:00 | JAY",
+      "link": "/truc-tiep/gagra-fc-vs-fc-saburtalo-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Corum Belediyespor vs Bandirmaspor lúc 00:00",
+      "link": "/truc-tiep/corum-belediyespor-vs-bandirmaspor-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Bodrum FK vs Umraniyespor lúc 00:00",
+      "link": "/truc-tiep/bodrum-fk-vs-umraniyespor-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Flamurtari vs KF Tirana lúc 00:00",
+      "link": "/truc-tiep/flamurtari-vs-kf-tirana-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Lokomotiv Kuban vs MBA Moscow lúc 00:00",
+      "link": "/truc-tiep/lokomotiv-kuban-vs-mba-moscow-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Genclik Final Spor vs Goztepe lúc 00:00",
+      "link": "/truc-tiep/genclik-final-spor-vs-goztepe-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "Zena Esports vs StoneHenge Esports lúc 00:00",
+      "link": "/truc-tiep/zena-esports-vs-stonehenge-esports-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
+    },
+    {
+      "name": "UNiTY vs ENCE Academy lúc 00:00",
+      "link": "/truc-tiep/unity-vs-ence-academy-luc-0000-ngay-04-04-2026/",
+      "runtime": 1775235600,
+      "datetime": "2026-04-03T17:00:00.000Z"
     }
   ]
 }
