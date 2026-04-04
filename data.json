@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 68,
-  "updated_at": "2026-04-04T22:23:28.233Z",
+  "total_matches": 74,
+  "updated_at": "2026-04-04T23:00:48.866Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -14,48 +14,6 @@
       "link": "/truc-tiep/andersen-s-m-fliglova-n-vs-schausberger-m-thurnherr-a-luc-1630-ngay-01-04-2026/",
       "runtime": 1775035800,
       "datetime": "2026-04-01T09:30:00.000Z"
-    },
-    {
-      "name": "Cloud9 vs LYON lúc 03:00",
-      "link": "/truc-tiep/cloud9-vs-lyon-luc-0300-ngay-05-04-2026/",
-      "runtime": 1775332800,
-      "datetime": "2026-04-04T20:00:00.000Z"
-    },
-    {
-      "name": "Real Salt Lake vs Sporting Kansas lúc 03:30 | ZARA",
-      "link": "/truc-tiep/real-salt-lake-vs-sporting-kansas-luc-0330-ngay-05-04-2026/",
-      "runtime": 1775334600,
-      "datetime": "2026-04-04T20:30:00.000Z"
-    },
-    {
-      "name": "New England vs Montreal Impact lúc 03:30 | NEMO",
-      "link": "/truc-tiep/new-england-vs-montreal-impact-luc-0330-ngay-05-04-2026/",
-      "runtime": 1775334600,
-      "datetime": "2026-04-04T20:30:00.000Z"
-    },
-    {
-      "name": "FBC Melgar vs Cusco FC lúc 03:30",
-      "link": "/truc-tiep/fbc-melgar-vs-cusco-fc-luc-0330-ngay-05-04-2026/",
-      "runtime": 1775334600,
-      "datetime": "2026-04-04T20:30:00.000Z"
-    },
-    {
-      "name": "Deportes Limache vs Union La Calera lúc 03:30",
-      "link": "/truc-tiep/deportes-limache-vs-union-la-calera-luc-0330-ngay-05-04-2026/",
-      "runtime": 1775334600,
-      "datetime": "2026-04-04T20:30:00.000Z"
-    },
-    {
-      "name": "CA Independiente vs Racing Club lúc 03:30",
-      "link": "/truc-tiep/ca-independiente-vs-racing-club-luc-0330-ngay-05-04-2026/",
-      "runtime": 1775334600,
-      "datetime": "2026-04-04T20:30:00.000Z"
-    },
-    {
-      "name": "San Martin Tucuman vs Chacarita juniors lúc 03:30",
-      "link": "/truc-tiep/san-martin-tucuman-vs-chacarita-juniors-luc-0330-ngay-05-04-2026/",
-      "runtime": 1775334600,
-      "datetime": "2026-04-04T20:30:00.000Z"
     },
     {
       "name": "Colorado Springs vs Lexington lúc 04:00",
@@ -84,12 +42,6 @@
     {
       "name": "San Francisco vs Veraguas FC lúc 04:00",
       "link": "/truc-tiep/san-francisco-vs-veraguas-fc-luc-0400-ngay-05-04-2026/",
-      "runtime": 1775336400,
-      "datetime": "2026-04-04T21:00:00.000Z"
-    },
-    {
-      "name": "Brusque FC vs SER Caxias lúc 04:00",
-      "link": "/truc-tiep/brusque-fc-vs-ser-caxias-luc-0400-ngay-05-04-2026/",
       "runtime": 1775336400,
       "datetime": "2026-04-04T21:00:00.000Z"
     },
@@ -410,6 +362,90 @@
       "link": "/truc-tiep/nu-nebraska-vs-nu-austin-luc-0700-ngay-05-04-2026/",
       "runtime": 1775347200,
       "datetime": "2026-04-05T00:00:00.000Z"
+    },
+    {
+      "name": "Deportes Tolima vs Ind. Santa Fe lúc 07:30",
+      "link": "/truc-tiep/deportes-tolima-vs-ind-santa-fe-luc-0730-ngay-05-04-2026/",
+      "runtime": 1775349000,
+      "datetime": "2026-04-05T00:30:00.000Z"
+    },
+    {
+      "name": "Chicago Fire vs Nashville lúc 07:30 | TONI",
+      "link": "/truc-tiep/chicago-fire-vs-nashville-luc-0730-ngay-05-04-2026/",
+      "runtime": 1775349000,
+      "datetime": "2026-04-05T00:30:00.000Z"
+    },
+    {
+      "name": "Houston Dynamo vs Seattle Sounders lúc 07:30",
+      "link": "/truc-tiep/houston-dynamo-vs-seattle-sounders-luc-0730-ngay-05-04-2026/",
+      "runtime": 1775349000,
+      "datetime": "2026-04-05T00:30:00.000Z"
+    },
+    {
+      "name": "James Duckworth vs Rodrigo Pacheco Mendez lúc 07:30",
+      "link": "/truc-tiep/james-duckworth-vs-rodrigo-pacheco-mendez-luc-0730-ngay-05-04-2026/",
+      "runtime": 1775349000,
+      "datetime": "2026-04-05T00:30:00.000Z"
+    },
+    {
+      "name": "Bounty Hunters vs Gaimin Gladiators lúc 07:30",
+      "link": "/truc-tiep/bounty-hunters-vs-gaimin-gladiators-luc-0730-ngay-05-04-2026/",
+      "runtime": 1775349000,
+      "datetime": "2026-04-05T00:30:00.000Z"
+    },
+    {
+      "name": "Nữ Seattle Reign vs Nữ Denver Summit  lúc 07:45",
+      "link": "/truc-tiep/nu-seattle-reign-vs-nu-denver-summit-luc-0745-ngay-05-04-2026/",
+      "runtime": 1775349900,
+      "datetime": "2026-04-05T00:45:00.000Z"
+    },
+    {
+      "name": "Arizona vs Michigan lúc 07:49",
+      "link": "/truc-tiep/arizona-vs-michigan-luc-0749-ngay-05-04-2026/",
+      "runtime": 1775350140,
+      "datetime": "2026-04-05T00:49:00.000Z"
+    },
+    {
+      "name": "Club Leon vs Atlas lúc 08:00 | POLO",
+      "link": "/truc-tiep/club-leon-vs-atlas-luc-0800-ngay-05-04-2026/",
+      "runtime": 1775350800,
+      "datetime": "2026-04-05T01:00:00.000Z"
+    },
+    {
+      "name": "Leones Negros vs Atletico Morelia lúc 08:00",
+      "link": "/truc-tiep/leones-negros-vs-atletico-morelia-luc-0800-ngay-05-04-2026/",
+      "runtime": 1775350800,
+      "datetime": "2026-04-05T01:00:00.000Z"
+    },
+    {
+      "name": "Uni. Deportes vs Alianza Lima lúc 08:00",
+      "link": "/truc-tiep/uni-deportes-vs-alianza-lima-luc-0800-ngay-05-04-2026/",
+      "runtime": 1775350800,
+      "datetime": "2026-04-05T01:00:00.000Z"
+    },
+    {
+      "name": "El Locomotive vs Las Vegas Lights lúc 08:00",
+      "link": "/truc-tiep/el-locomotive-vs-las-vegas-lights-luc-0800-ngay-05-04-2026/",
+      "runtime": 1775350800,
+      "datetime": "2026-04-05T01:00:00.000Z"
+    },
+    {
+      "name": "Athletic Club Boise vs Spokane Velocity lúc 08:00",
+      "link": "/truc-tiep/athletic-club-boise-vs-spokane-velocity-luc-0800-ngay-05-04-2026/",
+      "runtime": 1775350800,
+      "datetime": "2026-04-05T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Salt Lake  vs Nữ Madison  lúc 08:00",
+      "link": "/truc-tiep/nu-salt-lake-vs-nu-madison-luc-0800-ngay-05-04-2026/",
+      "runtime": 1775350800,
+      "datetime": "2026-04-05T01:00:00.000Z"
+    },
+    {
+      "name": "BOSS vs LAG lúc 08:00",
+      "link": "/truc-tiep/boss-vs-lag-luc-0800-ngay-05-04-2026/",
+      "runtime": 1775350800,
+      "datetime": "2026-04-05T01:00:00.000Z"
     }
   ]
 }
