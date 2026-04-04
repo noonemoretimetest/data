@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-04-04T07:35:48.158Z",
+  "total_matches": 62,
+  "updated_at": "2026-04-04T08:05:40.029Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -14,60 +14,6 @@
       "link": "/truc-tiep/andersen-s-m-fliglova-n-vs-schausberger-m-thurnherr-a-luc-1630-ngay-01-04-2026/",
       "runtime": 1775035800,
       "datetime": "2026-04-01T09:30:00.000Z"
-    },
-    {
-      "name": "Nagoya Grampus vs Cerezo Osaka lúc 13:00 | FINN",
-      "link": "/truc-tiep/nagoya-grampus-vs-cerezo-osaka-luc-1300-ngay-04-04-2026/",
-      "runtime": 1775282400,
-      "datetime": "2026-04-04T06:00:00.000Z"
-    },
-    {
-      "name": "Central Coast Mariners vs Perth Glory lúc 13:00 | BRADY",
-      "link": "/truc-tiep/central-coast-mariners-vs-perth-glory-luc-1300-ngay-04-04-2026/",
-      "runtime": 1775282400,
-      "datetime": "2026-04-04T06:00:00.000Z"
-    },
-    {
-      "name": "Sydney Olympic vs Sutherland Sharks lúc 13:00",
-      "link": "/truc-tiep/sydney-olympic-vs-sutherland-sharks-luc-1300-ngay-04-04-2026/",
-      "runtime": 1775282400,
-      "datetime": "2026-04-04T06:00:00.000Z"
-    },
-    {
-      "name": "Newcastle Jets (Y) vs Druitt Rangers lúc 13:00",
-      "link": "/truc-tiep/newcastle-jets-y-vs-druitt-rangers-luc-1300-ngay-04-04-2026/",
-      "runtime": 1775282400,
-      "datetime": "2026-04-04T06:00:00.000Z"
-    },
-    {
-      "name": "Blacktown Spartans vs Canterbury Bankstown lúc 13:00",
-      "link": "/truc-tiep/blacktown-spartans-vs-canterbury-bankstown-luc-1300-ngay-04-04-2026/",
-      "runtime": 1775282400,
-      "datetime": "2026-04-04T06:00:00.000Z"
-    },
-    {
-      "name": "Macau University vs Artilheiros lúc 13:00",
-      "link": "/truc-tiep/macau-university-vs-artilheiros-luc-1300-ngay-04-04-2026/",
-      "runtime": 1775282400,
-      "datetime": "2026-04-04T06:00:00.000Z"
-    },
-    {
-      "name": "Daejeon Korail vs Pocheon FC lúc 13:00",
-      "link": "/truc-tiep/daejeon-korail-vs-pocheon-fc-luc-1300-ngay-04-04-2026/",
-      "runtime": 1775282400,
-      "datetime": "2026-04-04T06:00:00.000Z"
-    },
-    {
-      "name": "Osaka Sakai vs Nagoya lúc 13:05",
-      "link": "/truc-tiep/osaka-sakai-vs-nagoya-luc-1305-ngay-04-04-2026/",
-      "runtime": 1775282700,
-      "datetime": "2026-04-04T06:05:00.000Z"
-    },
-    {
-      "name": "Nữ UNSW FC vs Nữ Northern Tigers lúc 13:10",
-      "link": "/truc-tiep/nu-unsw-fc-vs-nu-northern-tigers-luc-1310-ngay-04-04-2026/",
-      "runtime": 1775283000,
-      "datetime": "2026-04-04T06:10:00.000Z"
     },
     {
       "name": "Harry Wendelken vs Wu Tung-lin lúc 13:10",
@@ -102,12 +48,6 @@
     {
       "name": "Gamba Osaka vs Kyoto Sanga lúc 14:00 | KEN",
       "link": "/truc-tiep/gamba-osaka-vs-kyoto-sanga-luc-1400-ngay-04-04-2026/",
-      "runtime": 1775286000,
-      "datetime": "2026-04-04T07:00:00.000Z"
-    },
-    {
-      "name": "FC Ryukyu vs Roasso Kumamoto lúc 14:00 | TONI",
-      "link": "/truc-tiep/fc-ryukyu-vs-roasso-kumamoto-luc-1400-ngay-04-04-2026/",
       "runtime": 1775286000,
       "datetime": "2026-04-04T07:00:00.000Z"
     },
@@ -212,6 +152,12 @@
       "link": "/truc-tiep/seoul-sk-knights-vs-daegu-kogas-luc-1430-ngay-04-04-2026/",
       "runtime": 1775287800,
       "datetime": "2026-04-04T07:30:00.000Z"
+    },
+    {
+      "name": "FC Ryukyu vs Roasso Kumamoto lúc 15:00",
+      "link": "/truc-tiep/fc-ryukyu-vs-roasso-kumamoto-luc-1500-ngay-04-04-2026/",
+      "runtime": 1775289600,
+      "datetime": "2026-04-04T08:00:00.000Z"
     },
     {
       "name": "Shenzhen Juniors vs Yanbian Longding lúc 15:00",
@@ -362,6 +308,72 @@
       "link": "/truc-tiep/sangal-vs-astral-luc-1630-ngay-04-04-2026/",
       "runtime": 1775295000,
       "datetime": "2026-04-04T09:30:00.000Z"
+    },
+    {
+      "name": "Akron Togliatti vs CSKA Moscow lúc 17:00 | TONI",
+      "link": "/truc-tiep/akron-togliatti-vs-cska-moscow-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Inter Turku vs Vaasa VPS lúc 17:00 | POLO",
+      "link": "/truc-tiep/inter-turku-vs-vaasa-vps-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Kolos Kovalivka vs Metalist 1925 lúc 17:00",
+      "link": "/truc-tiep/kolos-kovalivka-vs-metalist-1925-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Sporting CP B vs Penafiel lúc 17:00",
+      "link": "/truc-tiep/sporting-cp-b-vs-penafiel-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Irtysh Pavlodar vs Altay FK lúc 17:00",
+      "link": "/truc-tiep/irtysh-pavlodar-vs-altay-fk-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "SC Farense vs Feirense lúc 17:00",
+      "link": "/truc-tiep/sc-farense-vs-feirense-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Logrono  vs Nữ Sevilla FC lúc 17:00",
+      "link": "/truc-tiep/nu-logrono-vs-nu-sevilla-fc-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Nữ Granada vs Nữ Espanyol lúc 17:00",
+      "link": "/truc-tiep/nu-granada-vs-nu-espanyol-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Mersin BSB vs Buyukcekmece lúc 17:00",
+      "link": "/truc-tiep/mersin-bsb-vs-buyukcekmece-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Kiwoom DRX vs Dplus lúc 17:00",
+      "link": "/truc-tiep/kiwoom-drx-vs-dplus-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "name": "Nigma Galaxy vs Pipsqueak+4 lúc 17:00",
+      "link": "/truc-tiep/nigma-galaxy-vs-pipsqueak4-luc-1700-ngay-04-04-2026/",
+      "runtime": 1775296800,
+      "datetime": "2026-04-04T10:00:00.000Z"
     }
   ]
 }
