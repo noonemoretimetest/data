@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 85,
-  "updated_at": "2026-04-04T17:04:03.222Z",
+  "total_matches": 82,
+  "updated_at": "2026-04-04T17:49:18.002Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -32,36 +32,6 @@
       "link": "/truc-tiep/team-spirit-academy-vs-vp-prodigy-luc-2200-ngay-04-04-2026/",
       "runtime": 1775314800,
       "datetime": "2026-04-04T15:00:00.000Z"
-    },
-    {
-      "name": "Gornik Zabrze vs Cracovia Krakow lúc 22:30",
-      "link": "/truc-tiep/gornik-zabrze-vs-cracovia-krakow-luc-2230-ngay-04-04-2026/",
-      "runtime": 1775316600,
-      "datetime": "2026-04-04T15:30:00.000Z"
-    },
-    {
-      "name": "Al Rayyan vs Al-Sadd lúc 22:30",
-      "link": "/truc-tiep/al-rayyan-vs-al-sadd-luc-2230-ngay-04-04-2026/",
-      "runtime": 1775316600,
-      "datetime": "2026-04-04T15:30:00.000Z"
-    },
-    {
-      "name": "Al Shamal vs Umm Salal lúc 22:30",
-      "link": "/truc-tiep/al-shamal-vs-umm-salal-luc-2230-ngay-04-04-2026/",
-      "runtime": 1775316600,
-      "datetime": "2026-04-04T15:30:00.000Z"
-    },
-    {
-      "name": "NK Bravo vs FC Koper lúc 22:30",
-      "link": "/truc-tiep/nk-bravo-vs-fc-koper-luc-2230-ngay-04-04-2026/",
-      "runtime": 1775316600,
-      "datetime": "2026-04-04T15:30:00.000Z"
-    },
-    {
-      "name": "Slaven Belupo vs Rijeka lúc 22:45",
-      "link": "/truc-tiep/slaven-belupo-vs-rijeka-luc-2245-ngay-04-04-2026/",
-      "runtime": 1775317500,
-      "datetime": "2026-04-04T15:45:00.000Z"
     },
     {
       "name": "Hellas Verona vs Fiorentina lúc 23:00 | LOUIS",
@@ -120,12 +90,6 @@
     {
       "name": "Gnistan Helsinki vs AC Oulu lúc 23:00 | OLER",
       "link": "/truc-tiep/gnistan-helsinki-vs-ac-oulu-luc-2300-ngay-04-04-2026/",
-      "runtime": 1775318400,
-      "datetime": "2026-04-04T16:00:00.000Z"
-    },
-    {
-      "name": "Nữ Bydgoszcz  vs Nữ Chemik Police lúc 23:00",
-      "link": "/truc-tiep/nu-bydgoszcz-vs-nu-chemik-police-luc-2300-ngay-04-04-2026/",
       "runtime": 1775318400,
       "datetime": "2026-04-04T16:00:00.000Z"
     },
@@ -512,6 +476,24 @@
       "link": "/truc-tiep/gamerlegion-vs-zero-tenacity-luc-0200-ngay-05-04-2026/",
       "runtime": 1775329200,
       "datetime": "2026-04-04T19:00:00.000Z"
+    },
+    {
+      "name": "LOSC Lille vs RC Lens lúc 02:05 | XMEN",
+      "link": "/truc-tiep/losc-lille-vs-rc-lens-luc-0205-ngay-05-04-2026/",
+      "runtime": 1775329500,
+      "datetime": "2026-04-04T19:05:00.000Z"
+    },
+    {
+      "name": "FC Porto vs FC Famalicao lúc 02:30 | SILVA",
+      "link": "/truc-tiep/fc-porto-vs-fc-famalicao-luc-0230-ngay-05-04-2026/",
+      "runtime": 1775331000,
+      "datetime": "2026-04-04T19:30:00.000Z"
+    },
+    {
+      "name": "Godoy Cruz vs Club Atletico Acassuso lúc 02:30",
+      "link": "/truc-tiep/godoy-cruz-vs-club-atletico-acassuso-luc-0230-ngay-05-04-2026/",
+      "runtime": 1775331000,
+      "datetime": "2026-04-04T19:30:00.000Z"
     }
   ]
 }
