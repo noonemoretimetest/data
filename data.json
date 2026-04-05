@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 74,
-  "updated_at": "2026-04-05T17:05:08.570Z",
+  "total_matches": 70,
+  "updated_at": "2026-04-05T17:49:57.505Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -16,58 +16,10 @@
       "datetime": "2026-04-01T09:30:00.000Z"
     },
     {
-      "name": "Gael Monfils vs Tallon Griekspoor lúc 19:40 | LUCAS",
-      "link": "/truc-tiep/gael-monfils-vs-tallon-griekspoor-luc-1940-ngay-05-04-2026/",
-      "runtime": 1775392800,
-      "datetime": "2026-04-05T12:40:00.000Z"
-    },
-    {
-      "name": "Metz vs FC Nantes lúc 22:15 | FINN",
-      "link": "/truc-tiep/metz-vs-fc-nantes-luc-2215-ngay-05-04-2026/",
-      "runtime": 1775402100,
-      "datetime": "2026-04-05T15:15:00.000Z"
-    },
-    {
-      "name": "Le Havre FC vs AJ Auxerre lúc 22:15 | HELLO",
-      "link": "/truc-tiep/le-havre-fc-vs-aj-auxerre-luc-2215-ngay-05-04-2026/",
-      "runtime": 1775402100,
-      "datetime": "2026-04-05T15:15:00.000Z"
-    },
-    {
-      "name": "Lorient vs Paris FC lúc 22:15 | RYAN",
-      "link": "/truc-tiep/lorient-vs-paris-fc-luc-2215-ngay-05-04-2026/",
-      "runtime": 1775402100,
-      "datetime": "2026-04-05T15:15:00.000Z"
-    },
-    {
-      "name": "Frosinone vs Padova lúc 22:15",
-      "link": "/truc-tiep/frosinone-vs-padova-luc-2215-ngay-05-04-2026/",
-      "runtime": 1775402100,
-      "datetime": "2026-04-05T15:15:00.000Z"
-    },
-    {
-      "name": "Eintracht Frankfurt vs FC Köln lúc 22:30 | BRADY",
-      "link": "/truc-tiep/eintracht-frankfurt-vs-fc-koln-luc-2230-ngay-05-04-2026/",
-      "runtime": 1775403000,
-      "datetime": "2026-04-05T15:30:00.000Z"
-    },
-    {
       "name": "West Ham vs Leeds United lúc 22:30 | MAX - DAVID",
       "link": "/truc-tiep/west-ham-vs-leeds-united-luc-2230-ngay-05-04-2026/",
       "runtime": 1775403000,
       "datetime": "2026-04-05T15:30:00.000Z"
-    },
-    {
-      "name": "Dundee vs Celtic FC lúc 22:30 | JEAN",
-      "link": "/truc-tiep/dundee-vs-celtic-fc-luc-2230-ngay-05-04-2026/",
-      "runtime": 1775403000,
-      "datetime": "2026-04-05T15:30:00.000Z"
-    },
-    {
-      "name": "FK Zalgiris Vilnius vs Kauno Zalgiris lúc 22:45",
-      "link": "/truc-tiep/fk-zalgiris-vilnius-vs-kauno-zalgiris-luc-2245-ngay-05-04-2026/",
-      "runtime": 1775403900,
-      "datetime": "2026-04-05T15:45:00.000Z"
     },
     {
       "name": "Moise Kouame vs Ugo Humbert lúc 22:45",
@@ -106,12 +58,6 @@
       "datetime": "2026-04-05T16:00:00.000Z"
     },
     {
-      "name": "Amedspor vs Boluspor lúc 23:00",
-      "link": "/truc-tiep/amedspor-vs-boluspor-luc-2300-ngay-05-04-2026/",
-      "runtime": 1775404800,
-      "datetime": "2026-04-05T16:00:00.000Z"
-    },
-    {
       "name": "Nữ Madrid CFF  vs Nữ Real Madrid lúc 23:00",
       "link": "/truc-tiep/nu-madrid-cff-vs-nu-real-madrid-luc-2300-ngay-05-04-2026/",
       "runtime": 1775404800,
@@ -126,12 +72,6 @@
     {
       "name": "CSKA Sofia vs Levski Sofia lúc 23:00",
       "link": "/truc-tiep/cska-sofia-vs-levski-sofia-luc-2300-ngay-05-04-2026/",
-      "runtime": 1775404800,
-      "datetime": "2026-04-05T16:00:00.000Z"
-    },
-    {
-      "name": "LOS vs Leviatan Esports lúc 23:00",
-      "link": "/truc-tiep/los-vs-leviatan-esports-luc-2300-ngay-05-04-2026/",
       "runtime": 1775404800,
       "datetime": "2026-04-05T16:00:00.000Z"
     },
@@ -446,6 +386,42 @@
       "link": "/truc-tiep/virtus-pro-vs-l1ga-team-luc-0200-ngay-06-04-2026/",
       "runtime": 1775415600,
       "datetime": "2026-04-05T19:00:00.000Z"
+    },
+    {
+      "name": "D. Concepcion vs Colo Colo lúc 02:30 | ZARA",
+      "link": "/truc-tiep/d-concepcion-vs-colo-colo-luc-0230-ngay-06-04-2026/",
+      "runtime": 1775417400,
+      "datetime": "2026-04-05T19:30:00.000Z"
+    },
+    {
+      "name": "Brooklyn Nets vs Washington Wizards lúc 02:30",
+      "link": "/truc-tiep/brooklyn-nets-vs-washington-wizards-luc-0230-ngay-06-04-2026/",
+      "runtime": 1775417400,
+      "datetime": "2026-04-05T19:30:00.000Z"
+    },
+    {
+      "name": "Boston Celtics vs Toronto Raptors lúc 02:30 | STEP",
+      "link": "/truc-tiep/boston-celtics-vs-toronto-raptors-luc-0230-ngay-06-04-2026/",
+      "runtime": 1775417400,
+      "datetime": "2026-04-05T19:30:00.000Z"
+    },
+    {
+      "name": "Chicago Bulls vs Phoenix Suns lúc 02:30 | ALAN",
+      "link": "/truc-tiep/chicago-bulls-vs-phoenix-suns-luc-0230-ngay-06-04-2026/",
+      "runtime": 1775417400,
+      "datetime": "2026-04-05T19:30:00.000Z"
+    },
+    {
+      "name": "Milwaukee Bucks vs Memphis Grizzlies lúc 02:30",
+      "link": "/truc-tiep/milwaukee-bucks-vs-memphis-grizzlies-luc-0230-ngay-06-04-2026/",
+      "runtime": 1775417400,
+      "datetime": "2026-04-05T19:30:00.000Z"
+    },
+    {
+      "name": "Roman Andres Burruchaga vs Tommy Paul lúc 02:30",
+      "link": "/truc-tiep/roman-andres-burruchaga-vs-tommy-paul-luc-0230-ngay-06-04-2026/",
+      "runtime": 1775417400,
+      "datetime": "2026-04-05T19:30:00.000Z"
     }
   ]
 }
