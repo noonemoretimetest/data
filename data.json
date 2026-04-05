@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 90,
-  "updated_at": "2026-04-05T11:04:19.255Z",
+  "total_matches": 92,
+  "updated_at": "2026-04-05T11:46:26.209Z",
   "matches": [
     {
       "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
@@ -20,24 +20,6 @@
       "link": "/truc-tiep/jd-gaming-vs-bilibili-gaming-luc-1600-ngay-05-04-2026/",
       "runtime": 1775379600,
       "datetime": "2026-04-05T09:00:00.000Z"
-    },
-    {
-      "name": "Team Spirit Academy vs Modus lúc 16:00",
-      "link": "/truc-tiep/team-spirit-academy-vs-modus-luc-1600-ngay-05-04-2026/",
-      "runtime": 1775379600,
-      "datetime": "2026-04-05T09:00:00.000Z"
-    },
-    {
-      "name": "Nữ Flora Tallinn  vs Nữ Saku Sporting lúc 16:30",
-      "link": "/truc-tiep/nu-flora-tallinn-vs-nu-saku-sporting-luc-1630-ngay-05-04-2026/",
-      "runtime": 1775381400,
-      "datetime": "2026-04-05T09:30:00.000Z"
-    },
-    {
-      "name": "MSPCC City Club vs Khelaghar Samaj Kalyan Samiti lúc 16:30",
-      "link": "/truc-tiep/mspcc-city-club-vs-khelaghar-samaj-kalyan-samiti-luc-1630-ngay-05-04-2026/",
-      "runtime": 1775381400,
-      "datetime": "2026-04-05T09:30:00.000Z"
     },
     {
       "name": "Hoàng Anh Gia Lai vs Ninh Bình lúc 17:00 | DAVID",
@@ -96,12 +78,6 @@
     {
       "name": "Gen.G Esports vs BNK FearX lúc 17:00",
       "link": "/truc-tiep/gen-g-esports-vs-bnk-fearx-luc-1700-ngay-05-04-2026/",
-      "runtime": 1775383200,
-      "datetime": "2026-04-05T10:00:00.000Z"
-    },
-    {
-      "name": "L1ga Team vs Power Rangers lúc 17:00",
-      "link": "/truc-tiep/l1ga-team-vs-power-rangers-luc-1700-ngay-05-04-2026/",
       "runtime": 1775383200,
       "datetime": "2026-04-05T10:00:00.000Z"
     },
@@ -542,6 +518,42 @@
       "link": "/truc-tiep/parivision-vs-fokus-luc-2000-ngay-05-04-2026/",
       "runtime": 1775394000,
       "datetime": "2026-04-05T13:00:00.000Z"
+    },
+    {
+      "name": "Union Berlin vs St. Pauli lúc 20:30 | ASTRA",
+      "link": "/truc-tiep/union-berlin-vs-st-pauli-luc-2030-ngay-05-04-2026/",
+      "runtime": 1775395800,
+      "datetime": "2026-04-05T13:30:00.000Z"
+    },
+    {
+      "name": "Dynamo Makhachkala vs Baltika Kaliningrad lúc 20:30 | YUNO",
+      "link": "/truc-tiep/dynamo-makhachkala-vs-baltika-kaliningrad-luc-2030-ngay-05-04-2026/",
+      "runtime": 1775395800,
+      "datetime": "2026-04-05T13:30:00.000Z"
+    },
+    {
+      "name": "Nữ Charlton vs Nữ Liverpool lúc 20:30",
+      "link": "/truc-tiep/nu-charlton-vs-nu-liverpool-luc-2030-ngay-05-04-2026/",
+      "runtime": 1775395800,
+      "datetime": "2026-04-05T13:30:00.000Z"
+    },
+    {
+      "name": "Banik Ostrava vs Slavia Praha lúc 20:30",
+      "link": "/truc-tiep/banik-ostrava-vs-slavia-praha-luc-2030-ngay-05-04-2026/",
+      "runtime": 1775395800,
+      "datetime": "2026-04-05T13:30:00.000Z"
+    },
+    {
+      "name": "KFC Komarno vs Trencin lúc 20:30",
+      "link": "/truc-tiep/kfc-komarno-vs-trencin-luc-2030-ngay-05-04-2026/",
+      "runtime": 1775395800,
+      "datetime": "2026-04-05T13:30:00.000Z"
+    },
+    {
+      "name": "FK Panevezys vs Dziugas Telsiai lúc 20:30",
+      "link": "/truc-tiep/fk-panevezys-vs-dziugas-telsiai-luc-2030-ngay-05-04-2026/",
+      "runtime": 1775395800,
+      "datetime": "2026-04-05T13:30:00.000Z"
     }
   ]
 }
