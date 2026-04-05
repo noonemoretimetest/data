@@ -1,44 +1,8 @@
 {
   "success": true,
-  "total_matches": 61,
-  "updated_at": "2026-04-05T19:21:04.215Z",
+  "total_matches": 55,
+  "updated_at": "2026-04-05T19:57:58.886Z",
   "matches": [
-    {
-      "name": "Guevara Corona D G / Tamayo Mata H B vs Thomas Wiesler/Jana Weissenbach lúc 16:00",
-      "link": "/truc-tiep/guevara-corona-d-g-tamayo-mata-h-b-vs-thomas-wiesler-jana-weissenbach-luc-1600-ngay-01-04-2026/",
-      "runtime": 1775034000,
-      "datetime": "2026-04-01T09:00:00.000Z"
-    },
-    {
-      "name": "Andersen S M / Fliglová N vs Schausberger M / Thurnherr A lúc 16:30",
-      "link": "/truc-tiep/andersen-s-m-fliglova-n-vs-schausberger-m-thurnherr-a-luc-1630-ngay-01-04-2026/",
-      "runtime": 1775035800,
-      "datetime": "2026-04-01T09:30:00.000Z"
-    },
-    {
-      "name": "FC Rapid 1923 vs Universitatea Cluj lúc 00:30 | LOGAN",
-      "link": "/truc-tiep/fc-rapid-1923-vs-universitatea-cluj-luc-0030-ngay-06-04-2026/",
-      "runtime": 1775410200,
-      "datetime": "2026-04-05T17:30:00.000Z"
-    },
-    {
-      "name": "Győri ETO FC vs Nyiregyhaza lúc 00:30",
-      "link": "/truc-tiep/gyori-eto-fc-vs-nyiregyhaza-luc-0030-ngay-06-04-2026/",
-      "runtime": 1775410200,
-      "datetime": "2026-04-05T17:30:00.000Z"
-    },
-    {
-      "name": "Palermo vs Avellino lúc 00:30",
-      "link": "/truc-tiep/palermo-vs-avellino-luc-0030-ngay-06-04-2026/",
-      "runtime": 1775410200,
-      "datetime": "2026-04-05T17:30:00.000Z"
-    },
-    {
-      "name": "Al Riyadh vs Al Shabab FC lúc 01:00 | RIO",
-      "link": "/truc-tiep/al-riyadh-vs-al-shabab-fc-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
     {
       "name": "Al-Ettifaq vs Al Qadsiah lúc 01:00 | RYAN",
       "link": "/truc-tiep/al-ettifaq-vs-al-qadsiah-luc-0100-ngay-06-04-2026/",
@@ -48,12 +12,6 @@
     {
       "name": "Nữ Unam Pumas vs Nữ Puebla lúc 01:00",
       "link": "/truc-tiep/nu-unam-pumas-vs-nu-puebla-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Al Masry vs Zamalek lúc 01:00",
-      "link": "/truc-tiep/al-masry-vs-zamalek-luc-0100-ngay-06-04-2026/",
       "runtime": 1775412000,
       "datetime": "2026-04-05T18:00:00.000Z"
     },
@@ -88,22 +46,10 @@
       "datetime": "2026-04-05T18:00:00.000Z"
     },
     {
-      "name": "Cake Team vs Team Baxa lúc 01:00",
-      "link": "/truc-tiep/cake-team-vs-team-baxa-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
       "name": "Sport Huancayo vs CD Comerciantes lúc 01:15",
       "link": "/truc-tiep/sport-huancayo-vs-cd-comerciantes-luc-0115-ngay-06-04-2026/",
       "runtime": 1775412900,
       "datetime": "2026-04-05T18:15:00.000Z"
-    },
-    {
-      "name": "Max Wiskandt vs Maxwell Mckennon lúc 01:20",
-      "link": "/truc-tiep/max-wiskandt-vs-maxwell-mckennon-luc-0120-ngay-06-04-2026/",
-      "runtime": 1775413200,
-      "datetime": "2026-04-05T18:20:00.000Z"
     },
     {
       "name": "Cerro Montevideo vs Defensor SC lúc 01:30",
@@ -212,6 +158,12 @@
       "link": "/truc-tiep/roman-andres-burruchaga-vs-tommy-paul-luc-0230-ngay-06-04-2026/",
       "runtime": 1775417400,
       "datetime": "2026-04-05T19:30:00.000Z"
+    },
+    {
+      "name": "Max Wiskandt vs Maxwell Mckennon lúc 02:50",
+      "link": "/truc-tiep/max-wiskandt-vs-maxwell-mckennon-luc-0250-ngay-06-04-2026/",
+      "runtime": 1775418600,
+      "datetime": "2026-04-05T19:50:00.000Z"
     },
     {
       "name": "Ecuador U17 vs Colombia U17 lúc 03:00",
@@ -368,6 +320,18 @@
       "link": "/truc-tiep/ud-vinto-vs-the-strongest-luc-0415-ngay-06-04-2026/",
       "runtime": 1775423700,
       "datetime": "2026-04-05T21:15:00.000Z"
+    },
+    {
+      "name": "Liverpool URU vs Dep. Maldonado lúc 04:30",
+      "link": "/truc-tiep/liverpool-uru-vs-dep-maldonado-luc-0430-ngay-06-04-2026/",
+      "runtime": 1775424600,
+      "datetime": "2026-04-05T21:30:00.000Z"
+    },
+    {
+      "name": "Sportivo Ameliano vs Sportivo Luqueno lúc 04:30",
+      "link": "/truc-tiep/sportivo-ameliano-vs-sportivo-luqueno-luc-0430-ngay-06-04-2026/",
+      "runtime": 1775424600,
+      "datetime": "2026-04-05T21:30:00.000Z"
     }
   ]
 }
