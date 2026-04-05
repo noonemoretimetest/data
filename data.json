@@ -1,38 +1,8 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-04-05T21:02:16.344Z",
+  "total_matches": 63,
+  "updated_at": "2026-04-05T21:48:47.938Z",
   "matches": [
-    {
-      "name": "Chapecoense SC vs Vitoria BA lúc 02:00 | SILVA",
-      "link": "/truc-tiep/chapecoense-sc-vs-vitoria-ba-luc-0200-ngay-06-04-2026/",
-      "runtime": 1775415600,
-      "datetime": "2026-04-05T19:00:00.000Z"
-    },
-    {
-      "name": "GV San Jose vs Academia del Balompié Boliviano lúc 02:00",
-      "link": "/truc-tiep/gv-san-jose-vs-academia-del-balompie-boliviano-luc-0200-ngay-06-04-2026/",
-      "runtime": 1775415600,
-      "datetime": "2026-04-05T19:00:00.000Z"
-    },
-    {
-      "name": "Avaí FC vs Operario PR lúc 02:00",
-      "link": "/truc-tiep/avai-fc-vs-operario-pr-luc-0200-ngay-06-04-2026/",
-      "runtime": 1775415600,
-      "datetime": "2026-04-05T19:00:00.000Z"
-    },
-    {
-      "name": "Virtus.pro vs L1ga Team lúc 02:00",
-      "link": "/truc-tiep/virtus-pro-vs-l1ga-team-luc-0200-ngay-06-04-2026/",
-      "runtime": 1775415600,
-      "datetime": "2026-04-05T19:00:00.000Z"
-    },
-    {
-      "name": "D. Concepcion vs Colo Colo lúc 02:30 | ZARA",
-      "link": "/truc-tiep/d-concepcion-vs-colo-colo-luc-0230-ngay-06-04-2026/",
-      "runtime": 1775417400,
-      "datetime": "2026-04-05T19:30:00.000Z"
-    },
     {
       "name": "Brooklyn Nets vs Washington Wizards lúc 02:30",
       "link": "/truc-tiep/brooklyn-nets-vs-washington-wizards-luc-0230-ngay-06-04-2026/",
@@ -362,6 +332,54 @@
       "link": "/truc-tiep/dignitas-vs-shopify-rebellion-luc-0600-ngay-06-04-2026/",
       "runtime": 1775430000,
       "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Macara vs Deportiva Aucas lúc 06:10",
+      "link": "/truc-tiep/macara-vs-deportiva-aucas-luc-0610-ngay-06-04-2026/",
+      "runtime": 1775430600,
+      "datetime": "2026-04-05T23:10:00.000Z"
+    },
+    {
+      "name": "CD Motagua vs Génesis Policía Nacional lúc 06:15",
+      "link": "/truc-tiep/cd-motagua-vs-genesis-policia-nacional-luc-0615-ngay-06-04-2026/",
+      "runtime": 1775430900,
+      "datetime": "2026-04-05T23:15:00.000Z"
+    },
+    {
+      "name": "CD Arabe Unido vs Sporting Miguelito lúc 06:15",
+      "link": "/truc-tiep/cd-arabe-unido-vs-sporting-miguelito-luc-0615-ngay-06-04-2026/",
+      "runtime": 1775430900,
+      "datetime": "2026-04-05T23:15:00.000Z"
+    },
+    {
+      "name": "Central Cordoba SDE vs Newell Old Boys lúc 06:30 | JAY",
+      "link": "/truc-tiep/central-cordoba-sde-vs-newell-old-boys-luc-0630-ngay-06-04-2026/",
+      "runtime": 1775431800,
+      "datetime": "2026-04-05T23:30:00.000Z"
+    },
+    {
+      "name": "Gremio vs Remo Belem (PA) lúc 06:30 | OLER",
+      "link": "/truc-tiep/gremio-vs-remo-belem-pa-luc-0630-ngay-06-04-2026/",
+      "runtime": 1775431800,
+      "datetime": "2026-04-05T23:30:00.000Z"
+    },
+    {
+      "name": "Club Guaraní vs Club Libertad lúc 06:30",
+      "link": "/truc-tiep/club-guarani-vs-club-libertad-luc-0630-ngay-06-04-2026/",
+      "runtime": 1775431800,
+      "datetime": "2026-04-05T23:30:00.000Z"
+    },
+    {
+      "name": "Botafogo SP vs Sao Bernardo lúc 06:30",
+      "link": "/truc-tiep/botafogo-sp-vs-sao-bernardo-luc-0630-ngay-06-04-2026/",
+      "runtime": 1775431800,
+      "datetime": "2026-04-05T23:30:00.000Z"
+    },
+    {
+      "name": "Dallas Mavericks vs Los Angeles Lakers lúc 06:30 | NEZHA",
+      "link": "/truc-tiep/dallas-mavericks-vs-los-angeles-lakers-luc-0630-ngay-06-04-2026/",
+      "runtime": 1775431800,
+      "datetime": "2026-04-05T23:30:00.000Z"
     }
   ]
 }
