@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 52,
-  "updated_at": "2026-04-05T23:02:39.813Z",
+  "total_matches": 47,
+  "updated_at": "2026-04-05T23:51:10.741Z",
   "matches": [
     {
       "name": "Karl Poling vs Mateus Alves lúc 03:40",
@@ -10,52 +10,10 @@
       "datetime": "2026-04-05T20:40:00.000Z"
     },
     {
-      "name": "Deportivo Saprissa vs Municipal Pérez Zeledón lúc 04:00",
-      "link": "/truc-tiep/deportivo-saprissa-vs-municipal-perez-zeledon-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Tampa Bay  vs Nữ Carolina Ascent lúc 04:00",
-      "link": "/truc-tiep/nu-tampa-bay-vs-nu-carolina-ascent-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Bay FC vs Nữ Washington Spirit lúc 04:00",
-      "link": "/truc-tiep/nu-bay-fc-vs-nu-washington-spirit-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Columbus Fury vs Nữ Grand Rapids Rise  lúc 04:00",
-      "link": "/truc-tiep/nu-columbus-fury-vs-nu-grand-rapids-rise-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
       "name": "Uno Mille vs paiN Academy lúc 04:00",
       "link": "/truc-tiep/uno-mille-vs-pain-academy-luc-0400-ngay-06-04-2026/",
       "runtime": 1775422800,
       "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "UD Vinto vs The Strongest lúc 04:15",
-      "link": "/truc-tiep/ud-vinto-vs-the-strongest-luc-0415-ngay-06-04-2026/",
-      "runtime": 1775423700,
-      "datetime": "2026-04-05T21:15:00.000Z"
-    },
-    {
-      "name": "Liverpool URU vs Dep. Maldonado lúc 04:30",
-      "link": "/truc-tiep/liverpool-uru-vs-dep-maldonado-luc-0430-ngay-06-04-2026/",
-      "runtime": 1775424600,
-      "datetime": "2026-04-05T21:30:00.000Z"
-    },
-    {
-      "name": "Sportivo Ameliano vs Sportivo Luqueno lúc 04:30",
-      "link": "/truc-tiep/sportivo-ameliano-vs-sportivo-luqueno-luc-0430-ngay-06-04-2026/",
-      "runtime": 1775424600,
-      "datetime": "2026-04-05T21:30:00.000Z"
     },
     {
       "name": "Pacific FC vs Cavalry FC lúc 05:00",
@@ -314,6 +272,18 @@
       "link": "/truc-tiep/zomblers-vs-regain-luc-0800-ngay-06-04-2026/",
       "runtime": 1775437200,
       "datetime": "2026-04-06T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Pachuca vs Nữ Leon lúc 08:06 | YUNO",
+      "link": "/truc-tiep/nu-pachuca-vs-nu-leon-luc-0806-ngay-06-04-2026/",
+      "runtime": 1775437560,
+      "datetime": "2026-04-06T01:06:00.000Z"
+    },
+    {
+      "name": "CD Victoria vs Lobos UPNFM lúc 08:30",
+      "link": "/truc-tiep/cd-victoria-vs-lobos-upnfm-luc-0830-ngay-06-04-2026/",
+      "runtime": 1775439000,
+      "datetime": "2026-04-06T01:30:00.000Z"
     }
   ]
 }
