@@ -1,41 +1,11 @@
 {
   "success": true,
-  "total_matches": 53,
-  "updated_at": "2026-04-05T20:35:35.743Z",
+  "total_matches": 60,
+  "updated_at": "2026-04-05T21:02:16.344Z",
   "matches": [
-    {
-      "name": "Deportivo Moron vs San Telmo lúc 01:30",
-      "link": "/truc-tiep/deportivo-moron-vs-san-telmo-luc-0130-ngay-06-04-2026/",
-      "runtime": 1775413800,
-      "datetime": "2026-04-05T18:30:00.000Z"
-    },
-    {
-      "name": "AS Monaco vs Marseille lúc 01:45 | LOUIS",
-      "link": "/truc-tiep/as-monaco-vs-marseille-luc-0145-ngay-06-04-2026/",
-      "runtime": 1775414700,
-      "datetime": "2026-04-05T18:45:00.000Z"
-    },
-    {
-      "name": "Inter Milan vs AS Roma lúc 01:45 | MAX",
-      "link": "/truc-tiep/inter-milan-vs-as-roma-luc-0145-ngay-06-04-2026/",
-      "runtime": 1775414700,
-      "datetime": "2026-04-05T18:45:00.000Z"
-    },
-    {
-      "name": "Alavés vs Osasuna lúc 02:00 | BRADY",
-      "link": "/truc-tiep/alaves-vs-osasuna-luc-0200-ngay-06-04-2026/",
-      "runtime": 1775415600,
-      "datetime": "2026-04-05T19:00:00.000Z"
-    },
     {
       "name": "Chapecoense SC vs Vitoria BA lúc 02:00 | SILVA",
       "link": "/truc-tiep/chapecoense-sc-vs-vitoria-ba-luc-0200-ngay-06-04-2026/",
-      "runtime": 1775415600,
-      "datetime": "2026-04-05T19:00:00.000Z"
-    },
-    {
-      "name": "Real Zaragoza vs Mirandes lúc 02:00 | KEN",
-      "link": "/truc-tiep/real-zaragoza-vs-mirandes-luc-0200-ngay-06-04-2026/",
       "runtime": 1775415600,
       "datetime": "2026-04-05T19:00:00.000Z"
     },
@@ -320,6 +290,78 @@
       "link": "/truc-tiep/bahia-vs-palmeiras-luc-0530-ngay-06-04-2026/",
       "runtime": 1775428200,
       "datetime": "2026-04-05T22:30:00.000Z"
+    },
+    {
+      "name": "Mirassol vs RB Bragantino lúc 06:00 | HELLO",
+      "link": "/truc-tiep/mirassol-vs-rb-bragantino-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Athletic Club vs America MG lúc 06:00",
+      "link": "/truc-tiep/athletic-club-vs-america-mg-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Atlas vs Nữ Santos Laguna lúc 06:00 | XMEN",
+      "link": "/truc-tiep/nu-atlas-vs-nu-santos-laguna-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Juarez vs Nữ Monterrey lúc 06:00 | TONI",
+      "link": "/truc-tiep/nu-juarez-vs-nu-monterrey-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "CLB Tampico Madero vs Venados FC Yucatán lúc 06:00 | JEAN",
+      "link": "/truc-tiep/clb-tampico-madero-vs-venados-fc-yucatan-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Puntarenas FC vs CS Herediano lúc 06:00",
+      "link": "/truc-tiep/puntarenas-fc-vs-cs-herediano-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Uruguay U17 vs Paraguay U17 lúc 06:00",
+      "link": "/truc-tiep/uruguay-u17-vs-paraguay-u17-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Minnesota Timberwolves vs Charlotte Hornets lúc 06:00 | ALAN",
+      "link": "/truc-tiep/minnesota-timberwolves-vs-charlotte-hornets-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Oklahoma City Thunder vs Utah Jazz lúc 06:00",
+      "link": "/truc-tiep/oklahoma-city-thunder-vs-utah-jazz-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "New Orleans Pelicans vs Orlando Magic lúc 06:00 | STEP",
+      "link": "/truc-tiep/new-orleans-pelicans-vs-orlando-magic-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Minas vs Suzano Volei lúc 06:00",
+      "link": "/truc-tiep/minas-vs-suzano-volei-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
+    },
+    {
+      "name": "Dignitas vs Shopify Rebellion lúc 06:00",
+      "link": "/truc-tiep/dignitas-vs-shopify-rebellion-luc-0600-ngay-06-04-2026/",
+      "runtime": 1775430000,
+      "datetime": "2026-04-05T23:00:00.000Z"
     }
   ]
 }
