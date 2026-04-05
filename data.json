@@ -1,68 +1,8 @@
 {
   "success": true,
-  "total_matches": 55,
-  "updated_at": "2026-04-05T19:57:58.886Z",
+  "total_matches": 53,
+  "updated_at": "2026-04-05T20:35:35.743Z",
   "matches": [
-    {
-      "name": "Al-Ettifaq vs Al Qadsiah lúc 01:00 | RYAN",
-      "link": "/truc-tiep/al-ettifaq-vs-al-qadsiah-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ Unam Pumas vs Nữ Puebla lúc 01:00",
-      "link": "/truc-tiep/nu-unam-pumas-vs-nu-puebla-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Leones del Norte vs Delfin SC lúc 01:00",
-      "link": "/truc-tiep/leones-del-norte-vs-delfin-sc-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Ismaily SC vs Talaea El Gaish lúc 01:00",
-      "link": "/truc-tiep/ismaily-sc-vs-talaea-el-gaish-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Olympiakos vs AEK Athens lúc 01:00",
-      "link": "/truc-tiep/olympiakos-vs-aek-athens-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Los Andes vs Chaco For Ever lúc 01:00",
-      "link": "/truc-tiep/los-andes-vs-chaco-for-ever-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ Crvena zvezda  vs Nữ Zeleznicar  lúc 01:00",
-      "link": "/truc-tiep/nu-crvena-zvezda-vs-nu-zeleznicar-luc-0100-ngay-06-04-2026/",
-      "runtime": 1775412000,
-      "datetime": "2026-04-05T18:00:00.000Z"
-    },
-    {
-      "name": "Sport Huancayo vs CD Comerciantes lúc 01:15",
-      "link": "/truc-tiep/sport-huancayo-vs-cd-comerciantes-luc-0115-ngay-06-04-2026/",
-      "runtime": 1775412900,
-      "datetime": "2026-04-05T18:15:00.000Z"
-    },
-    {
-      "name": "Cerro Montevideo vs Defensor SC lúc 01:30",
-      "link": "/truc-tiep/cerro-montevideo-vs-defensor-sc-luc-0130-ngay-06-04-2026/",
-      "runtime": 1775413800,
-      "datetime": "2026-04-05T18:30:00.000Z"
-    },
-    {
-      "name": "Gimnasia La Plata vs CA Huracan lúc 01:30 | NEMO",
-      "link": "/truc-tiep/gimnasia-la-plata-vs-ca-huracan-luc-0130-ngay-06-04-2026/",
-      "runtime": 1775413800,
-      "datetime": "2026-04-05T18:30:00.000Z"
-    },
     {
       "name": "Deportivo Moron vs San Telmo lúc 01:30",
       "link": "/truc-tiep/deportivo-moron-vs-san-telmo-luc-0130-ngay-06-04-2026/",
@@ -70,20 +10,14 @@
       "datetime": "2026-04-05T18:30:00.000Z"
     },
     {
-      "name": "Almirante Brown vs Def .de Belgrano lúc 01:30",
-      "link": "/truc-tiep/almirante-brown-vs-def-de-belgrano-luc-0130-ngay-06-04-2026/",
-      "runtime": 1775413800,
-      "datetime": "2026-04-05T18:30:00.000Z"
-    },
-    {
-      "name": "Inter Milan vs AS Roma lúc 01:45 | MAX",
-      "link": "/truc-tiep/inter-milan-vs-as-roma-luc-0145-ngay-06-04-2026/",
+      "name": "AS Monaco vs Marseille lúc 01:45 | LOUIS",
+      "link": "/truc-tiep/as-monaco-vs-marseille-luc-0145-ngay-06-04-2026/",
       "runtime": 1775414700,
       "datetime": "2026-04-05T18:45:00.000Z"
     },
     {
-      "name": "AS Monaco vs Marseille lúc 01:45 | LOUIS",
-      "link": "/truc-tiep/as-monaco-vs-marseille-luc-0145-ngay-06-04-2026/",
+      "name": "Inter Milan vs AS Roma lúc 01:45 | MAX",
+      "link": "/truc-tiep/inter-milan-vs-as-roma-luc-0145-ngay-06-04-2026/",
       "runtime": 1775414700,
       "datetime": "2026-04-05T18:45:00.000Z"
     },
@@ -332,6 +266,60 @@
       "link": "/truc-tiep/sportivo-ameliano-vs-sportivo-luqueno-luc-0430-ngay-06-04-2026/",
       "runtime": 1775424600,
       "datetime": "2026-04-05T21:30:00.000Z"
+    },
+    {
+      "name": "Pacific FC vs Cavalry FC lúc 05:00",
+      "link": "/truc-tiep/pacific-fc-vs-cavalry-fc-luc-0500-ngay-06-04-2026/",
+      "runtime": 1775426400,
+      "datetime": "2026-04-05T22:00:00.000Z"
+    },
+    {
+      "name": "Universidad de Chile vs Deportes La Serena lúc 05:00",
+      "link": "/truc-tiep/universidad-de-chile-vs-deportes-la-serena-luc-0500-ngay-06-04-2026/",
+      "runtime": 1775426400,
+      "datetime": "2026-04-05T22:00:00.000Z"
+    },
+    {
+      "name": "Nữ Club Necaxa vs Nữ Tijuana lúc 05:00 | SILVA",
+      "link": "/truc-tiep/nu-club-necaxa-vs-nu-tijuana-luc-0500-ngay-06-04-2026/",
+      "runtime": 1775426400,
+      "datetime": "2026-04-05T22:00:00.000Z"
+    },
+    {
+      "name": "Atletico Mitre Estero vs Deportivo Madryn lúc 05:00",
+      "link": "/truc-tiep/atletico-mitre-estero-vs-deportivo-madryn-luc-0500-ngay-06-04-2026/",
+      "runtime": 1775426400,
+      "datetime": "2026-04-05T22:00:00.000Z"
+    },
+    {
+      "name": "Cleveland Cavaliers vs Indiana Pacers lúc 05:00 | TOMMY",
+      "link": "/truc-tiep/cleveland-cavaliers-vs-indiana-pacers-luc-0500-ngay-06-04-2026/",
+      "runtime": 1775426400,
+      "datetime": "2026-04-05T22:00:00.000Z"
+    },
+    {
+      "name": "James Duckworth vs Nicolas Mejia lúc 05:00",
+      "link": "/truc-tiep/james-duckworth-vs-nicolas-mejia-luc-0500-ngay-06-04-2026/",
+      "runtime": 1775426400,
+      "datetime": "2026-04-05T22:00:00.000Z"
+    },
+    {
+      "name": "Nữ Geminis vs Nữ Alianza Lima lúc 05:00",
+      "link": "/truc-tiep/nu-geminis-vs-nu-alianza-lima-luc-0500-ngay-06-04-2026/",
+      "runtime": 1775426400,
+      "datetime": "2026-04-05T22:00:00.000Z"
+    },
+    {
+      "name": "Corinthians (SP) vs Internacional RS lúc 05:30 | NEMO",
+      "link": "/truc-tiep/corinthians-sp-vs-internacional-rs-luc-0530-ngay-06-04-2026/",
+      "runtime": 1775428200,
+      "datetime": "2026-04-05T22:30:00.000Z"
+    },
+    {
+      "name": "Bahia vs Palmeiras lúc 05:30 | LOGAN",
+      "link": "/truc-tiep/bahia-vs-palmeiras-luc-0530-ngay-06-04-2026/",
+      "runtime": 1775428200,
+      "datetime": "2026-04-05T22:30:00.000Z"
     }
   ]
 }
