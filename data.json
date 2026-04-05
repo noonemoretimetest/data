@@ -1,50 +1,8 @@
 {
   "success": true,
-  "total_matches": 61,
-  "updated_at": "2026-04-05T22:24:33.088Z",
+  "total_matches": 52,
+  "updated_at": "2026-04-05T23:02:39.813Z",
   "matches": [
-    {
-      "name": "Max Wiskandt vs Maxwell Mckennon lúc 02:50",
-      "link": "/truc-tiep/max-wiskandt-vs-maxwell-mckennon-luc-0250-ngay-06-04-2026/",
-      "runtime": 1775418600,
-      "datetime": "2026-04-05T19:50:00.000Z"
-    },
-    {
-      "name": "Preston Brown vs Kaylan Bigun lúc 03:00",
-      "link": "/truc-tiep/preston-brown-vs-kaylan-bigun-luc-0300-ngay-06-04-2026/",
-      "runtime": 1775419200,
-      "datetime": "2026-04-05T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Atenea vs Nữ Regatas Lima lúc 03:15",
-      "link": "/truc-tiep/nu-atenea-vs-nu-regatas-lima-luc-0315-ngay-06-04-2026/",
-      "runtime": 1775420100,
-      "datetime": "2026-04-05T20:15:00.000Z"
-    },
-    {
-      "name": "Atletico Mineiro vs Atl. Paranaense lúc 03:30 | XMEN",
-      "link": "/truc-tiep/atletico-mineiro-vs-atl-paranaense-luc-0330-ngay-06-04-2026/",
-      "runtime": 1775421000,
-      "datetime": "2026-04-05T20:30:00.000Z"
-    },
-    {
-      "name": "CR Flamengo vs Santos lúc 03:30 | RIO",
-      "link": "/truc-tiep/cr-flamengo-vs-santos-luc-0330-ngay-06-04-2026/",
-      "runtime": 1775421000,
-      "datetime": "2026-04-05T20:30:00.000Z"
-    },
-    {
-      "name": "Manta FC vs Tecnico Uni. lúc 03:30",
-      "link": "/truc-tiep/manta-fc-vs-tecnico-uni-luc-0330-ngay-06-04-2026/",
-      "runtime": 1775421000,
-      "datetime": "2026-04-05T20:30:00.000Z"
-    },
-    {
-      "name": "Juan Pablo II vs UTC Cajamarca lúc 03:30",
-      "link": "/truc-tiep/juan-pablo-ii-vs-utc-cajamarca-luc-0330-ngay-06-04-2026/",
-      "runtime": 1775421000,
-      "datetime": "2026-04-05T20:30:00.000Z"
-    },
     {
       "name": "Karl Poling vs Mateus Alves lúc 03:40",
       "link": "/truc-tiep/karl-poling-vs-mateus-alves-luc-0340-ngay-06-04-2026/",
@@ -52,32 +10,8 @@
       "datetime": "2026-04-05T20:40:00.000Z"
     },
     {
-      "name": "River Plate vs Belgrano lúc 04:00 | OLER",
-      "link": "/truc-tiep/river-plate-vs-belgrano-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Union Cocle vs CA Independente lúc 04:00",
-      "link": "/truc-tiep/union-cocle-vs-ca-independente-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
       "name": "Deportivo Saprissa vs Municipal Pérez Zeledón lúc 04:00",
       "link": "/truc-tiep/deportivo-saprissa-vs-municipal-perez-zeledon-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Platense vs Marathon lúc 04:00",
-      "link": "/truc-tiep/platense-vs-marathon-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Mictlan vs Comunicaciones lúc 04:00",
-      "link": "/truc-tiep/deportivo-mictlan-vs-comunicaciones-luc-0400-ngay-06-04-2026/",
       "runtime": 1775422800,
       "datetime": "2026-04-05T21:00:00.000Z"
     },
@@ -94,32 +28,8 @@
       "datetime": "2026-04-05T21:00:00.000Z"
     },
     {
-      "name": "Novorizontino vs CRB AL lúc 04:00",
-      "link": "/truc-tiep/novorizontino-vs-crb-al-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Cucuta Deportivo vs America de Cali lúc 04:00",
-      "link": "/truc-tiep/cucuta-deportivo-vs-america-de-cali-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "Estudiantes Merida vs Portuguesa FC lúc 04:00",
-      "link": "/truc-tiep/estudiantes-merida-vs-portuguesa-fc-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
       "name": "Nữ Columbus Fury vs Nữ Grand Rapids Rise  lúc 04:00",
       "link": "/truc-tiep/nu-columbus-fury-vs-nu-grand-rapids-rise-luc-0400-ngay-06-04-2026/",
-      "runtime": 1775422800,
-      "datetime": "2026-04-05T21:00:00.000Z"
-    },
-    {
-      "name": "R2 vs ShindeN lúc 04:00",
-      "link": "/truc-tiep/r2-vs-shinden-luc-0400-ngay-06-04-2026/",
       "runtime": 1775422800,
       "datetime": "2026-04-05T21:00:00.000Z"
     },
@@ -190,7 +100,7 @@
       "datetime": "2026-04-05T22:00:00.000Z"
     },
     {
-      "name": "Corinthians (SP) vs Internacional RS lúc 05:30 | NEMO",
+      "name": "Corinthians (SP) vs Internacional RS lúc 05:30",
       "link": "/truc-tiep/corinthians-sp-vs-internacional-rs-luc-0530-ngay-06-04-2026/",
       "runtime": 1775428200,
       "datetime": "2026-04-05T22:30:00.000Z"
@@ -368,6 +278,42 @@
       "link": "/truc-tiep/aether-vs-outfit-49-luc-0700-ngay-06-04-2026/",
       "runtime": 1775433600,
       "datetime": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "name": "Tauranga City  vs Fencibles United lúc 07:30",
+      "link": "/truc-tiep/tauranga-city-vs-fencibles-united-luc-0730-ngay-06-04-2026/",
+      "runtime": 1775435400,
+      "datetime": "2026-04-06T00:30:00.000Z"
+    },
+    {
+      "name": "LD Alajuelense vs Guadalupe FC lúc 08:00",
+      "link": "/truc-tiep/ld-alajuelense-vs-guadalupe-fc-luc-0800-ngay-06-04-2026/",
+      "runtime": 1775437200,
+      "datetime": "2026-04-06T01:00:00.000Z"
+    },
+    {
+      "name": "Sacramento Kings vs Los Angeles Clippers lúc 08:00 | TOMMY",
+      "link": "/truc-tiep/sacramento-kings-vs-los-angeles-clippers-luc-0800-ngay-06-04-2026/",
+      "runtime": 1775437200,
+      "datetime": "2026-04-06T01:00:00.000Z"
+    },
+    {
+      "name": "South Bay Lakers vs Stockton Kings lúc 08:00",
+      "link": "/truc-tiep/south-bay-lakers-vs-stockton-kings-luc-0800-ngay-06-04-2026/",
+      "runtime": 1775437200,
+      "datetime": "2026-04-06T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Mineros de Zacatecas vs Nữ Mieleras lúc 08:00",
+      "link": "/truc-tiep/nu-mineros-de-zacatecas-vs-nu-mieleras-luc-0800-ngay-06-04-2026/",
+      "runtime": 1775437200,
+      "datetime": "2026-04-06T01:00:00.000Z"
+    },
+    {
+      "name": "Zomblers vs regain lúc 08:00",
+      "link": "/truc-tiep/zomblers-vs-regain-luc-0800-ngay-06-04-2026/",
+      "runtime": 1775437200,
+      "datetime": "2026-04-06T01:00:00.000Z"
     }
   ]
 }
