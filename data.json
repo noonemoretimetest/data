@@ -1,49 +1,13 @@
 {
   "success": true,
-  "total_matches": 45,
-  "updated_at": "2026-04-06T22:57:36.943Z",
+  "total_matches": 47,
+  "updated_at": "2026-04-06T23:36:07.242Z",
   "matches": [
-    {
-      "name": "Dounia Pelupessy vs Clara Azurmendi lúc 01:20",
-      "link": "/truc-tiep/dounia-pelupessy-vs-clara-azurmendi-luc-0120-ngay-07-04-2026/",
-      "runtime": 1775499600,
-      "datetime": "2026-04-06T18:20:00.000Z"
-    },
-    {
-      "name": "Nữ CD Espuce vs Nữ EL Nacional lúc 04:00",
-      "link": "/truc-tiep/nu-cd-espuce-vs-nu-el-nacional-luc-0400-ngay-07-04-2026/",
-      "runtime": 1775509200,
-      "datetime": "2026-04-06T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Zacatecoluca FC  vs Nữ CD Aguila lúc 04:00",
-      "link": "/truc-tiep/nu-zacatecoluca-fc-vs-nu-cd-aguila-luc-0400-ngay-07-04-2026/",
-      "runtime": 1775509200,
-      "datetime": "2026-04-06T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Municipal Limeno vs Nữ Fuerte San Francisco lúc 04:20",
-      "link": "/truc-tiep/nu-municipal-limeno-vs-nu-fuerte-san-francisco-luc-0420-ngay-07-04-2026/",
-      "runtime": 1775510400,
-      "datetime": "2026-04-06T21:20:00.000Z"
-    },
     {
       "name": "Jay Clarke vs Matias Soto lúc 04:25",
       "link": "/truc-tiep/jay-clarke-vs-matias-soto-luc-0425-ngay-07-04-2026/",
       "runtime": 1775510700,
       "datetime": "2026-04-06T21:25:00.000Z"
-    },
-    {
-      "name": "Farmville vs Akimbo lúc 04:30",
-      "link": "/truc-tiep/farmville-vs-akimbo-luc-0430-ngay-07-04-2026/",
-      "runtime": 1775511000,
-      "datetime": "2026-04-06T21:30:00.000Z"
-    },
-    {
-      "name": "Raphael Perot vs Stefan Kozlov lúc 04:40",
-      "link": "/truc-tiep/raphael-perot-vs-stefan-kozlov-luc-0440-ngay-07-04-2026/",
-      "runtime": 1775511600,
-      "datetime": "2026-04-06T21:40:00.000Z"
     },
     {
       "name": "Argentinos Juniors vs Banfield lúc 05:00 | RIO",
@@ -178,12 +142,6 @@
       "datetime": "2026-04-06T23:00:00.000Z"
     },
     {
-      "name": "Team Solid vs Estral Esports lúc 06:00",
-      "link": "/truc-tiep/team-solid-vs-estral-esports-luc-0600-ngay-07-04-2026/",
-      "runtime": 1775516400,
-      "datetime": "2026-04-06T23:00:00.000Z"
-    },
-    {
       "name": "G3V E-sports vs Fuego lúc 06:00",
       "link": "/truc-tiep/g3v-e-sports-vs-fuego-luc-0600-ngay-07-04-2026/",
       "runtime": 1775516400,
@@ -272,6 +230,60 @@
       "link": "/truc-tiep/michigan-vs-uconn-huskies-luc-0750-ngay-07-04-2026/",
       "runtime": 1775523000,
       "datetime": "2026-04-07T00:50:00.000Z"
+    },
+    {
+      "name": "Guastatoya vs CD Achuapa lúc 08:00",
+      "link": "/truc-tiep/guastatoya-vs-cd-achuapa-luc-0800-ngay-07-04-2026/",
+      "runtime": 1775523600,
+      "datetime": "2026-04-07T01:00:00.000Z"
+    },
+    {
+      "name": "Pitbulls vs CS Uruguay lúc 08:00",
+      "link": "/truc-tiep/pitbulls-vs-cs-uruguay-luc-0800-ngay-07-04-2026/",
+      "runtime": 1775523600,
+      "datetime": "2026-04-07T01:00:00.000Z"
+    },
+    {
+      "name": "AD Grecia vs Quepos Cambute FC lúc 08:00",
+      "link": "/truc-tiep/ad-grecia-vs-quepos-cambute-fc-luc-0800-ngay-07-04-2026/",
+      "runtime": 1775523600,
+      "datetime": "2026-04-07T01:00:00.000Z"
+    },
+    {
+      "name": "Denver Nuggets vs Portland Trail Blazers lúc 08:00 | TOMMY",
+      "link": "/truc-tiep/denver-nuggets-vs-portland-trail-blazers-luc-0800-ngay-07-04-2026/",
+      "runtime": 1775523600,
+      "datetime": "2026-04-07T01:00:00.000Z"
+    },
+    {
+      "name": "InControl vs Farmville lúc 08:00",
+      "link": "/truc-tiep/incontrol-vs-farmville-luc-0800-ngay-07-04-2026/",
+      "runtime": 1775523600,
+      "datetime": "2026-04-07T01:00:00.000Z"
+    },
+    {
+      "name": "LAG vs Zomblers lúc 08:00",
+      "link": "/truc-tiep/lag-vs-zomblers-luc-0800-ngay-07-04-2026/",
+      "runtime": 1775523600,
+      "datetime": "2026-04-07T01:00:00.000Z"
+    },
+    {
+      "name": "Atl. Nacional vs CD Jaguares lúc 08:10 | FINN",
+      "link": "/truc-tiep/atl-nacional-vs-cd-jaguares-luc-0810-ngay-07-04-2026/",
+      "runtime": 1775524200,
+      "datetime": "2026-04-07T01:10:00.000Z"
+    },
+    {
+      "name": "CD Universitario vs Herrera FC lúc 08:30",
+      "link": "/truc-tiep/cd-universitario-vs-herrera-fc-luc-0830-ngay-07-04-2026/",
+      "runtime": 1775525400,
+      "datetime": "2026-04-07T01:30:00.000Z"
+    },
+    {
+      "name": "Real Espana vs Juticalpa lúc 08:30",
+      "link": "/truc-tiep/real-espana-vs-juticalpa-luc-0830-ngay-07-04-2026/",
+      "runtime": 1775525400,
+      "datetime": "2026-04-07T01:30:00.000Z"
     }
   ]
 }
