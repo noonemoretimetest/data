@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 48,
-  "updated_at": "2026-04-07T22:20:44.801Z",
+  "total_matches": 58,
+  "updated_at": "2026-04-07T23:09:39.750Z",
   "matches": [
     {
       "name": "Dan Martin vs Aidan Mayo lúc 01:10",
@@ -22,12 +22,6 @@
       "datetime": "2026-04-07T19:20:00.000Z"
     },
     {
-      "name": "Boca Juniors Cali vs Independiente Yumbo lúc 03:00",
-      "link": "/truc-tiep/boca-juniors-cali-vs-independiente-yumbo-luc-0300-ngay-08-04-2026/",
-      "runtime": 1775592000,
-      "datetime": "2026-04-07T20:00:00.000Z"
-    },
-    {
       "name": "Bor Artnak vs Alan Magadan lúc 03:30",
       "link": "/truc-tiep/bor-artnak-vs-alan-magadan-luc-0330-ngay-08-04-2026/",
       "runtime": 1775593800,
@@ -38,18 +32,6 @@
       "link": "/truc-tiep/tibo-colson-vs-miguel-tobon-luc-0330-ngay-08-04-2026/",
       "runtime": 1775593800,
       "datetime": "2026-04-07T20:30:00.000Z"
-    },
-    {
-      "name": "Aguilas Doradas vs Atl. Bucaramanga lúc 04:00 | XMEN",
-      "link": "/truc-tiep/aguilas-doradas-vs-atl-bucaramanga-luc-0400-ngay-08-04-2026/",
-      "runtime": 1775595600,
-      "datetime": "2026-04-07T21:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Mixco vs Marquense lúc 04:00",
-      "link": "/truc-tiep/deportivo-mixco-vs-marquense-luc-0400-ngay-08-04-2026/",
-      "runtime": 1775595600,
-      "datetime": "2026-04-07T21:00:00.000Z"
     },
     {
       "name": "Eduardo Ribeiro vs Facundo Diaz Acosta lúc 04:00",
@@ -114,12 +96,6 @@
     {
       "name": "Rodrigo Pacheco Mendez vs Mackenzie McDonald lúc 05:00",
       "link": "/truc-tiep/rodrigo-pacheco-mendez-vs-mackenzie-mcdonald-luc-0500-ngay-08-04-2026/",
-      "runtime": 1775599200,
-      "datetime": "2026-04-07T22:00:00.000Z"
-    },
-    {
-      "name": "Estral Esports vs paiN Gaming Academy lúc 05:00",
-      "link": "/truc-tiep/estral-esports-vs-pain-gaming-academy-luc-0500-ngay-08-04-2026/",
       "runtime": 1775599200,
       "datetime": "2026-04-07T22:00:00.000Z"
     },
@@ -290,6 +266,90 @@
       "link": "/truc-tiep/kabum-ilha-das-lendas-vs-red-academy-luc-0700-ngay-08-04-2026/",
       "runtime": 1775606400,
       "datetime": "2026-04-08T00:00:00.000Z"
+    },
+    {
+      "name": "Barranquilla FC vs Real Santander lúc 07:30",
+      "link": "/truc-tiep/barranquilla-fc-vs-real-santander-luc-0730-ngay-08-04-2026/",
+      "runtime": 1775608200,
+      "datetime": "2026-04-08T00:30:00.000Z"
+    },
+    {
+      "name": "Univ Catolica vs Boca Juniors lúc 07:30 | SILVA",
+      "link": "/truc-tiep/univ-catolica-vs-boca-juniors-luc-0730-ngay-08-04-2026/",
+      "runtime": 1775608200,
+      "datetime": "2026-04-08T00:30:00.000Z"
+    },
+    {
+      "name": "Boston River vs Sao Paulo lúc 07:30 | ZARA",
+      "link": "/truc-tiep/boston-river-vs-sao-paulo-luc-0730-ngay-08-04-2026/",
+      "runtime": 1775608200,
+      "datetime": "2026-04-08T00:30:00.000Z"
+    },
+    {
+      "name": "Quimsa vs Union de Formosa lúc 07:30",
+      "link": "/truc-tiep/quimsa-vs-union-de-formosa-luc-0730-ngay-08-04-2026/",
+      "runtime": 1775608200,
+      "datetime": "2026-04-08T00:30:00.000Z"
+    },
+    {
+      "name": "Alexis Nguyen vs Midori Castillo Meza lúc 07:30",
+      "link": "/truc-tiep/alexis-nguyen-vs-midori-castillo-meza-luc-0730-ngay-08-04-2026/",
+      "runtime": 1775608200,
+      "datetime": "2026-04-08T00:30:00.000Z"
+    },
+    {
+      "name": "Spokane Velocity vs AV Alta lúc 08:00 | JEAN",
+      "link": "/truc-tiep/spokane-velocity-vs-av-alta-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "Bagatelle SS vs St Andrew Lions lúc 08:00",
+      "link": "/truc-tiep/bagatelle-ss-vs-st-andrew-lions-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "Alianza Salvador vs Isidro Metapan lúc 08:00",
+      "link": "/truc-tiep/alianza-salvador-vs-isidro-metapan-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "Tucuman vs Salta lúc 08:00",
+      "link": "/truc-tiep/tucuman-vs-salta-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "Jonatan Christie vs Leong Jun Hao lúc 08:00",
+      "link": "/truc-tiep/jonatan-christie-vs-leong-jun-hao-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "Tran Dinh Manh/Pham Thi Khanh vs Yuichi Shimogami/Sayaka Hobara lúc 08:00",
+      "link": "/truc-tiep/tran-dinh-manh-pham-thi-khanh-vs-yuichi-shimogami-sayaka-hobara-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "Yuta Watanabe/Maya Taguchi vs Hung Kuei Chun/Tsang Hiu Yan lúc 08:00",
+      "link": "/truc-tiep/yuta-watanabe-maya-taguchi-vs-hung-kuei-chun-tsang-hiu-yan-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "Al-Amin Jumar/Urmi Akter vs Chen Cheng Kuan/Hsu Yin-Hui lúc 08:00",
+      "link": "/truc-tiep/al-amin-jumar-urmi-akter-vs-chen-cheng-kuan-hsu-yin-hui-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
+    },
+    {
+      "name": "InControl vs LAG lúc 08:00",
+      "link": "/truc-tiep/incontrol-vs-lag-luc-0800-ngay-08-04-2026/",
+      "runtime": 1775610000,
+      "datetime": "2026-04-08T01:00:00.000Z"
     }
   ]
 }
