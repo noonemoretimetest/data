@@ -1,50 +1,8 @@
 {
   "success": true,
-  "total_matches": 33,
-  "updated_at": "2026-04-09T03:29:58.278Z",
+  "total_matches": 38,
+  "updated_at": "2026-04-09T05:30:25.264Z",
   "matches": [
-    {
-      "name": "Junior Managua vs Matiguas FC lúc 08:00",
-      "link": "/truc-tiep/junior-managua-vs-matiguas-fc-luc-0800-ngay-09-04-2026/",
-      "runtime": 1775696400,
-      "datetime": "2026-04-09T01:00:00.000Z"
-    },
-    {
-      "name": "San Antonio Spurs vs Portland Trail Blazers lúc 08:30 | ALAN",
-      "link": "/truc-tiep/san-antonio-spurs-vs-portland-trail-blazers-luc-0830-ngay-09-04-2026/",
-      "runtime": 1775698200,
-      "datetime": "2026-04-09T01:30:00.000Z"
-    },
-    {
-      "name": "Sporting Cristal vs Cerro Porteno lúc 09:00 | JAY",
-      "link": "/truc-tiep/sporting-cristal-vs-cerro-porteno-luc-0900-ngay-09-04-2026/",
-      "runtime": 1775700000,
-      "datetime": "2026-04-09T02:00:00.000Z"
-    },
-    {
-      "name": "Orange County vs San Antonio lúc 09:00",
-      "link": "/truc-tiep/orange-county-vs-san-antonio-luc-0900-ngay-09-04-2026/",
-      "runtime": 1775700000,
-      "datetime": "2026-04-09T02:00:00.000Z"
-    },
-    {
-      "name": "Puerto Cabello vs Atletico Mineiro lúc 09:00 | SILVA",
-      "link": "/truc-tiep/puerto-cabello-vs-atletico-mineiro-luc-0900-ngay-09-04-2026/",
-      "runtime": 1775700000,
-      "datetime": "2026-04-09T02:00:00.000Z"
-    },
-    {
-      "name": "Los Angeles Clippers vs Oklahoma City Thunder lúc 09:00 | TOMMY",
-      "link": "/truc-tiep/los-angeles-clippers-vs-oklahoma-city-thunder-luc-0900-ngay-09-04-2026/",
-      "runtime": 1775700000,
-      "datetime": "2026-04-09T02:00:00.000Z"
-    },
-    {
-      "name": "Phoenix Suns vs Dallas Mavericks lúc 09:00 | NEZHA",
-      "link": "/truc-tiep/phoenix-suns-vs-dallas-mavericks-luc-0900-ngay-09-04-2026/",
-      "runtime": 1775700000,
-      "datetime": "2026-04-09T02:00:00.000Z"
-    },
     {
       "name": "Tomoka Miyazaki vs Unnati Hooda lúc 09:00",
       "link": "/truc-tiep/tomoka-miyazaki-vs-unnati-hooda-luc-0900-ngay-09-04-2026/",
@@ -52,76 +10,10 @@
       "datetime": "2026-04-09T02:00:00.000Z"
     },
     {
-      "name": "Toluca vs L.A Galaxy lúc 10:00 | FINN",
-      "link": "/truc-tiep/toluca-vs-l-a-galaxy-luc-1000-ngay-09-04-2026/",
-      "runtime": 1775703600,
-      "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
-      "name": "Li Tu vs Alastair Gray lúc 10:00",
-      "link": "/truc-tiep/li-tu-vs-alastair-gray-luc-1000-ngay-09-04-2026/",
-      "runtime": 1775703600,
-      "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
-      "name": "Zhou Yi vs Kody Pearson lúc 10:00",
-      "link": "/truc-tiep/zhou-yi-vs-kody-pearson-luc-1000-ngay-09-04-2026/",
-      "runtime": 1775703600,
-      "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
-      "name": "Dechapol Puavaranukroh/Supissara Paewsampran vs Yuichi Shimogami/Sayaka Hobara lúc 10:00",
-      "link": "/truc-tiep/dechapol-puavaranukroh-supissara-paewsampran-vs-yuichi-shimogami-sayaka-hobara-luc-1000-ngay-09-04-2026/",
-      "runtime": 1775703600,
-      "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
-      "name": "Kim Jae Hyeon/Jang Ha Jeong vs Jafar Hidayatullah/Felisha Alberta Nathaniel Pasaribu lúc 10:00",
-      "link": "/truc-tiep/kim-jae-hyeon-jang-ha-jeong-vs-jafar-hidayatullah-felisha-alberta-nathaniel-pasaribu-luc-1000-ngay-09-04-2026/",
-      "runtime": 1775703600,
-      "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
-      "name": "Goh Soon Huat/Shevon Lai Jemie vs Chen Cheng Kuan/Hsu Yin-Hui lúc 10:00",
-      "link": "/truc-tiep/goh-soon-huat-shevon-lai-jemie-vs-chen-cheng-kuan-hsu-yin-hui-luc-1000-ngay-09-04-2026/",
-      "runtime": 1775703600,
-      "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
-      "name": "Guo Xinwa/Chen Fanghui vs Tien Ci Wong/Lim Chiew Sien lúc 10:00",
-      "link": "/truc-tiep/guo-xinwa-chen-fanghui-vs-tien-ci-wong-lim-chiew-sien-luc-1000-ngay-09-04-2026/",
-      "runtime": 1775703600,
-      "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
       "name": "Cloud Dawning vs Carstensz Esports lúc 10:00",
       "link": "/truc-tiep/cloud-dawning-vs-carstensz-esports-luc-1000-ngay-09-04-2026/",
       "runtime": 1775703600,
       "datetime": "2026-04-09T03:00:00.000Z"
-    },
-    {
-      "name": "Sindhu Pusarla Venkata vs Wang Zhiyi lúc 10:50",
-      "link": "/truc-tiep/sindhu-pusarla-venkata-vs-wang-zhiyi-luc-1050-ngay-09-04-2026/",
-      "runtime": 1775706600,
-      "datetime": "2026-04-09T03:50:00.000Z"
-    },
-    {
-      "name": "Jonatan Christie vs Yudai Okimoto lúc 10:50",
-      "link": "/truc-tiep/jonatan-christie-vs-yudai-okimoto-luc-1050-ngay-09-04-2026/",
-      "runtime": 1775706600,
-      "datetime": "2026-04-09T03:50:00.000Z"
-    },
-    {
-      "name": "Feng Yanzhe/Huang Dongping vs Amri Syahnawi/Nita Violina Marwah lúc 10:50",
-      "link": "/truc-tiep/feng-yanzhe-huang-dongping-vs-amri-syahnawi-nita-violina-marwah-luc-1050-ngay-09-04-2026/",
-      "runtime": 1775706600,
-      "datetime": "2026-04-09T03:50:00.000Z"
-    },
-    {
-      "name": "Sim Yu-Jin vs Karupathevan Letshanaa lúc 10:50",
-      "link": "/truc-tiep/sim-yu-jin-vs-karupathevan-letshanaa-luc-1050-ngay-09-04-2026/",
-      "runtime": 1775706600,
-      "datetime": "2026-04-09T03:50:00.000Z"
     },
     {
       "name": "Clement Chidekh vs Buvaysar Gadamauri lúc 11:10",
@@ -148,20 +40,14 @@
       "datetime": "2026-04-09T04:40:00.000Z"
     },
     {
-      "name": "Yang Po-hsuan/Hu Ling-fang vs Cheng Xing/Zhang Chi lúc 11:40",
-      "link": "/truc-tiep/yang-po-hsuan-hu-ling-fang-vs-cheng-xing-zhang-chi-luc-1140-ngay-09-04-2026/",
-      "runtime": 1775709600,
-      "datetime": "2026-04-09T04:40:00.000Z"
-    },
-    {
-      "name": "Dhruv Kapila/Tanisha Crasto vs Chen Tang Jie/Toh Ee Wei lúc 11:40",
-      "link": "/truc-tiep/dhruv-kapila-tanisha-crasto-vs-chen-tang-jie-toh-ee-wei-luc-1140-ngay-09-04-2026/",
-      "runtime": 1775709600,
-      "datetime": "2026-04-09T04:40:00.000Z"
-    },
-    {
       "name": "Ayush Shetty vs Yu Jen Chi lúc 11:40",
       "link": "/truc-tiep/ayush-shetty-vs-yu-jen-chi-luc-1140-ngay-09-04-2026/",
+      "runtime": 1775709600,
+      "datetime": "2026-04-09T04:40:00.000Z"
+    },
+    {
+      "name": "Yang Po-hsuan/Hu Ling-fang vs Cheng Xing/Zhang Chi lúc 11:40",
+      "link": "/truc-tiep/yang-po-hsuan-hu-ling-fang-vs-cheng-xing-zhang-chi-luc-1140-ngay-09-04-2026/",
       "runtime": 1775709600,
       "datetime": "2026-04-09T04:40:00.000Z"
     },
@@ -174,6 +60,18 @@
     {
       "name": "Qingdao Quick Boy vs Shanxi TYUT lúc 12:00",
       "link": "/truc-tiep/qingdao-quick-boy-vs-shanxi-tyut-luc-1200-ngay-09-04-2026/",
+      "runtime": 1775710800,
+      "datetime": "2026-04-09T05:00:00.000Z"
+    },
+    {
+      "name": "PCU Dolphins vs Manila Central (R) lúc 12:00",
+      "link": "/truc-tiep/pcu-dolphins-vs-manila-central-r-luc-1200-ngay-09-04-2026/",
+      "runtime": 1775710800,
+      "datetime": "2026-04-09T05:00:00.000Z"
+    },
+    {
+      "name": "Nữ Aktobe vs Nữ Shymkent lúc 12:00",
+      "link": "/truc-tiep/nu-aktobe-vs-nu-shymkent-luc-1200-ngay-09-04-2026/",
       "runtime": 1775710800,
       "datetime": "2026-04-09T05:00:00.000Z"
     },
@@ -200,6 +98,138 @@
       "link": "/truc-tiep/dn-soopers-challengers-vs-bnk-fearx-youth-luc-1200-ngay-09-04-2026/",
       "runtime": 1775710800,
       "datetime": "2026-04-09T05:00:00.000Z"
+    },
+    {
+      "name": "Weng Hongyang vs Haseena Sunil Prannoy lúc 12:30",
+      "link": "/truc-tiep/weng-hongyang-vs-haseena-sunil-prannoy-luc-1230-ngay-09-04-2026/",
+      "runtime": 1775712600,
+      "datetime": "2026-04-09T05:30:00.000Z"
+    },
+    {
+      "name": "Charoenkitamorn Chaloempon/Worrapol Thongsa-Nga vs Ali Faathir Rayhan/Devin Artha Wahyudi lúc 12:30",
+      "link": "/truc-tiep/charoenkitamorn-chaloempon-worrapol-thongsa-nga-vs-ali-faathir-rayhan-devin-artha-wahyudi-luc-1230-ngay-09-04-2026/",
+      "runtime": 1775712600,
+      "datetime": "2026-04-09T05:30:00.000Z"
+    },
+    {
+      "name": "Riko Gunji vs Kim Ga-eun lúc 12:30",
+      "link": "/truc-tiep/riko-gunji-vs-kim-ga-eun-luc-1230-ngay-09-04-2026/",
+      "runtime": 1775712600,
+      "datetime": "2026-04-09T05:30:00.000Z"
+    },
+    {
+      "name": "Pornpawee Chochuwong vs Nozomi Okuhara lúc 12:30",
+      "link": "/truc-tiep/pornpawee-chochuwong-vs-nozomi-okuhara-luc-1230-ngay-09-04-2026/",
+      "runtime": 1775712600,
+      "datetime": "2026-04-09T05:30:00.000Z"
+    },
+    {
+      "name": "Cheng-Peng Hsieh/Sun Fajing vs Joshua Charlton/Ben Jones lúc 12:40",
+      "link": "/truc-tiep/cheng-peng-hsieh-sun-fajing-vs-joshua-charlton-ben-jones-luc-1240-ngay-09-04-2026/",
+      "runtime": 1775713200,
+      "datetime": "2026-04-09T05:40:00.000Z"
+    },
+    {
+      "name": "Sergey Betov/Daniil Ostapenkov vs Ethan Cook/Tai Sach lúc 12:45",
+      "link": "/truc-tiep/sergey-betov-daniil-ostapenkov-vs-ethan-cook-tai-sach-luc-1245-ngay-09-04-2026/",
+      "runtime": 1775713500,
+      "datetime": "2026-04-09T05:45:00.000Z"
+    },
+    {
+      "name": "The Goal Of All Life Is Death vs Cloud Rising lúc 13:00",
+      "link": "/truc-tiep/the-goal-of-all-life-is-death-vs-cloud-rising-luc-1300-ngay-09-04-2026/",
+      "runtime": 1775714400,
+      "datetime": "2026-04-09T06:00:00.000Z"
+    },
+    {
+      "name": "Koki Watanabe vs Loh Kean Yew lúc 13:20",
+      "link": "/truc-tiep/koki-watanabe-vs-loh-kean-yew-luc-1320-ngay-09-04-2026/",
+      "runtime": 1775715600,
+      "datetime": "2026-04-09T06:20:00.000Z"
+    },
+    {
+      "name": "Lee Cheuk-yiu vs Shi Yuqi lúc 13:20",
+      "link": "/truc-tiep/lee-cheuk-yiu-vs-shi-yuqi-luc-1320-ngay-09-04-2026/",
+      "runtime": 1775715600,
+      "datetime": "2026-04-09T06:20:00.000Z"
+    },
+    {
+      "name": "Busanan Ongbamrungphan vs Akane Yamaguchi lúc 13:20",
+      "link": "/truc-tiep/busanan-ongbamrungphan-vs-akane-yamaguchi-luc-1320-ngay-09-04-2026/",
+      "runtime": 1775715600,
+      "datetime": "2026-04-09T06:20:00.000Z"
+    },
+    {
+      "name": "Buvaysar Gadamauri/Giles Hussey vs Omar Jasika/Li Tu lúc 13:55",
+      "link": "/truc-tiep/buvaysar-gadamauri-giles-hussey-vs-omar-jasika-li-tu-luc-1355-ngay-09-04-2026/",
+      "runtime": 1775717700,
+      "datetime": "2026-04-09T06:55:00.000Z"
+    },
+    {
+      "name": "Manawatu Jets vs Taranaki Mountainairs lúc 14:00 | NEZHA",
+      "link": "/truc-tiep/manawatu-jets-vs-taranaki-mountainairs-luc-1400-ngay-09-04-2026/",
+      "runtime": 1775718000,
+      "datetime": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "name": "Astana Tigers 2 Women vs Atyrau W B lúc 14:00",
+      "link": "/truc-tiep/astana-tigers-2-women-vs-atyrau-w-b-luc-1400-ngay-09-04-2026/",
+      "runtime": 1775718000,
+      "datetime": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "name": "Dongguk University vs Myongji University lúc 14:00",
+      "link": "/truc-tiep/dongguk-university-vs-myongji-university-luc-1400-ngay-09-04-2026/",
+      "runtime": 1775718000,
+      "datetime": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "name": "Kyung Hee University vs Korea University lúc 14:00",
+      "link": "/truc-tiep/kyung-hee-university-vs-korea-university-luc-1400-ngay-09-04-2026/",
+      "runtime": 1775718000,
+      "datetime": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "name": "LPU-Batangas vs Diliman College lúc 14:00",
+      "link": "/truc-tiep/lpu-batangas-vs-diliman-college-luc-1400-ngay-09-04-2026/",
+      "runtime": 1775718000,
+      "datetime": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "name": "Uisung Park/Kody Pearson vs Francis Casey Alcantara/Maximus Jones lúc 14:00",
+      "link": "/truc-tiep/uisung-park-kody-pearson-vs-francis-casey-alcantara-maximus-jones-luc-1400-ngay-09-04-2026/",
+      "runtime": 1775718000,
+      "datetime": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "name": "MIBR vs 3DMAX lúc 14:00",
+      "link": "/truc-tiep/mibr-vs-3dmax-luc-1400-ngay-09-04-2026/",
+      "runtime": 1775718000,
+      "datetime": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "name": "An Se-young vs Nguyen Thuy Linh  lúc 14:10",
+      "link": "/truc-tiep/an-se-young-vs-nguyen-thuy-linh-luc-1410-ngay-09-04-2026/",
+      "runtime": 1775718600,
+      "datetime": "2026-04-09T07:10:00.000Z"
+    },
+    {
+      "name": "Alwi Farhan vs Kodai Naraoka lúc 14:10",
+      "link": "/truc-tiep/alwi-farhan-vs-kodai-naraoka-luc-1410-ngay-09-04-2026/",
+      "runtime": 1775718600,
+      "datetime": "2026-04-09T07:10:00.000Z"
+    },
+    {
+      "name": "Chen Boyang/Liu Yi vs Fajar Alfian/Muhammad Shohibul Fikri lúc 14:10",
+      "link": "/truc-tiep/chen-boyang-liu-yi-vs-fajar-alfian-muhammad-shohibul-fikri-luc-1410-ngay-09-04-2026/",
+      "runtime": 1775718600,
+      "datetime": "2026-04-09T07:10:00.000Z"
+    },
+    {
+      "name": "Vatika FC vs CISF lúc 14:30",
+      "link": "/truc-tiep/vatika-fc-vs-cisf-luc-1430-ngay-09-04-2026/",
+      "runtime": 1775719800,
+      "datetime": "2026-04-09T07:30:00.000Z"
     }
   ]
 }
