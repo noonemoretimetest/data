@@ -1,47 +1,11 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-04-09T10:07:24.145Z",
+  "total_matches": 53,
+  "updated_at": "2026-04-09T11:17:45.542Z",
   "matches": [
-    {
-      "name": "Charoenkitamorn Chaloempon/Worrapol Thongsa-Nga vs Ali Faathir Rayhan/Devin Artha Wahyudi lúc 12:30",
-      "link": "/truc-tiep/charoenkitamorn-chaloempon-worrapol-thongsa-nga-vs-ali-faathir-rayhan-devin-artha-wahyudi-luc-1230-ngay-09-04-2026/",
-      "runtime": 1775712600,
-      "datetime": "2026-04-09T05:30:00.000Z"
-    },
-    {
-      "name": "Uisung Park/Kody Pearson vs Francis Casey Alcantara/Maximus Jones lúc 14:00",
-      "link": "/truc-tiep/uisung-park-kody-pearson-vs-francis-casey-alcantara-maximus-jones-luc-1400-ngay-09-04-2026/",
-      "runtime": 1775718000,
-      "datetime": "2026-04-09T07:00:00.000Z"
-    },
-    {
-      "name": "MIBR vs 3DMAX lúc 14:00",
-      "link": "/truc-tiep/mibr-vs-3dmax-luc-1400-ngay-09-04-2026/",
-      "runtime": 1775718000,
-      "datetime": "2026-04-09T07:00:00.000Z"
-    },
-    {
-      "name": "Red Panda FC vs Black Eagles lúc 15:00",
-      "link": "/truc-tiep/red-panda-fc-vs-black-eagles-luc-1500-ngay-09-04-2026/",
-      "runtime": 1775721600,
-      "datetime": "2026-04-09T08:00:00.000Z"
-    },
     {
       "name": "Alycia Parks vs Dalma Galfi lúc 15:00",
       "link": "/truc-tiep/alycia-parks-vs-dalma-galfi-luc-1500-ngay-09-04-2026/",
-      "runtime": 1775721600,
-      "datetime": "2026-04-09T08:00:00.000Z"
-    },
-    {
-      "name": "Fredit BRION vs Kiwoom DRX lúc 15:00",
-      "link": "/truc-tiep/fredit-brion-vs-kiwoom-drx-luc-1500-ngay-09-04-2026/",
-      "runtime": 1775721600,
-      "datetime": "2026-04-09T08:00:00.000Z"
-    },
-    {
-      "name": "Qwentry vs ASTRAL lúc 15:00",
-      "link": "/truc-tiep/qwentry-vs-astral-luc-1500-ngay-09-04-2026/",
       "runtime": 1775721600,
       "datetime": "2026-04-09T08:00:00.000Z"
     },
@@ -52,64 +16,10 @@
       "datetime": "2026-04-09T08:00:00.000Z"
     },
     {
-      "name": "Trẻ Công An Hà Nội vs Hong Linh Ha Tinh II lúc 15:30",
-      "link": "/truc-tiep/tre-cong-an-ha-noi-vs-hong-linh-ha-tinh-ii-luc-1530-ngay-09-04-2026/",
-      "runtime": 1775723400,
-      "datetime": "2026-04-09T08:30:00.000Z"
-    },
-    {
-      "name": "Huda Huế vs Ha Noi FC II lúc 15:30",
-      "link": "/truc-tiep/huda-hue-vs-ha-noi-fc-ii-luc-1530-ngay-09-04-2026/",
-      "runtime": 1775723400,
-      "datetime": "2026-04-09T08:30:00.000Z"
-    },
-    {
-      "name": "Hu Keyuan/Lin Xiangyi vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 15:50",
-      "link": "/truc-tiep/hu-keyuan-lin-xiangyi-vs-aaron-chia-teng-fong-soh-wooi-yik-luc-1550-ngay-09-04-2026/",
-      "runtime": 1775724600,
-      "datetime": "2026-04-09T08:50:00.000Z"
-    },
-    {
       "name": "Rin Iwanaga/Kie Nakanishi vs Ong Xin Yee/Carmen Ting lúc 15:50",
       "link": "/truc-tiep/rin-iwanaga-kie-nakanishi-vs-ong-xin-yee-carmen-ting-luc-1550-ngay-09-04-2026/",
       "runtime": 1775724600,
       "datetime": "2026-04-09T08:50:00.000Z"
-    },
-    {
-      "name": "Nữ Iceland U19 vs Nữ Phần Lan U19 lúc 16:00 | DAVID",
-      "link": "/truc-tiep/nu-iceland-u19-vs-nu-phan-lan-u19-luc-1600-ngay-09-04-2026/",
-      "runtime": 1775725200,
-      "datetime": "2026-04-09T09:00:00.000Z"
-    },
-    {
-      "name": "Nữ Bulgaria U19 vs Nữ Kazakhstan U19 lúc 16:00 | POLO",
-      "link": "/truc-tiep/nu-bulgaria-u19-vs-nu-kazakhstan-u19-luc-1600-ngay-09-04-2026/",
-      "runtime": 1775725200,
-      "datetime": "2026-04-09T09:00:00.000Z"
-    },
-    {
-      "name": "Chromtau vs Zhenis Astana lúc 16:00 | SILVA",
-      "link": "/truc-tiep/chromtau-vs-zhenis-astana-luc-1600-ngay-09-04-2026/",
-      "runtime": 1775725200,
-      "datetime": "2026-04-09T09:00:00.000Z"
-    },
-    {
-      "name": "Jelaev Nan vs Altay FK lúc 16:00",
-      "link": "/truc-tiep/jelaev-nan-vs-altay-fk-luc-1600-ngay-09-04-2026/",
-      "runtime": 1775725200,
-      "datetime": "2026-04-09T09:00:00.000Z"
-    },
-    {
-      "name": "Tajikistan U17 vs Kyrgyzstan U17 lúc 16:00",
-      "link": "/truc-tiep/tajikistan-u17-vs-kyrgyzstan-u17-luc-1600-ngay-09-04-2026/",
-      "runtime": 1775725200,
-      "datetime": "2026-04-09T09:00:00.000Z"
-    },
-    {
-      "name": "Zizou Bergs vs Alexander Zverev lúc 16:00 | VIC",
-      "link": "/truc-tiep/zizou-bergs-vs-alexander-zverev-luc-1600-ngay-09-04-2026/",
-      "runtime": 1775725200,
-      "datetime": "2026-04-09T09:00:00.000Z"
     },
     {
       "name": "Nữ Gresik Petrokimia  vs Nữ Jakarta Pertamina  lúc 16:00",
@@ -130,10 +40,16 @@
       "datetime": "2026-04-09T09:00:00.000Z"
     },
     {
-      "name": "Rachel Allessya Rose/Febi Setianingrum vs Jia Yi Fan/Zhang Shu Xian lúc 16:40",
-      "link": "/truc-tiep/rachel-allessya-rose-febi-setianingrum-vs-jia-yi-fan-zhang-shu-xian-luc-1640-ngay-09-04-2026/",
-      "runtime": 1775727600,
-      "datetime": "2026-04-09T09:40:00.000Z"
+      "name": "Little Friends Club vs Chittagong Abahani lúc 16:30",
+      "link": "/truc-tiep/little-friends-club-vs-chittagong-abahani-luc-1630-ngay-09-04-2026/",
+      "runtime": 1775727000,
+      "datetime": "2026-04-09T09:30:00.000Z"
+    },
+    {
+      "name": "Khelaghar Samaj Kalyan Samiti vs Shuktara Jubo Sangsad lúc 16:30",
+      "link": "/truc-tiep/khelaghar-samaj-kalyan-samiti-vs-shuktara-jubo-sangsad-luc-1630-ngay-09-04-2026/",
+      "runtime": 1775727000,
+      "datetime": "2026-04-09T09:30:00.000Z"
     },
     {
       "name": "Hsu Yin-hui/Lin Jhih Yun vs Pearly Tan/Thinaah Muralitharan lúc 16:40",
@@ -192,6 +108,12 @@
     {
       "name": "Khan Tengri FC vs Kyzylzhar  lúc 17:00",
       "link": "/truc-tiep/khan-tengri-fc-vs-kyzylzhar-luc-1700-ngay-09-04-2026/",
+      "runtime": 1775728800,
+      "datetime": "2026-04-09T10:00:00.000Z"
+    },
+    {
+      "name": "FK Taraz vs Ulytau Zhezkazgan lúc 17:00",
+      "link": "/truc-tiep/fk-taraz-vs-ulytau-zhezkazgan-luc-1700-ngay-09-04-2026/",
       "runtime": 1775728800,
       "datetime": "2026-04-09T10:00:00.000Z"
     },
@@ -268,14 +190,14 @@
       "datetime": "2026-04-09T11:00:00.000Z"
     },
     {
-      "name": "ESC vs Tricked lúc 18:00",
-      "link": "/truc-tiep/esc-vs-tricked-luc-1800-ngay-09-04-2026/",
+      "name": "Team Liquid vs Heroic lúc 18:00",
+      "link": "/truc-tiep/team-liquid-vs-heroic-luc-1800-ngay-09-04-2026/",
       "runtime": 1775732400,
       "datetime": "2026-04-09T11:00:00.000Z"
     },
     {
-      "name": "Team Liquid vs Heroic lúc 18:00",
-      "link": "/truc-tiep/team-liquid-vs-heroic-luc-1800-ngay-09-04-2026/",
+      "name": "ESC vs Tricked lúc 18:00",
+      "link": "/truc-tiep/esc-vs-tricked-luc-1800-ngay-09-04-2026/",
       "runtime": 1775732400,
       "datetime": "2026-04-09T11:00:00.000Z"
     },
@@ -316,12 +238,6 @@
       "datetime": "2026-04-09T12:00:00.000Z"
     },
     {
-      "name": "FK Taraz vs Ulytau Zhezkazgan lúc 19:00",
-      "link": "/truc-tiep/fk-taraz-vs-ulytau-zhezkazgan-luc-1900-ngay-09-04-2026/",
-      "runtime": 1775736000,
-      "datetime": "2026-04-09T12:00:00.000Z"
-    },
-    {
       "name": "Nữ Đan Mạch U19 vs Nữ Serbia U19 lúc 19:00 | RYAN",
       "link": "/truc-tiep/nu-dan-mach-u19-vs-nu-serbia-u19-luc-1900-ngay-09-04-2026/",
       "runtime": 1775736000,
@@ -356,6 +272,54 @@
       "link": "/truc-tiep/jakarta-lavani-vs-jakarta-bhayangkara-luc-1900-ngay-09-04-2026/",
       "runtime": 1775736000,
       "datetime": "2026-04-09T12:00:00.000Z"
+    },
+    {
+      "name": "Lokomotiv Sofia vs Beroe Stara Zagora lúc 19:30 | ASTRA",
+      "link": "/truc-tiep/lokomotiv-sofia-vs-beroe-stara-zagora-luc-1930-ngay-09-04-2026/",
+      "runtime": 1775737800,
+      "datetime": "2026-04-09T12:30:00.000Z"
+    },
+    {
+      "name": "Nữ Malta U19 vs Nữ Israel U19 lúc 19:30",
+      "link": "/truc-tiep/nu-malta-u19-vs-nu-israel-u19-luc-1930-ngay-09-04-2026/",
+      "runtime": 1775737800,
+      "datetime": "2026-04-09T12:30:00.000Z"
+    },
+    {
+      "name": "Karbi Anglong vs Sporting Clube de Goa lúc 19:30",
+      "link": "/truc-tiep/karbi-anglong-vs-sporting-clube-de-goa-luc-1930-ngay-09-04-2026/",
+      "runtime": 1775737800,
+      "datetime": "2026-04-09T12:30:00.000Z"
+    },
+    {
+      "name": "Nữ Albania U19 vs Nữ Montenegro U19 lúc 20:00 | OLER",
+      "link": "/truc-tiep/nu-albania-u19-vs-nu-montenegro-u19-luc-2000-ngay-09-04-2026/",
+      "runtime": 1775739600,
+      "datetime": "2026-04-09T13:00:00.000Z"
+    },
+    {
+      "name": "Arba Minch vs Hadiya Hossana lúc 20:00",
+      "link": "/truc-tiep/arba-minch-vs-hadiya-hossana-luc-2000-ngay-09-04-2026/",
+      "runtime": 1775739600,
+      "datetime": "2026-04-09T13:00:00.000Z"
+    },
+    {
+      "name": "M. Tel Aviv vs Hapoel Mate-Asher lúc 20:00",
+      "link": "/truc-tiep/m-tel-aviv-vs-hapoel-mate-asher-luc-2000-ngay-09-04-2026/",
+      "runtime": 1775739600,
+      "datetime": "2026-04-09T13:00:00.000Z"
+    },
+    {
+      "name": "Shizageddon vs Nemiga Gaming lúc 20:00",
+      "link": "/truc-tiep/shizageddon-vs-nemiga-gaming-luc-2000-ngay-09-04-2026/",
+      "runtime": 1775739600,
+      "datetime": "2026-04-09T13:00:00.000Z"
+    },
+    {
+      "name": "FUT vs B8 lúc 20:00",
+      "link": "/truc-tiep/fut-vs-b8-luc-2000-ngay-09-04-2026/",
+      "runtime": 1775739600,
+      "datetime": "2026-04-09T13:00:00.000Z"
     }
   ]
 }
