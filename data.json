@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 45,
-  "updated_at": "2026-04-09T23:23:22.832Z",
+  "total_matches": 39,
+  "updated_at": "2026-04-10T00:05:29.160Z",
   "matches": [
-    {
-      "name": "Wu Yibing vs Kei Nishikori lúc 04:20",
-      "link": "/truc-tiep/wu-yibing-vs-kei-nishikori-luc-0420-ngay-10-04-2026/",
-      "runtime": 1775769600,
-      "datetime": "2026-04-09T21:20:00.000Z"
-    },
     {
       "name": "Thijmen Loof/Daniel Milavsky vs Alex Hernandez/Alan Magadan lúc 04:20",
       "link": "/truc-tiep/thijmen-loof-daniel-milavsky-vs-alex-hernandez-alan-magadan-luc-0420-ngay-10-04-2026/",
@@ -20,60 +14,6 @@
       "link": "/truc-tiep/uberlandia-gabarito-vs-volei-renata-luc-0430-ngay-10-04-2026/",
       "runtime": 1775770200,
       "datetime": "2026-04-09T21:30:00.000Z"
-    },
-    {
-      "name": "Akimbo vs InControl lúc 04:30",
-      "link": "/truc-tiep/akimbo-vs-incontrol-luc-0430-ngay-10-04-2026/",
-      "runtime": 1775770200,
-      "datetime": "2026-04-09T21:30:00.000Z"
-    },
-    {
-      "name": "Botafogo RJ vs Caracas FC lúc 05:00 | KEN",
-      "link": "/truc-tiep/botafogo-rj-vs-caracas-fc-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
-    },
-    {
-      "name": "CA Juventud vs Cienciano lúc 05:00 | DAVID",
-      "link": "/truc-tiep/ca-juventud-vs-cienciano-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
-    },
-    {
-      "name": "Rosario Central vs Ind. del Valle lúc 05:00 | ASTRA",
-      "link": "/truc-tiep/rosario-central-vs-ind-del-valle-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
-    },
-    {
-      "name": "U.C.V FC vs Club Libertad lúc 05:00 | RIO",
-      "link": "/truc-tiep/u-c-v-fc-vs-club-libertad-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
-    },
-    {
-      "name": "ASA FC vs CRB AL lúc 05:00",
-      "link": "/truc-tiep/asa-fc-vs-crb-al-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
-    },
-    {
-      "name": "Itabaiana(SE) vs AD Confiança lúc 05:00",
-      "link": "/truc-tiep/itabaianase-vs-ad-confianca-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
-    },
-    {
-      "name": "Nữ Club America vs Nữ Palmeiras SP  lúc 05:00",
-      "link": "/truc-tiep/nu-club-america-vs-nu-palmeiras-sp-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
-    },
-    {
-      "name": "Botafogo vs Pitagoras Minas lúc 05:00",
-      "link": "/truc-tiep/botafogo-vs-pitagoras-minas-luc-0500-ngay-10-04-2026/",
-      "runtime": 1775772000,
-      "datetime": "2026-04-09T22:00:00.000Z"
     },
     {
       "name": "Bor Artnak vs Rodrigo Pacheco Mendez lúc 05:00",
@@ -132,12 +72,6 @@
     {
       "name": "Corinthians vs Paulistano Amil lúc 06:00",
       "link": "/truc-tiep/corinthians-vs-paulistano-amil-luc-0600-ngay-10-04-2026/",
-      "runtime": 1775775600,
-      "datetime": "2026-04-09T23:00:00.000Z"
-    },
-    {
-      "name": "Apex Mission Impossible vs Supernova lúc 06:00",
-      "link": "/truc-tiep/apex-mission-impossible-vs-supernova-luc-0600-ngay-10-04-2026/",
       "runtime": 1775775600,
       "datetime": "2026-04-09T23:00:00.000Z"
     },
@@ -272,6 +206,36 @@
       "link": "/truc-tiep/tucuman-vs-salta-luc-0800-ngay-10-04-2026/",
       "runtime": 1775782800,
       "datetime": "2026-04-10T01:00:00.000Z"
+    },
+    {
+      "name": "Marathon vs CD Motagua lúc 08:30 | JAY",
+      "link": "/truc-tiep/marathon-vs-cd-motagua-luc-0830-ngay-10-04-2026/",
+      "runtime": 1775784600,
+      "datetime": "2026-04-10T01:30:00.000Z"
+    },
+    {
+      "name": "Ind. Santa Fe vs CA Penarol lúc 09:00 | FINN",
+      "link": "/truc-tiep/ind-santa-fe-vs-ca-penarol-luc-0900-ngay-10-04-2026/",
+      "runtime": 1775786400,
+      "datetime": "2026-04-10T02:00:00.000Z"
+    },
+    {
+      "name": "Golden State Warriors vs Los Angeles Lakers lúc 09:00 | NEZHA",
+      "link": "/truc-tiep/golden-state-warriors-vs-los-angeles-lakers-luc-0900-ngay-10-04-2026/",
+      "runtime": 1775786400,
+      "datetime": "2026-04-10T02:00:00.000Z"
+    },
+    {
+      "name": "Talia Gibson vs Mika Stojsavljevic lúc 09:00",
+      "link": "/truc-tiep/talia-gibson-vs-mika-stojsavljevic-luc-0900-ngay-10-04-2026/",
+      "runtime": 1775786400,
+      "datetime": "2026-04-10T02:00:00.000Z"
+    },
+    {
+      "name": "Nữ San Diego Mojo  vs Nữ Indy Ignite  lúc 09:00",
+      "link": "/truc-tiep/nu-san-diego-mojo-vs-nu-indy-ignite-luc-0900-ngay-10-04-2026/",
+      "runtime": 1775786400,
+      "datetime": "2026-04-10T02:00:00.000Z"
     }
   ]
 }
