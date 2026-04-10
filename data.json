@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 42,
-  "updated_at": "2026-04-10T22:06:04.353Z",
+  "total_matches": 45,
+  "updated_at": "2026-04-10T22:57:39.793Z",
   "matches": [
-    {
-      "name": "James Duckworth vs Beibit Zhukayev lúc 01:00",
-      "link": "/truc-tiep/james-duckworth-vs-beibit-zhukayev-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "Tibo Colson vs Alex Hernandez lúc 03:00",
-      "link": "/truc-tiep/tibo-colson-vs-alex-hernandez-luc-0300-ngay-11-04-2026/",
-      "runtime": 1775851200,
-      "datetime": "2026-04-10T20:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Pereira vs Once Caldas lúc 03:30 | XMEN",
-      "link": "/truc-tiep/deportivo-pereira-vs-once-caldas-luc-0330-ngay-11-04-2026/",
-      "runtime": 1775853000,
-      "datetime": "2026-04-10T20:30:00.000Z"
-    },
     {
       "name": "Nicolas.Alvarez Varona/Mario.Mansilla Diez vs Valentin Basel/Franco Ribero lúc 03:50",
       "link": "/truc-tiep/nicolas-alvarez-varona-mario-mansilla-diez-vs-valentin-basel-franco-ribero-luc-0350-ngay-11-04-2026/",
@@ -88,6 +70,12 @@
       "datetime": "2026-04-10T22:30:00.000Z"
     },
     {
+      "name": "Tibo Colson vs Alex Hernandez lúc 05:40",
+      "link": "/truc-tiep/tibo-colson-vs-alex-hernandez-luc-0540-ngay-11-04-2026/",
+      "runtime": 1775860800,
+      "datetime": "2026-04-10T22:40:00.000Z"
+    },
+    {
       "name": "Nữ Paraguay vs Nữ Ecuador  lúc 06:00 | OLER",
       "link": "/truc-tiep/nu-paraguay-vs-nu-ecuador-luc-0600-ngay-11-04-2026/",
       "runtime": 1775862000,
@@ -130,6 +118,12 @@
       "datetime": "2026-04-10T23:00:00.000Z"
     },
     {
+      "name": "Luka Pavlovic vs Rodrigo Pacheco Mendez lúc 06:00",
+      "link": "/truc-tiep/luka-pavlovic-vs-rodrigo-pacheco-mendez-luc-0600-ngay-11-04-2026/",
+      "runtime": 1775862000,
+      "datetime": "2026-04-10T23:00:00.000Z"
+    },
+    {
       "name": "Nữ Columbus Fury vs Nữ Atlanta Vibe  lúc 06:00",
       "link": "/truc-tiep/nu-columbus-fury-vs-nu-atlanta-vibe-luc-0600-ngay-11-04-2026/",
       "runtime": 1775862000,
@@ -168,6 +162,12 @@
     {
       "name": "New York Knicks vs Toronto Raptors lúc 06:30",
       "link": "/truc-tiep/new-york-knicks-vs-toronto-raptors-luc-0630-ngay-11-04-2026/",
+      "runtime": 1775863800,
+      "datetime": "2026-04-10T23:30:00.000Z"
+    },
+    {
+      "name": "Vladyslav Orlov/Luka Pavlovic vs Diego Hidalgo/Patrik Trhac lúc 06:30",
+      "link": "/truc-tiep/vladyslav-orlov-luka-pavlovic-vs-diego-hidalgo-patrik-trhac-luc-0630-ngay-11-04-2026/",
       "runtime": 1775863800,
       "datetime": "2026-04-10T23:30:00.000Z"
     },
@@ -254,6 +254,24 @@
       "link": "/truc-tiep/lag-vs-mouse-luc-0700-ngay-11-04-2026/",
       "runtime": 1775865600,
       "datetime": "2026-04-11T00:00:00.000Z"
+    },
+    {
+      "name": "Western Suburbs vs Wellington Olympic lúc 07:30",
+      "link": "/truc-tiep/western-suburbs-vs-wellington-olympic-luc-0730-ngay-11-04-2026/",
+      "runtime": 1775867400,
+      "datetime": "2026-04-11T00:30:00.000Z"
+    },
+    {
+      "name": "North Texas SC vs Sporting Kansas (R) lúc 07:30",
+      "link": "/truc-tiep/north-texas-sc-vs-sporting-kansas-r-luc-0730-ngay-11-04-2026/",
+      "runtime": 1775867400,
+      "datetime": "2026-04-11T00:30:00.000Z"
+    },
+    {
+      "name": "Regatas Corrientes vs Ciclista Olimpico lúc 07:30",
+      "link": "/truc-tiep/regatas-corrientes-vs-ciclista-olimpico-luc-0730-ngay-11-04-2026/",
+      "runtime": 1775867400,
+      "datetime": "2026-04-11T00:30:00.000Z"
     }
   ]
 }
