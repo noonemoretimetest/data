@@ -1,73 +1,13 @@
 {
   "success": true,
-  "total_matches": 48,
-  "updated_at": "2026-04-10T19:38:56.694Z",
+  "total_matches": 38,
+  "updated_at": "2026-04-10T20:07:09.792Z",
   "matches": [
-    {
-      "name": "Donna Vekic vs Karolina Pliskova lúc 23:40",
-      "link": "/truc-tiep/donna-vekic-vs-karolina-pliskova-luc-2340-ngay-10-04-2026/",
-      "runtime": 1775839200,
-      "datetime": "2026-04-10T16:40:00.000Z"
-    },
     {
       "name": "Kirsty Gilmour vs Line Christophersen lúc 00:40",
       "link": "/truc-tiep/kirsty-gilmour-vs-line-christophersen-luc-0040-ngay-11-04-2026/",
       "runtime": 1775842800,
       "datetime": "2026-04-10T17:40:00.000Z"
-    },
-    {
-      "name": "FC Felgueiras vs Pacos de Ferreira lúc 00:45",
-      "link": "/truc-tiep/fc-felgueiras-vs-pacos-de-ferreira-luc-0045-ngay-11-04-2026/",
-      "runtime": 1775843100,
-      "datetime": "2026-04-10T17:45:00.000Z"
-    },
-    {
-      "name": "Ferencvarosi TC vs Diosgyor VTK lúc 01:00",
-      "link": "/truc-tiep/ferencvarosi-tc-vs-diosgyor-vtk-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "Guingamp vs Grenoble lúc 01:00",
-      "link": "/truc-tiep/guingamp-vs-grenoble-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "Amiens vs Pau FC lúc 01:00",
-      "link": "/truc-tiep/amiens-vs-pau-fc-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "Stade Lavallois vs Reims lúc 01:00",
-      "link": "/truc-tiep/stade-lavallois-vs-reims-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "Clermont vs Nancy lúc 01:00",
-      "link": "/truc-tiep/clermont-vs-nancy-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "Annecy vs Montpellier lúc 01:00",
-      "link": "/truc-tiep/annecy-vs-montpellier-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "Twente FC vs Volendam lúc 01:00 | XMEN",
-      "link": "/truc-tiep/twente-fc-vs-volendam-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
-    },
-    {
-      "name": "BC Dubai vs Anadolu Efes1976 lúc 01:00",
-      "link": "/truc-tiep/bc-dubai-vs-anadolu-efes1976-luc-0100-ngay-11-04-2026/",
-      "runtime": 1775844000,
-      "datetime": "2026-04-10T18:00:00.000Z"
     },
     {
       "name": "James Duckworth vs Beibit Zhukayev lúc 01:00",
@@ -118,12 +58,6 @@
       "datetime": "2026-04-10T18:30:00.000Z"
     },
     {
-      "name": "Lindemans Aalst vs Achel lúc 01:30",
-      "link": "/truc-tiep/lindemans-aalst-vs-achel-luc-0130-ngay-11-04-2026/",
-      "runtime": 1775845800,
-      "datetime": "2026-04-10T18:30:00.000Z"
-    },
-    {
       "name": "AS Roma vs Pisa lúc 01:45 | BRADY - KEN",
       "link": "/truc-tiep/as-roma-vs-pisa-luc-0145-ngay-11-04-2026/",
       "runtime": 1775846700,
@@ -166,14 +100,14 @@
       "datetime": "2026-04-10T18:45:00.000Z"
     },
     {
-      "name": "West Ham vs Wolverhampton lúc 02:00 | ROY - RIO",
-      "link": "/truc-tiep/west-ham-vs-wolverhampton-luc-0200-ngay-11-04-2026/",
+      "name": "Real Madrid vs  Girona lúc 02:00 | NICK - ASTRA",
+      "link": "/truc-tiep/real-madrid-vs-girona-luc-0200-ngay-11-04-2026/",
       "runtime": 1775847600,
       "datetime": "2026-04-10T19:00:00.000Z"
     },
     {
-      "name": "Real Madrid vs  Girona lúc 02:00 | NICK - ASTRA",
-      "link": "/truc-tiep/real-madrid-vs-girona-luc-0200-ngay-11-04-2026/",
+      "name": "West Ham vs Wolverhampton lúc 02:00 | ROY - RIO",
+      "link": "/truc-tiep/west-ham-vs-wolverhampton-luc-0200-ngay-11-04-2026/",
       "runtime": 1775847600,
       "datetime": "2026-04-10T19:00:00.000Z"
     },
@@ -290,6 +224,12 @@
       "link": "/truc-tiep/guarulhos-vs-praia-clube-luc-0430-ngay-11-04-2026/",
       "runtime": 1775856600,
       "datetime": "2026-04-10T21:30:00.000Z"
+    },
+    {
+      "name": "Sao Jose vs Pinheiros Sao Paolo lúc 05:00",
+      "link": "/truc-tiep/sao-jose-vs-pinheiros-sao-paolo-luc-0500-ngay-11-04-2026/",
+      "runtime": 1775858400,
+      "datetime": "2026-04-10T22:00:00.000Z"
     }
   ]
 }
