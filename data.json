@@ -1,68 +1,8 @@
 {
   "success": true,
-  "total_matches": 64,
-  "updated_at": "2026-04-11T23:04:00.463Z",
+  "total_matches": 59,
+  "updated_at": "2026-04-11T23:52:14.637Z",
   "matches": [
-    {
-      "name": "Connecticut United FC vs Columbus Crew B lúc 04:00",
-      "link": "/truc-tiep/connecticut-united-fc-vs-columbus-crew-b-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
-    {
-      "name": "Ponte Preta vs Vila Nova lúc 04:00",
-      "link": "/truc-tiep/ponte-preta-vs-vila-nova-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
-    {
-      "name": "Sport Club Recife vs Avaí FC lúc 04:00",
-      "link": "/truc-tiep/sport-club-recife-vs-avai-fc-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
-    {
-      "name": "Botafogo vs Flamengo lúc 04:00",
-      "link": "/truc-tiep/botafogo-vs-flamengo-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
-    {
-      "name": "Nacional Potosi vs UD Vinto lúc 04:15",
-      "link": "/truc-tiep/nacional-potosi-vs-ud-vinto-luc-0415-ngay-12-04-2026/",
-      "runtime": 1775942100,
-      "datetime": "2026-04-11T21:15:00.000Z"
-    },
-    {
-      "name": "Sportivo Luqueno vs Deportivo Recoleta lúc 04:15",
-      "link": "/truc-tiep/sportivo-luqueno-vs-deportivo-recoleta-luc-0415-ngay-12-04-2026/",
-      "runtime": 1775942100,
-      "datetime": "2026-04-11T21:15:00.000Z"
-    },
-    {
-      "name": "Mirassol vs Bahia lúc 04:30 | NEMO",
-      "link": "/truc-tiep/mirassol-vs-bahia-luc-0430-ngay-12-04-2026/",
-      "runtime": 1775943000,
-      "datetime": "2026-04-11T21:30:00.000Z"
-    },
-    {
-      "name": "Audax Italiano vs Univ Catolica lúc 04:30 | OLER",
-      "link": "/truc-tiep/audax-italiano-vs-univ-catolica-luc-0430-ngay-12-04-2026/",
-      "runtime": 1775943000,
-      "datetime": "2026-04-11T21:30:00.000Z"
-    },
-    {
-      "name": "Pottu Via Ho vs San Antonio(ECU) lúc 04:30",
-      "link": "/truc-tiep/pottu-via-ho-vs-san-antonioecu-luc-0430-ngay-12-04-2026/",
-      "runtime": 1775943000,
-      "datetime": "2026-04-11T21:30:00.000Z"
-    },
-    {
-      "name": "Nữ USA vs Nữ Nhật Bản lúc 04:30",
-      "link": "/truc-tiep/nu-usa-vs-nu-nhat-ban-luc-0430-ngay-12-04-2026/",
-      "runtime": 1775943000,
-      "datetime": "2026-04-11T21:30:00.000Z"
-    },
     {
       "name": "James Duckworth vs Tibo Colson lúc 04:40",
       "link": "/truc-tiep/james-duckworth-vs-tibo-colson-luc-0440-ngay-12-04-2026/",
@@ -84,12 +24,6 @@
     {
       "name": "Dep. Maldonado vs Nacional Montevideo lúc 05:00",
       "link": "/truc-tiep/dep-maldonado-vs-nacional-montevideo-luc-0500-ngay-12-04-2026/",
-      "runtime": 1775944800,
-      "datetime": "2026-04-11T22:00:00.000Z"
-    },
-    {
-      "name": "Monagas SC vs Rayo Zuliano lúc 05:00",
-      "link": "/truc-tiep/monagas-sc-vs-rayo-zuliano-luc-0500-ngay-12-04-2026/",
       "runtime": 1775944800,
       "datetime": "2026-04-11T22:00:00.000Z"
     },
@@ -386,6 +320,42 @@
       "link": "/truc-tiep/nu-san-diego-mojo-vs-nu-orlando-valkyries-luc-0800-ngay-12-04-2026/",
       "runtime": 1775955600,
       "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Náuticos de Mazatlán vs Caballeros de Culiacán lúc 08:15",
+      "link": "/truc-tiep/nauticos-de-mazatlan-vs-caballeros-de-culiacan-luc-0815-ngay-12-04-2026/",
+      "runtime": 1775956500,
+      "datetime": "2026-04-12T01:15:00.000Z"
+    },
+    {
+      "name": "Dep.Independiente vs Atl. Nacional lúc 08:20",
+      "link": "/truc-tiep/dep-independiente-vs-atl-nacional-luc-0820-ngay-12-04-2026/",
+      "runtime": 1775956800,
+      "datetime": "2026-04-12T01:20:00.000Z"
+    },
+    {
+      "name": "Colorado Rapids vs Houston Dynamo lúc 08:30 | RYAN",
+      "link": "/truc-tiep/colorado-rapids-vs-houston-dynamo-luc-0830-ngay-12-04-2026/",
+      "runtime": 1775957400,
+      "datetime": "2026-04-12T01:30:00.000Z"
+    },
+    {
+      "name": "Nữ Brazil vs Nữ Hàn Quốc lúc 08:30",
+      "link": "/truc-tiep/nu-brazil-vs-nu-han-quoc-luc-0830-ngay-12-04-2026/",
+      "runtime": 1775957400,
+      "datetime": "2026-04-12T01:30:00.000Z"
+    },
+    {
+      "name": "Plaza Amador vs Alianza FC (PAN) lúc 08:30",
+      "link": "/truc-tiep/plaza-amador-vs-alianza-fc-pan-luc-0830-ngay-12-04-2026/",
+      "runtime": 1775957400,
+      "datetime": "2026-04-12T01:30:00.000Z"
+    },
+    {
+      "name": "Taro Daniel vs Lee Duck-hee lúc 08:30",
+      "link": "/truc-tiep/taro-daniel-vs-lee-duck-hee-luc-0830-ngay-12-04-2026/",
+      "runtime": 1775957400,
+      "datetime": "2026-04-12T01:30:00.000Z"
     }
   ]
 }
