@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 49,
-  "updated_at": "2026-04-11T21:03:42.964Z",
+  "total_matches": 53,
+  "updated_at": "2026-04-11T21:49:20.348Z",
   "matches": [
     {
       "name": "Callum Hemming/Estelle van Leeuwen vs Mathias Christiansen/Alexandra Boje lúc 21:30",
       "link": "/truc-tiep/callum-hemming-estelle-van-leeuwen-vs-mathias-christiansen-alexandra-boje-luc-2130-ngay-11-04-2026/",
       "runtime": 1775917800,
       "datetime": "2026-04-11T14:30:00.000Z"
-    },
-    {
-      "name": "Sevilla vs Atletico Madrid lúc 02:00 | MAX",
-      "link": "/truc-tiep/sevilla-vs-atletico-madrid-luc-0200-ngay-12-04-2026/",
-      "runtime": 1775934000,
-      "datetime": "2026-04-11T19:00:00.000Z"
-    },
-    {
-      "name": "York United FC vs HFX Wanderers lúc 02:00",
-      "link": "/truc-tiep/york-united-fc-vs-hfx-wanderers-luc-0200-ngay-12-04-2026/",
-      "runtime": 1775934000,
-      "datetime": "2026-04-11T19:00:00.000Z"
-    },
-    {
-      "name": "Estrela Amadora  vs Sporting CP lúc 02:30 | SILVA",
-      "link": "/truc-tiep/estrela-amadora-vs-sporting-cp-luc-0230-ngay-12-04-2026/",
-      "runtime": 1775935800,
-      "datetime": "2026-04-11T19:30:00.000Z"
-    },
-    {
-      "name": "Vitoria BA vs Sao Paulo lúc 02:30",
-      "link": "/truc-tiep/vitoria-ba-vs-sao-paulo-luc-0230-ngay-12-04-2026/",
-      "runtime": 1775935800,
-      "datetime": "2026-04-11T19:30:00.000Z"
     },
     {
       "name": "Remo Belem (PA) vs Vasco da Gama lúc 02:30 | LOGAN",
@@ -54,12 +30,6 @@
     {
       "name": "Osasco Basket vs Pato lúc 03:00",
       "link": "/truc-tiep/osasco-basket-vs-pato-luc-0300-ngay-12-04-2026/",
-      "runtime": 1775937600,
-      "datetime": "2026-04-11T20:00:00.000Z"
-    },
-    {
-      "name": "Shopify Rebellion vs Team Liquid lúc 03:00",
-      "link": "/truc-tiep/shopify-rebellion-vs-team-liquid-luc-0300-ngay-12-04-2026/",
       "runtime": 1775937600,
       "datetime": "2026-04-11T20:00:00.000Z"
     },
@@ -296,6 +266,60 @@
       "link": "/truc-tiep/upcn-vs-ciudad-voley-luc-0600-ngay-12-04-2026/",
       "runtime": 1775948400,
       "datetime": "2026-04-11T23:00:00.000Z"
+    },
+    {
+      "name": "Dignitas vs LYON lúc 06:00",
+      "link": "/truc-tiep/dignitas-vs-lyon-luc-0600-ngay-12-04-2026/",
+      "runtime": 1775948400,
+      "datetime": "2026-04-11T23:00:00.000Z"
+    },
+    {
+      "name": "Internacional RS vs Gremio lúc 06:30",
+      "link": "/truc-tiep/internacional-rs-vs-gremio-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "Aurora vs Always Ready lúc 06:30",
+      "link": "/truc-tiep/aurora-vs-always-ready-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "Ceara vs Nautico (PE) lúc 06:30",
+      "link": "/truc-tiep/ceara-vs-nautico-pe-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "Tampa Bay FC vs Oakland Roots lúc 06:30",
+      "link": "/truc-tiep/tampa-bay-fc-vs-oakland-roots-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "Inter Miami vs NY Red Bulls lúc 06:30 | ASTRA",
+      "link": "/truc-tiep/inter-miami-vs-ny-red-bulls-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "New England vs DC United lúc 06:30 | OLER",
+      "link": "/truc-tiep/new-england-vs-dc-united-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "Vancouver Whitecaps vs New York City lúc 06:30 | TONI",
+      "link": "/truc-tiep/vancouver-whitecaps-vs-new-york-city-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "Charlotte FC vs Nashville lúc 06:30 | NEMO",
+      "link": "/truc-tiep/charlotte-fc-vs-nashville-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
     }
   ]
 }
