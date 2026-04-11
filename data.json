@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 56,
-  "updated_at": "2026-04-11T19:22:28.249Z",
+  "total_matches": 53,
+  "updated_at": "2026-04-11T19:58:56.134Z",
   "matches": [
     {
       "name": "Callum Hemming/Estelle van Leeuwen vs Mathias Christiansen/Alexandra Boje lúc 21:30",
@@ -16,12 +16,6 @@
       "datetime": "2026-04-11T14:40:00.000Z"
     },
     {
-      "name": "Blau Weiss Linz vs WSG Tirol lúc 00:30",
-      "link": "/truc-tiep/blau-weiss-linz-vs-wsg-tirol-luc-0030-ngay-12-04-2026/",
-      "runtime": 1775928600,
-      "datetime": "2026-04-11T17:30:00.000Z"
-    },
-    {
       "name": "Monza vs Bari lúc 00:30",
       "link": "/truc-tiep/monza-vs-bari-luc-0030-ngay-12-04-2026/",
       "runtime": 1775928600,
@@ -34,50 +28,14 @@
       "datetime": "2026-04-11T17:30:00.000Z"
     },
     {
-      "name": "Stal Mielec vs Stal Rzeszow lúc 00:30",
-      "link": "/truc-tiep/stal-mielec-vs-stal-rzeszow-luc-0030-ngay-12-04-2026/",
-      "runtime": 1775928600,
-      "datetime": "2026-04-11T17:30:00.000Z"
-    },
-    {
-      "name": "Al Okhdood vs Al Nassr lúc 01:00 | DAVID - XMEN",
-      "link": "/truc-tiep/al-okhdood-vs-al-nassr-luc-0100-ngay-12-04-2026/",
-      "runtime": 1775930400,
-      "datetime": "2026-04-11T18:00:00.000Z"
-    },
-    {
       "name": "Groningen vs Go Ahead Eagles lúc 01:00 | HELLO",
       "link": "/truc-tiep/groningen-vs-go-ahead-eagles-luc-0100-ngay-12-04-2026/",
       "runtime": 1775930400,
       "datetime": "2026-04-11T18:00:00.000Z"
     },
     {
-      "name": "Nyiregyhaza vs Paksi FC lúc 01:00",
-      "link": "/truc-tiep/nyiregyhaza-vs-paksi-fc-luc-0100-ngay-12-04-2026/",
-      "runtime": 1775930400,
-      "datetime": "2026-04-11T18:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Riestra vs Instituto lúc 01:00",
-      "link": "/truc-tiep/deportivo-riestra-vs-instituto-luc-0100-ngay-12-04-2026/",
-      "runtime": 1775930400,
-      "datetime": "2026-04-11T18:00:00.000Z"
-    },
-    {
-      "name": "Saint-Étienne vs USL Dunkerque lúc 01:00",
-      "link": "/truc-tiep/saint-etienne-vs-usl-dunkerque-luc-0100-ngay-12-04-2026/",
-      "runtime": 1775930400,
-      "datetime": "2026-04-11T18:00:00.000Z"
-    },
-    {
       "name": "Al Ahly FC vs Smouha SC lúc 01:00",
       "link": "/truc-tiep/al-ahly-fc-vs-smouha-sc-luc-0100-ngay-12-04-2026/",
-      "runtime": 1775930400,
-      "datetime": "2026-04-11T18:00:00.000Z"
-    },
-    {
-      "name": "Enppi vs Ceramica Cleopatra lúc 01:00",
-      "link": "/truc-tiep/enppi-vs-ceramica-cleopatra-luc-0100-ngay-12-04-2026/",
       "runtime": 1775930400,
       "datetime": "2026-04-11T18:00:00.000Z"
     },
@@ -214,12 +172,6 @@
       "datetime": "2026-04-11T19:00:00.000Z"
     },
     {
-      "name": "RED Canids vs paiN Gaming lúc 02:00",
-      "link": "/truc-tiep/red-canids-vs-pain-gaming-luc-0200-ngay-12-04-2026/",
-      "runtime": 1775934000,
-      "datetime": "2026-04-11T19:00:00.000Z"
-    },
-    {
       "name": "Rennes vs Angers lúc 02:05 | LOUIS",
       "link": "/truc-tiep/rennes-vs-angers-luc-0205-ngay-12-04-2026/",
       "runtime": 1775934300,
@@ -338,6 +290,36 @@
       "link": "/truc-tiep/sportivo-luqueno-vs-deportivo-recoleta-luc-0415-ngay-12-04-2026/",
       "runtime": 1775942100,
       "datetime": "2026-04-11T21:15:00.000Z"
+    },
+    {
+      "name": "Fluminense RJ vs CR Flamengo lúc 04:30",
+      "link": "/truc-tiep/fluminense-rj-vs-cr-flamengo-luc-0430-ngay-12-04-2026/",
+      "runtime": 1775943000,
+      "datetime": "2026-04-11T21:30:00.000Z"
+    },
+    {
+      "name": "Mirassol vs Bahia lúc 04:30 | NEMO",
+      "link": "/truc-tiep/mirassol-vs-bahia-luc-0430-ngay-12-04-2026/",
+      "runtime": 1775943000,
+      "datetime": "2026-04-11T21:30:00.000Z"
+    },
+    {
+      "name": "Audax Italiano vs Univ Catolica lúc 04:30 | OLER",
+      "link": "/truc-tiep/audax-italiano-vs-univ-catolica-luc-0430-ngay-12-04-2026/",
+      "runtime": 1775943000,
+      "datetime": "2026-04-11T21:30:00.000Z"
+    },
+    {
+      "name": "Pottu Via Ho vs San Antonio(ECU) lúc 04:30",
+      "link": "/truc-tiep/pottu-via-ho-vs-san-antonioecu-luc-0430-ngay-12-04-2026/",
+      "runtime": 1775943000,
+      "datetime": "2026-04-11T21:30:00.000Z"
+    },
+    {
+      "name": "Nữ USA vs Nữ Nhật Bản lúc 04:30",
+      "link": "/truc-tiep/nu-usa-vs-nu-nhat-ban-luc-0430-ngay-12-04-2026/",
+      "runtime": 1775943000,
+      "datetime": "2026-04-11T21:30:00.000Z"
     }
   ]
 }
