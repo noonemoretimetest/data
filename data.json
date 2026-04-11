@@ -1,50 +1,8 @@
 {
   "success": true,
   "total_matches": 53,
-  "updated_at": "2026-04-11T21:49:20.348Z",
+  "updated_at": "2026-04-11T22:25:24.175Z",
   "matches": [
-    {
-      "name": "Callum Hemming/Estelle van Leeuwen vs Mathias Christiansen/Alexandra Boje lúc 21:30",
-      "link": "/truc-tiep/callum-hemming-estelle-van-leeuwen-vs-mathias-christiansen-alexandra-boje-luc-2130-ngay-11-04-2026/",
-      "runtime": 1775917800,
-      "datetime": "2026-04-11T14:30:00.000Z"
-    },
-    {
-      "name": "Remo Belem (PA) vs Vasco da Gama lúc 02:30 | LOGAN",
-      "link": "/truc-tiep/remo-belem-pa-vs-vasco-da-gama-luc-0230-ngay-12-04-2026/",
-      "runtime": 1775935800,
-      "datetime": "2026-04-11T19:30:00.000Z"
-    },
-    {
-      "name": "Detroit City vs Sporting Jax lúc 03:00",
-      "link": "/truc-tiep/detroit-city-vs-sporting-jax-luc-0300-ngay-12-04-2026/",
-      "runtime": 1775937600,
-      "datetime": "2026-04-11T20:00:00.000Z"
-    },
-    {
-      "name": "Floresta CE vs Santa Cruz PE lúc 03:00",
-      "link": "/truc-tiep/floresta-ce-vs-santa-cruz-pe-luc-0300-ngay-12-04-2026/",
-      "runtime": 1775937600,
-      "datetime": "2026-04-11T20:00:00.000Z"
-    },
-    {
-      "name": "Osasco Basket vs Pato lúc 03:00",
-      "link": "/truc-tiep/osasco-basket-vs-pato-luc-0300-ngay-12-04-2026/",
-      "runtime": 1775937600,
-      "datetime": "2026-04-11T20:00:00.000Z"
-    },
-    {
-      "name": "Estudiantes LP vs Union Santa Fe lúc 03:15 | XMEN",
-      "link": "/truc-tiep/estudiantes-lp-vs-union-santa-fe-luc-0315-ngay-12-04-2026/",
-      "runtime": 1775938500,
-      "datetime": "2026-04-11T20:15:00.000Z"
-    },
-    {
-      "name": "Luka Pavlovic vs Stefano Napolitano lúc 03:30",
-      "link": "/truc-tiep/luka-pavlovic-vs-stefano-napolitano-luc-0330-ngay-12-04-2026/",
-      "runtime": 1775939400,
-      "datetime": "2026-04-11T20:30:00.000Z"
-    },
     {
       "name": "Portland Timbers vs Los Angeles FC lúc 03:45 | DAVID",
       "link": "/truc-tiep/portland-timbers-vs-los-angeles-fc-luc-0345-ngay-12-04-2026/",
@@ -54,12 +12,6 @@
     {
       "name": "Aguilas Doradas vs Atletico Junior lúc 04:00 | KEN",
       "link": "/truc-tiep/aguilas-doradas-vs-atletico-junior-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
-    {
-      "name": "Jalapa vs Matagalpa FC lúc 04:00",
-      "link": "/truc-tiep/jalapa-vs-matagalpa-fc-luc-0400-ngay-12-04-2026/",
       "runtime": 1775941200,
       "datetime": "2026-04-11T21:00:00.000Z"
     },
@@ -112,12 +64,6 @@
       "datetime": "2026-04-11T21:15:00.000Z"
     },
     {
-      "name": "Fluminense RJ vs CR Flamengo lúc 04:30",
-      "link": "/truc-tiep/fluminense-rj-vs-cr-flamengo-luc-0430-ngay-12-04-2026/",
-      "runtime": 1775943000,
-      "datetime": "2026-04-11T21:30:00.000Z"
-    },
-    {
       "name": "Mirassol vs Bahia lúc 04:30 | NEMO",
       "link": "/truc-tiep/mirassol-vs-bahia-luc-0430-ngay-12-04-2026/",
       "runtime": 1775943000,
@@ -148,6 +94,12 @@
       "datetime": "2026-04-11T21:40:00.000Z"
     },
     {
+      "name": "Jalapa vs Matagalpa FC lúc 05:00",
+      "link": "/truc-tiep/jalapa-vs-matagalpa-fc-luc-0500-ngay-12-04-2026/",
+      "runtime": 1775944800,
+      "datetime": "2026-04-11T22:00:00.000Z"
+    },
+    {
       "name": "Pacific FC vs Supra Du Quebec lúc 05:00",
       "link": "/truc-tiep/pacific-fc-vs-supra-du-quebec-luc-0500-ngay-12-04-2026/",
       "runtime": 1775944800,
@@ -162,12 +114,6 @@
     {
       "name": "Monagas SC vs Rayo Zuliano lúc 05:00",
       "link": "/truc-tiep/monagas-sc-vs-rayo-zuliano-luc-0500-ngay-12-04-2026/",
-      "runtime": 1775944800,
-      "datetime": "2026-04-11T22:00:00.000Z"
-    },
-    {
-      "name": "C.A Colon vs Racing de Cordoba lúc 05:00",
-      "link": "/truc-tiep/c-a-colon-vs-racing-de-cordoba-luc-0500-ngay-12-04-2026/",
       "runtime": 1775944800,
       "datetime": "2026-04-11T22:00:00.000Z"
     },
@@ -320,6 +266,60 @@
       "link": "/truc-tiep/charlotte-fc-vs-nashville-luc-0630-ngay-12-04-2026/",
       "runtime": 1775950200,
       "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
+      "name": "Orense SC vs Libertad FC lúc 07:00",
+      "link": "/truc-tiep/orense-sc-vs-libertad-fc-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "Palestino vs Deportes Limache lúc 07:00",
+      "link": "/truc-tiep/palestino-vs-deportes-limache-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "Municipal Pérez Zeledón vs Puntarenas FC lúc 07:00",
+      "link": "/truc-tiep/municipal-perez-zeledon-vs-puntarenas-fc-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "Huntsville City vs Chicago Flame B lúc 07:00",
+      "link": "/truc-tiep/huntsville-city-vs-chicago-flame-b-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "FC Tulsa vs Orange County lúc 07:00",
+      "link": "/truc-tiep/fc-tulsa-vs-orange-county-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "Gimnasia Comodoro vs Instituto de Cordoba lúc 07:00 | STEP",
+      "link": "/truc-tiep/gimnasia-comodoro-vs-instituto-de-cordoba-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "Guaynabo vs Criollos de Caguas lúc 07:00",
+      "link": "/truc-tiep/guaynabo-vs-criollos-de-caguas-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "Zomblers vs InControl lúc 07:00",
+      "link": "/truc-tiep/zomblers-vs-incontrol-luc-0700-ngay-12-04-2026/",
+      "runtime": 1775952000,
+      "datetime": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "Astros de Jalisco vs Rayos de Hermosillo lúc 07:15",
+      "link": "/truc-tiep/astros-de-jalisco-vs-rayos-de-hermosillo-luc-0715-ngay-12-04-2026/",
+      "runtime": 1775952900,
+      "datetime": "2026-04-12T00:15:00.000Z"
     }
   ]
 }
