@@ -1,20 +1,8 @@
 {
   "success": true,
-  "total_matches": 84,
-  "updated_at": "2026-04-11T17:06:48.400Z",
+  "total_matches": 78,
+  "updated_at": "2026-04-11T17:50:54.042Z",
   "matches": [
-    {
-      "name": "Alex Green/Zach Russ vs Christo Popov/Toma Junior Popov lúc 21:00",
-      "link": "/truc-tiep/alex-green-zach-russ-vs-christo-popov-toma-junior-popov-luc-2100-ngay-11-04-2026/",
-      "runtime": 1775916000,
-      "datetime": "2026-04-11T14:00:00.000Z"
-    },
-    {
-      "name": "CSKA Moscow vs Lokomotiv Izumrud lúc 21:00",
-      "link": "/truc-tiep/cska-moscow-vs-lokomotiv-izumrud-luc-2100-ngay-11-04-2026/",
-      "runtime": 1775916000,
-      "datetime": "2026-04-11T14:00:00.000Z"
-    },
     {
       "name": "Callum Hemming/Estelle van Leeuwen vs Mathias Christiansen/Alexandra Boje lúc 21:30",
       "link": "/truc-tiep/callum-hemming-estelle-van-leeuwen-vs-mathias-christiansen-alexandra-boje-luc-2130-ngay-11-04-2026/",
@@ -28,12 +16,6 @@
       "datetime": "2026-04-11T14:40:00.000Z"
     },
     {
-      "name": "Pyramids FC vs Al Masry lúc 22:00",
-      "link": "/truc-tiep/pyramids-fc-vs-al-masry-luc-2200-ngay-11-04-2026/",
-      "runtime": 1775919600,
-      "datetime": "2026-04-11T15:00:00.000Z"
-    },
-    {
       "name": "BC Samara vs BC Nizhny Novgorod lúc 22:00",
       "link": "/truc-tiep/bc-samara-vs-bc-nizhny-novgorod-luc-2200-ngay-11-04-2026/",
       "runtime": 1775919600,
@@ -44,36 +26,6 @@
       "link": "/truc-tiep/astralis-vs-fut-luc-2200-ngay-11-04-2026/",
       "runtime": 1775919600,
       "datetime": "2026-04-11T15:00:00.000Z"
-    },
-    {
-      "name": "Avellino vs Catanzaro lúc 22:15",
-      "link": "/truc-tiep/avellino-vs-catanzaro-luc-2215-ngay-11-04-2026/",
-      "runtime": 1775920500,
-      "datetime": "2026-04-11T15:15:00.000Z"
-    },
-    {
-      "name": "Zaglebie Lubin vs Radomiak Radom lúc 22:30",
-      "link": "/truc-tiep/zaglebie-lubin-vs-radomiak-radom-luc-2230-ngay-11-04-2026/",
-      "runtime": 1775921400,
-      "datetime": "2026-04-11T15:30:00.000Z"
-    },
-    {
-      "name": "NS Mura vs NK Bravo lúc 22:30",
-      "link": "/truc-tiep/ns-mura-vs-nk-bravo-luc-2230-ngay-11-04-2026/",
-      "runtime": 1775921400,
-      "datetime": "2026-04-11T15:30:00.000Z"
-    },
-    {
-      "name": "Ekenas IF Fotboll vs JIPPO lúc 22:30",
-      "link": "/truc-tiep/ekenas-if-fotboll-vs-jippo-luc-2230-ngay-11-04-2026/",
-      "runtime": 1775921400,
-      "datetime": "2026-04-11T15:30:00.000Z"
-    },
-    {
-      "name": "MTK Budapest vs Zalaegerszegi TE lúc 22:45",
-      "link": "/truc-tiep/mtk-budapest-vs-zalaegerszegi-te-luc-2245-ngay-11-04-2026/",
-      "runtime": 1775922300,
-      "datetime": "2026-04-11T15:45:00.000Z"
     },
     {
       "name": "AC Milan vs Udinese lúc 23:00 | ASTRA",
@@ -156,12 +108,6 @@
     {
       "name": "Siedlce vs GKS Katowice lúc 23:00",
       "link": "/truc-tiep/siedlce-vs-gks-katowice-luc-2300-ngay-11-04-2026/",
-      "runtime": 1775923200,
-      "datetime": "2026-04-11T16:00:00.000Z"
-    },
-    {
-      "name": "FURIA Esports vs Leviatan Esports lúc 23:00",
-      "link": "/truc-tiep/furia-esports-vs-leviatan-esports-luc-2300-ngay-11-04-2026/",
       "runtime": 1775923200,
       "datetime": "2026-04-11T16:00:00.000Z"
     },
@@ -506,6 +452,24 @@
       "link": "/truc-tiep/rennes-vs-angers-luc-0205-ngay-12-04-2026/",
       "runtime": 1775934300,
       "datetime": "2026-04-11T19:05:00.000Z"
+    },
+    {
+      "name": "Estrela Amadora  vs Sporting CP lúc 02:30 | SILVA",
+      "link": "/truc-tiep/estrela-amadora-vs-sporting-cp-luc-0230-ngay-12-04-2026/",
+      "runtime": 1775935800,
+      "datetime": "2026-04-11T19:30:00.000Z"
+    },
+    {
+      "name": "Vitoria BA vs Sao Paulo lúc 02:30",
+      "link": "/truc-tiep/vitoria-ba-vs-sao-paulo-luc-0230-ngay-12-04-2026/",
+      "runtime": 1775935800,
+      "datetime": "2026-04-11T19:30:00.000Z"
+    },
+    {
+      "name": "Remo Belem (PA) vs Vasco da Gama lúc 02:30 | LOGAN",
+      "link": "/truc-tiep/remo-belem-pa-vs-vasco-da-gama-luc-0230-ngay-12-04-2026/",
+      "runtime": 1775935800,
+      "datetime": "2026-04-11T19:30:00.000Z"
     }
   ]
 }
