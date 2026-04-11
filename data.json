@@ -1,35 +1,11 @@
 {
   "success": true,
-  "total_matches": 53,
-  "updated_at": "2026-04-11T22:25:24.175Z",
+  "total_matches": 64,
+  "updated_at": "2026-04-11T23:04:00.463Z",
   "matches": [
-    {
-      "name": "Portland Timbers vs Los Angeles FC lúc 03:45 | DAVID",
-      "link": "/truc-tiep/portland-timbers-vs-los-angeles-fc-luc-0345-ngay-12-04-2026/",
-      "runtime": 1775940300,
-      "datetime": "2026-04-11T20:45:00.000Z"
-    },
-    {
-      "name": "Aguilas Doradas vs Atletico Junior lúc 04:00 | KEN",
-      "link": "/truc-tiep/aguilas-doradas-vs-atletico-junior-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
     {
       "name": "Connecticut United FC vs Columbus Crew B lúc 04:00",
       "link": "/truc-tiep/connecticut-united-fc-vs-columbus-crew-b-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
-    {
-      "name": "Portuguesa FC vs Puerto Cabello lúc 04:00",
-      "link": "/truc-tiep/portuguesa-fc-vs-puerto-cabello-luc-0400-ngay-12-04-2026/",
-      "runtime": 1775941200,
-      "datetime": "2026-04-11T21:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Mixco vs Xelaju MC lúc 04:00",
-      "link": "/truc-tiep/deportivo-mixco-vs-xelaju-mc-luc-0400-ngay-12-04-2026/",
       "runtime": 1775941200,
       "datetime": "2026-04-11T21:00:00.000Z"
     },
@@ -220,6 +196,12 @@
       "datetime": "2026-04-11T23:00:00.000Z"
     },
     {
+      "name": "Inter Miami vs NY Red Bulls lúc 06:30 | ASTRA",
+      "link": "/truc-tiep/inter-miami-vs-ny-red-bulls-luc-0630-ngay-12-04-2026/",
+      "runtime": 1775950200,
+      "datetime": "2026-04-11T23:30:00.000Z"
+    },
+    {
       "name": "Internacional RS vs Gremio lúc 06:30",
       "link": "/truc-tiep/internacional-rs-vs-gremio-luc-0630-ngay-12-04-2026/",
       "runtime": 1775950200,
@@ -240,12 +222,6 @@
     {
       "name": "Tampa Bay FC vs Oakland Roots lúc 06:30",
       "link": "/truc-tiep/tampa-bay-fc-vs-oakland-roots-luc-0630-ngay-12-04-2026/",
-      "runtime": 1775950200,
-      "datetime": "2026-04-11T23:30:00.000Z"
-    },
-    {
-      "name": "Inter Miami vs NY Red Bulls lúc 06:30 | ASTRA",
-      "link": "/truc-tiep/inter-miami-vs-ny-red-bulls-luc-0630-ngay-12-04-2026/",
       "runtime": 1775950200,
       "datetime": "2026-04-11T23:30:00.000Z"
     },
@@ -320,6 +296,96 @@
       "link": "/truc-tiep/astros-de-jalisco-vs-rayos-de-hermosillo-luc-0715-ngay-12-04-2026/",
       "runtime": 1775952900,
       "datetime": "2026-04-12T00:15:00.000Z"
+    },
+    {
+      "name": "Chicago Fire vs Atlanta United lúc 07:30 | ZARA",
+      "link": "/truc-tiep/chicago-fire-vs-atlanta-united-luc-0730-ngay-12-04-2026/",
+      "runtime": 1775953800,
+      "datetime": "2026-04-12T00:30:00.000Z"
+    },
+    {
+      "name": "FC Dallas vs St. Louis City lúc 07:30 | JEAN",
+      "link": "/truc-tiep/fc-dallas-vs-st-louis-city-luc-0730-ngay-12-04-2026/",
+      "runtime": 1775953800,
+      "datetime": "2026-04-12T00:30:00.000Z"
+    },
+    {
+      "name": "Sporting Kansas vs SJ Earthquakes lúc 07:30 | JAY",
+      "link": "/truc-tiep/sporting-kansas-vs-sj-earthquakes-luc-0730-ngay-12-04-2026/",
+      "runtime": 1775953800,
+      "datetime": "2026-04-12T00:30:00.000Z"
+    },
+    {
+      "name": "San Antonio vs Miami FC lúc 07:30",
+      "link": "/truc-tiep/san-antonio-vs-miami-fc-luc-0730-ngay-12-04-2026/",
+      "runtime": 1775953800,
+      "datetime": "2026-04-12T00:30:00.000Z"
+    },
+    {
+      "name": "LAG vs Aether lúc 07:30",
+      "link": "/truc-tiep/lag-vs-aether-luc-0730-ngay-12-04-2026/",
+      "runtime": 1775953800,
+      "datetime": "2026-04-12T00:30:00.000Z"
+    },
+    {
+      "name": "Estudiantes Cuarto vs Barracas Central lúc 07:45",
+      "link": "/truc-tiep/estudiantes-cuarto-vs-barracas-central-luc-0745-ngay-12-04-2026/",
+      "runtime": 1775954700,
+      "datetime": "2026-04-12T00:45:00.000Z"
+    },
+    {
+      "name": "Pachuca vs Santos Laguna lúc 08:00 | YUNO",
+      "link": "/truc-tiep/pachuca-vs-santos-laguna-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Atlas vs Monterrey lúc 08:00 | POLO",
+      "link": "/truc-tiep/atlas-vs-monterrey-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Cancun FC vs Atlante FC lúc 08:00",
+      "link": "/truc-tiep/cancun-fc-vs-atlante-fc-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Atletico Morelia vs Tlaxcala FC lúc 08:00",
+      "link": "/truc-tiep/atletico-morelia-vs-tlaxcala-fc-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Venados FC Yucatán vs Leones Negros lúc 08:00",
+      "link": "/truc-tiep/venados-fc-yucatan-vs-leones-negros-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Diriangen vs Real Esteli lúc 08:00",
+      "link": "/truc-tiep/diriangen-vs-real-esteli-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Antigua GFC vs Municipal lúc 08:00",
+      "link": "/truc-tiep/antigua-gfc-vs-municipal-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Norths Bears  vs Nữ Albury Wodonga lúc 08:00",
+      "link": "/truc-tiep/nu-norths-bears-vs-nu-albury-wodonga-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ San Diego Mojo  vs Nữ Orlando Valkyries  lúc 08:00",
+      "link": "/truc-tiep/nu-san-diego-mojo-vs-nu-orlando-valkyries-luc-0800-ngay-12-04-2026/",
+      "runtime": 1775955600,
+      "datetime": "2026-04-12T01:00:00.000Z"
     }
   ]
 }
