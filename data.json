@@ -1,55 +1,13 @@
 {
   "success": true,
-  "total_matches": 63,
-  "updated_at": "2026-04-12T19:54:07.942Z",
+  "total_matches": 69,
+  "updated_at": "2026-04-12T20:28:39.663Z",
   "matches": [
     {
       "name": "Christo Popov/Toma Junior Popov vs Ben Lane/Sean Vendy lúc 18:00",
       "link": "/truc-tiep/christo-popov-toma-junior-popov-vs-ben-lane-sean-vendy-luc-1800-ngay-12-04-2026/",
       "runtime": 1775991600,
       "datetime": "2026-04-12T11:00:00.000Z"
-    },
-    {
-      "name": "Newell Old Boys vs San Lorenzo lúc 01:00",
-      "link": "/truc-tiep/newell-old-boys-vs-san-lorenzo-luc-0100-ngay-13-04-2026/",
-      "runtime": 1776016800,
-      "datetime": "2026-04-12T18:00:00.000Z"
-    },
-    {
-      "name": "Pumas U.N.A.M. vs Mazatlan FC lúc 01:00",
-      "link": "/truc-tiep/pumas-u-n-a-m-vs-mazatlan-fc-luc-0100-ngay-13-04-2026/",
-      "runtime": 1776016800,
-      "datetime": "2026-04-12T18:00:00.000Z"
-    },
-    {
-      "name": "CA Platense vs Gimnasia Mendoza lúc 01:00",
-      "link": "/truc-tiep/ca-platense-vs-gimnasia-mendoza-luc-0100-ngay-13-04-2026/",
-      "runtime": 1776016800,
-      "datetime": "2026-04-12T18:00:00.000Z"
-    },
-    {
-      "name": "CFR Cluj vs Dinamo Bucuresti lúc 01:00 | LOGAN",
-      "link": "/truc-tiep/cfr-cluj-vs-dinamo-bucuresti-luc-0100-ngay-13-04-2026/",
-      "runtime": 1776016800,
-      "datetime": "2026-04-12T18:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Cuenca vs Ind. del Valle lúc 01:00",
-      "link": "/truc-tiep/deportivo-cuenca-vs-ind-del-valle-luc-0100-ngay-13-04-2026/",
-      "runtime": 1776016800,
-      "datetime": "2026-04-12T18:00:00.000Z"
-    },
-    {
-      "name": "Temperley vs Quilmes lúc 01:00",
-      "link": "/truc-tiep/temperley-vs-quilmes-luc-0100-ngay-13-04-2026/",
-      "runtime": 1776016800,
-      "datetime": "2026-04-12T18:00:00.000Z"
-    },
-    {
-      "name": "Team lynx vs Yellow Submarine lúc 01:00",
-      "link": "/truc-tiep/team-lynx-vs-yellow-submarine-luc-0100-ngay-13-04-2026/",
-      "runtime": 1776016800,
-      "datetime": "2026-04-12T18:00:00.000Z"
     },
     {
       "name": "Alan Magadan vs Roberto Cid Subervi lúc 01:20",
@@ -380,6 +338,84 @@
       "link": "/truc-tiep/zomblers-vs-regain-luc-0430-ngay-13-04-2026/",
       "runtime": 1776029400,
       "datetime": "2026-04-12T21:30:00.000Z"
+    },
+    {
+      "name": "CD Achuapa vs Malacateco lúc 05:00",
+      "link": "/truc-tiep/cd-achuapa-vs-malacateco-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Deportes Quindio vs Atletico FC lúc 05:00",
+      "link": "/truc-tiep/deportes-quindio-vs-atletico-fc-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Leones vs Real Santander lúc 05:00",
+      "link": "/truc-tiep/leones-vs-real-santander-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Itabaiana(SE) vs Ypiranga RS lúc 05:00",
+      "link": "/truc-tiep/itabaianase-vs-ypiranga-rs-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Amazonas FC vs Ituano  SP lúc 05:00",
+      "link": "/truc-tiep/amazonas-fc-vs-ituano-sp-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Rancho Santana FC vs Export Sebaco FC lúc 05:00",
+      "link": "/truc-tiep/rancho-santana-fc-vs-export-sebaco-fc-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Philadelphia 76ers vs Milwaukee Bucks lúc 05:00 | ALAN",
+      "link": "/truc-tiep/philadelphia-76ers-vs-milwaukee-bucks-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Toronto Raptors vs Brooklyn Nets lúc 05:00 | STEP",
+      "link": "/truc-tiep/toronto-raptors-vs-brooklyn-nets-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "New York Knicks vs Charlotte Hornets lúc 05:00",
+      "link": "/truc-tiep/new-york-knicks-vs-charlotte-hornets-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Indiana Pacers vs Detroit Pistons lúc 05:00",
+      "link": "/truc-tiep/indiana-pacers-vs-detroit-pistons-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Cleveland Cavaliers vs Washington Wizards lúc 05:00 | TOMMY",
+      "link": "/truc-tiep/cleveland-cavaliers-vs-washington-wizards-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Boston Celtics vs Orlando Magic lúc 05:00 | NEZHA",
+      "link": "/truc-tiep/boston-celtics-vs-orlando-magic-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
+    },
+    {
+      "name": "Miami Heat vs Atlanta Hawks lúc 05:00",
+      "link": "/truc-tiep/miami-heat-vs-atlanta-hawks-luc-0500-ngay-13-04-2026/",
+      "runtime": 1776031200,
+      "datetime": "2026-04-12T22:00:00.000Z"
     }
   ]
 }
