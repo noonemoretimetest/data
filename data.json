@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 67,
-  "updated_at": "2026-04-12T21:50:56.342Z",
+  "total_matches": 61,
+  "updated_at": "2026-04-12T22:27:21.338Z",
   "matches": [
     {
       "name": "Christo Popov/Toma Junior Popov vs Ben Lane/Sean Vendy lúc 18:00",
@@ -16,62 +16,8 @@
       "datetime": "2026-04-12T19:20:00.000Z"
     },
     {
-      "name": "Cavalry FC vs Atletico Ottawa lúc 03:00",
-      "link": "/truc-tiep/cavalry-fc-vs-atletico-ottawa-luc-0300-ngay-13-04-2026/",
-      "runtime": 1776024000,
-      "datetime": "2026-04-12T20:00:00.000Z"
-    },
-    {
-      "name": "Brazil U17 vs Venezuela U17 lúc 03:00",
-      "link": "/truc-tiep/brazil-u17-vs-venezuela-u17-luc-0300-ngay-13-04-2026/",
-      "runtime": 1776024000,
-      "datetime": "2026-04-12T20:00:00.000Z"
-    },
-    {
-      "name": "Argentina U17 vs Bolivia U17 lúc 03:00",
-      "link": "/truc-tiep/argentina-u17-vs-bolivia-u17-luc-0300-ngay-13-04-2026/",
-      "runtime": 1776024000,
-      "datetime": "2026-04-12T20:00:00.000Z"
-    },
-    {
-      "name": "Coban Imperial vs Guastatoya lúc 03:00",
-      "link": "/truc-tiep/coban-imperial-vs-guastatoya-luc-0300-ngay-13-04-2026/",
-      "runtime": 1776024000,
-      "datetime": "2026-04-12T20:00:00.000Z"
-    },
-    {
-      "name": "Club Atletico Guemes vs San Martin Tucuman lúc 03:00",
-      "link": "/truc-tiep/club-atletico-guemes-vs-san-martin-tucuman-luc-0300-ngay-13-04-2026/",
-      "runtime": 1776024000,
-      "datetime": "2026-04-12T20:00:00.000Z"
-    },
-    {
-      "name": "Central Norte Salta vs Atletico Mitre Estero lúc 03:00",
-      "link": "/truc-tiep/central-norte-salta-vs-atletico-mitre-estero-luc-0300-ngay-13-04-2026/",
-      "runtime": 1776024000,
-      "datetime": "2026-04-12T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Club America vs Nữ SC Corinthians lúc 03:00",
-      "link": "/truc-tiep/nu-club-america-vs-nu-sc-corinthians-luc-0300-ngay-13-04-2026/",
-      "runtime": 1776024000,
-      "datetime": "2026-04-12T20:00:00.000Z"
-    },
-    {
-      "name": "Franco Ribero vs Benjamin Torrealba lúc 03:10",
-      "link": "/truc-tiep/franco-ribero-vs-benjamin-torrealba-luc-0310-ngay-13-04-2026/",
-      "runtime": 1776024600,
-      "datetime": "2026-04-12T20:10:00.000Z"
-    },
-    {
       "name": "Atletico Tucuman vs Club Atletico Tigre lúc 03:30 | SILVA",
       "link": "/truc-tiep/atletico-tucuman-vs-club-atletico-tigre-luc-0330-ngay-13-04-2026/",
-      "runtime": 1776025800,
-      "datetime": "2026-04-12T20:30:00.000Z"
-    },
-    {
-      "name": "CA Huracan vs Rosario Central lúc 03:30 | NEMO",
-      "link": "/truc-tiep/ca-huracan-vs-rosario-central-luc-0330-ngay-13-04-2026/",
       "runtime": 1776025800,
       "datetime": "2026-04-12T20:30:00.000Z"
     },
@@ -84,12 +30,6 @@
     {
       "name": "Nữ Bucaramanga vs Nữ Orsomarso lúc 03:30",
       "link": "/truc-tiep/nu-bucaramanga-vs-nu-orsomarso-luc-0330-ngay-13-04-2026/",
-      "runtime": 1776025800,
-      "datetime": "2026-04-12T20:30:00.000Z"
-    },
-    {
-      "name": "Nữ Llaneros  vs Nữ Inter Palmira lúc 03:30",
-      "link": "/truc-tiep/nu-llaneros-vs-nu-inter-palmira-luc-0330-ngay-13-04-2026/",
       "runtime": 1776025800,
       "datetime": "2026-04-12T20:30:00.000Z"
     },
@@ -144,6 +84,12 @@
     {
       "name": "Sao Bernardo vs Fortaleza lúc 04:00",
       "link": "/truc-tiep/sao-bernardo-vs-fortaleza-luc-0400-ngay-13-04-2026/",
+      "runtime": 1776027600,
+      "datetime": "2026-04-12T21:00:00.000Z"
+    },
+    {
+      "name": "Rafael Tosetto vs Daniel Salazar lúc 04:00",
+      "link": "/truc-tiep/rafael-tosetto-vs-daniel-salazar-luc-0400-ngay-13-04-2026/",
       "runtime": 1776027600,
       "datetime": "2026-04-12T21:00:00.000Z"
     },
@@ -404,6 +350,24 @@
       "link": "/truc-tiep/racing-de-chivilcoy-vs-san-lorenzo-casla-luc-0630-ngay-13-04-2026/",
       "runtime": 1776036600,
       "datetime": "2026-04-12T23:30:00.000Z"
+    },
+    {
+      "name": "Ventura County FC vs Real Monarchs lúc 07:00",
+      "link": "/truc-tiep/ventura-county-fc-vs-real-monarchs-luc-0700-ngay-13-04-2026/",
+      "runtime": 1776038400,
+      "datetime": "2026-04-13T00:00:00.000Z"
+    },
+    {
+      "name": "AD San Carlos vs Guadalupe FC lúc 07:00",
+      "link": "/truc-tiep/ad-san-carlos-vs-guadalupe-fc-luc-0700-ngay-13-04-2026/",
+      "runtime": 1776038400,
+      "datetime": "2026-04-13T00:00:00.000Z"
+    },
+    {
+      "name": "Concepcion vs Cobresal lúc 07:00 | POLO",
+      "link": "/truc-tiep/concepcion-vs-cobresal-luc-0700-ngay-13-04-2026/",
+      "runtime": 1776038400,
+      "datetime": "2026-04-13T00:00:00.000Z"
     }
   ]
 }
