@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-04-12T16:57:51.370Z",
+  "total_matches": 64,
+  "updated_at": "2026-04-12T17:36:00.859Z",
   "matches": [
     {
       "name": "Christo Popov/Toma Junior Popov vs Ben Lane/Sean Vendy lúc 18:00",
@@ -14,60 +14,6 @@
       "link": "/truc-tiep/carlos-alcaraz-garfia-vs-jannik-sinner-luc-2000-ngay-12-04-2026/",
       "runtime": 1775998800,
       "datetime": "2026-04-12T13:00:00.000Z"
-    },
-    {
-      "name": "Team Vitality vs Shifters lúc 22:00",
-      "link": "/truc-tiep/team-vitality-vs-shifters-luc-2200-ngay-12-04-2026/",
-      "runtime": 1776006000,
-      "datetime": "2026-04-12T15:00:00.000Z"
-    },
-    {
-      "name": "Toulouse FC vs LOSC Lille lúc 22:15 | XMEN",
-      "link": "/truc-tiep/toulouse-fc-vs-losc-lille-luc-2215-ngay-12-04-2026/",
-      "runtime": 1776006900,
-      "datetime": "2026-04-12T15:15:00.000Z"
-    },
-    {
-      "name": "OGC Nice vs Le Havre FC lúc 22:15 | RYAN",
-      "link": "/truc-tiep/ogc-nice-vs-le-havre-fc-luc-2215-ngay-12-04-2026/",
-      "runtime": 1776006900,
-      "datetime": "2026-04-12T15:15:00.000Z"
-    },
-    {
-      "name": "Unirea Slobozia vs Petrolul lúc 22:15",
-      "link": "/truc-tiep/unirea-slobozia-vs-petrolul-luc-2215-ngay-12-04-2026/",
-      "runtime": 1776006900,
-      "datetime": "2026-04-12T15:15:00.000Z"
-    },
-    {
-      "name": "Spezia vs Mantova lúc 22:15",
-      "link": "/truc-tiep/spezia-vs-mantova-luc-2215-ngay-12-04-2026/",
-      "runtime": 1776006900,
-      "datetime": "2026-04-12T15:15:00.000Z"
-    },
-    {
-      "name": "Chelsea vs Manchester City lúc 22:30 | ROY - NICK - LOUIS",
-      "link": "/truc-tiep/chelsea-vs-manchester-city-luc-2230-ngay-12-04-2026/",
-      "runtime": 1776007800,
-      "datetime": "2026-04-12T15:30:00.000Z"
-    },
-    {
-      "name": "VfB Stuttgart vs Hamburger SV lúc 22:30 | YUNO",
-      "link": "/truc-tiep/vfb-stuttgart-vs-hamburger-sv-luc-2230-ngay-12-04-2026/",
-      "runtime": 1776007800,
-      "datetime": "2026-04-12T15:30:00.000Z"
-    },
-    {
-      "name": "Lech Poznan vs GKS Katowice lúc 22:30",
-      "link": "/truc-tiep/lech-poznan-vs-gks-katowice-luc-2230-ngay-12-04-2026/",
-      "runtime": 1776007800,
-      "datetime": "2026-04-12T15:30:00.000Z"
-    },
-    {
-      "name": "Nữ Anh U19 vs Nữ Xứ Wales U19 lúc 22:30",
-      "link": "/truc-tiep/nu-anh-u19-vs-nu-xu-wales-u19-luc-2230-ngay-12-04-2026/",
-      "runtime": 1776007800,
-      "datetime": "2026-04-12T15:30:00.000Z"
     },
     {
       "name": "Bologna vs Lecce lúc 23:00 | KEN",
@@ -344,6 +290,102 @@
       "link": "/truc-tiep/lyon-vs-lorient-luc-0145-ngay-13-04-2026/",
       "runtime": 1776019500,
       "datetime": "2026-04-12T18:45:00.000Z"
+    },
+    {
+      "name": "Athletic Bilbao vs Villarreal lúc 02:00 | ROY",
+      "link": "/truc-tiep/athletic-bilbao-vs-villarreal-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Botafogo RJ vs Coritiba PR lúc 02:00 | HELLO",
+      "link": "/truc-tiep/botafogo-rj-vs-coritiba-pr-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Racing Santander vs Almeria lúc 02:00 | KEN",
+      "link": "/truc-tiep/racing-santander-vs-almeria-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Philadelphia Union II vs Carolina Core lúc 02:00",
+      "link": "/truc-tiep/philadelphia-union-ii-vs-carolina-core-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Millonarios vs Ind. Santa Fe lúc 02:00 | XMEN",
+      "link": "/truc-tiep/millonarios-vs-ind-santa-fe-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Maghreb Fez vs Wydad AC lúc 02:00",
+      "link": "/truc-tiep/maghreb-fez-vs-wydad-ac-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Real Oruro vs Blooming lúc 02:00",
+      "link": "/truc-tiep/real-oruro-vs-blooming-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Agropecuario vs Gimnasia Jujuy lúc 02:00",
+      "link": "/truc-tiep/agropecuario-vs-gimnasia-jujuy-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Deportivo Madryn vs Almirante Brown lúc 02:00",
+      "link": "/truc-tiep/deportivo-madryn-vs-almirante-brown-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Nữ Indy Ignite  vs Nữ Atlanta Vibe  lúc 02:00",
+      "link": "/truc-tiep/nu-indy-ignite-vs-nu-atlanta-vibe-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "LOS vs LOUD lúc 02:00",
+      "link": "/truc-tiep/los-vs-loud-luc-0200-ngay-13-04-2026/",
+      "runtime": 1776020400,
+      "datetime": "2026-04-12T19:00:00.000Z"
+    },
+    {
+      "name": "Maccabi Tel Aviv vs Hapoel Tel Aviv lúc 02:15 | STEP",
+      "link": "/truc-tiep/maccabi-tel-aviv-vs-hapoel-tel-aviv-luc-0215-ngay-13-04-2026/",
+      "runtime": 1776021300,
+      "datetime": "2026-04-12T19:15:00.000Z"
+    },
+    {
+      "name": "Estoril vs FC Porto lúc 02:30 | DAVID",
+      "link": "/truc-tiep/estoril-vs-fc-porto-luc-0230-ngay-13-04-2026/",
+      "runtime": 1776022200,
+      "datetime": "2026-04-12T19:30:00.000Z"
+    },
+    {
+      "name": "Fram Reykjavik vs Akranes lúc 02:30",
+      "link": "/truc-tiep/fram-reykjavik-vs-akranes-luc-0230-ngay-13-04-2026/",
+      "runtime": 1776022200,
+      "datetime": "2026-04-12T19:30:00.000Z"
+    },
+    {
+      "name": "Nữ Bờ Biển Ngà vs Turks and Caicos Islands Women lúc 02:30",
+      "link": "/truc-tiep/nu-bo-bien-nga-vs-turks-and-caicos-islands-women-luc-0230-ngay-13-04-2026/",
+      "runtime": 1776022200,
+      "datetime": "2026-04-12T19:30:00.000Z"
+    },
+    {
+      "name": "Nữ Atl.Nacional vs Nữ Real Santander lúc 02:30",
+      "link": "/truc-tiep/nu-atl-nacional-vs-nu-real-santander-luc-0230-ngay-13-04-2026/",
+      "runtime": 1776022200,
+      "datetime": "2026-04-12T19:30:00.000Z"
     }
   ]
 }
