@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 33,
-  "updated_at": "2026-04-16T21:25:59.314Z",
+  "total_matches": 34,
+  "updated_at": "2026-04-16T22:22:52.286Z",
   "matches": [
     {
       "name": "Christo Popov/Toma Junior Popov vs Ben Lane/Sean Vendy lúc 18:00",
@@ -10,56 +10,8 @@
       "datetime": "2026-04-12T11:00:00.000Z"
     },
     {
-      "name": "Marienlyst vs Ikast lúc 01:00",
-      "link": "/truc-tiep/marienlyst-vs-ikast-luc-0100-ngay-17-04-2026/",
-      "runtime": 1776362400,
-      "datetime": "2026-04-16T18:00:00.000Z"
-    },
-    {
-      "name": "Leylah Fernandez vs Zeynep Sonmez lúc 00:40",
-      "link": "/truc-tiep/leylah-fernandez-vs-zeynep-sonmez-luc-0040-ngay-17-04-2026/",
-      "runtime": 1776363900,
-      "datetime": "2026-04-16T18:25:00.000Z"
-    },
-    {
-      "name": "Nữ Bờ Biển Ngà vs Nữ Pakistan lúc 02:30 | SILVA",
-      "link": "/truc-tiep/nu-bo-bien-nga-vs-nu-pakistan-luc-0230-ngay-17-04-2026/",
-      "runtime": 1776367800,
-      "datetime": "2026-04-16T19:30:00.000Z"
-    },
-    {
-      "name": "Brazil U17 vs Colombia U17 lúc 03:00",
-      "link": "/truc-tiep/brazil-u17-vs-colombia-u17-luc-0300-ngay-17-04-2026/",
-      "runtime": 1776369600,
-      "datetime": "2026-04-16T20:00:00.000Z"
-    },
-    {
-      "name": "Uruguay U17 vs Venezuela U17 lúc 03:00",
-      "link": "/truc-tiep/uruguay-u17-vs-venezuela-u17-luc-0300-ngay-17-04-2026/",
-      "runtime": 1776369600,
-      "datetime": "2026-04-16T20:00:00.000Z"
-    },
-    {
-      "name": "Hugo Dellien vs Santiago Rodriguez Taverna lúc 03:00",
-      "link": "/truc-tiep/hugo-dellien-vs-santiago-rodriguez-taverna-luc-0300-ngay-17-04-2026/",
-      "runtime": 1776369600,
-      "datetime": "2026-04-16T20:00:00.000Z"
-    },
-    {
-      "name": "CCG Esports vs Blue Otter lúc 03:00",
-      "link": "/truc-tiep/ccg-esports-vs-blue-otter-luc-0300-ngay-17-04-2026/",
-      "runtime": 1776369600,
-      "datetime": "2026-04-16T20:00:00.000Z"
-    },
-    {
       "name": "Indep. Juniors vs Vargas Torres lúc 03:30",
       "link": "/truc-tiep/indep-juniors-vs-vargas-torres-luc-0330-ngay-17-04-2026/",
-      "runtime": 1776371400,
-      "datetime": "2026-04-16T20:30:00.000Z"
-    },
-    {
-      "name": "Alvares vs Academica de Espinho lúc 03:30",
-      "link": "/truc-tiep/alvares-vs-academica-de-espinho-luc-0330-ngay-17-04-2026/",
       "runtime": 1776371400,
       "datetime": "2026-04-16T20:30:00.000Z"
     },
@@ -154,6 +106,12 @@
       "datetime": "2026-04-16T22:00:00.000Z"
     },
     {
+      "name": "Caimanes del Llano vs Cimarrones del Choco lúc 08:00",
+      "link": "/truc-tiep/caimanes-del-llano-vs-cimarrones-del-choco-luc-0800-ngay-17-04-2026/",
+      "runtime": 1776376800,
+      "datetime": "2026-04-16T22:00:00.000Z"
+    },
+    {
       "name": "Valerio Aboian vs Thiago Seyboth Wild lúc 05:00",
       "link": "/truc-tiep/valerio-aboian-vs-thiago-seyboth-wild-luc-0500-ngay-17-04-2026/",
       "runtime": 1776376800,
@@ -200,6 +158,54 @@
       "link": "/truc-tiep/daniil-glinka-vs-darwin-blanch-luc-0610-ngay-17-04-2026/",
       "runtime": 1776381000,
       "datetime": "2026-04-16T23:10:00.000Z"
+    },
+    {
+      "name": "Operario MS vs Primavera AC lúc 06:30 | POLO",
+      "link": "/truc-tiep/operario-ms-vs-primavera-ac-luc-0630-ngay-17-04-2026/",
+      "runtime": 1776382200,
+      "datetime": "2026-04-16T23:30:00.000Z"
+    },
+    {
+      "name": "Pinheiros Sao Paolo vs Pato lúc 06:30",
+      "link": "/truc-tiep/pinheiros-sao-paolo-vs-pato-luc-0630-ngay-17-04-2026/",
+      "runtime": 1776382200,
+      "datetime": "2026-04-16T23:30:00.000Z"
+    },
+    {
+      "name": "MIBR Academy vs Uno Mille lúc 06:45",
+      "link": "/truc-tiep/mibr-academy-vs-uno-mille-luc-0645-ngay-17-04-2026/",
+      "runtime": 1776383100,
+      "datetime": "2026-04-16T23:45:00.000Z"
+    },
+    {
+      "name": "Procyon vs Vasco lúc 06:45",
+      "link": "/truc-tiep/procyon-vs-vasco-luc-0645-ngay-17-04-2026/",
+      "runtime": 1776383100,
+      "datetime": "2026-04-16T23:45:00.000Z"
+    },
+    {
+      "name": "CD El Nacional vs Atletico Futbol Club lúc 07:00",
+      "link": "/truc-tiep/cd-el-nacional-vs-atletico-futbol-club-luc-0700-ngay-17-04-2026/",
+      "runtime": 1776384000,
+      "datetime": "2026-04-17T00:00:00.000Z"
+    },
+    {
+      "name": "Instituto de Cordoba vs Quimsa lúc 07:00 | NEZHA",
+      "link": "/truc-tiep/instituto-de-cordoba-vs-quimsa-luc-0700-ngay-17-04-2026/",
+      "runtime": 1776384000,
+      "datetime": "2026-04-17T00:00:00.000Z"
+    },
+    {
+      "name": "Minas vs Suzano Volei lúc 07:00",
+      "link": "/truc-tiep/minas-vs-suzano-volei-luc-0700-ngay-17-04-2026/",
+      "runtime": 1776384000,
+      "datetime": "2026-04-17T00:00:00.000Z"
+    },
+    {
+      "name": "mouse vs Zomblers lúc 07:00",
+      "link": "/truc-tiep/mouse-vs-zomblers-luc-0700-ngay-17-04-2026/",
+      "runtime": 1776384000,
+      "datetime": "2026-04-17T00:00:00.000Z"
     }
   ]
 }
