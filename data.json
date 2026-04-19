@@ -1,79 +1,13 @@
 {
   "success": true,
-  "total_matches": 60,
-  "updated_at": "2026-04-19T20:04:51.606Z",
+  "total_matches": 55,
+  "updated_at": "2026-04-19T20:55:56.475Z",
   "matches": [
     {
       "name": "Christo Popov/Toma Junior Popov vs Ben Lane/Sean Vendy lúc 18:00",
       "link": "/truc-tiep/christo-popov-toma-junior-popov-vs-ben-lane-sean-vendy-luc-1800-ngay-12-04-2026/",
       "runtime": 1775991600,
       "datetime": "2026-04-12T11:00:00.000Z"
-    },
-    {
-      "name": "Nữ Columbus Fury vs Nữ Grand Rapids Rise  lúc 01:00",
-      "link": "/truc-tiep/nu-columbus-fury-vs-nu-grand-rapids-rise-luc-0100-ngay-20-04-2026/",
-      "runtime": 1776621600,
-      "datetime": "2026-04-19T18:00:00.000Z"
-    },
-    {
-      "name": "L1ga Team vs Estar Backs lúc 01:00",
-      "link": "/truc-tiep/l1ga-team-vs-estar-backs-luc-0100-ngay-20-04-2026/",
-      "runtime": 1776621600,
-      "datetime": "2026-04-19T18:00:00.000Z"
-    },
-    {
-      "name": "Supra Du Quebec vs Atletico Ottawa lúc 01:00",
-      "link": "/truc-tiep/supra-du-quebec-vs-atletico-ottawa-luc-0100-ngay-20-04-2026/",
-      "runtime": 1776622200,
-      "datetime": "2026-04-19T18:10:00.000Z"
-    },
-    {
-      "name": "Giugliano vs Benevento lúc 01:30",
-      "link": "/truc-tiep/giugliano-vs-benevento-luc-0130-ngay-20-04-2026/",
-      "runtime": 1776623400,
-      "datetime": "2026-04-19T18:30:00.000Z"
-    },
-    {
-      "name": "Catania FC vs Potenza lúc 01:30",
-      "link": "/truc-tiep/catania-fc-vs-potenza-luc-0130-ngay-20-04-2026/",
-      "runtime": 1776623400,
-      "datetime": "2026-04-19T18:30:00.000Z"
-    },
-    {
-      "name": "Latina Calcio 1932 vs US Casertana 1908 lúc 01:30",
-      "link": "/truc-tiep/latina-calcio-1932-vs-us-casertana-1908-luc-0130-ngay-20-04-2026/",
-      "runtime": 1776623400,
-      "datetime": "2026-04-19T18:30:00.000Z"
-    },
-    {
-      "name": "Gimnasia Jujuy vs Almagro lúc 01:30",
-      "link": "/truc-tiep/gimnasia-jujuy-vs-almagro-luc-0130-ngay-20-04-2026/",
-      "runtime": 1776623400,
-      "datetime": "2026-04-19T18:30:00.000Z"
-    },
-    {
-      "name": "Salernitana vs AZ Picerno ASD lúc 01:30",
-      "link": "/truc-tiep/salernitana-vs-az-picerno-asd-luc-0130-ngay-20-04-2026/",
-      "runtime": 1776623400,
-      "datetime": "2026-04-19T18:30:00.000Z"
-    },
-    {
-      "name": "Nicolás Kicker vs Johannes Ingildsen lúc 01:40",
-      "link": "/truc-tiep/nicolas-kicker-vs-johannes-ingildsen-luc-0140-ngay-20-04-2026/",
-      "runtime": 1776624000,
-      "datetime": "2026-04-19T18:40:00.000Z"
-    },
-    {
-      "name": "Juventus vs Bologna lúc 01:45 | ROY",
-      "link": "/truc-tiep/juventus-vs-bologna-luc-0145-ngay-20-04-2026/",
-      "runtime": 1776624300,
-      "datetime": "2026-04-19T18:45:00.000Z"
-    },
-    {
-      "name": "PSG vs Lyon lúc 01:45 | NICK",
-      "link": "/truc-tiep/psg-vs-lyon-luc-0145-ngay-20-04-2026/",
-      "runtime": 1776624300,
-      "datetime": "2026-04-19T18:45:00.000Z"
     },
     {
       "name": "Al-Ahli Doha vs Al-Hussein SC (Irbid) lúc 02:00 | ASTRA",
@@ -130,12 +64,6 @@
       "datetime": "2026-04-19T19:00:00.000Z"
     },
     {
-      "name": "Nữ Orlando Valkyries  vs Nữ San Diego Mojo  lúc 02:00",
-      "link": "/truc-tiep/nu-orlando-valkyries-vs-nu-san-diego-mojo-luc-0200-ngay-20-04-2026/",
-      "runtime": 1776625200,
-      "datetime": "2026-04-19T19:00:00.000Z"
-    },
-    {
       "name": "RED Canids vs Vivo Keyd Stars lúc 02:00",
       "link": "/truc-tiep/red-canids-vs-vivo-keyd-stars-luc-0200-ngay-20-04-2026/",
       "runtime": 1776625200,
@@ -170,6 +98,12 @@
       "link": "/truc-tiep/oklahoma-city-thunder-vs-phoenix-suns-luc-0230-ngay-20-04-2026/",
       "runtime": 1776627000,
       "datetime": "2026-04-19T19:30:00.000Z"
+    },
+    {
+      "name": "Nicolás Kicker vs Johannes Ingildsen lúc 01:40",
+      "link": "/truc-tiep/nicolas-kicker-vs-johannes-ingildsen-luc-0140-ngay-20-04-2026/",
+      "runtime": 1776627300,
+      "datetime": "2026-04-19T19:35:00.000Z"
     },
     {
       "name": "Alan Magadan vs Bruno Kuzuhara lúc 02:50",
@@ -362,6 +296,42 @@
       "link": "/truc-tiep/nu-indy-ignite-vs-nu-dallas-pulse-luc-0500-ngay-20-04-2026/",
       "runtime": 1776636000,
       "datetime": "2026-04-19T22:00:00.000Z"
+    },
+    {
+      "name": "FBC Melgar vs Uni. Deportes lúc 05:15",
+      "link": "/truc-tiep/fbc-melgar-vs-uni-deportes-luc-0515-ngay-20-04-2026/",
+      "runtime": 1776636900,
+      "datetime": "2026-04-19T22:15:00.000Z"
+    },
+    {
+      "name": "Flamengo RJ vs Bahia - BA lúc 05:30 | YUNO",
+      "link": "/truc-tiep/flamengo-rj-vs-bahia-ba-luc-0530-ngay-20-04-2026-2/",
+      "runtime": 1776637800,
+      "datetime": "2026-04-19T22:30:00.000Z"
+    },
+    {
+      "name": "Liverpool URU vs Nacional Montevideo lúc 05:30",
+      "link": "/truc-tiep/liverpool-uru-vs-nacional-montevideo-luc-0530-ngay-20-04-2026/",
+      "runtime": 1776637800,
+      "datetime": "2026-04-19T22:30:00.000Z"
+    },
+    {
+      "name": "Colo Colo vs Palestino lúc 05:30",
+      "link": "/truc-tiep/colo-colo-vs-palestino-luc-0530-ngay-20-04-2026/",
+      "runtime": 1776637800,
+      "datetime": "2026-04-19T22:30:00.000Z"
+    },
+    {
+      "name": "Racing de Cordoba vs Def .de Belgrano lúc 05:30",
+      "link": "/truc-tiep/racing-de-cordoba-vs-def-de-belgrano-luc-0530-ngay-20-04-2026/",
+      "runtime": 1776637800,
+      "datetime": "2026-04-19T22:30:00.000Z"
+    },
+    {
+      "name": "Detroit Pistons vs Orlando Magic lúc 05:30 | STEP",
+      "link": "/truc-tiep/detroit-pistons-vs-orlando-magic-luc-0530-ngay-20-04-2026/",
+      "runtime": 1776637800,
+      "datetime": "2026-04-19T22:30:00.000Z"
     }
   ]
 }
