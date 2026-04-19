@@ -1,37 +1,13 @@
 {
   "success": true,
-  "total_matches": 63,
-  "updated_at": "2026-04-18T23:32:55.514Z",
+  "total_matches": 64,
+  "updated_at": "2026-04-19T00:03:33.192Z",
   "matches": [
     {
       "name": "Christo Popov/Toma Junior Popov vs Ben Lane/Sean Vendy lúc 18:00",
       "link": "/truc-tiep/christo-popov-toma-junior-popov-vs-ben-lane-sean-vendy-luc-1800-ngay-12-04-2026/",
       "runtime": 1775991600,
       "datetime": "2026-04-12T11:00:00.000Z"
-    },
-    {
-      "name": "Vasco da Gama vs São Paulo lúc 04:30",
-      "link": "/truc-tiep/vasco-da-gama-vs-sao-paulo-luc-0430-ngay-19-04-2026/",
-      "runtime": 1776547800,
-      "datetime": "2026-04-18T21:30:00.000Z"
-    },
-    {
-      "name": "Nữ Bermuda vs Nữ Grenada lúc 05:00 | RIO",
-      "link": "/truc-tiep/nu-bermuda-vs-nu-grenada-luc-0500-ngay-19-04-2026/",
-      "runtime": 1776549600,
-      "datetime": "2026-04-18T22:00:00.000Z"
-    },
-    {
-      "name": "Guadalupe FC vs Municipal Pérez Zeledón lúc 05:00",
-      "link": "/truc-tiep/guadalupe-fc-vs-municipal-perez-zeledon-luc-0500-ngay-19-04-2026/",
-      "runtime": 1776549600,
-      "datetime": "2026-04-18T22:00:00.000Z"
-    },
-    {
-      "name": "Marcilio Dias SC vs EC São José-PA lúc 05:00",
-      "link": "/truc-tiep/marcilio-dias-sc-vs-ec-sao-jose-pa-luc-0500-ngay-19-04-2026/",
-      "runtime": 1776549600,
-      "datetime": "2026-04-18T22:00:00.000Z"
     },
     {
       "name": "Portuguesa Carioca vs Madureira lúc 05:00",
@@ -154,12 +130,6 @@
       "datetime": "2026-04-18T23:30:00.000Z"
     },
     {
-      "name": "Atlanta United vs Nashville lúc 06:30 | TONI",
-      "link": "/truc-tiep/atlanta-united-vs-nashville-luc-0630-ngay-19-04-2026/",
-      "runtime": 1776555000,
-      "datetime": "2026-04-18T23:30:00.000Z"
-    },
-    {
       "name": "Orlando City vs Houston Dynamo lúc 06:30",
       "link": "/truc-tiep/orlando-city-vs-houston-dynamo-luc-0630-ngay-19-04-2026/",
       "runtime": 1776555000,
@@ -200,6 +170,12 @@
       "link": "/truc-tiep/deportivo-recoleta-vs-sportivo-2-de-mayo-luc-0630-ngay-19-04-2026/",
       "runtime": 1776555000,
       "datetime": "2026-04-18T23:30:00.000Z"
+    },
+    {
+      "name": "Atlanta United vs Nashville lúc 06:30 | TONI",
+      "link": "/truc-tiep/atlanta-united-vs-nashville-luc-0630-ngay-19-04-2026/",
+      "runtime": 1776555600,
+      "datetime": "2026-04-18T23:40:00.000Z"
     },
     {
       "name": "CRB AL vs Juventude lúc 06:45",
@@ -380,6 +356,36 @@
       "link": "/truc-tiep/atletico-choloma-vs-cd-olimpia-luc-0830-ngay-19-04-2026/",
       "runtime": 1776562200,
       "datetime": "2026-04-19T01:30:00.000Z"
+    },
+    {
+      "name": "CS Herediano vs AD San Carlos lúc 09:00",
+      "link": "/truc-tiep/cs-herediano-vs-ad-san-carlos-luc-0900-ngay-19-04-2026/",
+      "runtime": 1776564000,
+      "datetime": "2026-04-19T02:00:00.000Z"
+    },
+    {
+      "name": "Orange County vs Lexington lúc 09:00",
+      "link": "/truc-tiep/orange-county-vs-lexington-luc-0900-ngay-19-04-2026/",
+      "runtime": 1776564000,
+      "datetime": "2026-04-19T02:00:00.000Z"
+    },
+    {
+      "name": "Oakland Roots vs FC Tulsa lúc 09:00",
+      "link": "/truc-tiep/oakland-roots-vs-fc-tulsa-luc-0900-ngay-19-04-2026/",
+      "runtime": 1776564000,
+      "datetime": "2026-04-19T02:00:00.000Z"
+    },
+    {
+      "name": "James Kent Trotter vs Patrick Zahraj lúc 09:00",
+      "link": "/truc-tiep/james-kent-trotter-vs-patrick-zahraj-luc-0900-ngay-19-04-2026/",
+      "runtime": 1776564000,
+      "datetime": "2026-04-19T02:00:00.000Z"
+    },
+    {
+      "name": "Renta Tokuda vs Shin Woo-bin  lúc 09:00",
+      "link": "/truc-tiep/renta-tokuda-vs-shin-woo-bin-luc-0900-ngay-19-04-2026/",
+      "runtime": 1776564000,
+      "datetime": "2026-04-19T02:00:00.000Z"
     }
   ]
 }
