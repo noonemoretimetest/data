@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 37,
-  "updated_at": "2026-04-24T21:33:16.513Z",
+  "total_matches": 41,
+  "updated_at": "2026-04-24T22:25:23.632Z",
   "matches": [
-    {
-      "name": "Đan Mạch vs Hàn Quốc lúc 23:30",
-      "link": "/truc-tiep/dan-mach-vs-han-quoc-luc-2330-ngay-24-04-2026/",
-      "runtime": 1777048200,
-      "datetime": "2026-04-24T16:30:00.000Z"
-    },
-    {
-      "name": "Thiago Agustin Tirante vs Tommy Paul lúc 01:10",
-      "link": "/truc-tiep/thiago-agustin-tirante-vs-tommy-paul-luc-0110-ngay-25-04-2026/",
-      "runtime": 1777054800,
-      "datetime": "2026-04-24T18:20:00.000Z"
-    },
-    {
-      "name": "Jessica Pegula vs Katie Boulter lúc 02:10 | LUCAS",
-      "link": "/truc-tiep/jessica-pegula-vs-katie-boulter-luc-0210-ngay-25-04-2026/",
-      "runtime": 1777059000,
-      "datetime": "2026-04-24T19:30:00.000Z"
-    },
     {
       "name": "Deportivo Riestra vs CA Independiente lúc 03:00 | LOGAN",
       "link": "/truc-tiep/deportivo-riestra-vs-ca-independiente-luc-0300-ngay-25-04-2026/",
@@ -82,20 +64,8 @@
       "datetime": "2026-04-24T21:00:00.000Z"
     },
     {
-      "name": "Talleres Remedios (R) vs Belgrano (R) lúc 04:00",
-      "link": "/truc-tiep/talleres-remedios-r-vs-belgrano-r-luc-0400-ngay-25-04-2026/",
-      "runtime": 1777064400,
-      "datetime": "2026-04-24T21:00:00.000Z"
-    },
-    {
       "name": "CDSC Aguara vs Malleco Unido lúc 04:00",
       "link": "/truc-tiep/cdsc-aguara-vs-malleco-unido-luc-0400-ngay-25-04-2026/",
-      "runtime": 1777064400,
-      "datetime": "2026-04-24T21:00:00.000Z"
-    },
-    {
-      "name": "Windsor Express vs KW Titans lúc 04:00",
-      "link": "/truc-tiep/windsor-express-vs-kw-titans-luc-0400-ngay-25-04-2026/",
       "runtime": 1777064400,
       "datetime": "2026-04-24T21:00:00.000Z"
     },
@@ -220,10 +190,64 @@
       "datetime": "2026-04-24T23:00:00.000Z"
     },
     {
+      "name": "Dorado Gaming vs Apex Mission Impossible lúc 06:00",
+      "link": "/truc-tiep/dorado-gaming-vs-apex-mission-impossible-luc-0600-ngay-25-04-2026/",
+      "runtime": 1777071600,
+      "datetime": "2026-04-24T23:00:00.000Z"
+    },
+    {
+      "name": "Crashers vs Vasco lúc 05:00",
+      "link": "/truc-tiep/crashers-vs-vasco-luc-0500-ngay-25-04-2026/",
+      "runtime": 1777071600,
+      "datetime": "2026-04-24T23:00:00.000Z"
+    },
+    {
       "name": "Tigres Zipaquira vs Cortulua lúc 06:10",
       "link": "/truc-tiep/tigres-zipaquira-vs-cortulua-luc-0610-ngay-25-04-2026/",
       "runtime": 1777072200,
       "datetime": "2026-04-24T23:10:00.000Z"
+    },
+    {
+      "name": "Vargas Torres vs San Antonio(ECU) lúc 07:00",
+      "link": "/truc-tiep/vargas-torres-vs-san-antonioecu-luc-0700-ngay-25-04-2026/",
+      "runtime": 1777075200,
+      "datetime": "2026-04-25T00:00:00.000Z"
+    },
+    {
+      "name": "In. Petrolero vs UD Vinto lúc 07:00",
+      "link": "/truc-tiep/in-petrolero-vs-ud-vinto-luc-0700-ngay-25-04-2026/",
+      "runtime": 1777075200,
+      "datetime": "2026-04-25T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Washington Spirit vs Nữ Kansas City lúc 07:00",
+      "link": "/truc-tiep/nu-washington-spirit-vs-nu-kansas-city-luc-0700-ngay-25-04-2026/",
+      "runtime": 1777075200,
+      "datetime": "2026-04-25T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ SC Corinthians vs Nữ Ferroviaria SP lúc 07:00",
+      "link": "/truc-tiep/nu-sc-corinthians-vs-nu-ferroviaria-sp-luc-0700-ngay-25-04-2026/",
+      "runtime": 1777075200,
+      "datetime": "2026-04-25T00:00:00.000Z"
+    },
+    {
+      "name": "Houston Rockets vs Los Angeles Lakers lúc 07:00 | NEZHA",
+      "link": "/truc-tiep/houston-rockets-vs-los-angeles-lakers-luc-0700-ngay-25-04-2026/",
+      "runtime": 1777075200,
+      "datetime": "2026-04-25T00:00:00.000Z"
+    },
+    {
+      "name": "Rio Claro Basquete vs Pinheiros Sao Paolo lúc 07:00",
+      "link": "/truc-tiep/rio-claro-basquete-vs-pinheiros-sao-paolo-luc-0700-ngay-25-04-2026/",
+      "runtime": 1777075200,
+      "datetime": "2026-04-25T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Omaha Supernovas vs Nữ Columbus Fury lúc 07:00",
+      "link": "/truc-tiep/nu-omaha-supernovas-vs-nu-columbus-fury-luc-0700-ngay-25-04-2026/",
+      "runtime": 1777075200,
+      "datetime": "2026-04-25T00:00:00.000Z"
     }
   ]
 }
