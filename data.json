@@ -1,73 +1,13 @@
 {
   "success": true,
-  "total_matches": 91,
-  "updated_at": "2026-04-25T11:06:50.482Z",
+  "total_matches": 85,
+  "updated_at": "2026-04-25T11:56:18.008Z",
   "matches": [
-    {
-      "name": "Nữ Malaysia vs Nữ Thổ Nhĩ Kỳ lúc 13:30",
-      "link": "/truc-tiep/nu-malaysia-vs-nu-tho-nhi-ky-luc-1330-ngay-25-04-2026/",
-      "runtime": 1777098600,
-      "datetime": "2026-04-25T06:30:00.000Z"
-    },
     {
       "name": "Zero Tenacity vs Nemiga Gaming lúc 16:00",
       "link": "/truc-tiep/zero-tenacity-vs-nemiga-gaming-luc-1600-ngay-25-04-2026/",
       "runtime": 1777107480,
       "datetime": "2026-04-25T08:58:00.000Z"
-    },
-    {
-      "name": "Taipei Taishin Mars vs Hsinchu Lioneers lúc 16:00 | NEZHA",
-      "link": "/truc-tiep/taipei-taishin-mars-vs-hsinchu-lioneers-luc-1600-ngay-25-04-2026/",
-      "runtime": 1777107600,
-      "datetime": "2026-04-25T09:00:00.000Z"
-    },
-    {
-      "name": "Nữ Bukovynka vs Nữ Balta lúc 16:00",
-      "link": "/truc-tiep/nu-bukovynka-vs-nu-balta-luc-1600-ngay-25-04-2026/",
-      "runtime": 1777107600,
-      "datetime": "2026-04-25T09:00:00.000Z"
-    },
-    {
-      "name": "V-Varen Nagasaki vs Gamba Osaka lúc 16:30 | SILVA",
-      "link": "/truc-tiep/v-varen-nagasaki-vs-gamba-osaka-luc-1630-ngay-25-04-2026/",
-      "runtime": 1777109400,
-      "datetime": "2026-04-25T09:30:00.000Z"
-    },
-    {
-      "name": "FUMC Club vs Bangladesh Police lúc 16:30",
-      "link": "/truc-tiep/fumc-club-vs-bangladesh-police-luc-1630-ngay-25-04-2026/",
-      "runtime": 1777109400,
-      "datetime": "2026-04-25T09:30:00.000Z"
-    },
-    {
-      "name": "Bashundhara Kings vs Brothers Union lúc 16:30",
-      "link": "/truc-tiep/bashundhara-kings-vs-brothers-union-luc-1630-ngay-25-04-2026/",
-      "runtime": 1777109400,
-      "datetime": "2026-04-25T09:30:00.000Z"
-    },
-    {
-      "name": "PWD Sports Club vs Mohammedan Dhaka lúc 16:30",
-      "link": "/truc-tiep/pwd-sports-club-vs-mohammedan-dhaka-luc-1630-ngay-25-04-2026/",
-      "runtime": 1777109400,
-      "datetime": "2026-04-25T09:30:00.000Z"
-    },
-    {
-      "name": "Team Liquid vs South America Rejects lúc 17:00",
-      "link": "/truc-tiep/team-liquid-vs-south-america-rejects-luc-1700-ngay-25-04-2026/",
-      "runtime": 1777109580,
-      "datetime": "2026-04-25T09:33:00.000Z"
-    },
-    {
-      "name": "Western Sydney vs Melbourne Victory lúc 16:35 | NICK",
-      "link": "/truc-tiep/western-sydney-vs-melbourne-victory-luc-1635-ngay-25-04-2026/",
-      "runtime": 1777110600,
-      "datetime": "2026-04-25T09:50:00.000Z"
-    },
-    {
-      "name": "Than Quảng Ninh vs Bà Rịa Vũng Tàu lúc 17:00 | HELLO",
-      "link": "/truc-tiep/than-quang-ninh-vs-ba-ria-vung-tau-luc-1700-ngay-25-04-2026/",
-      "runtime": 1777111200,
-      "datetime": "2026-04-25T10:00:00.000Z"
     },
     {
       "name": "FC Ryukyu vs Oita Trinita lúc 17:00 | POLO",
@@ -84,12 +24,6 @@
     {
       "name": "Okzhetpes vs Kaisar Kyzylorda lúc 17:00",
       "link": "/truc-tiep/okzhetpes-vs-kaisar-kyzylorda-luc-1700-ngay-25-04-2026/",
-      "runtime": 1777111200,
-      "datetime": "2026-04-25T10:00:00.000Z"
-    },
-    {
-      "name": "Nữ AC Taipei vs Nữ Valkyrie lúc 17:00",
-      "link": "/truc-tiep/nu-ac-taipei-vs-nu-valkyrie-luc-1700-ngay-25-04-2026/",
       "runtime": 1777111200,
       "datetime": "2026-04-25T10:00:00.000Z"
     },
@@ -116,18 +50,6 @@
       "link": "/truc-tiep/barnaul-vs-lokomotiv-izumrud-luc-1700-ngay-25-04-2026/",
       "runtime": 1777111200,
       "datetime": "2026-04-25T10:00:00.000Z"
-    },
-    {
-      "name": "Jaume Munar vs Casper Ruud lúc 17:10 | VIC",
-      "link": "/truc-tiep/jaume-munar-vs-casper-ruud-luc-1710-ngay-25-04-2026/",
-      "runtime": 1777111800,
-      "datetime": "2026-04-25T10:10:00.000Z"
-    },
-    {
-      "name": "Martin Damm Jr vs Jakub Mensik lúc 17:10",
-      "link": "/truc-tiep/martin-damm-jr-vs-jakub-mensik-luc-1710-ngay-25-04-2026/",
-      "runtime": 1777111800,
-      "datetime": "2026-04-25T10:10:00.000Z"
     },
     {
       "name": "Ludogorets vs CSKA 1948 Sofia lúc 17:15 | JEAN",
@@ -256,8 +178,14 @@
       "datetime": "2026-04-25T11:00:00.000Z"
     },
     {
-      "name": "Nữ Indonesia vs Nữ Canada lúc 17:00",
-      "link": "/truc-tiep/nu-indonesia-vs-nu-canada-luc-1700-ngay-25-04-2026/",
+      "name": "Martin Damm Jr vs Jakub Mensik lúc 17:10",
+      "link": "/truc-tiep/martin-damm-jr-vs-jakub-mensik-luc-1710-ngay-25-04-2026/",
+      "runtime": 1777114800,
+      "datetime": "2026-04-25T11:00:00.000Z"
+    },
+    {
+      "name": "Jaume Munar vs Casper Ruud lúc 17:10 | VIC",
+      "link": "/truc-tiep/jaume-munar-vs-casper-ruud-luc-1710-ngay-25-04-2026/",
       "runtime": 1777115400,
       "datetime": "2026-04-25T11:10:00.000Z"
     },
@@ -356,6 +284,12 @@
       "link": "/truc-tiep/beijing-guoan-vs-tianjin-jinmen-tiger-luc-1835-ngay-25-04-2026/",
       "runtime": 1777116900,
       "datetime": "2026-04-25T11:35:00.000Z"
+    },
+    {
+      "name": "Nữ Indonesia vs Nữ Canada lúc 17:00",
+      "link": "/truc-tiep/nu-indonesia-vs-nu-canada-luc-1700-ngay-25-04-2026/",
+      "runtime": 1777117200,
+      "datetime": "2026-04-25T11:40:00.000Z"
     },
     {
       "name": "Perth Glory vs Brisbane Roar lúc 18:45 | ZARA",
@@ -548,6 +482,36 @@
       "link": "/truc-tiep/nu-hammarby-vs-nu-bk-hacken-luc-2000-ngay-25-04-2026/",
       "runtime": 1777122000,
       "datetime": "2026-04-25T13:00:00.000Z"
+    },
+    {
+      "name": "Mainz 05 vs Bayern Munich lúc 20:30 | FINN",
+      "link": "/truc-tiep/mainz-05-vs-bayern-munich-luc-2030-ngay-25-04-2026/",
+      "runtime": 1777123800,
+      "datetime": "2026-04-25T13:30:00.000Z"
+    },
+    {
+      "name": "Augsburg vs Eintracht Frankfurt lúc 20:30 | RIO",
+      "link": "/truc-tiep/augsburg-vs-eintracht-frankfurt-luc-2030-ngay-25-04-2026/",
+      "runtime": 1777123800,
+      "datetime": "2026-04-25T13:30:00.000Z"
+    },
+    {
+      "name": "Heidenheim vs St. Pauli lúc 20:30 | SILVA",
+      "link": "/truc-tiep/heidenheim-vs-st-pauli-luc-2030-ngay-25-04-2026/",
+      "runtime": 1777123800,
+      "datetime": "2026-04-25T13:30:00.000Z"
+    },
+    {
+      "name": "FC Köln vs Bayer Leverkusen lúc 20:30 | KEN",
+      "link": "/truc-tiep/fc-koln-vs-bayer-leverkusen-luc-2030-ngay-25-04-2026/",
+      "runtime": 1777123800,
+      "datetime": "2026-04-25T13:30:00.000Z"
+    },
+    {
+      "name": "VfL Wolfsburg vs B. Monchengladbach lúc 20:30 | XMEN",
+      "link": "/truc-tiep/vfl-wolfsburg-vs-b-monchengladbach-luc-2030-ngay-25-04-2026/",
+      "runtime": 1777123800,
+      "datetime": "2026-04-25T13:30:00.000Z"
     }
   ]
 }
