@@ -1,26 +1,8 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-04-25T21:54:12.846Z",
+  "total_matches": 68,
+  "updated_at": "2026-04-25T22:30:30.748Z",
   "matches": [
-    {
-      "name": "Phoenix Suns vs Oklahoma City Thunder lúc 02:30 | ALAN",
-      "link": "/truc-tiep/phoenix-suns-vs-oklahoma-city-thunder-luc-0230-ngay-26-04-2026/",
-      "runtime": 1777145400,
-      "datetime": "2026-04-25T19:30:00.000Z"
-    },
-    {
-      "name": "Itabaiana SE vs Paysandu SC lúc 03:00",
-      "link": "/truc-tiep/itabaiana-se-vs-paysandu-sc-luc-0300-ngay-26-04-2026/",
-      "runtime": 1777147200,
-      "datetime": "2026-04-25T20:00:00.000Z"
-    },
-    {
-      "name": "Estudiantes LP vs Talleres Cordoba lúc 03:00 | TONI",
-      "link": "/truc-tiep/estudiantes-lp-vs-talleres-cordoba-luc-0300-ngay-26-04-2026/",
-      "runtime": 1777147200,
-      "datetime": "2026-04-25T20:00:00.000Z"
-    },
     {
       "name": "CD Comerciantes vs Sporting Cristal lúc 03:30",
       "link": "/truc-tiep/cd-comerciantes-vs-sporting-cristal-luc-0330-ngay-26-04-2026/",
@@ -30,12 +12,6 @@
     {
       "name": "S.M San Juan vs Quilmes lúc 03:30",
       "link": "/truc-tiep/s-m-san-juan-vs-quilmes-luc-0330-ngay-26-04-2026/",
-      "runtime": 1777149000,
-      "datetime": "2026-04-25T20:30:00.000Z"
-    },
-    {
-      "name": "Cuniburo FC vs 22 de Julio lúc 03:30",
-      "link": "/truc-tiep/cuniburo-fc-vs-22-de-julio-luc-0330-ngay-26-04-2026/",
       "runtime": 1777149000,
       "datetime": "2026-04-25T20:30:00.000Z"
     },
@@ -202,6 +178,12 @@
       "datetime": "2026-04-25T22:00:00.000Z"
     },
     {
+      "name": "Cloud9 vs Shopify Rebellion lúc 06:00",
+      "link": "/truc-tiep/cloud9-vs-shopify-rebellion-luc-0600-ngay-26-04-2026/",
+      "runtime": 1777154400,
+      "datetime": "2026-04-25T22:00:00.000Z"
+    },
+    {
       "name": "Sarmiento Junin vs Club Atletico Tigre lúc 05:15",
       "link": "/truc-tiep/sarmiento-junin-vs-club-atletico-tigre-luc-0515-ngay-26-04-2026/",
       "runtime": 1777155300,
@@ -298,12 +280,6 @@
       "datetime": "2026-04-25T23:00:00.000Z"
     },
     {
-      "name": "Cloud9 vs Shopify Rebellion lúc 06:00",
-      "link": "/truc-tiep/cloud9-vs-shopify-rebellion-luc-0600-ngay-26-04-2026/",
-      "runtime": 1777158000,
-      "datetime": "2026-04-25T23:00:00.000Z"
-    },
-    {
       "name": "Deportivo Cali vs America de Cali lúc 06:10",
       "link": "/truc-tiep/deportivo-cali-vs-america-de-cali-luc-0610-ngay-26-04-2026/",
       "runtime": 1777158600,
@@ -356,6 +332,84 @@
       "link": "/truc-tiep/nu-mystics-vs-nu-minnesota-lynx-luc-0630-ngay-26-04-2026/",
       "runtime": 1777159800,
       "datetime": "2026-04-25T23:30:00.000Z"
+    },
+    {
+      "name": "São Paulo vs Mirassol SP lúc 07:00",
+      "link": "/truc-tiep/sao-paulo-vs-mirassol-sp-luc-0700-ngay-26-04-2026/",
+      "runtime": 1777161600,
+      "datetime": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "name": "Sport Boys vs Juan Pablo II lúc 07:00",
+      "link": "/truc-tiep/sport-boys-vs-juan-pablo-ii-luc-0700-ngay-26-04-2026/",
+      "runtime": 1777161600,
+      "datetime": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "name": "FC Tulsa vs Knoxville troops lúc 07:00",
+      "link": "/truc-tiep/fc-tulsa-vs-knoxville-troops-luc-0700-ngay-26-04-2026/",
+      "runtime": 1777161600,
+      "datetime": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "name": "Juventude vs Londrina PR lúc 07:00",
+      "link": "/truc-tiep/juventude-vs-londrina-pr-luc-0700-ngay-26-04-2026/",
+      "runtime": 1777161600,
+      "datetime": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Houston Dash vs Nữ North Carolina lúc 07:00",
+      "link": "/truc-tiep/nu-houston-dash-vs-nu-north-carolina-luc-0700-ngay-26-04-2026/",
+      "runtime": 1777161600,
+      "datetime": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Uni. Deportes vs Nữ Geminis lúc 07:00",
+      "link": "/truc-tiep/nu-uni-deportes-vs-nu-geminis-luc-0700-ngay-26-04-2026/",
+      "runtime": 1777161600,
+      "datetime": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "name": "Nashville vs Charlotte FC lúc 07:30 | JEAN",
+      "link": "/truc-tiep/nashville-vs-charlotte-fc-luc-0730-ngay-26-04-2026/",
+      "runtime": 1777163400,
+      "datetime": "2026-04-26T00:30:00.000Z"
+    },
+    {
+      "name": "St. Louis City vs SJ Earthquakes lúc 07:30 | SILVA",
+      "link": "/truc-tiep/st-louis-city-vs-sj-earthquakes-luc-0730-ngay-26-04-2026/",
+      "runtime": 1777163400,
+      "datetime": "2026-04-26T00:30:00.000Z"
+    },
+    {
+      "name": "Austin FC vs Houston Dynamo lúc 07:30 | JAY",
+      "link": "/truc-tiep/austin-fc-vs-houston-dynamo-luc-0730-ngay-26-04-2026/",
+      "runtime": 1777163400,
+      "datetime": "2026-04-26T00:30:00.000Z"
+    },
+    {
+      "name": "Chicago Fire vs Sporting Kansas lúc 07:30 | KEN",
+      "link": "/truc-tiep/chicago-fire-vs-sporting-kansas-luc-0730-ngay-26-04-2026/",
+      "runtime": 1777163400,
+      "datetime": "2026-04-26T00:30:00.000Z"
+    },
+    {
+      "name": "River Plate vs Aldosivi lúc 07:30 | POLO",
+      "link": "/truc-tiep/river-plate-vs-aldosivi-luc-0730-ngay-26-04-2026/",
+      "runtime": 1777163400,
+      "datetime": "2026-04-26T00:30:00.000Z"
+    },
+    {
+      "name": "San Antonio vs Birmingham Legion lúc 07:30",
+      "link": "/truc-tiep/san-antonio-vs-birmingham-legion-luc-0730-ngay-26-04-2026/",
+      "runtime": 1777163400,
+      "datetime": "2026-04-26T00:30:00.000Z"
+    },
+    {
+      "name": "Minnesota Timberwolves vs Denver Nuggets lúc 07:30 | NEZHA",
+      "link": "/truc-tiep/minnesota-timberwolves-vs-denver-nuggets-luc-0730-ngay-26-04-2026/",
+      "runtime": 1777163400,
+      "datetime": "2026-04-26T00:30:00.000Z"
     }
   ]
 }
