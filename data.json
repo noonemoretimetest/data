@@ -1,47 +1,11 @@
 {
   "success": true,
-  "total_matches": 56,
-  "updated_at": "2026-04-26T21:20:09.442Z",
+  "total_matches": 52,
+  "updated_at": "2026-04-26T21:56:04.677Z",
   "matches": [
-    {
-      "name": "Nữ Đài Loan vs Nữ Canada lúc 23:30",
-      "link": "/truc-tiep/nu-dai-loan-vs-nu-canada-luc-2330-ngay-26-04-2026/",
-      "runtime": 1777221000,
-      "datetime": "2026-04-26T16:30:00.000Z"
-    },
-    {
-      "name": "Đan Mạch vs Thụy Điển lúc 23:30",
-      "link": "/truc-tiep/dan-mach-vs-thuy-dien-luc-2330-ngay-26-04-2026/",
-      "runtime": 1777225200,
-      "datetime": "2026-04-26T17:40:00.000Z"
-    },
-    {
-      "name": "Karmine Corp vs Fnatic lúc 01:00",
-      "link": "/truc-tiep/karmine-corp-vs-fnatic-luc-0100-ngay-27-04-2026/",
-      "runtime": 1777227600,
-      "datetime": "2026-04-26T18:20:00.000Z"
-    },
-    {
-      "name": "AVS Futebol  vs Sporting CP lúc 02:30 | LOUIS",
-      "link": "/truc-tiep/avs-futebol-vs-sporting-cp-luc-0230-ngay-27-04-2026/",
-      "runtime": 1777231800,
-      "datetime": "2026-04-26T19:30:00.000Z"
-    },
-    {
-      "name": "Nữ San Luis vs Nữ River Plate lúc 02:30",
-      "link": "/truc-tiep/nu-san-luis-vs-nu-river-plate-luc-0230-ngay-27-04-2026/",
-      "runtime": 1777231800,
-      "datetime": "2026-04-26T19:30:00.000Z"
-    },
     {
       "name": "Portland Trail Blazers vs San Antonio Spurs lúc 02:30 | STEP",
       "link": "/truc-tiep/portland-trail-blazers-vs-san-antonio-spurs-luc-0230-ngay-27-04-2026/",
-      "runtime": 1777231800,
-      "datetime": "2026-04-26T19:30:00.000Z"
-    },
-    {
-      "name": "Anastasia Potapova vs Jeļena Ostapenko lúc 02:30",
-      "link": "/truc-tiep/anastasia-potapova-vs-jelena-ostapenko-luc-0230-ngay-27-04-2026/",
       "runtime": 1777231800,
       "datetime": "2026-04-26T19:30:00.000Z"
     },
@@ -72,24 +36,6 @@
     {
       "name": "Chicago Flame B vs Orlando City B lúc 03:00",
       "link": "/truc-tiep/chicago-flame-b-vs-orlando-city-b-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Orsomarso vs Nữ Atl.Nacional lúc 03:00",
-      "link": "/truc-tiep/nu-orsomarso-vs-nu-atl-nacional-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "Piratas de Bogota vs Sabios de Manizales lúc 03:00",
-      "link": "/truc-tiep/piratas-de-bogota-vs-sabios-de-manizales-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "LYON vs Disguised lúc 03:00",
-      "link": "/truc-tiep/lyon-vs-disguised-luc-0300-ngay-27-04-2026/",
       "runtime": 1777233600,
       "datetime": "2026-04-26T20:00:00.000Z"
     },
@@ -160,14 +106,14 @@
       "datetime": "2026-04-26T21:00:00.000Z"
     },
     {
-      "name": "ShindeN vs Procyon lúc 04:00",
-      "link": "/truc-tiep/shinden-vs-procyon-luc-0400-ngay-27-04-2026/",
+      "name": "MIBR Academy vs Fluxo lúc 04:00",
+      "link": "/truc-tiep/mibr-academy-vs-fluxo-luc-0400-ngay-27-04-2026/",
       "runtime": 1777237200,
       "datetime": "2026-04-26T21:00:00.000Z"
     },
     {
-      "name": "MIBR Academy vs Fluxo lúc 04:00",
-      "link": "/truc-tiep/mibr-academy-vs-fluxo-luc-0400-ngay-27-04-2026/",
+      "name": "ShindeN vs Procyon lúc 04:00",
+      "link": "/truc-tiep/shinden-vs-procyon-luc-0400-ngay-27-04-2026/",
       "runtime": 1777237200,
       "datetime": "2026-04-26T21:00:00.000Z"
     },
@@ -338,6 +284,36 @@
       "link": "/truc-tiep/cd-motagua-vs-atletico-choloma-luc-0615-ngay-27-04-2026/",
       "runtime": 1777245300,
       "datetime": "2026-04-26T23:15:00.000Z"
+    },
+    {
+      "name": "Fluminense  vs Chapecoense SC lúc 06:30 | TONI",
+      "link": "/truc-tiep/fluminense-vs-chapecoense-sc-luc-0630-ngay-27-04-2026/",
+      "runtime": 1777246200,
+      "datetime": "2026-04-26T23:30:00.000Z"
+    },
+    {
+      "name": "Atlético Mineiro vs Flamengo RJ lúc 06:30 | HELLO",
+      "link": "/truc-tiep/atletico-mineiro-vs-flamengo-rj-luc-0630-ngay-27-04-2026/",
+      "runtime": 1777246200,
+      "datetime": "2026-04-26T23:30:00.000Z"
+    },
+    {
+      "name": "Oriente Petrolero vs Real Potosi lúc 06:30",
+      "link": "/truc-tiep/oriente-petrolero-vs-real-potosi-luc-0630-ngay-27-04-2026/",
+      "runtime": 1777246200,
+      "datetime": "2026-04-26T23:30:00.000Z"
+    },
+    {
+      "name": "Atl. Goianiense vs Avaí FC lúc 06:30",
+      "link": "/truc-tiep/atl-goianiense-vs-avai-fc-luc-0630-ngay-27-04-2026/",
+      "runtime": 1777246200,
+      "datetime": "2026-04-26T23:30:00.000Z"
+    },
+    {
+      "name": "Criciuma vs CRB AL lúc 06:30",
+      "link": "/truc-tiep/criciuma-vs-crb-al-luc-0630-ngay-27-04-2026/",
+      "runtime": 1777246200,
+      "datetime": "2026-04-26T23:30:00.000Z"
     }
   ]
 }
