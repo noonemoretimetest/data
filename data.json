@@ -1,65 +1,11 @@
 {
   "success": true,
-  "total_matches": 52,
-  "updated_at": "2026-04-26T21:56:04.677Z",
+  "total_matches": 48,
+  "updated_at": "2026-04-26T22:34:17.217Z",
   "matches": [
-    {
-      "name": "Portland Trail Blazers vs San Antonio Spurs lúc 02:30 | STEP",
-      "link": "/truc-tiep/portland-trail-blazers-vs-san-antonio-spurs-luc-0230-ngay-27-04-2026/",
-      "runtime": 1777231800,
-      "datetime": "2026-04-26T19:30:00.000Z"
-    },
-    {
-      "name": "Minnesota Utd II vs North Texas SC lúc 03:00",
-      "link": "/truc-tiep/minnesota-utd-ii-vs-north-texas-sc-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "Club Atletico Guemes vs Atletico Atlanta lúc 03:00",
-      "link": "/truc-tiep/club-atletico-guemes-vs-atletico-atlanta-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "Chaco For Ever vs Atletico Mitre Estero lúc 03:00",
-      "link": "/truc-tiep/chaco-for-ever-vs-atletico-mitre-estero-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "Central Norte Salta vs Ciudad Bolivar lúc 03:00",
-      "link": "/truc-tiep/central-norte-salta-vs-ciudad-bolivar-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "Chicago Flame B vs Orlando City B lúc 03:00",
-      "link": "/truc-tiep/chicago-flame-b-vs-orlando-city-b-luc-0300-ngay-27-04-2026/",
-      "runtime": 1777233600,
-      "datetime": "2026-04-26T20:00:00.000Z"
-    },
-    {
-      "name": "Belgrano vs Gimnasia La Plata lúc 03:30 | OLER",
-      "link": "/truc-tiep/belgrano-vs-gimnasia-la-plata-luc-0330-ngay-27-04-2026/",
-      "runtime": 1777235400,
-      "datetime": "2026-04-26T20:30:00.000Z"
-    },
-    {
-      "name": "Newell Old Boys vs Instituto lúc 03:30 | XMEN",
-      "link": "/truc-tiep/newell-old-boys-vs-instituto-luc-0330-ngay-27-04-2026/",
-      "runtime": 1777235400,
-      "datetime": "2026-04-26T20:30:00.000Z"
-    },
     {
       "name": "Guayaquil City vs Tecnico Uni. lúc 03:30",
       "link": "/truc-tiep/guayaquil-city-vs-tecnico-uni-luc-0330-ngay-27-04-2026/",
-      "runtime": 1777235400,
-      "datetime": "2026-04-26T20:30:00.000Z"
-    },
-    {
-      "name": "Atletico Grau vs Alianza Lima lúc 03:30 | LOGAN",
-      "link": "/truc-tiep/atletico-grau-vs-alianza-lima-luc-0330-ngay-27-04-2026/",
       "runtime": 1777235400,
       "datetime": "2026-04-26T20:30:00.000Z"
     },
@@ -142,6 +88,12 @@
       "datetime": "2026-04-26T21:30:00.000Z"
     },
     {
+      "name": "Team Liquid vs Sentinels lúc 06:00",
+      "link": "/truc-tiep/team-liquid-vs-sentinels-luc-0600-ngay-27-04-2026/",
+      "runtime": 1777240200,
+      "datetime": "2026-04-26T21:50:00.000Z"
+    },
+    {
       "name": "Metropolitanos FC vs Estudiantes Merida lúc 03:00",
       "link": "/truc-tiep/metropolitanos-fc-vs-estudiantes-merida-luc-0300-ngay-26-04-2026/",
       "runtime": 1777240800,
@@ -160,12 +112,6 @@
       "datetime": "2026-04-26T22:00:00.000Z"
     },
     {
-      "name": "Pacific FC vs Forge FC lúc 05:00",
-      "link": "/truc-tiep/pacific-fc-vs-forge-fc-luc-0500-ngay-27-04-2026/",
-      "runtime": 1777240800,
-      "datetime": "2026-04-26T22:00:00.000Z"
-    },
-    {
       "name": "Wanderers FC vs CA Penarol lúc 05:00",
       "link": "/truc-tiep/wanderers-fc-vs-ca-penarol-luc-0500-ngay-27-04-2026/",
       "runtime": 1777240800,
@@ -178,16 +124,22 @@
       "datetime": "2026-04-26T22:00:00.000Z"
     },
     {
-      "name": "Nữ Angel City vs Nữ Portland Thorns lúc 05:00",
-      "link": "/truc-tiep/nu-angel-city-vs-nu-portland-thorns-luc-0500-ngay-27-04-2026/",
-      "runtime": 1777240800,
-      "datetime": "2026-04-26T22:00:00.000Z"
-    },
-    {
       "name": "Guadalupe FC vs Cartagines Deportiva lúc 05:00",
       "link": "/truc-tiep/guadalupe-fc-vs-cartagines-deportiva-luc-0500-ngay-27-04-2026/",
       "runtime": 1777240800,
       "datetime": "2026-04-26T22:00:00.000Z"
+    },
+    {
+      "name": "Pacific FC vs Forge FC lúc 05:00",
+      "link": "/truc-tiep/pacific-fc-vs-forge-fc-luc-0500-ngay-27-04-2026/",
+      "runtime": 1777241400,
+      "datetime": "2026-04-26T22:10:00.000Z"
+    },
+    {
+      "name": "Nữ Angel City vs Nữ Portland Thorns lúc 05:00",
+      "link": "/truc-tiep/nu-angel-city-vs-nu-portland-thorns-luc-0500-ngay-27-04-2026/",
+      "runtime": 1777241400,
+      "datetime": "2026-04-26T22:10:00.000Z"
     },
     {
       "name": "Nữ Internacional de Bogota vs Nữ Bucaramanga lúc 05:30",
@@ -262,12 +214,6 @@
       "datetime": "2026-04-26T23:00:00.000Z"
     },
     {
-      "name": "Team Liquid vs Sentinels lúc 06:00",
-      "link": "/truc-tiep/team-liquid-vs-sentinels-luc-0600-ngay-27-04-2026/",
-      "runtime": 1777244400,
-      "datetime": "2026-04-26T23:00:00.000Z"
-    },
-    {
       "name": "Orense SC vs Barcelona SC lúc 06:10",
       "link": "/truc-tiep/orense-sc-vs-barcelona-sc-luc-0610-ngay-27-04-2026/",
       "runtime": 1777245000,
@@ -314,6 +260,36 @@
       "link": "/truc-tiep/criciuma-vs-crb-al-luc-0630-ngay-27-04-2026/",
       "runtime": 1777246200,
       "datetime": "2026-04-26T23:30:00.000Z"
+    },
+    {
+      "name": "Nữ Seattle Reign vs Nữ Utah Royals lúc 07:00",
+      "link": "/truc-tiep/nu-seattle-reign-vs-nu-utah-royals-luc-0700-ngay-27-04-2026/",
+      "runtime": 1777248000,
+      "datetime": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "name": "Christchurch United vs Northern AFC lúc 07:00",
+      "link": "/truc-tiep/christchurch-united-vs-northern-afc-luc-0700-ngay-27-04-2026/",
+      "runtime": 1777248000,
+      "datetime": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Las Vegas Aces vs Nữ Nhật Bản lúc 07:00",
+      "link": "/truc-tiep/nu-las-vegas-aces-vs-nu-nhat-ban-luc-0700-ngay-27-04-2026/",
+      "runtime": 1777248000,
+      "datetime": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "name": "Union de Formosa vs Independiente Oliva lúc 07:00",
+      "link": "/truc-tiep/union-de-formosa-vs-independiente-oliva-luc-0700-ngay-27-04-2026/",
+      "runtime": 1777248000,
+      "datetime": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "name": "Carlos Alcaraz(Srl) vs Matteo Berrettini (Srl) lúc 07:00",
+      "link": "/truc-tiep/carlos-alcarazsrl-vs-matteo-berrettini-srl-luc-0700-ngay-27-04-2026/",
+      "runtime": 1777248000,
+      "datetime": "2026-04-27T00:00:00.000Z"
     }
   ]
 }
