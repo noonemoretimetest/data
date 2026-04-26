@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-04-26T19:14:56.278Z",
+  "total_matches": 58,
+  "updated_at": "2026-04-26T19:57:37.377Z",
   "matches": [
     {
       "name": "Nữ Đài Loan vs Nữ Canada lúc 23:30",
@@ -22,24 +22,6 @@
       "datetime": "2026-04-26T17:00:00.000Z"
     },
     {
-      "name": "Atletico Ottawa vs Vancouver FC lúc 00:00",
-      "link": "/truc-tiep/atletico-ottawa-vs-vancouver-fc-luc-0000-ngay-27-04-2026/",
-      "runtime": 1777223400,
-      "datetime": "2026-04-26T17:10:00.000Z"
-    },
-    {
-      "name": "Debreceni VSC vs Győri ETO FC lúc 00:30",
-      "link": "/truc-tiep/debreceni-vsc-vs-gyori-eto-fc-luc-0030-ngay-27-04-2026/",
-      "runtime": 1777224600,
-      "datetime": "2026-04-26T17:30:00.000Z"
-    },
-    {
-      "name": "Nữ Real Madrid vs Nữ Logrono  lúc 00:30",
-      "link": "/truc-tiep/nu-real-madrid-vs-nu-logrono-luc-0030-ngay-27-04-2026/",
-      "runtime": 1777224600,
-      "datetime": "2026-04-26T17:30:00.000Z"
-    },
-    {
       "name": "Đan Mạch vs Thụy Điển lúc 23:30",
       "link": "/truc-tiep/dan-mach-vs-thuy-dien-luc-2330-ngay-26-04-2026/",
       "runtime": 1777225200,
@@ -54,12 +36,6 @@
     {
       "name": "Dinamo Bucuresti vs FC Rapid 1923 lúc 01:00 | NEMO",
       "link": "/truc-tiep/dinamo-bucuresti-vs-fc-rapid-1923-luc-0100-ngay-27-04-2026/",
-      "runtime": 1777226400,
-      "datetime": "2026-04-26T18:00:00.000Z"
-    },
-    {
-      "name": "Ind. Rivadavia vs Gimnasia Mendoza lúc 01:00",
-      "link": "/truc-tiep/ind-rivadavia-vs-gimnasia-mendoza-luc-0100-ngay-27-04-2026/",
       "runtime": 1777226400,
       "datetime": "2026-04-26T18:00:00.000Z"
     },
@@ -84,12 +60,6 @@
     {
       "name": "Zheng Qinwen vs Elena Rybakina lúc 01:00 | LUCAS",
       "link": "/truc-tiep/zheng-qinwen-vs-elena-rybakina-luc-0100-ngay-27-04-2026/",
-      "runtime": 1777226400,
-      "datetime": "2026-04-26T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ Columbus Fury vs Nữ San Diego Mojo  lúc 01:00",
-      "link": "/truc-tiep/nu-columbus-fury-vs-nu-san-diego-mojo-luc-0100-ngay-27-04-2026/",
       "runtime": 1777226400,
       "datetime": "2026-04-26T18:00:00.000Z"
     },
@@ -136,14 +106,14 @@
       "datetime": "2026-04-26T18:30:00.000Z"
     },
     {
-      "name": "Marseille vs OGC Nice lúc 01:45 | MAX",
-      "link": "/truc-tiep/marseille-vs-ogc-nice-luc-0145-ngay-27-04-2026/",
+      "name": "AC Milan vs Juventus lúc 01:45 | ROY",
+      "link": "/truc-tiep/ac-milan-vs-juventus-luc-0145-ngay-27-04-2026/",
       "runtime": 1777229100,
       "datetime": "2026-04-26T18:45:00.000Z"
     },
     {
-      "name": "AC Milan vs Juventus lúc 01:45 | ROY",
-      "link": "/truc-tiep/ac-milan-vs-juventus-luc-0145-ngay-27-04-2026/",
+      "name": "Marseille vs OGC Nice lúc 01:45 | MAX",
+      "link": "/truc-tiep/marseille-vs-ogc-nice-luc-0145-ngay-27-04-2026/",
       "runtime": 1777229100,
       "datetime": "2026-04-26T18:45:00.000Z"
     },
@@ -356,6 +326,30 @@
       "link": "/truc-tiep/mibr-academy-vs-fluxo-luc-0400-ngay-27-04-2026/",
       "runtime": 1777237200,
       "datetime": "2026-04-26T21:00:00.000Z"
+    },
+    {
+      "name": "Bolivar vs Real Tomayapo lúc 04:15",
+      "link": "/truc-tiep/bolivar-vs-real-tomayapo-luc-0415-ngay-27-04-2026/",
+      "runtime": 1777238100,
+      "datetime": "2026-04-26T21:15:00.000Z"
+    },
+    {
+      "name": "RB Bragantino vs Palmeiras lúc 04:30 | YUNO",
+      "link": "/truc-tiep/rb-bragantino-vs-palmeiras-luc-0430-ngay-27-04-2026/",
+      "runtime": 1777239000,
+      "datetime": "2026-04-26T21:30:00.000Z"
+    },
+    {
+      "name": "Atl. Paranaense vs Vitória BA lúc 04:30 | NEMO",
+      "link": "/truc-tiep/atl-paranaense-vs-vitoria-ba-luc-0430-ngay-27-04-2026/",
+      "runtime": 1777239000,
+      "datetime": "2026-04-26T21:30:00.000Z"
+    },
+    {
+      "name": "Everton CD vs Cobresal lúc 04:30",
+      "link": "/truc-tiep/everton-cd-vs-cobresal-luc-0430-ngay-27-04-2026/",
+      "runtime": 1777239000,
+      "datetime": "2026-04-26T21:30:00.000Z"
     }
   ]
 }
