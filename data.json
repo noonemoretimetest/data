@@ -1,50 +1,8 @@
 {
   "success": true,
-  "total_matches": 36,
-  "updated_at": "2026-04-27T21:54:53.576Z",
+  "total_matches": 43,
+  "updated_at": "2026-04-27T22:43:59.098Z",
   "matches": [
-    {
-      "name": "Nữ Trung Quốc vs Nữ Ấn Độ lúc 23:30",
-      "link": "/truc-tiep/nu-trung-quoc-vs-nu-an-do-luc-2330-ngay-27-04-2026/",
-      "runtime": 1777311600,
-      "datetime": "2026-04-27T17:40:00.000Z"
-    },
-    {
-      "name": "Atlético Tembetary vs 3 de Noviembre lúc 03:00",
-      "link": "/truc-tiep/atletico-tembetary-vs-3-de-noviembre-luc-0300-ngay-28-04-2026/",
-      "runtime": 1777320000,
-      "datetime": "2026-04-27T20:00:00.000Z"
-    },
-    {
-      "name": "AD Tarma vs Los Chankas lúc 03:00 | JAY",
-      "link": "/truc-tiep/ad-tarma-vs-los-chankas-luc-0300-ngay-28-04-2026/",
-      "runtime": 1777320000,
-      "datetime": "2026-04-27T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Venezuela U17 vs Nữ Ecuador U17 lúc 03:00",
-      "link": "/truc-tiep/nu-venezuela-u17-vs-nu-ecuador-u17-luc-0300-ngay-28-04-2026/",
-      "runtime": 1777320000,
-      "datetime": "2026-04-27T20:00:00.000Z"
-    },
-    {
-      "name": "Anastasia Potapova vs Elena Rybakina lúc 03:00",
-      "link": "/truc-tiep/anastasia-potapova-vs-elena-rybakina-luc-0300-ngay-28-04-2026/",
-      "runtime": 1777320000,
-      "datetime": "2026-04-27T20:00:00.000Z"
-    },
-    {
-      "name": "Ei Nerd Esports vs RMD Gaming lúc 03:00",
-      "link": "/truc-tiep/ei-nerd-esports-vs-rmd-gaming-luc-0300-ngay-28-04-2026/",
-      "runtime": 1777320000,
-      "datetime": "2026-04-27T20:00:00.000Z"
-    },
-    {
-      "name": "Maks Kasnikowski vs Cesar Bouchelaghem lúc 03:40",
-      "link": "/truc-tiep/maks-kasnikowski-vs-cesar-bouchelaghem-luc-0340-ngay-28-04-2026/",
-      "runtime": 1777322400,
-      "datetime": "2026-04-27T20:40:00.000Z"
-    },
     {
       "name": "Nữ America Mineiro vs Nữ Sao Paulo lúc 04:00",
       "link": "/truc-tiep/nu-america-mineiro-vs-nu-sao-paulo-luc-0400-ngay-28-04-2026/",
@@ -100,12 +58,6 @@
       "datetime": "2026-04-27T21:45:00.000Z"
     },
     {
-      "name": "Karim Bennani vs Karan Singh lúc 04:50",
-      "link": "/truc-tiep/karim-bennani-vs-karan-singh-luc-0450-ngay-28-04-2026/",
-      "runtime": 1777326600,
-      "datetime": "2026-04-27T21:50:00.000Z"
-    },
-    {
       "name": "Athletic Club vs Nautico (PE) lúc 05:00",
       "link": "/truc-tiep/athletic-club-vs-nautico-pe-luc-0500-ngay-28-04-2026/",
       "runtime": 1777327200,
@@ -130,10 +82,28 @@
       "datetime": "2026-04-27T22:00:00.000Z"
     },
     {
+      "name": "Cimarrones del Choco vs Caribbean Storm Islands lúc 05:00",
+      "link": "/truc-tiep/cimarrones-del-choco-vs-caribbean-storm-islands-luc-0500-ngay-28-04-2026/",
+      "runtime": 1777327200,
+      "datetime": "2026-04-27T22:00:00.000Z"
+    },
+    {
       "name": "Mogi das Cruzes vs Sao Jose lúc 05:00",
       "link": "/truc-tiep/mogi-das-cruzes-vs-sao-jose-luc-0500-ngay-28-04-2026/",
       "runtime": 1777327200,
       "datetime": "2026-04-27T22:00:00.000Z"
+    },
+    {
+      "name": "paiN Gaming Academy vs Team Solid lúc 06:00",
+      "link": "/truc-tiep/pain-gaming-academy-vs-team-solid-luc-0600-ngay-28-04-2026/",
+      "runtime": 1777327200,
+      "datetime": "2026-04-27T22:00:00.000Z"
+    },
+    {
+      "name": "Karim Bennani vs Karan Singh lúc 04:50",
+      "link": "/truc-tiep/karim-bennani-vs-karan-singh-luc-0450-ngay-28-04-2026/",
+      "runtime": 1777328400,
+      "datetime": "2026-04-27T22:20:00.000Z"
     },
     {
       "name": "Defensor SC vs CA Progreso lúc 05:30 | NEMO",
@@ -190,20 +160,14 @@
       "datetime": "2026-04-27T23:00:00.000Z"
     },
     {
-      "name": "Sudbury 5 vs KW Titans lúc 06:00",
-      "link": "/truc-tiep/sudbury-5-vs-kw-titans-luc-0600-ngay-28-04-2026/",
-      "runtime": 1777330800,
-      "datetime": "2026-04-27T23:00:00.000Z"
-    },
-    {
       "name": "Uniao Corinthians vs Flamengo lúc 06:00",
       "link": "/truc-tiep/uniao-corinthians-vs-flamengo-luc-0600-ngay-28-04-2026/",
       "runtime": 1777330800,
       "datetime": "2026-04-27T23:00:00.000Z"
     },
     {
-      "name": "paiN Gaming Academy vs Team Solid lúc 06:00",
-      "link": "/truc-tiep/pain-gaming-academy-vs-team-solid-luc-0600-ngay-28-04-2026/",
+      "name": "Sudbury 5 vs KW Titans lúc 06:00",
+      "link": "/truc-tiep/sudbury-5-vs-kw-titans-luc-0600-ngay-28-04-2026/",
       "runtime": 1777330800,
       "datetime": "2026-04-27T23:00:00.000Z"
     },
@@ -218,6 +182,84 @@
       "link": "/truc-tiep/obras-sanitarias-vs-instituto-de-cordoba-luc-0630-ngay-28-04-2026/",
       "runtime": 1777332600,
       "datetime": "2026-04-27T23:30:00.000Z"
+    },
+    {
+      "name": "CA Huracan vs Argentinos Juniors lúc 07:00 | FINN",
+      "link": "/truc-tiep/ca-huracan-vs-argentinos-juniors-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Dep. Garcilaso vs FBC Melgar lúc 07:00 | YUNO",
+      "link": "/truc-tiep/dep-garcilaso-vs-fbc-melgar-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Deportiva Aucas vs Delfin SC lúc 07:00 | KEN",
+      "link": "/truc-tiep/deportiva-aucas-vs-delfin-sc-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Aurora vs S. Antonio Bulo lúc 07:00 | POLO",
+      "link": "/truc-tiep/aurora-vs-s-antonio-bulo-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Atletico Mineiro vs Nữ Botafogo RJ lúc 07:00",
+      "link": "/truc-tiep/nu-atletico-mineiro-vs-nu-botafogo-rj-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Municipal Iquique vs Santiago Wanderers lúc 07:00",
+      "link": "/truc-tiep/municipal-iquique-vs-santiago-wanderers-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Criollos de Caguas vs Baamon cattle Herder lúc 07:00",
+      "link": "/truc-tiep/criollos-de-caguas-vs-baamon-cattle-herder-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Botafogo vs Vivo Franca lúc 07:00",
+      "link": "/truc-tiep/botafogo-vs-vivo-franca-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Orlando Magic vs Detroit Pistons lúc 07:00 | STEP",
+      "link": "/truc-tiep/orlando-magic-vs-detroit-pistons-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "Minas vs Sada Cruzeiro lúc 07:00",
+      "link": "/truc-tiep/minas-vs-sada-cruzeiro-luc-0700-ngay-28-04-2026/",
+      "runtime": 1777334400,
+      "datetime": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "SV Deportivo Nacional vs SV Caravel lúc 07:30",
+      "link": "/truc-tiep/sv-deportivo-nacional-vs-sv-caravel-luc-0730-ngay-28-04-2026/",
+      "runtime": 1777336200,
+      "datetime": "2026-04-28T00:30:00.000Z"
+    },
+    {
+      "name": "Mount Pleasant FA vs Waterhouse FC lúc 07:30",
+      "link": "/truc-tiep/mount-pleasant-fa-vs-waterhouse-fc-luc-0730-ngay-28-04-2026/",
+      "runtime": 1777336200,
+      "datetime": "2026-04-28T00:30:00.000Z"
+    },
+    {
+      "name": "InControl vs Girl-kissers lúc 07:30",
+      "link": "/truc-tiep/incontrol-vs-girl-kissers-luc-0730-ngay-28-04-2026/",
+      "runtime": 1777336200,
+      "datetime": "2026-04-28T00:30:00.000Z"
     }
   ]
 }
