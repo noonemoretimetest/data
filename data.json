@@ -1,62 +1,8 @@
 {
   "success": true,
-  "total_matches": 43,
-  "updated_at": "2026-04-27T22:43:59.098Z",
+  "total_matches": 41,
+  "updated_at": "2026-04-27T23:46:19.827Z",
   "matches": [
-    {
-      "name": "Nữ America Mineiro vs Nữ Sao Paulo lúc 04:00",
-      "link": "/truc-tiep/nu-america-mineiro-vs-nu-sao-paulo-luc-0400-ngay-28-04-2026/",
-      "runtime": 1777323600,
-      "datetime": "2026-04-27T21:00:00.000Z"
-    },
-    {
-      "name": "Nữ Atletico-PI  vs Nữ Rio Negro RR  lúc 04:00",
-      "link": "/truc-tiep/nu-atletico-pi-vs-nu-rio-negro-rr-luc-0400-ngay-28-04-2026/",
-      "runtime": 1777323600,
-      "datetime": "2026-04-27T21:00:00.000Z"
-    },
-    {
-      "name": "Génesis Policía Nacional vs CD Victoria lúc 04:30",
-      "link": "/truc-tiep/genesis-policia-nacional-vs-cd-victoria-luc-0430-ngay-28-04-2026/",
-      "runtime": 1777325400,
-      "datetime": "2026-04-27T21:30:00.000Z"
-    },
-    {
-      "name": "Nữ Talleres Cordoba  vs Nữ Racing Club  lúc 04:30",
-      "link": "/truc-tiep/nu-talleres-cordoba-vs-nu-racing-club-luc-0430-ngay-28-04-2026/",
-      "runtime": 1777325400,
-      "datetime": "2026-04-27T21:30:00.000Z"
-    },
-    {
-      "name": "Manta FC vs Universidad Católica lúc 04:30 | HELLO",
-      "link": "/truc-tiep/manta-fc-vs-universidad-catolica-luc-0430-ngay-28-04-2026/",
-      "runtime": 1777325400,
-      "datetime": "2026-04-27T21:30:00.000Z"
-    },
-    {
-      "name": "Praia Clube vs Volei Renata lúc 04:30",
-      "link": "/truc-tiep/praia-clube-vs-volei-renata-luc-0430-ngay-28-04-2026/",
-      "runtime": 1777325400,
-      "datetime": "2026-04-27T21:30:00.000Z"
-    },
-    {
-      "name": "Aether vs Shimmer lúc 04:30",
-      "link": "/truc-tiep/aether-vs-shimmer-luc-0430-ngay-28-04-2026/",
-      "runtime": 1777325400,
-      "datetime": "2026-04-27T21:30:00.000Z"
-    },
-    {
-      "name": "Digvijay Pratap Singh vs Paul Jubb lúc 04:00",
-      "link": "/truc-tiep/digvijay-pratap-singh-vs-paul-jubb-luc-0400-ngay-28-04-2026/",
-      "runtime": 1777325700,
-      "datetime": "2026-04-27T21:35:00.000Z"
-    },
-    {
-      "name": "Velez Sarsfield vs Union Santa Fe lúc 04:45 | TOM",
-      "link": "/truc-tiep/velez-sarsfield-vs-union-santa-fe-luc-0445-ngay-28-04-2026/",
-      "runtime": 1777326300,
-      "datetime": "2026-04-27T21:45:00.000Z"
-    },
     {
       "name": "Athletic Club vs Nautico (PE) lúc 05:00",
       "link": "/truc-tiep/athletic-club-vs-nautico-pe-luc-0500-ngay-28-04-2026/",
@@ -94,19 +40,13 @@
       "datetime": "2026-04-27T22:00:00.000Z"
     },
     {
-      "name": "paiN Gaming Academy vs Team Solid lúc 06:00",
-      "link": "/truc-tiep/pain-gaming-academy-vs-team-solid-luc-0600-ngay-28-04-2026/",
-      "runtime": 1777327200,
-      "datetime": "2026-04-27T22:00:00.000Z"
-    },
-    {
       "name": "Karim Bennani vs Karan Singh lúc 04:50",
       "link": "/truc-tiep/karim-bennani-vs-karan-singh-luc-0450-ngay-28-04-2026/",
       "runtime": 1777328400,
       "datetime": "2026-04-27T22:20:00.000Z"
     },
     {
-      "name": "Defensor SC vs CA Progreso lúc 05:30 | NEMO",
+      "name": "Defensor SC vs CA Progreso lúc 05:30",
       "link": "/truc-tiep/defensor-sc-vs-ca-progreso-luc-0530-ngay-28-04-2026/",
       "runtime": 1777329000,
       "datetime": "2026-04-27T22:30:00.000Z"
@@ -260,6 +200,54 @@
       "link": "/truc-tiep/incontrol-vs-girl-kissers-luc-0730-ngay-28-04-2026/",
       "runtime": 1777336200,
       "datetime": "2026-04-28T00:30:00.000Z"
+    },
+    {
+      "name": "International San Carlos vs Pitbulls lúc 08:00",
+      "link": "/truc-tiep/international-san-carlos-vs-pitbulls-luc-0800-ngay-28-04-2026/",
+      "runtime": 1777338000,
+      "datetime": "2026-04-28T01:00:00.000Z"
+    },
+    {
+      "name": "Boca Juniors vs San Martin lúc 08:00",
+      "link": "/truc-tiep/boca-juniors-vs-san-martin-luc-0800-ngay-28-04-2026/",
+      "runtime": 1777338000,
+      "datetime": "2026-04-28T01:00:00.000Z"
+    },
+    {
+      "name": "Voca vs Chicken Coop lúc 08:00",
+      "link": "/truc-tiep/voca-vs-chicken-coop-luc-0800-ngay-28-04-2026/",
+      "runtime": 1777338000,
+      "datetime": "2026-04-28T01:00:00.000Z"
+    },
+    {
+      "name": "Wildcard vs Aether lúc 08:00",
+      "link": "/truc-tiep/wildcard-vs-aether-luc-0800-ngay-28-04-2026/",
+      "runtime": 1777338000,
+      "datetime": "2026-04-28T01:00:00.000Z"
+    },
+    {
+      "name": "BOSS vs Fisher College lúc 08:00",
+      "link": "/truc-tiep/boss-vs-fisher-college-luc-0800-ngay-28-04-2026/",
+      "runtime": 1777338000,
+      "datetime": "2026-04-28T01:00:00.000Z"
+    },
+    {
+      "name": "Phoenix Suns vs Oklahoma City Thunder lúc 08:30 | ALAN",
+      "link": "/truc-tiep/phoenix-suns-vs-oklahoma-city-thunder-luc-0830-ngay-28-04-2026/",
+      "runtime": 1777339800,
+      "datetime": "2026-04-28T01:30:00.000Z"
+    },
+    {
+      "name": "Thomas Edwards vs Evan Shamlian lúc 08:30",
+      "link": "/truc-tiep/thomas-edwards-vs-evan-shamlian-luc-0830-ngay-28-04-2026/",
+      "runtime": 1777339800,
+      "datetime": "2026-04-28T01:30:00.000Z"
+    },
+    {
+      "name": "Alexandra Wolf vs Bella Jacutin-Mariona lúc 08:30",
+      "link": "/truc-tiep/alexandra-wolf-vs-bella-jacutin-mariona-luc-0830-ngay-28-04-2026/",
+      "runtime": 1777339800,
+      "datetime": "2026-04-28T01:30:00.000Z"
     }
   ]
 }
