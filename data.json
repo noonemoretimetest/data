@@ -1,14 +1,8 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-04-29T20:36:17.119Z",
+  "total_matches": 52,
+  "updated_at": "2026-04-29T21:42:35.937Z",
   "matches": [
-    {
-      "name": "CEAC Araruama vs Serrano FC lúc 01:00",
-      "link": "/truc-tiep/ceac-araruama-vs-serrano-fc-luc-0100-ngay-30-04-2026/",
-      "runtime": 1777485600,
-      "datetime": "2026-04-29T18:00:00.000Z"
-    },
     {
       "name": "Newcastle Eagles vs Cheshire Phoenix lúc 01:30",
       "link": "/truc-tiep/newcastle-eagles-vs-cheshire-phoenix-luc-0130-ngay-30-04-2026/",
@@ -16,112 +10,10 @@
       "datetime": "2026-04-29T18:30:00.000Z"
     },
     {
-      "name": "EYEBALLERS vs Young Ninjas lúc 00:30",
-      "link": "/truc-tiep/eyeballers-vs-young-ninjas-luc-0030-ngay-30-04-2026/",
-      "runtime": 1777488000,
-      "datetime": "2026-04-29T18:40:00.000Z"
-    },
-    {
-      "name": "Winchester City vs Shaftesbury Town lúc 01:45",
-      "link": "/truc-tiep/winchester-city-vs-shaftesbury-town-luc-0145-ngay-30-04-2026/",
-      "runtime": 1777488300,
-      "datetime": "2026-04-29T18:45:00.000Z"
-    },
-    {
-      "name": "Malvern Town vs Bishops Cleeve lúc 01:45",
-      "link": "/truc-tiep/malvern-town-vs-bishops-cleeve-luc-0145-ngay-30-04-2026/",
-      "runtime": 1777488300,
-      "datetime": "2026-04-29T18:45:00.000Z"
-    },
-    {
-      "name": "Hitchin Town vs Thame United lúc 01:45",
-      "link": "/truc-tiep/hitchin-town-vs-thame-united-luc-0145-ngay-30-04-2026/",
-      "runtime": 1777488300,
-      "datetime": "2026-04-29T18:45:00.000Z"
-    },
-    {
-      "name": "Real Madrid  vs Hapoel Tel Aviv lúc 01:45 | STEP",
-      "link": "/truc-tiep/real-madrid-vs-hapoel-tel-aviv-luc-0145-ngay-30-04-2026/",
-      "runtime": 1777488300,
-      "datetime": "2026-04-29T18:45:00.000Z"
-    },
-    {
-      "name": "Atletico Madrid vs Arsenal lúc 02:00 | ROY - NICK - MAX",
-      "link": "/truc-tiep/atletico-madrid-vs-arsenal-luc-0200-ngay-30-04-2026/",
-      "runtime": 1777489200,
-      "datetime": "2026-04-29T19:00:00.000Z"
-    },
-    {
-      "name": "Maghreb Fez vs Hassania Agadir lúc 02:00",
-      "link": "/truc-tiep/maghreb-fez-vs-hassania-agadir-luc-0200-ngay-30-04-2026/",
-      "runtime": 1777489200,
-      "datetime": "2026-04-29T19:00:00.000Z"
-    },
-    {
-      "name": "Cuiaba Esporte U20 vs Sao Paulo U20 lúc 02:00",
-      "link": "/truc-tiep/cuiaba-esporte-u20-vs-sao-paulo-u20-luc-0200-ngay-30-04-2026/",
-      "runtime": 1777489200,
-      "datetime": "2026-04-29T19:00:00.000Z"
-    },
-    {
-      "name": "Nữ Sao Raimundo RR  vs Nữ Heips lúc 02:00",
-      "link": "/truc-tiep/nu-sao-raimundo-rr-vs-nu-heips-luc-0200-ngay-30-04-2026/",
-      "runtime": 1777489200,
-      "datetime": "2026-04-29T19:00:00.000Z"
-    },
-    {
-      "name": "Nữ Sampaio Correa vs Nữ Varzea Grande lúc 01:00",
-      "link": "/truc-tiep/nu-sampaio-correa-vs-nu-varzea-grande-luc-0100-ngay-30-04-2026/",
-      "runtime": 1777489200,
-      "datetime": "2026-04-29T19:00:00.000Z"
-    },
-    {
-      "name": "BESTIA Academy vs Keyd Stars lúc 02:00",
-      "link": "/truc-tiep/bestia-academy-vs-keyd-stars-luc-0200-ngay-30-04-2026/",
-      "runtime": 1777489200,
-      "datetime": "2026-04-29T19:00:00.000Z"
-    },
-    {
-      "name": "Maks Kasnikowski vs Calvin Hemery lúc 02:10",
-      "link": "/truc-tiep/maks-kasnikowski-vs-calvin-hemery-luc-0210-ngay-30-04-2026/",
-      "runtime": 1777489800,
-      "datetime": "2026-04-29T19:10:00.000Z"
-    },
-    {
-      "name": "Sporting CP vs CD Tondela lúc 02:15 | HELLO",
-      "link": "/truc-tiep/sporting-cp-vs-cd-tondela-luc-0215-ngay-30-04-2026/",
-      "runtime": 1777490100,
-      "datetime": "2026-04-29T19:15:00.000Z"
-    },
-    {
-      "name": "Nữ Stjarnan Gardabaer vs Nữ Valur lúc 02:15",
-      "link": "/truc-tiep/nu-stjarnan-gardabaer-vs-nu-valur-luc-0215-ngay-30-04-2026/",
-      "runtime": 1777490100,
-      "datetime": "2026-04-29T19:15:00.000Z"
-    },
-    {
-      "name": "Nữ Breidablik vs Nữ Fram Reykjavik lúc 02:15",
-      "link": "/truc-tiep/nu-breidablik-vs-nu-fram-reykjavik-luc-0215-ngay-30-04-2026/",
-      "runtime": 1777490100,
-      "datetime": "2026-04-29T19:15:00.000Z"
-    },
-    {
       "name": "Nữ Rolim de Moura vs Nữ Mauaense SP lúc 02:30",
       "link": "/truc-tiep/nu-rolim-de-moura-vs-nu-mauaense-sp-luc-0230-ngay-30-04-2026/",
       "runtime": 1777491000,
       "datetime": "2026-04-29T19:30:00.000Z"
-    },
-    {
-      "name": "Alvares vs Mamede lúc 02:30",
-      "link": "/truc-tiep/alvares-vs-mamede-luc-0230-ngay-30-04-2026/",
-      "runtime": 1777491000,
-      "datetime": "2026-04-29T19:30:00.000Z"
-    },
-    {
-      "name": "Arthur Fils vs Jiri Lehecka lúc 02:30",
-      "link": "/truc-tiep/arthur-fils-vs-jiri-lehecka-luc-0230-ngay-30-04-2026/",
-      "runtime": 1777492200,
-      "datetime": "2026-04-29T19:50:00.000Z"
     },
     {
       "name": "Karim Bennani/Massimo Giunta vs Tom Hands/Hamish Stewart lúc 02:50",
@@ -192,6 +84,12 @@
     {
       "name": "Orgullo Surtam vs Bombarderos Tecamac FC lúc 04:00",
       "link": "/truc-tiep/orgullo-surtam-vs-bombarderos-tecamac-fc-luc-0400-ngay-30-04-2026/",
+      "runtime": 1777496400,
+      "datetime": "2026-04-29T21:00:00.000Z"
+    },
+    {
+      "name": "Maks Kasnikowski vs Calvin Hemery lúc 02:10",
+      "link": "/truc-tiep/maks-kasnikowski-vs-calvin-hemery-luc-0210-ngay-30-04-2026/",
       "runtime": 1777496400,
       "datetime": "2026-04-29T21:00:00.000Z"
     },
@@ -344,6 +242,78 @@
       "link": "/truc-tiep/chapecoense-sc-vs-america-mg-luc-0530-ngay-30-04-2026/",
       "runtime": 1777501800,
       "datetime": "2026-04-29T22:30:00.000Z"
+    },
+    {
+      "name": "NY Red Bulls vs New York City lúc 06:00 | OLER",
+      "link": "/truc-tiep/ny-red-bulls-vs-new-york-city-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Sampaio Correa RJ vs Operario PR lúc 06:00",
+      "link": "/truc-tiep/sampaio-correa-rj-vs-operario-pr-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Ecuador U17 vs Nữ Peru U17 lúc 06:00",
+      "link": "/truc-tiep/nu-ecuador-u17-vs-nu-peru-u17-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Miami FC vs FC Naples lúc 06:00",
+      "link": "/truc-tiep/miami-fc-vs-fc-naples-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Boston Legacy vs Nữ North Carolina lúc 06:00",
+      "link": "/truc-tiep/nu-boston-legacy-vs-nu-north-carolina-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Washington Spirit vs Nữ Racing Louisville lúc 06:00",
+      "link": "/truc-tiep/nu-washington-spirit-vs-nu-racing-louisville-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Detroit Pistons vs Orlando Magic lúc 06:00 | TOMMY",
+      "link": "/truc-tiep/detroit-pistons-vs-orlando-magic-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Nữ Chicago Sky vs Nữ Atlanta Dream lúc 06:00 | STEP",
+      "link": "/truc-tiep/nu-chicago-sky-vs-nu-atlanta-dream-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "Toronto Tempo vs Nữ Connecticut Sun  lúc 06:00",
+      "link": "/truc-tiep/toronto-tempo-vs-nu-connecticut-sun-luc-0600-ngay-30-04-2026/",
+      "runtime": 1777503600,
+      "datetime": "2026-04-29T23:00:00.000Z"
+    },
+    {
+      "name": "New England vs Orlando City lúc 06:30 | POLO",
+      "link": "/truc-tiep/new-england-vs-orlando-city-luc-0630-ngay-30-04-2026/",
+      "runtime": 1777505400,
+      "datetime": "2026-04-29T23:30:00.000Z"
+    },
+    {
+      "name": "Columbus Crew vs Knoxville troops lúc 06:30 | TONI",
+      "link": "/truc-tiep/columbus-crew-vs-knoxville-troops-luc-0630-ngay-30-04-2026/",
+      "runtime": 1777505400,
+      "datetime": "2026-04-29T23:30:00.000Z"
+    },
+    {
+      "name": "Cleveland Cavaliers vs Toronto Raptors lúc 06:30 | NEZHA",
+      "link": "/truc-tiep/cleveland-cavaliers-vs-toronto-raptors-luc-0630-ngay-30-04-2026/",
+      "runtime": 1777505400,
+      "datetime": "2026-04-29T23:30:00.000Z"
     }
   ]
 }
