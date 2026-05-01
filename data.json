@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 40,
-  "updated_at": "2026-05-01T21:09:28.768Z",
+  "total_matches": 36,
+  "updated_at": "2026-05-01T22:07:36.850Z",
   "matches": [
     {
       "name": "Ayush Shetty vs Lin Chun-yi lúc 16:40",
@@ -22,64 +22,10 @@
       "datetime": "2026-05-01T12:50:00.000Z"
     },
     {
-      "name": "3BL Esports vs GnG Amazigh lúc 01:30",
-      "link": "/truc-tiep/3bl-esports-vs-gng-amazigh-luc-0130-ngay-02-05-2026/",
-      "runtime": 1777660200,
-      "datetime": "2026-05-01T18:30:00.000Z"
-    },
-    {
-      "name": "Calvin Hemery vs Michael Mmoh lúc 01:10",
-      "link": "/truc-tiep/calvin-hemery-vs-michael-mmoh-luc-0110-ngay-02-05-2026/",
-      "runtime": 1777660800,
-      "datetime": "2026-05-01T18:40:00.000Z"
-    },
-    {
-      "name": "Vasco vs paiN Academy lúc 02:00",
-      "link": "/truc-tiep/vasco-vs-pain-academy-luc-0200-ngay-02-05-2026/",
-      "runtime": 1777662000,
-      "datetime": "2026-05-01T19:00:00.000Z"
-    },
-    {
       "name": "Tom Hands/Hamish Stewart vs Constantin Bittoun Kouzmine/Robert Strombachs lúc 02:20",
       "link": "/truc-tiep/tom-hands-hamish-stewart-vs-constantin-bittoun-kouzmine-robert-strombachs-luc-0220-ngay-02-05-2026/",
       "runtime": 1777663200,
       "datetime": "2026-05-01T19:20:00.000Z"
-    },
-    {
-      "name": "Sporting CP B vs SL Benfica B lúc 02:30",
-      "link": "/truc-tiep/sporting-cp-b-vs-sl-benfica-b-luc-0230-ngay-02-05-2026/",
-      "runtime": 1777663800,
-      "datetime": "2026-05-01T19:30:00.000Z"
-    },
-    {
-      "name": "Aleksandra Krunic/Kristina Mladenovic vs Katerina Siniakova/Taylor Townsend lúc 02:50 | LUCAS",
-      "link": "/truc-tiep/aleksandra-krunic-kristina-mladenovic-vs-katerina-siniakova-taylor-townsend-luc-0250-ngay-02-05-2026/",
-      "runtime": 1777665300,
-      "datetime": "2026-05-01T19:55:00.000Z"
-    },
-    {
-      "name": "Nữ Ecuador U17 vs Nữ Uruguay U17 lúc 03:00 | RIO",
-      "link": "/truc-tiep/nu-ecuador-u17-vs-nu-uruguay-u17-luc-0300-ngay-02-05-2026/",
-      "runtime": 1777665600,
-      "datetime": "2026-05-01T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Ferroviaria SP vs Nữ Mixto EC  lúc 03:00",
-      "link": "/truc-tiep/nu-ferroviaria-sp-vs-nu-mixto-ec-luc-0300-ngay-02-05-2026/",
-      "runtime": 1777665600,
-      "datetime": "2026-05-01T20:00:00.000Z"
-    },
-    {
-      "name": "Apex Mission Impossible vs Maryville University lúc 03:00",
-      "link": "/truc-tiep/apex-mission-impossible-vs-maryville-university-luc-0300-ngay-02-05-2026/",
-      "runtime": 1777665600,
-      "datetime": "2026-05-01T20:00:00.000Z"
-    },
-    {
-      "name": "SAW vs ROUNDS lúc 03:00",
-      "link": "/truc-tiep/saw-vs-rounds-luc-0300-ngay-02-05-2026/",
-      "runtime": 1777665600,
-      "datetime": "2026-05-01T20:00:00.000Z"
     },
     {
       "name": "Nữ Llaneros  vs Nữ Junior lúc 03:30",
@@ -124,20 +70,8 @@
       "datetime": "2026-05-01T21:00:00.000Z"
     },
     {
-      "name": "CD Ciclos vs Real Santuario lúc 04:00",
-      "link": "/truc-tiep/cd-ciclos-vs-real-santuario-luc-0400-ngay-02-05-2026/",
-      "runtime": 1777669200,
-      "datetime": "2026-05-01T21:00:00.000Z"
-    },
-    {
       "name": "Zacatecoluca FC vs Inter F.A lúc 04:00",
       "link": "/truc-tiep/zacatecoluca-fc-vs-inter-f-a-luc-0400-ngay-02-05-2026/",
-      "runtime": 1777669200,
-      "datetime": "2026-05-01T21:00:00.000Z"
-    },
-    {
-      "name": "G2 Ares vs ROUNDS lúc 04:00",
-      "link": "/truc-tiep/g2-ares-vs-rounds-luc-0400-ngay-02-05-2026/",
       "runtime": 1777669200,
       "datetime": "2026-05-01T21:00:00.000Z"
     },
@@ -154,10 +88,22 @@
       "datetime": "2026-05-01T21:15:00.000Z"
     },
     {
+      "name": "G2 Ares vs ROUNDS lúc 04:00",
+      "link": "/truc-tiep/g2-ares-vs-rounds-luc-0400-ngay-02-05-2026/",
+      "runtime": 1777670700,
+      "datetime": "2026-05-01T21:25:00.000Z"
+    },
+    {
       "name": "Universidad Católica vs Ind. del Valle lúc 04:30 | ZARA",
       "link": "/truc-tiep/universidad-catolica-vs-ind-del-valle-luc-0430-ngay-02-05-2026/",
       "runtime": 1777671000,
       "datetime": "2026-05-01T21:30:00.000Z"
+    },
+    {
+      "name": "Supernova vs Blue Otter lúc 06:00",
+      "link": "/truc-tiep/supernova-vs-blue-otter-luc-0600-ngay-02-05-2026/",
+      "runtime": 1777671600,
+      "datetime": "2026-05-01T21:40:00.000Z"
     },
     {
       "name": "Piratas de Bogota vs Caribbean Storm Islands lúc 05:00",
@@ -168,8 +114,8 @@
     {
       "name": "SAW vs G2 Ares lúc 05:00",
       "link": "/truc-tiep/saw-vs-g2-ares-luc-0500-ngay-02-05-2026/",
-      "runtime": 1777672800,
-      "datetime": "2026-05-01T22:00:00.000Z"
+      "runtime": 1777674300,
+      "datetime": "2026-05-01T22:25:00.000Z"
     },
     {
       "name": "GamerLegion vs Astralis lúc 05:30",
@@ -238,10 +184,40 @@
       "datetime": "2026-05-01T23:00:00.000Z"
     },
     {
-      "name": "Supernova vs Blue Otter lúc 06:00",
-      "link": "/truc-tiep/supernova-vs-blue-otter-luc-0600-ngay-02-05-2026/",
-      "runtime": 1777676400,
-      "datetime": "2026-05-01T23:00:00.000Z"
+      "name": "York United FC vs Atletico Ottawa lúc 06:30 | NEMO",
+      "link": "/truc-tiep/york-united-fc-vs-atletico-ottawa-luc-0630-ngay-02-05-2026/",
+      "runtime": 1777678200,
+      "datetime": "2026-05-01T23:30:00.000Z"
+    },
+    {
+      "name": "Toronto Raptors vs Cleveland Cavaliers lúc 06:30 | TOMMY",
+      "link": "/truc-tiep/toronto-raptors-vs-cleveland-cavaliers-luc-0630-ngay-02-05-2026/",
+      "runtime": 1777678200,
+      "datetime": "2026-05-01T23:30:00.000Z"
+    },
+    {
+      "name": "Libertad FC vs Deportiva Aucas lúc 07:00 | OLER",
+      "link": "/truc-tiep/libertad-fc-vs-deportiva-aucas-luc-0700-ngay-02-05-2026/",
+      "runtime": 1777680000,
+      "datetime": "2026-05-02T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Houston Dash vs Nữ Seattle Reign lúc 07:00",
+      "link": "/truc-tiep/nu-houston-dash-vs-nu-seattle-reign-luc-0700-ngay-02-05-2026/",
+      "runtime": 1777680000,
+      "datetime": "2026-05-02T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Minnesota Lynx  vs Toronto Tempo lúc 07:00",
+      "link": "/truc-tiep/nu-minnesota-lynx-vs-toronto-tempo-luc-0700-ngay-02-05-2026/",
+      "runtime": 1777680000,
+      "datetime": "2026-05-02T00:00:00.000Z"
+    },
+    {
+      "name": "Nữ Dallas Pulse vs Nữ Omaha Supernovas lúc 07:00",
+      "link": "/truc-tiep/nu-dallas-pulse-vs-nu-omaha-supernovas-luc-0700-ngay-02-05-2026/",
+      "runtime": 1777680000,
+      "datetime": "2026-05-02T00:00:00.000Z"
     }
   ]
 }
