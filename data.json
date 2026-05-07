@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 59,
-  "updated_at": "2026-05-07T19:01:15.595Z",
+  "total_matches": 42,
+  "updated_at": "2026-05-07T20:40:27.072Z",
   "matches": [
     {
       "name": "Danylo Shevchuk vs Mateusz Michalik lúc 14:00",
@@ -112,138 +112,6 @@
       "datetime": "2026-05-06T15:30:00.000Z"
     },
     {
-      "name": "L1ga Team vs Mousesports lúc 19:00",
-      "link": "/truc-tiep/l1ga-team-vs-mousesports-luc-1900-ngay-07-05-2026/",
-      "runtime": 1778169720,
-      "datetime": "2026-05-07T16:02:00.000Z"
-    },
-    {
-      "name": "Mccartney Kessler vs Iva Jovic lúc 23:20",
-      "link": "/truc-tiep/mccartney-kessler-vs-iva-jovic-luc-2320-ngay-07-05-2026/",
-      "runtime": 1778170800,
-      "datetime": "2026-05-07T16:20:00.000Z"
-    },
-    {
-      "name": "Haras El Hodood vs ZED FC lúc 00:00 | XMEN",
-      "link": "/truc-tiep/haras-el-hodood-vs-zed-fc-luc-0000-ngay-08-05-2026/",
-      "runtime": 1778173200,
-      "datetime": "2026-05-07T17:00:00.000Z"
-    },
-    {
-      "name": "Bank El Ahly vs Ismaily SC lúc 00:00 | NEMO",
-      "link": "/truc-tiep/bank-el-ahly-vs-ismaily-sc-luc-0000-ngay-08-05-2026/",
-      "runtime": 1778173200,
-      "datetime": "2026-05-07T17:00:00.000Z"
-    },
-    {
-      "name": "Corum Belediyespor vs Keciorengucu lúc 00:00",
-      "link": "/truc-tiep/corum-belediyespor-vs-keciorengucu-luc-0000-ngay-08-05-2026/",
-      "runtime": 1778173200,
-      "datetime": "2026-05-07T17:00:00.000Z"
-    },
-    {
-      "name": "FK Krasnodar vs Dynamo Moscow lúc 00:30 | ZARA",
-      "link": "/truc-tiep/fk-krasnodar-vs-dynamo-moscow-luc-0030-ngay-08-05-2026/",
-      "runtime": 1778175000,
-      "datetime": "2026-05-07T17:30:00.000Z"
-    },
-    {
-      "name": "IK Sleipner vs Syrianska FC lúc 00:30",
-      "link": "/truc-tiep/ik-sleipner-vs-syrianska-fc-luc-0030-ngay-08-05-2026/",
-      "runtime": 1778175000,
-      "datetime": "2026-05-07T17:30:00.000Z"
-    },
-    {
-      "name": "Al Shabab FC vs Al Nassr lúc 01:00 | DAVID - HELLO",
-      "link": "/truc-tiep/al-shabab-fc-vs-al-nassr-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "RS Berkane vs Union Touarga lúc 01:00 | LOGAN",
-      "link": "/truc-tiep/rs-berkane-vs-union-touarga-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Nữ Perolas Negras vs Nữ Sao Joao PI lúc 01:00",
-      "link": "/truc-tiep/nu-perolas-negras-vs-nu-sao-joao-pi-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Avai Youth vs America MG U20 lúc 01:00",
-      "link": "/truc-tiep/avai-youth-vs-america-mg-u20-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Colon (R) vs Boca Juniors (R) lúc 01:00",
-      "link": "/truc-tiep/colon-r-vs-boca-juniors-r-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Barracas Central (R) vs Godoy Cruz (R) lúc 01:00",
-      "link": "/truc-tiep/barracas-central-r-vs-godoy-cruz-r-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Estudiantes LP (R) vs Newells Old Boys (R) lúc 01:00",
-      "link": "/truc-tiep/estudiantes-lp-r-vs-newells-old-boys-r-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Tigre (R) vs CA Aldosivi (R) lúc 01:00",
-      "link": "/truc-tiep/tigre-r-vs-ca-aldosivi-r-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Banfield (R) vs Union Santa Fe (R) lúc 01:00",
-      "link": "/truc-tiep/banfield-r-vs-union-santa-fe-r-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Rivadavia (R) vs Deportivo Riestra (R) lúc 01:00",
-      "link": "/truc-tiep/rivadavia-r-vs-deportivo-riestra-r-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Hapoel Tel Aviv vs Real Madrid  lúc 01:00",
-      "link": "/truc-tiep/hapoel-tel-aviv-vs-real-madrid-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Hamburg vs Würzburg lúc 01:00",
-      "link": "/truc-tiep/hamburg-vs-wurzburg-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Andrea Pellegrino vs Luca Nardi lúc 23:40",
-      "link": "/truc-tiep/andrea-pellegrino-vs-luca-nardi-luc-2340-ngay-07-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Matheus Pucinelli de Almeida vs Valerio Aboian lúc 01:00",
-      "link": "/truc-tiep/matheus-pucinelli-de-almeida-vs-valerio-aboian-luc-0100-ngay-08-05-2026/",
-      "runtime": 1778176800,
-      "datetime": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "name": "Denis Shapovalov vs Mariano Navone lúc 22:40",
-      "link": "/truc-tiep/denis-shapovalov-vs-mariano-navone-luc-2240-ngay-07-05-2026/",
-      "runtime": 1778177100,
-      "datetime": "2026-05-07T18:05:00.000Z"
-    },
-    {
       "name": "Pháp vs Hungary lúc 01:30",
       "link": "/truc-tiep/phap-vs-hungary-luc-0130-ngay-08-05-2026/",
       "runtime": 1778178600,
@@ -286,20 +154,8 @@
       "datetime": "2026-05-07T19:00:00.000Z"
     },
     {
-      "name": "Aryna Sabalenka vs Barbora Krejcikova lúc 01:30 | LUCAS",
-      "link": "/truc-tiep/aryna-sabalenka-vs-barbora-krejcikova-luc-0130-ngay-08-05-2026/",
-      "runtime": 1778180400,
-      "datetime": "2026-05-07T19:00:00.000Z"
-    },
-    {
-      "name": "Nữ AJM Porto FC  vs Nữ Braga  lúc 02:00",
-      "link": "/truc-tiep/nu-ajm-porto-fc-vs-nu-braga-luc-0200-ngay-08-05-2026/",
-      "runtime": 1778180400,
-      "datetime": "2026-05-07T19:00:00.000Z"
-    },
-    {
-      "name": "GTZ Esports vs Crusaders lúc 02:00",
-      "link": "/truc-tiep/gtz-esports-vs-crusaders-luc-0200-ngay-08-05-2026/",
+      "name": "Mccartney Kessler vs Iva Jovic lúc 23:20",
+      "link": "/truc-tiep/mccartney-kessler-vs-iva-jovic-luc-2320-ngay-07-05-2026/",
       "runtime": 1778180400,
       "datetime": "2026-05-07T19:00:00.000Z"
     },
@@ -356,6 +212,48 @@
       "link": "/truc-tiep/bubliki-vs-zerozone-gaming-luc-0400-ngay-08-05-2026/",
       "runtime": 1778187600,
       "datetime": "2026-05-07T21:00:00.000Z"
+    },
+    {
+      "name": "Boston River vs Millonarios lúc 05:00 | LOGAN",
+      "link": "/truc-tiep/boston-river-vs-millonarios-luc-0500-ngay-08-05-2026/",
+      "runtime": 1778191200,
+      "datetime": "2026-05-07T22:00:00.000Z"
+    },
+    {
+      "name": "Mirassol SP vs  LDU Quito lúc 05:00 | RYAN",
+      "link": "/truc-tiep/mirassol-sp-vs-ldu-quito-luc-0500-ngay-08-05-2026/",
+      "runtime": 1778191200,
+      "datetime": "2026-05-07T22:00:00.000Z"
+    },
+    {
+      "name": "O.Higgins vs São Paulo lúc 05:00 | HELLO",
+      "link": "/truc-tiep/o-higgins-vs-sao-paulo-luc-0500-ngay-08-05-2026/",
+      "runtime": 1778191200,
+      "datetime": "2026-05-07T22:00:00.000Z"
+    },
+    {
+      "name": "CA Platense vs CA Penarol lúc 05:00 | ASTRA",
+      "link": "/truc-tiep/ca-platense-vs-ca-penarol-luc-0500-ngay-08-05-2026/",
+      "runtime": 1778191200,
+      "datetime": "2026-05-07T22:00:00.000Z"
+    },
+    {
+      "name": "Sabios de Manizales vs Caimanes del Llano lúc 05:00",
+      "link": "/truc-tiep/sabios-de-manizales-vs-caimanes-del-llano-luc-0500-ngay-08-05-2026/",
+      "runtime": 1778191200,
+      "datetime": "2026-05-07T22:00:00.000Z"
+    },
+    {
+      "name": "Paulistano Amil vs Pinheiros Sao Paolo lúc 05:00",
+      "link": "/truc-tiep/paulistano-amil-vs-pinheiros-sao-paolo-luc-0500-ngay-08-05-2026/",
+      "runtime": 1778191200,
+      "datetime": "2026-05-07T22:00:00.000Z"
+    },
+    {
+      "name": "AD Confiança vs Fortaleza lúc 05:30",
+      "link": "/truc-tiep/ad-confianca-vs-fortaleza-luc-0530-ngay-08-05-2026/",
+      "runtime": 1778193000,
+      "datetime": "2026-05-07T22:30:00.000Z"
     }
   ]
 }
