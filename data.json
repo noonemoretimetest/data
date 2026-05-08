@@ -1,7 +1,7 @@
 {
   "success": true,
-  "total_matches": 90,
-  "updated_at": "2026-05-08T18:05:48.787Z",
+  "total_matches": 70,
+  "updated_at": "2026-05-08T19:46:29.157Z",
   "matches": [
     {
       "name": "Danylo Shevchuk vs Mateusz Michalik lúc 14:00",
@@ -118,166 +118,16 @@
       "datetime": "2026-05-08T14:30:00.000Z"
     },
     {
-      "name": "Maria Sakkari vs Elena Rybakina lúc 21:40",
-      "link": "/truc-tiep/maria-sakkari-vs-elena-rybakina-luc-2140-ngay-08-05-2026/",
-      "runtime": 1778251200,
-      "datetime": "2026-05-08T14:40:00.000Z"
-    },
-    {
-      "name": "Tundra Esports vs 1win lúc 21:00",
-      "link": "/truc-tiep/tundra-esports-vs-1win-luc-2100-ngay-08-05-2026/",
-      "runtime": 1778252760,
-      "datetime": "2026-05-08T15:06:00.000Z"
-    },
-    {
-      "name": "Dino Prizmic vs Novak Djokovic lúc 21:50 | VIC",
-      "link": "/truc-tiep/dino-prizmic-vs-novak-djokovic-luc-2150-ngay-08-05-2026/",
-      "runtime": 1778254800,
-      "datetime": "2026-05-08T15:40:00.000Z"
-    },
-    {
-      "name": "R. Czestochowa vs Korona Kielce lúc 23:00 | MAX",
-      "link": "/truc-tiep/r-czestochowa-vs-korona-kielce-luc-2300-ngay-08-05-2026/",
-      "runtime": 1778256000,
-      "datetime": "2026-05-08T16:00:00.000Z"
-    },
-    {
       "name": "GMBLERS ESPORTS vs Zena Esports lúc 23:00",
       "link": "/truc-tiep/gmblers-esports-vs-zena-esports-luc-2300-ngay-08-05-2026/",
       "runtime": 1778256000,
       "datetime": "2026-05-08T16:00:00.000Z"
     },
     {
-      "name": "Lp vs Uno Mille lúc 23:00",
-      "link": "/truc-tiep/lp-vs-uno-mille-luc-2300-ngay-08-05-2026/",
-      "runtime": 1778257200,
-      "datetime": "2026-05-08T16:20:00.000Z"
-    },
-    {
-      "name": "Kaiserslautern vs Arminia Bielefeld lúc 23:30 | NICK",
-      "link": "/truc-tiep/kaiserslautern-vs-arminia-bielefeld-luc-2330-ngay-08-05-2026/",
-      "runtime": 1778257800,
-      "datetime": "2026-05-08T16:30:00.000Z"
-    },
-    {
-      "name": "Paderborn 07 vs Karlsruher SC lúc 23:30 | LOUIS",
-      "link": "/truc-tiep/paderborn-07-vs-karlsruher-sc-luc-2330-ngay-08-05-2026/",
-      "runtime": 1778257800,
-      "datetime": "2026-05-08T16:30:00.000Z"
-    },
-    {
-      "name": "Nữ Nurnberg vs Nữ SGS Essen  lúc 23:30",
-      "link": "/truc-tiep/nu-nurnberg-vs-nu-sgs-essen-luc-2330-ngay-08-05-2026/",
-      "runtime": 1778257800,
-      "datetime": "2026-05-08T16:30:00.000Z"
-    },
-    {
-      "name": "Mitteldeutscher BC vs Brose Bamberg lúc 23:30",
-      "link": "/truc-tiep/mitteldeutscher-bc-vs-brose-bamberg-luc-2330-ngay-08-05-2026/",
-      "runtime": 1778257800,
-      "datetime": "2026-05-08T16:30:00.000Z"
-    },
-    {
-      "name": "RASTA Vechta vs Rostock Seawolves lúc 23:30",
-      "link": "/truc-tiep/rasta-vechta-vs-rostock-seawolves-luc-2330-ngay-08-05-2026/",
-      "runtime": 1778257800,
-      "datetime": "2026-05-08T16:30:00.000Z"
-    },
-    {
-      "name": "Al Hussein SC vs Al Faisaly lúc 23:45 | RIO",
-      "link": "/truc-tiep/al-hussein-sc-vs-al-faisaly-luc-2345-ngay-08-05-2026/",
-      "runtime": 1778258700,
-      "datetime": "2026-05-08T16:45:00.000Z"
-    },
-    {
-      "name": "Future FC vs Ittihad Alexandria lúc 00:00 | HELLO",
-      "link": "/truc-tiep/future-fc-vs-ittihad-alexandria-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Kahraba Ismailia vs Pharco lúc 00:00 | YUNO",
-      "link": "/truc-tiep/kahraba-ismailia-vs-pharco-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Ham-Kam vs Vålerenga lúc 00:00 | KEN",
-      "link": "/truc-tiep/ham-kam-vs-valerenga-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "KuPs vs SJK Seinajoen lúc 00:00 | DAVID",
-      "link": "/truc-tiep/kups-vs-sjk-seinajoen-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "CSKA 1948 Sofia vs CSKA Sofia lúc 00:00 | JAY",
-      "link": "/truc-tiep/cska-1948-sofia-vs-cska-sofia-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Viborg vs Sonderjyske lúc 00:00 | JEAN",
-      "link": "/truc-tiep/viborg-vs-sonderjyske-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Elfsborg vs Brommapojkarna lúc 00:00 | POLO",
-      "link": "/truc-tiep/elfsborg-vs-brommapojkarna-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "FC Gomel vs FK Isloch Minsk lúc 00:00",
-      "link": "/truc-tiep/fc-gomel-vs-fk-isloch-minsk-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Nữ Phần Lan U17 vs Nữ Ba Lan U17 lúc 00:00",
-      "link": "/truc-tiep/nu-phan-lan-u17-vs-nu-ba-lan-u17-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Aalborg vs Middelfart Boldklub lúc 00:00",
-      "link": "/truc-tiep/aalborg-vs-middelfart-boldklub-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Zalgiris Kaunas vs Fenerbahçe Istanbul lúc 00:00 | ALAN",
-      "link": "/truc-tiep/zalgiris-kaunas-vs-fenerbahce-istanbul-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
-      "name": "Emma Navarro vs Elisabetta Cocciaretto lúc 00:00",
-      "link": "/truc-tiep/emma-navarro-vs-elisabetta-cocciaretto-luc-0000-ngay-09-05-2026/",
-      "runtime": 1778259600,
-      "datetime": "2026-05-08T17:00:00.000Z"
-    },
-    {
       "name": "Karolina Pliskova vs Jaqueline Adina Cristian lúc 21:40",
       "link": "/truc-tiep/karolina-pliskova-vs-jaqueline-adina-cristian-luc-2140-ngay-08-05-2026/",
       "runtime": 1778260800,
       "datetime": "2026-05-08T17:20:00.000Z"
-    },
-    {
-      "name": "Rodina Moscow vs Chelyabinsk lúc 00:30",
-      "link": "/truc-tiep/rodina-moscow-vs-chelyabinsk-luc-0030-ngay-09-05-2026/",
-      "runtime": 1778261400,
-      "datetime": "2026-05-08T17:30:00.000Z"
-    },
-    {
-      "name": "Vikingur Reykjavik vs Thor Akureyri lúc 00:30",
-      "link": "/truc-tiep/vikingur-reykjavik-vs-thor-akureyri-luc-0030-ngay-09-05-2026/",
-      "runtime": 1778261400,
-      "datetime": "2026-05-08T17:30:00.000Z"
     },
     {
       "name": "CFR Cluj vs Univ. Craiova lúc 01:00 | XMEN",
@@ -318,8 +168,14 @@
     {
       "name": "Inner Circle X Insanity vs Team Nemesis lúc 01:00",
       "link": "/truc-tiep/inner-circle-x-insanity-vs-team-nemesis-luc-0100-ngay-09-05-2026/",
-      "runtime": 1778263200,
-      "datetime": "2026-05-08T18:00:00.000Z"
+      "runtime": 1778263500,
+      "datetime": "2026-05-08T18:05:00.000Z"
+    },
+    {
+      "name": "Dortmund vs Eintracht Frankfurt lúc 01:30 | ROY - ASTRA",
+      "link": "/truc-tiep/dortmund-vs-eintracht-frankfurt-luc-0130-ngay-09-05-2026/",
+      "runtime": 1778265000,
+      "datetime": "2026-05-08T18:30:00.000Z"
     },
     {
       "name": "Lech Poznan vs Arka Gdynia lúc 01:30 | NEMO",
@@ -330,12 +186,6 @@
     {
       "name": "Cadiz vs Dep. La Coruna lúc 01:30 | SILVA",
       "link": "/truc-tiep/cadiz-vs-dep-la-coruna-luc-0130-ngay-09-05-2026/",
-      "runtime": 1778265000,
-      "datetime": "2026-05-08T18:30:00.000Z"
-    },
-    {
-      "name": "Dortmund vs Eintracht Frankfurt lúc 01:30 | ROY - ASTRA",
-      "link": "/truc-tiep/dortmund-vs-eintracht-frankfurt-luc-0130-ngay-09-05-2026/",
       "runtime": 1778265000,
       "datetime": "2026-05-08T18:30:00.000Z"
     },
@@ -412,6 +262,18 @@
       "datetime": "2026-05-08T18:30:00.000Z"
     },
     {
+      "name": "Emma Navarro vs Elisabetta Cocciaretto lúc 00:00",
+      "link": "/truc-tiep/emma-navarro-vs-elisabetta-cocciaretto-luc-0000-ngay-09-05-2026/",
+      "runtime": 1778265600,
+      "datetime": "2026-05-08T18:40:00.000Z"
+    },
+    {
+      "name": "Torino vs Sassuolo lúc 01:45 | BRADY",
+      "link": "/truc-tiep/torino-vs-sassuolo-luc-0145-ngay-09-05-2026/",
+      "runtime": 1778265900,
+      "datetime": "2026-05-08T18:45:00.000Z"
+    },
+    {
       "name": "RC Lens vs FC Nantes lúc 01:45 | MAX",
       "link": "/truc-tiep/rc-lens-vs-fc-nantes-luc-0145-ngay-09-05-2026/",
       "runtime": 1778265900,
@@ -420,12 +282,6 @@
     {
       "name": "Standard Liege vs  Oud-Heverlee lúc 01:45 | RIO",
       "link": "/truc-tiep/standard-liege-vs-oud-heverlee-luc-0145-ngay-09-05-2026/",
-      "runtime": 1778265900,
-      "datetime": "2026-05-08T18:45:00.000Z"
-    },
-    {
-      "name": "Torino vs Sassuolo lúc 01:45 | BRADY",
-      "link": "/truc-tiep/torino-vs-sassuolo-luc-0145-ngay-09-05-2026/",
       "runtime": 1778265900,
       "datetime": "2026-05-08T18:45:00.000Z"
     },
@@ -454,6 +310,12 @@
       "datetime": "2026-05-08T18:45:00.000Z"
     },
     {
+      "name": "Maria Sakkari vs Elena Rybakina lúc 21:40",
+      "link": "/truc-tiep/maria-sakkari-vs-elena-rybakina-luc-2140-ngay-08-05-2026/",
+      "runtime": 1778266200,
+      "datetime": "2026-05-08T18:50:00.000Z"
+    },
+    {
       "name": "Levante vs Osasuna lúc 02:00 | NICK - LOUIS",
       "link": "/truc-tiep/levante-vs-osasuna-luc-0200-ngay-09-05-2026/",
       "runtime": 1778266800,
@@ -474,6 +336,12 @@
     {
       "name": "Wisla Krakow vs Chrobry Glogow lúc 02:00",
       "link": "/truc-tiep/wisla-krakow-vs-chrobry-glogow-luc-0200-ngay-09-05-2026/",
+      "runtime": 1778266800,
+      "datetime": "2026-05-08T19:00:00.000Z"
+    },
+    {
+      "name": "Nữ Cruzeiro vs Nữ America Mineiro lúc 05:00",
+      "link": "/truc-tiep/nu-cruzeiro-vs-nu-america-mineiro-luc-0500-ngay-09-05-2026/",
       "runtime": 1778266800,
       "datetime": "2026-05-08T19:00:00.000Z"
     },
@@ -542,6 +410,18 @@
       "link": "/truc-tiep/maryville-university-vs-winthrop-university-luc-0300-ngay-09-05-2026/",
       "runtime": 1778270400,
       "datetime": "2026-05-08T20:00:00.000Z"
+    },
+    {
+      "name": "Carlos Mannucci W vs Nữ Alianza Lima lúc 03:00",
+      "link": "/truc-tiep/carlos-mannucci-w-vs-nu-alianza-lima-luc-0300-ngay-09-05-2026/",
+      "runtime": 1778271300,
+      "datetime": "2026-05-08T20:15:00.000Z"
+    },
+    {
+      "name": "Lp vs Turma do Pagode lúc 04:30",
+      "link": "/truc-tiep/lp-vs-turma-do-pagode-luc-0430-ngay-09-05-2026/",
+      "runtime": 1778275800,
+      "datetime": "2026-05-08T21:30:00.000Z"
     }
   ]
 }
