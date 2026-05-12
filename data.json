@@ -1,25 +1,13 @@
 {
   "success": true,
-  "total_matches": 38,
-  "updated_at": "2026-05-12T22:36:59.838Z",
+  "total_matches": 40,
+  "updated_at": "2026-05-12T23:39:43.134Z",
   "matches": [
     {
       "name": "Fan Ka Yan/Mau Ying Yau vs Hsu Ya Ching/Sung Yu-Hsuan lúc 20:20",
       "link": "/truc-tiep/fan-ka-yan-mau-ying-yau-vs-hsu-ya-ching-sung-yu-hsuan-luc-2020-ngay-12-05-2026/",
       "runtime": 1778596200,
       "datetime": "2026-05-12T14:30:00.000Z"
-    },
-    {
-      "name": "Union Magdalena vs Real Cartagena lúc 04:00",
-      "link": "/truc-tiep/union-magdalena-vs-real-cartagena-luc-0400-ngay-13-05-2026/",
-      "runtime": 1778619600,
-      "datetime": "2026-05-12T21:00:00.000Z"
-    },
-    {
-      "name": "CD Marathon (R) vs Lobos UPNFM (R) lúc 04:00",
-      "link": "/truc-tiep/cd-marathon-r-vs-lobos-upnfm-r-luc-0400-ngay-13-05-2026/",
-      "runtime": 1778619600,
-      "datetime": "2026-05-12T21:00:00.000Z"
     },
     {
       "name": "Bruno Fernandez/Valentin Garay vs Juan Manuel La Serna/Miguel Tobon lúc 04:05",
@@ -112,12 +100,6 @@
       "datetime": "2026-05-12T23:00:00.000Z"
     },
     {
-      "name": "LVU Rush vs West Chester United lúc 06:00",
-      "link": "/truc-tiep/lvu-rush-vs-west-chester-united-luc-0600-ngay-13-05-2026/",
-      "runtime": 1778626800,
-      "datetime": "2026-05-12T23:00:00.000Z"
-    },
-    {
       "name": "St Andrew Lions vs Ellerton FC lúc 06:00",
       "link": "/truc-tiep/st-andrew-lions-vs-ellerton-fc-luc-0600-ngay-13-05-2026/",
       "runtime": 1778626800,
@@ -128,6 +110,12 @@
       "link": "/truc-tiep/mahaut-soca-strikers-vs-middleham-united-fc-luc-0600-ngay-13-05-2026/",
       "runtime": 1778626800,
       "datetime": "2026-05-12T23:00:00.000Z"
+    },
+    {
+      "name": "LVU Rush vs West Chester United lúc 06:00",
+      "link": "/truc-tiep/lvu-rush-vs-west-chester-united-luc-0600-ngay-13-05-2026/",
+      "runtime": 1778627400,
+      "datetime": "2026-05-12T23:10:00.000Z"
     },
     {
       "name": "Atl. Nacional vs Internacional de Bogota lúc 06:20 | XMEN",
@@ -230,6 +218,30 @@
       "link": "/truc-tiep/uno-mille-vs-pain-academy-luc-0300-ngay-13-05-2026/",
       "runtime": 1778632200,
       "datetime": "2026-05-13T00:30:00.000Z"
+    },
+    {
+      "name": "Hebraica y Macabi vs Alletico Aguada lúc 07:45",
+      "link": "/truc-tiep/hebraica-y-macabi-vs-alletico-aguada-luc-0745-ngay-13-05-2026/",
+      "runtime": 1778633100,
+      "datetime": "2026-05-13T00:45:00.000Z"
+    },
+    {
+      "name": "Plaza Amador (R) vs CD Arabe Unido (R) lúc 08:00",
+      "link": "/truc-tiep/plaza-amador-r-vs-cd-arabe-unido-r-luc-0800-ngay-13-05-2026/",
+      "runtime": 1778634000,
+      "datetime": "2026-05-13T01:00:00.000Z"
+    },
+    {
+      "name": "Atletico Argentino Junin vs Atenas Cordoba lúc 08:10 | STEP",
+      "link": "/truc-tiep/atletico-argentino-junin-vs-atenas-cordoba-luc-0810-ngay-13-05-2026/",
+      "runtime": 1778634600,
+      "datetime": "2026-05-13T01:10:00.000Z"
+    },
+    {
+      "name": "Ind. Santa Fe vs America de Cali lúc 08:30 | RYAN",
+      "link": "/truc-tiep/ind-santa-fe-vs-america-de-cali-luc-0830-ngay-13-05-2026/",
+      "runtime": 1778635800,
+      "datetime": "2026-05-13T01:30:00.000Z"
     }
   ]
 }
