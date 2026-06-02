@@ -1,164 +1,8 @@
 {
   "success": true,
-  "total_matches": 31,
-  "updated_at": "2026-06-02T00:16:18.789Z",
+  "total_matches": 18,
+  "updated_at": "2026-06-02T05:01:50.826Z",
   "matches": [
-    {
-      "name": "Vivo Keyd Stars Academy vs KaBuM! Ilha das Lendas lúc 03:00",
-      "link": "/truc-tiep/vivo-keyd-stars-academy-vs-kabum-ilha-das-lendas-luc-0300-ngay-02-06-2026/",
-      "runtime": 1780344900,
-      "datetime": "2026-06-01T20:15:00.000Z"
-    },
-    {
-      "name": "Henry Searle vs Mitchell Krueger lúc 03:50",
-      "link": "/truc-tiep/henry-searle-vs-mitchell-krueger-luc-0350-ngay-02-06-2026/",
-      "runtime": 1780347000,
-      "datetime": "2026-06-01T20:50:00.000Z"
-    },
-    {
-      "name": "Zetta Games vs Hokori lúc 04:00",
-      "link": "/truc-tiep/zetta-games-vs-hokori-luc-0400-ngay-02-06-2026/",
-      "runtime": 1780347840,
-      "datetime": "2026-06-01T21:04:00.000Z"
-    },
-    {
-      "name": "Blaise Bicknell vs Johannus Monday lúc 04:30",
-      "link": "/truc-tiep/blaise-bicknell-vs-johannus-monday-luc-0430-ngay-02-06-2026/",
-      "runtime": 1780349400,
-      "datetime": "2026-06-01T21:30:00.000Z"
-    },
-    {
-      "name": "Andres Martin vs Blake Ellis lúc 05:00",
-      "link": "/truc-tiep/andres-martin-vs-blake-ellis-luc-0500-ngay-02-06-2026/",
-      "runtime": 1780351200,
-      "datetime": "2026-06-01T22:00:00.000Z"
-    },
-    {
-      "name": "Nữ Planalto EC vs Nữ Rolim de Moura lúc 05:30",
-      "link": "/truc-tiep/nu-planalto-ec-vs-nu-rolim-de-moura-luc-0530-ngay-02-06-2026/",
-      "runtime": 1780353600,
-      "datetime": "2026-06-01T22:40:00.000Z"
-    },
-    {
-      "name": "Colombia vs Costa Rica lúc 06:00 | BRADY",
-      "link": "/truc-tiep/colombia-vs-costa-rica-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780354800,
-      "datetime": "2026-06-01T23:00:00.000Z"
-    },
-    {
-      "name": "CA Penarol vs Central Espanol lúc 06:00",
-      "link": "/truc-tiep/ca-penarol-vs-central-espanol-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780354800,
-      "datetime": "2026-06-01T23:00:00.000Z"
-    },
-    {
-      "name": "Barra FC vs Brusque FC lúc 06:00",
-      "link": "/truc-tiep/barra-fc-vs-brusque-fc-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780354800,
-      "datetime": "2026-06-01T23:00:00.000Z"
-    },
-    {
-      "name": "Curico Unido vs CSD Antofagasta lúc 06:00",
-      "link": "/truc-tiep/curico-unido-vs-csd-antofagasta-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780354800,
-      "datetime": "2026-06-01T23:00:00.000Z"
-    },
-    {
-      "name": "Deportes Santa Cruz vs CD Copiapo S.A. lúc 06:00",
-      "link": "/truc-tiep/deportes-santa-cruz-vs-cd-copiapo-s-a-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780354800,
-      "datetime": "2026-06-01T23:00:00.000Z"
-    },
-    {
-      "name": "Maguary vs Sousa PB lúc 06:00",
-      "link": "/truc-tiep/maguary-vs-sousa-pb-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780354800,
-      "datetime": "2026-06-01T23:00:00.000Z"
-    },
-    {
-      "name": "Marinos de Anzoaegui vs Gaiteros de Zulia lúc 06:00",
-      "link": "/truc-tiep/marinos-de-anzoaegui-vs-gaiteros-de-zulia-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780354800,
-      "datetime": "2026-06-01T23:00:00.000Z"
-    },
-    {
-      "name": "SDM Tigres vs G3V E-sports lúc 06:00",
-      "link": "/truc-tiep/sdm-tigres-vs-g3v-e-sports-luc-0600-ngay-02-06-2026/",
-      "runtime": 1780355400,
-      "datetime": "2026-06-01T23:10:00.000Z"
-    },
-    {
-      "name": "Marcilio Dias SC vs Azuriz FC lúc 06:15",
-      "link": "/truc-tiep/marcilio-dias-sc-vs-azuriz-fc-luc-0615-ngay-02-06-2026/",
-      "runtime": 1780355700,
-      "datetime": "2026-06-01T23:15:00.000Z"
-    },
-    {
-      "name": "Guaiqueries vs Cocodrilos lúc 06:30",
-      "link": "/truc-tiep/guaiqueries-vs-cocodrilos-luc-0630-ngay-02-06-2026/",
-      "runtime": 1780356600,
-      "datetime": "2026-06-01T23:30:00.000Z"
-    },
-    {
-      "name": "USA U18 vs Argentina lúc 06:30",
-      "link": "/truc-tiep/usa-u18-vs-argentina-luc-0630-ngay-02-06-2026/",
-      "runtime": 1780356600,
-      "datetime": "2026-06-01T23:30:00.000Z"
-    },
-    {
-      "name": "UD Vinto vs Aurora lúc 07:00 | JEAN",
-      "link": "/truc-tiep/ud-vinto-vs-aurora-luc-0700-ngay-02-06-2026/",
-      "runtime": 1780358400,
-      "datetime": "2026-06-02T00:00:00.000Z"
-    },
-    {
-      "name": "Nữ Dallas Wings vs Nữ Seattle Storm lúc 07:00",
-      "link": "/truc-tiep/nu-dallas-wings-vs-nu-seattle-storm-luc-0700-ngay-02-06-2026/",
-      "runtime": 1780358400,
-      "datetime": "2026-06-02T00:00:00.000Z"
-    },
-    {
-      "name": "Gigantes Carolina vs Manati lúc 07:00 | ALAN",
-      "link": "/truc-tiep/gigantes-carolina-vs-manati-luc-0700-ngay-02-06-2026/",
-      "runtime": 1780358400,
-      "datetime": "2026-06-02T00:00:00.000Z"
-    },
-    {
-      "name": "Tecnico Uni. vs Barcelona SC lúc 07:30 | OLER",
-      "link": "/truc-tiep/tecnico-uni-vs-barcelona-sc-luc-0730-ngay-02-06-2026/",
-      "runtime": 1780360200,
-      "datetime": "2026-06-02T00:30:00.000Z"
-    },
-    {
-      "name": "SV Estrella vs SV Jong Aruba lúc 07:30",
-      "link": "/truc-tiep/sv-estrella-vs-sv-jong-aruba-luc-0730-ngay-02-06-2026/",
-      "runtime": 1780360200,
-      "datetime": "2026-06-02T00:30:00.000Z"
-    },
-    {
-      "name": "Canada vs Uzbekistan lúc 08:00 | FILIP",
-      "link": "/truc-tiep/canada-vs-uzbekistan-luc-0800-ngay-02-06-2026/",
-      "runtime": 1780362000,
-      "datetime": "2026-06-02T01:00:00.000Z"
-    },
-    {
-      "name": "Gala Arangio vs Shona Nakano lúc 08:30",
-      "link": "/truc-tiep/gala-arangio-vs-shona-nakano-luc-0830-ngay-02-06-2026/",
-      "runtime": 1780363800,
-      "datetime": "2026-06-02T01:30:00.000Z"
-    },
-    {
-      "name": "Stars FC vs Southern California Eagles lúc 09:00 | XMEN",
-      "link": "/truc-tiep/stars-fc-vs-southern-california-eagles-luc-0900-ngay-02-06-2026/",
-      "runtime": 1780365600,
-      "datetime": "2026-06-02T02:00:00.000Z"
-    },
-    {
-      "name": "Nữ Phoenix Mercury vs Nữ Minnesota Lynx  lúc 09:00 | TOMMY",
-      "link": "/truc-tiep/nu-phoenix-mercury-vs-nu-minnesota-lynx-luc-0900-ngay-02-06-2026/",
-      "runtime": 1780365600,
-      "datetime": "2026-06-02T02:00:00.000Z"
-    },
     {
       "name": "Brazil U18 vs Mexico U18 lúc 09:00",
       "link": "/truc-tiep/brazil-u18-vs-mexico-u18-luc-0900-ngay-02-06-2026/",
@@ -166,28 +10,106 @@
       "datetime": "2026-06-02T02:00:00.000Z"
     },
     {
-      "name": "Marta Kostyuk (Srl) vs Donna Vekic (Srl) lúc 09:00",
-      "link": "/truc-tiep/marta-kostyuk-srl-vs-donna-vekic-srl-luc-0900-ngay-02-06-2026/",
-      "runtime": 1780365600,
-      "datetime": "2026-06-02T02:00:00.000Z"
+      "name": "Tang Chun Man/Tse Ying Suet vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat lúc 10:40",
+      "link": "/truc-tiep/tang-chun-man-tse-ying-suet-vs-ruttanapak-oupthong-jhenicha-sudjaipraparat-luc-1040-ngay-02-06-2026/",
+      "runtime": 1780373400,
+      "datetime": "2026-06-02T04:10:00.000Z"
     },
     {
-      "name": "Feng Yanzhe/Huang Dongping vs Jimmy Wong/Cheng Su Yin lúc 09:00",
-      "link": "/truc-tiep/feng-yanzhe-huang-dongping-vs-jimmy-wong-cheng-su-yin-luc-0900-ngay-02-06-2026/",
-      "runtime": 1780365600,
-      "datetime": "2026-06-02T02:00:00.000Z"
+      "name": "Kidambi Srikanth vs Yushi Tanaka lúc 10:50",
+      "link": "/truc-tiep/kidambi-srikanth-vs-yushi-tanaka-luc-1050-ngay-02-06-2026/",
+      "runtime": 1780374300,
+      "datetime": "2026-06-02T04:25:00.000Z"
     },
     {
-      "name": "Shi Yuqi vs Yu Jen Chi lúc 09:00",
-      "link": "/truc-tiep/shi-yuqi-vs-yu-jen-chi-luc-0900-ngay-02-06-2026/",
-      "runtime": 1780365600,
-      "datetime": "2026-06-02T02:00:00.000Z"
+      "name": "Pornpawee Chochuwong vs Malvika Bansod lúc 10:40",
+      "link": "/truc-tiep/pornpawee-chochuwong-vs-malvika-bansod-luc-1040-ngay-02-06-2026/",
+      "runtime": 1780374300,
+      "datetime": "2026-06-02T04:25:00.000Z"
     },
     {
-      "name": "Hinata Suzuki/Nao Yamakita vs Bengisu Ercetin/Nazlıcan Inci lúc 09:10",
-      "link": "/truc-tiep/hinata-suzuki-nao-yamakita-vs-bengisu-ercetin-nazlican-inci-luc-0910-ngay-02-06-2026/",
-      "runtime": 1780366200,
-      "datetime": "2026-06-02T02:10:00.000Z"
+      "name": "Chongqing Handa vs Guizhou Feiying lúc 12:00 | SILVA",
+      "link": "/truc-tiep/chongqing-handa-vs-guizhou-feiying-luc-1200-ngay-02-06-2026/",
+      "runtime": 1780376400,
+      "datetime": "2026-06-02T05:00:00.000Z"
+    },
+    {
+      "name": "Dejan Ferdinansyah/Bernadine Anindiya Wardana vs Cheng Xing/Zhang Chi lúc 11:30",
+      "link": "/truc-tiep/dejan-ferdinansyah-bernadine-anindiya-wardana-vs-cheng-xing-zhang-chi-luc-1130-ngay-02-06-2026/",
+      "runtime": 1780376400,
+      "datetime": "2026-06-02T05:00:00.000Z"
+    },
+    {
+      "name": "Lauren Lam/Allison Lee vs Ririna Hiramoto/Kokona Ishikawa lúc 11:40",
+      "link": "/truc-tiep/lauren-lam-allison-lee-vs-ririna-hiramoto-kokona-ishikawa-luc-1140-ngay-02-06-2026/",
+      "runtime": 1780377000,
+      "datetime": "2026-06-02T05:10:00.000Z"
+    },
+    {
+      "name": "Kim Won-ho/Seo Seung-jae vs Chiu Hsiang-chieh/Wang Chi-lin lúc 11:30",
+      "link": "/truc-tiep/kim-won-ho-seo-seung-jae-vs-chiu-hsiang-chieh-wang-chi-lin-luc-1130-ngay-02-06-2026/",
+      "runtime": 1780377300,
+      "datetime": "2026-06-02T05:15:00.000Z"
+    },
+    {
+      "name": "Jonatan Christie vs Jia Heng Jason Teh lúc 12:20",
+      "link": "/truc-tiep/jonatan-christie-vs-jia-heng-jason-teh-luc-1220-ngay-02-06-2026/",
+      "runtime": 1780378800,
+      "datetime": "2026-06-02T05:40:00.000Z"
+    },
+    {
+      "name": "Nur Mohd Azriyn Ayub Azriyn/Wee Kiong Tan vs Hariharan Amsakarunan/Madathil Ramachandran Arjun lúc 12:20",
+      "link": "/truc-tiep/nur-mohd-azriyn-ayub-azriyn-wee-kiong-tan-vs-hariharan-amsakarunan-madathil-ramachandran-arjun-luc-1220-ngay-02-06-2026/",
+      "runtime": 1780378800,
+      "datetime": "2026-06-02T05:40:00.000Z"
+    },
+    {
+      "name": "Riko Gunji vs Kim Ga-eun lúc 12:30",
+      "link": "/truc-tiep/riko-gunji-vs-kim-ga-eun-luc-1230-ngay-02-06-2026/",
+      "runtime": 1780380000,
+      "datetime": "2026-06-02T06:00:00.000Z"
+    },
+    {
+      "name": "Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari vs Treesa Jolly/Gayatri Gopichand Pullela lúc 13:10",
+      "link": "/truc-tiep/febriana-dwipuji-kusuma-meilysa-trias-puspitasari-vs-treesa-jolly-gayatri-gopichand-pullela-luc-1310-ngay-02-06-2026/",
+      "runtime": 1780381800,
+      "datetime": "2026-06-02T06:30:00.000Z"
+    },
+    {
+      "name": "Isyana Syahira Meida/Rinjani Kwinara Nastine vs Rachel Allessya Rose/Febi Setianingrum lúc 13:10",
+      "link": "/truc-tiep/isyana-syahira-meida-rinjani-kwinara-nastine-vs-rachel-allessya-rose-febi-setianingrum-luc-1310-ngay-02-06-2026/",
+      "runtime": 1780381800,
+      "datetime": "2026-06-02T06:30:00.000Z"
+    },
+    {
+      "name": "Hina Akechi vs Natsuki Nidaira lúc 13:20",
+      "link": "/truc-tiep/hina-akechi-vs-natsuki-nidaira-luc-1320-ngay-02-06-2026/",
+      "runtime": 1780383000,
+      "datetime": "2026-06-02T06:50:00.000Z"
+    },
+    {
+      "name": "Silpakorn University vs Mahidol University lúc 14:00",
+      "link": "/truc-tiep/silpakorn-university-vs-mahidol-university-luc-1400-ngay-02-06-2026/",
+      "runtime": 1780383600,
+      "datetime": "2026-06-02T07:00:00.000Z"
+    },
+    {
+      "name": "King Mongkut University vs Nakhon Rajabhat (R) lúc 14:00",
+      "link": "/truc-tiep/king-mongkut-university-vs-nakhon-rajabhat-r-luc-1400-ngay-02-06-2026/",
+      "runtime": 1780383600,
+      "datetime": "2026-06-02T07:00:00.000Z"
+    },
+    {
+      "name": "Konkuk University vs Hanyang University lúc 14:00",
+      "link": "/truc-tiep/konkuk-university-vs-hanyang-university-luc-1400-ngay-02-06-2026/",
+      "runtime": 1780383600,
+      "datetime": "2026-06-02T07:00:00.000Z"
+    },
+    {
+      "name": "Dankook (R) vs Yonsei University lúc 14:00",
+      "link": "/truc-tiep/dankook-r-vs-yonsei-university-luc-1400-ngay-02-06-2026/",
+      "runtime": 1780383600,
+      "datetime": "2026-06-02T07:00:00.000Z"
     }
   ]
 }
