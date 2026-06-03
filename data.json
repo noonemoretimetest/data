@@ -1,32 +1,8 @@
 {
   "success": true,
-  "total_matches": 28,
-  "updated_at": "2026-06-02T22:37:30.366Z",
+  "total_matches": 35,
+  "updated_at": "2026-06-03T00:15:19.171Z",
   "matches": [
-    {
-      "name": "9z Globant vs Volticons lúc 03:00",
-      "link": "/truc-tiep/9z-globant-vs-volticons-luc-0300-ngay-03-06-2026/",
-      "runtime": 1780430400,
-      "datetime": "2026-06-02T20:00:00.000Z"
-    },
-    {
-      "name": "Deportivo La Union FC vs Deportivo Cuenca lúc 03:30 | TONI",
-      "link": "/truc-tiep/deportivo-la-union-fc-vs-deportivo-cuenca-luc-0330-ngay-03-06-2026/",
-      "runtime": 1780432200,
-      "datetime": "2026-06-02T20:30:00.000Z"
-    },
-    {
-      "name": "Dep.Independiente vs Cucuta Deportivo lúc 04:00 | FILIP",
-      "link": "/truc-tiep/dep-independiente-vs-cucuta-deportivo-luc-0400-ngay-03-06-2026/",
-      "runtime": 1780434000,
-      "datetime": "2026-06-02T21:00:00.000Z"
-    },
-    {
-      "name": "12 de Octubre vs Atlantida SC lúc 04:00",
-      "link": "/truc-tiep/12-de-octubre-vs-atlantida-sc-luc-0400-ngay-03-06-2026/",
-      "runtime": 1780434000,
-      "datetime": "2026-06-02T21:00:00.000Z"
-    },
     {
       "name": "Puerto RicoU18 vs Venezuela U18 lúc 04:00",
       "link": "/truc-tiep/puerto-ricou18-vs-venezuela-u18-luc-0400-ngay-03-06-2026/",
@@ -44,24 +20,6 @@
       "link": "/truc-tiep/blaise-bicknell-vs-johannus-monday-luc-0450-ngay-03-06-2026/",
       "runtime": 1780437000,
       "datetime": "2026-06-02T21:50:00.000Z"
-    },
-    {
-      "name": "Vermont Green vs Boston Bolts lúc 05:00 | LOGAN",
-      "link": "/truc-tiep/vermont-green-vs-boston-bolts-luc-0500-ngay-03-06-2026/",
-      "runtime": 1780437600,
-      "datetime": "2026-06-02T22:00:00.000Z"
-    },
-    {
-      "name": "Deportivo Merlo vs Deportivo Laferrere lúc 05:00",
-      "link": "/truc-tiep/deportivo-merlo-vs-deportivo-laferrere-luc-0500-ngay-03-06-2026/",
-      "runtime": 1780437600,
-      "datetime": "2026-06-02T22:00:00.000Z"
-    },
-    {
-      "name": "Sport Sinop U20 vs Gremio Sorriso U20 lúc 05:00",
-      "link": "/truc-tiep/sport-sinop-u20-vs-gremio-sorriso-u20-luc-0500-ngay-03-06-2026/",
-      "runtime": 1780437600,
-      "datetime": "2026-06-02T22:00:00.000Z"
     },
     {
       "name": "Adam Walton vs Wu Tung-lin lúc 05:05",
@@ -90,6 +48,18 @@
     {
       "name": "Nữ Penn Fusion SA vs Nữ Monmouth lúc 06:00",
       "link": "/truc-tiep/nu-penn-fusion-sa-vs-nu-monmouth-luc-0600-ngay-03-06-2026/",
+      "runtime": 1780441200,
+      "datetime": "2026-06-02T23:00:00.000Z"
+    },
+    {
+      "name": "Point Michel FC vs Middleham United FC lúc 06:00",
+      "link": "/truc-tiep/point-michel-fc-vs-middleham-united-fc-luc-0600-ngay-03-06-2026/",
+      "runtime": 1780441200,
+      "datetime": "2026-06-02T23:00:00.000Z"
+    },
+    {
+      "name": "Alajuelense U21 vs Sporting San Jose U21 lúc 06:00",
+      "link": "/truc-tiep/alajuelense-u21-vs-sporting-san-jose-u21-luc-0600-ngay-03-06-2026/",
       "runtime": 1780441200,
       "datetime": "2026-06-02T23:00:00.000Z"
     },
@@ -124,8 +94,14 @@
       "datetime": "2026-06-03T00:00:00.000Z"
     },
     {
-      "name": "Fortaleza vs Vitória BA lúc 07:00 | DAVID",
+      "name": "Fortaleza vs Vitória BA lúc 07:00 | RIO",
       "link": "/truc-tiep/fortaleza-vs-vitoria-ba-luc-0700-ngay-03-06-2026/",
+      "runtime": 1780444800,
+      "datetime": "2026-06-03T00:00:00.000Z"
+    },
+    {
+      "name": "CD Olimpia (R) vs Olancho FC (R) lúc 07:00",
+      "link": "/truc-tiep/cd-olimpia-r-vs-olancho-fc-r-luc-0700-ngay-03-06-2026/",
       "runtime": 1780444800,
       "datetime": "2026-06-03T00:00:00.000Z"
     },
@@ -170,6 +146,72 @@
       "link": "/truc-tiep/caneros-del-este-vs-heroes-de-moca-luc-0730-ngay-03-06-2026/",
       "runtime": 1780446600,
       "datetime": "2026-06-03T00:30:00.000Z"
+    },
+    {
+      "name": "Atletico Rio Abajo vs AF Chilibre lúc 08:00",
+      "link": "/truc-tiep/atletico-rio-abajo-vs-af-chilibre-luc-0800-ngay-03-06-2026/",
+      "runtime": 1780448400,
+      "datetime": "2026-06-03T01:00:00.000Z"
+    },
+    {
+      "name": "Toros del Valle vs Paisas lúc 08:00",
+      "link": "/truc-tiep/toros-del-valle-vs-paisas-luc-0800-ngay-03-06-2026/",
+      "runtime": 1780448400,
+      "datetime": "2026-06-03T01:00:00.000Z"
+    },
+    {
+      "name": "Estar Backs vs Hokori lúc 08:00",
+      "link": "/truc-tiep/estar-backs-vs-hokori-luc-0800-ngay-03-06-2026/",
+      "runtime": 1780448400,
+      "datetime": "2026-06-03T01:00:00.000Z"
+    },
+    {
+      "name": "Matei Gavrea vs Niels Hoffmann lúc 08:30",
+      "link": "/truc-tiep/matei-gavrea-vs-niels-hoffmann-luc-0830-ngay-03-06-2026/",
+      "runtime": 1780450200,
+      "datetime": "2026-06-03T01:30:00.000Z"
+    },
+    {
+      "name": "Portland Bangers vs Midlakes United lúc 09:00",
+      "link": "/truc-tiep/portland-bangers-vs-midlakes-united-luc-0900-ngay-03-06-2026/",
+      "runtime": 1780452000,
+      "datetime": "2026-06-03T02:00:00.000Z"
+    },
+    {
+      "name": "Mexico U18 vs USA U18 lúc 09:00",
+      "link": "/truc-tiep/mexico-u18-vs-usa-u18-luc-0900-ngay-03-06-2026/",
+      "runtime": 1780452000,
+      "datetime": "2026-06-03T02:00:00.000Z"
+    },
+    {
+      "name": "Nữ Los Angeles Sparks vs Nữ Las Vegas Aces lúc 09:00 | TOMMY",
+      "link": "/truc-tiep/nu-los-angeles-sparks-vs-nu-las-vegas-aces-luc-0900-ngay-03-06-2026/",
+      "runtime": 1780452000,
+      "datetime": "2026-06-03T02:00:00.000Z"
+    },
+    {
+      "name": "Nữ Golden State  vs Nữ Portland Fire lúc 09:00 | ALAN",
+      "link": "/truc-tiep/nu-golden-state-vs-nu-portland-fire-luc-0900-ngay-03-06-2026/",
+      "runtime": 1780452000,
+      "datetime": "2026-06-03T02:00:00.000Z"
+    },
+    {
+      "name": "Yuichi Shimogami/Sayaka Hobara vs Dechapol Puavaranukroh/Supissara Paewsampran lúc 09:00",
+      "link": "/truc-tiep/yuichi-shimogami-sayaka-hobara-vs-dechapol-puavaranukroh-supissara-paewsampran-luc-0900-ngay-03-06-2026/",
+      "runtime": 1780452000,
+      "datetime": "2026-06-03T02:00:00.000Z"
+    },
+    {
+      "name": "Rohan Kapoor/Gadde Ruthvika Shivani vs Yang Po-hsuan/Hu Ling-fang lúc 09:00",
+      "link": "/truc-tiep/rohan-kapoor-gadde-ruthvika-shivani-vs-yang-po-hsuan-hu-ling-fang-luc-0900-ngay-03-06-2026/",
+      "runtime": 1780452000,
+      "datetime": "2026-06-03T02:00:00.000Z"
+    },
+    {
+      "name": "Liu Shengshu/Tan Ning vs Polina Buhrova/Yevheniia Kantemyr lúc 09:10",
+      "link": "/truc-tiep/liu-shengshu-tan-ning-vs-polina-buhrova-yevheniia-kantemyr-luc-0910-ngay-03-06-2026/",
+      "runtime": 1780452600,
+      "datetime": "2026-06-03T02:10:00.000Z"
     }
   ]
 }
