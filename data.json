@@ -1,349 +1,265 @@
 {
   "success": true,
-  "total_matches": 57,
-  "updated_at": "2026-06-04T10:38:00.644Z",
+  "total_matches": 43,
+  "updated_at": "2026-06-04T13:45:22.945Z",
   "matches": [
     {
-      "name": "Nữ BA COE vs Nữ Canberra Nationals lúc 15:00",
-      "link": "/truc-tiep/nu-ba-coe-vs-nu-canberra-nationals-luc-1500-ngay-04-06-2026/",
-      "runtime": 1780560000,
-      "datetime": "2026-06-04T08:00:00.000Z"
-    },
-    {
-      "name": "Alexander Donski vs Edward Winter lúc 15:00",
-      "link": "/truc-tiep/alexander-donski-vs-edward-winter-luc-1500-ngay-04-06-2026/",
-      "runtime": 1780560000,
-      "datetime": "2026-06-04T08:00:00.000Z"
-    },
-    {
-      "name": "ENCE vs Entropy lúc 15:00",
-      "link": "/truc-tiep/ence-vs-entropy-luc-1500-ngay-04-06-2026/",
-      "runtime": 1780560000,
-      "datetime": "2026-06-04T08:00:00.000Z"
-    },
-    {
-      "name": "Team Yandex  vs Aurora Gaming lúc 16:00",
-      "link": "/truc-tiep/team-yandex-vs-aurora-gaming-luc-1600-ngay-04-06-2026/",
-      "runtime": 1780563540,
-      "datetime": "2026-06-04T08:59:00.000Z"
-    },
-    {
-      "name": "Myanmar U19 vs Việt Nam U19 lúc 16:00 | NICK - BRADY",
-      "link": "/truc-tiep/myanmar-u19-vs-viet-nam-u19-luc-1600-ngay-04-06-2026/",
-      "runtime": 1780563600,
-      "datetime": "2026-06-04T09:00:00.000Z"
-    },
-    {
-      "name": "Văn Hiến vs Khánh Hòa lúc 16:00 | RIO",
-      "link": "/truc-tiep/van-hien-vs-khanh-hoa-luc-1600-ngay-04-06-2026/",
-      "runtime": 1780563600,
-      "datetime": "2026-06-04T09:00:00.000Z"
-    },
-    {
-      "name": "Ceske Budejovice B vs FK Pribram B lúc 16:00",
-      "link": "/truc-tiep/ceske-budejovice-b-vs-fk-pribram-b-luc-1600-ngay-04-06-2026/",
-      "runtime": 1780563600,
-      "datetime": "2026-06-04T09:00:00.000Z"
-    },
-    {
-      "name": "Lustenau vs VfB Hohenems lúc 16:00",
-      "link": "/truc-tiep/lustenau-vs-vfb-hohenems-luc-1600-ngay-04-06-2026/",
-      "runtime": 1780563600,
-      "datetime": "2026-06-04T09:00:00.000Z"
-    },
-    {
-      "name": "Vitaliy Sachko vs Vit Kopriva lúc 16:00",
-      "link": "/truc-tiep/vitaliy-sachko-vs-vit-kopriva-luc-1600-ngay-04-06-2026/",
-      "runtime": 1780563600,
-      "datetime": "2026-06-04T09:00:00.000Z"
-    },
-    {
-      "name": "Nữ Uzbekistan vs Nữ Thái Lan lúc 16:30",
-      "link": "/truc-tiep/nu-uzbekistan-vs-nu-thai-lan-luc-1630-ngay-04-06-2026/",
-      "runtime": 1780565400,
-      "datetime": "2026-06-04T09:30:00.000Z"
-    },
-    {
-      "name": "Sho Shimabukuro vs Elias Ymer lúc 16:30",
-      "link": "/truc-tiep/sho-shimabukuro-vs-elias-ymer-luc-1630-ngay-04-06-2026/",
-      "runtime": 1780565400,
-      "datetime": "2026-06-04T09:30:00.000Z"
-    },
-    {
-      "name": "Mika Stojsavljevic vs Elvina Kalieva lúc 16:30",
-      "link": "/truc-tiep/mika-stojsavljevic-vs-elvina-kalieva-luc-1630-ngay-04-06-2026/",
-      "runtime": 1780565400,
-      "datetime": "2026-06-04T09:30:00.000Z"
-    },
-    {
-      "name": "Robert Strombachs vs Philip Henning lúc 16:10",
-      "link": "/truc-tiep/robert-strombachs-vs-philip-henning-luc-1610-ngay-04-06-2026/",
-      "runtime": 1780565700,
-      "datetime": "2026-06-04T09:35:00.000Z"
-    },
-    {
-      "name": "Nữ Ả Rập Xê Út vs Nữ Sri Lanka lúc 17:00",
-      "link": "/truc-tiep/nu-a-rap-xe-ut-vs-nu-sri-lanka-luc-1700-ngay-04-06-2026/",
-      "runtime": 1780567200,
-      "datetime": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "name": "Gornik Konin vs Kania Gostyn lúc 17:00",
-      "link": "/truc-tiep/gornik-konin-vs-kania-gostyn-luc-1700-ngay-04-06-2026/",
-      "runtime": 1780567200,
-      "datetime": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "name": "Cebu Classic vs Valenzuela Classic lúc 17:00 | STEP",
-      "link": "/truc-tiep/cebu-classic-vs-valenzuela-classic-luc-1700-ngay-04-06-2026/",
-      "runtime": 1780567200,
-      "datetime": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "name": "BA CoE vs Canberra Gunners lúc 17:00",
-      "link": "/truc-tiep/ba-coe-vs-canberra-gunners-luc-1700-ngay-04-06-2026/",
-      "runtime": 1780567200,
-      "datetime": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "name": "Sara Errani/Andrea Vavassori vs Evan King/Gabriela Dabrowski lúc 17:00 | VIC",
-      "link": "/truc-tiep/sara-errani-andrea-vavassori-vs-evan-king-gabriela-dabrowski-luc-1700-ngay-04-06-2026/",
-      "runtime": 1780567200,
-      "datetime": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "name": "Jan Choinski vs Luka Mikrut lúc 17:00",
-      "link": "/truc-tiep/jan-choinski-vs-luka-mikrut-luc-1700-ngay-04-06-2026/",
-      "runtime": 1780567200,
-      "datetime": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "name": "Ashlyn Krueger vs Janice Tjen lúc 17:00",
-      "link": "/truc-tiep/ashlyn-krueger-vs-janice-tjen-luc-1700-ngay-04-06-2026/",
-      "runtime": 1780567200,
-      "datetime": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "name": "Tena Lukas vs Darja Semenistaja lúc 17:20",
-      "link": "/truc-tiep/tena-lukas-vs-darja-semenistaja-luc-1720-ngay-04-06-2026/",
-      "runtime": 1780567800,
-      "datetime": "2026-06-04T10:10:00.000Z"
-    },
-    {
-      "name": "Rin Iwanaga/Kie Nakanishi vs Ririna Hiramoto/Kokona Ishikawa lúc 17:30",
-      "link": "/truc-tiep/rin-iwanaga-kie-nakanishi-vs-ririna-hiramoto-kokona-ishikawa-luc-1730-ngay-04-06-2026/",
-      "runtime": 1780567800,
-      "datetime": "2026-06-04T10:10:00.000Z"
-    },
-    {
-      "name": "Rising Gaming vs FENNEL lúc 18:00",
-      "link": "/truc-tiep/rising-gaming-vs-fennel-luc-1800-ngay-04-06-2026/",
-      "runtime": 1780567800,
-      "datetime": "2026-06-04T10:10:00.000Z"
-    },
-    {
-      "name": "Alex Lanier vs Leong Jun Hao lúc 15:40",
-      "link": "/truc-tiep/alex-lanier-vs-leong-jun-hao-luc-1540-ngay-04-06-2026/",
-      "runtime": 1780568700,
-      "datetime": "2026-06-04T10:25:00.000Z"
-    },
-    {
-      "name": "Nikolaus Joaquin/Raymond Indra vs Aaron Chia Teng Fong/Soh Wooi Yik lúc 15:40",
-      "link": "/truc-tiep/nikolaus-joaquin-raymond-indra-vs-aaron-chia-teng-fong-soh-wooi-yik-luc-1540-ngay-04-06-2026/",
-      "runtime": 1780569000,
-      "datetime": "2026-06-04T10:30:00.000Z"
-    },
-    {
-      "name": "Alexandra Eala vs Alina Charaeva lúc 17:40",
-      "link": "/truc-tiep/alexandra-eala-vs-alina-charaeva-luc-1740-ngay-04-06-2026/",
-      "runtime": 1780569600,
-      "datetime": "2026-06-04T10:40:00.000Z"
-    },
-    {
-      "name": "Maldives vs Pakistan lúc 18:00",
-      "link": "/truc-tiep/maldives-vs-pakistan-luc-1800-ngay-04-06-2026/",
-      "runtime": 1780570800,
-      "datetime": "2026-06-04T11:00:00.000Z"
-    },
-    {
-      "name": "Kotwica Kolobrzeg vs LKS Goluchow lúc 18:00",
-      "link": "/truc-tiep/kotwica-kolobrzeg-vs-lks-goluchow-luc-1800-ngay-04-06-2026/",
-      "runtime": 1780570800,
-      "datetime": "2026-06-04T11:00:00.000Z"
-    },
-    {
-      "name": "Astra Ustronie Morskie vs Mechanik Bobolice lúc 18:00",
-      "link": "/truc-tiep/astra-ustronie-morskie-vs-mechanik-bobolice-luc-1800-ngay-04-06-2026/",
-      "runtime": 1780570800,
-      "datetime": "2026-06-04T11:00:00.000Z"
-    },
-    {
-      "name": "New Taipei Kings vs Formosa Dreamers lúc 18:00",
-      "link": "/truc-tiep/new-taipei-kings-vs-formosa-dreamers-luc-1800-ngay-04-06-2026/",
-      "runtime": 1780570800,
-      "datetime": "2026-06-04T11:00:00.000Z"
-    },
-    {
-      "name": "Hsu Ya Ching/Sung Yu-Hsuan vs Pearly Tan/Thinaah Muralitharan lúc 18:20",
-      "link": "/truc-tiep/hsu-ya-ching-sung-yu-hsuan-vs-pearly-tan-thinaah-muralitharan-luc-1820-ngay-04-06-2026/",
-      "runtime": 1780570800,
-      "datetime": "2026-06-04T11:00:00.000Z"
-    },
-    {
       "name": "CYBERSHOKE vs Acend lúc 18:00",
-      "link": "/truc-tiep/cybershoke-vs-acend-luc-1800-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/cybershoke-vs-acend-luc-1800-ngay-04-06-2026/",
       "runtime": 1780570800,
       "datetime": "2026-06-04T11:00:00.000Z"
-    },
-    {
-      "name": "Betclic Apogee Esports vs KOLESIE lúc 18:00",
-      "link": "/truc-tiep/betclic-apogee-esports-vs-kolesie-luc-1800-ngay-04-06-2026/",
-      "runtime": 1780570800,
-      "datetime": "2026-06-04T11:00:00.000Z"
-    },
-    {
-      "name": "Marco Trungelliti vs Hsu Yu-hsiou lúc 18:10",
-      "link": "/truc-tiep/marco-trungelliti-vs-hsu-yu-hsiou-luc-1810-ngay-04-06-2026/",
-      "runtime": 1780571400,
-      "datetime": "2026-06-04T11:10:00.000Z"
-    },
-    {
-      "name": "Celine Naef vs Mary Stoiana lúc 18:10",
-      "link": "/truc-tiep/celine-naef-vs-mary-stoiana-luc-1810-ngay-04-06-2026/",
-      "runtime": 1780571400,
-      "datetime": "2026-06-04T11:10:00.000Z"
-    },
-    {
-      "name": "Kim Won-ho/Seo Seung-jae vs Christo Popov/Toma Junior Popov lúc 16:30",
-      "link": "/truc-tiep/kim-won-ho-seo-seung-jae-vs-christo-popov-toma-junior-popov-luc-1630-ngay-04-06-2026/",
-      "runtime": 1780571400,
-      "datetime": "2026-06-04T11:10:00.000Z"
-    },
-    {
-      "name": "Goh Soon Huat/Shevon Lai Jemie vs Jafar Hidayatullah/Felisha Alberta Nathaniel Pasaribu lúc 16:30",
-      "link": "/truc-tiep/goh-soon-huat-shevon-lai-jemie-vs-jafar-hidayatullah-felisha-alberta-nathaniel-pasaribu-luc-1630-ngay-04-06-2026/",
-      "runtime": 1780571400,
-      "datetime": "2026-06-04T11:10:00.000Z"
     },
     {
       "name": "Taro Daniel vs Damir Dzumhur lúc 18:20",
-      "link": "/truc-tiep/taro-daniel-vs-damir-dzumhur-luc-1820-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/taro-daniel-vs-damir-dzumhur-luc-1820-ngay-04-06-2026/",
       "runtime": 1780572000,
       "datetime": "2026-06-04T11:20:00.000Z"
     },
     {
-      "name": "Bỉ U17 vs Pháp U17 lúc 18:30",
-      "link": "/truc-tiep/bi-u17-vs-phap-u17-luc-1830-ngay-04-06-2026/",
-      "runtime": 1780572600,
-      "datetime": "2026-06-04T11:30:00.000Z"
-    },
-    {
       "name": "Nữ Trung Quốc vs Nữ Thái Lan lúc 18:30",
-      "link": "/truc-tiep/nu-trung-quoc-vs-nu-thai-lan-luc-1830-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/nu-trung-quoc-vs-nu-thai-lan-luc-1830-ngay-04-06-2026/",
       "runtime": 1780572600,
       "datetime": "2026-06-04T11:30:00.000Z"
-    },
-    {
-      "name": "Chongqing Runqi vs Yunnan Cuanhe lúc 18:35 | XMEN",
-      "link": "/truc-tiep/chongqing-runqi-vs-yunnan-cuanhe-luc-1835-ngay-04-06-2026/",
-      "runtime": 1780572900,
-      "datetime": "2026-06-04T11:35:00.000Z"
     },
     {
       "name": "Campuchia vs Bhutan lúc 19:00 | RIO",
-      "link": "/truc-tiep/campuchia-vs-bhutan-luc-1900-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/campuchia-vs-bhutan-luc-1900-ngay-04-06-2026/",
       "runtime": 1780574400,
       "datetime": "2026-06-04T12:00:00.000Z"
     },
     {
       "name": "SV Wals-Grunau vs Rheindorf Altach B lúc 19:00",
-      "link": "/truc-tiep/sv-wals-grunau-vs-rheindorf-altach-b-luc-1900-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/sv-wals-grunau-vs-rheindorf-altach-b-luc-1900-ngay-04-06-2026/",
       "runtime": 1780574400,
       "datetime": "2026-06-04T12:00:00.000Z"
     },
     {
       "name": "Pasay Voyagers vs Caloocan Kankaloo\t lúc 19:00 | ALAN",
-      "link": "/truc-tiep/pasay-voyagers-vs-caloocan-kankaloo-luc-1900-ngay-04-06-2026/",
-      "runtime": 1780574400,
-      "datetime": "2026-06-04T12:00:00.000Z"
-    },
-    {
-      "name": "Pierluigi Basile vs Francesco Forti lúc 19:00",
-      "link": "/truc-tiep/pierluigi-basile-vs-francesco-forti-luc-1900-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/pasay-voyagers-vs-caloocan-kankaloo-luc-1900-ngay-04-06-2026/",
       "runtime": 1780574400,
       "datetime": "2026-06-04T12:00:00.000Z"
     },
     {
       "name": "Robin Montgomery vs Lea Boskovic lúc 19:00",
-      "link": "/truc-tiep/robin-montgomery-vs-lea-boskovic-luc-1900-ngay-04-06-2026/",
-      "runtime": 1780574400,
-      "datetime": "2026-06-04T12:00:00.000Z"
-    },
-    {
-      "name": "Zhi-Wei He/Huang Jui-Hsuan vs Chen Boyang/Liu Yi lúc 17:20",
-      "link": "/truc-tiep/zhi-wei-he-huang-jui-hsuan-vs-chen-boyang-liu-yi-luc-1720-ngay-04-06-2026/",
-      "runtime": 1780574400,
-      "datetime": "2026-06-04T12:00:00.000Z"
-    },
-    {
-      "name": "Jonatan Christie vs Alwi Farhan lúc 17:20",
-      "link": "/truc-tiep/jonatan-christie-vs-alwi-farhan-luc-1720-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/robin-montgomery-vs-lea-boskovic-luc-1900-ngay-04-06-2026/",
       "runtime": 1780574400,
       "datetime": "2026-06-04T12:00:00.000Z"
     },
     {
       "name": "Glyph vs Execration lúc 19:00",
-      "link": "/truc-tiep/glyph-vs-execration-luc-1900-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/glyph-vs-execration-luc-1900-ngay-04-06-2026/",
       "runtime": 1780574400,
       "datetime": "2026-06-04T12:00:00.000Z"
     },
     {
-      "name": "Lee Fang-chih/Lee Fang-jen vs Lee Jhe-huei/Yang Po-hsuan lúc 19:10",
-      "link": "/truc-tiep/lee-fang-chih-lee-fang-jen-vs-lee-jhe-huei-yang-po-hsuan-luc-1910-ngay-04-06-2026/",
+      "name": "Celine Naef vs Mary Stoiana lúc 18:10",
+      "link": "https://xoilacztu.tv/truc-tiep/celine-naef-vs-mary-stoiana-luc-1810-ngay-04-06-2026/",
+      "runtime": 1780574700,
+      "datetime": "2026-06-04T12:05:00.000Z"
+    },
+    {
+      "name": "Marco Trungelliti vs Hsu Yu-hsiou lúc 18:10",
+      "link": "https://xoilacztu.tv/truc-tiep/marco-trungelliti-vs-hsu-yu-hsiou-luc-1810-ngay-04-06-2026/",
       "runtime": 1780575000,
       "datetime": "2026-06-04T12:10:00.000Z"
     },
     {
       "name": "Max Hans Rehberg vs Marvin Moeller lúc 19:20",
-      "link": "/truc-tiep/max-hans-rehberg-vs-marvin-moeller-luc-1920-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/max-hans-rehberg-vs-marvin-moeller-luc-1920-ngay-04-06-2026/",
       "runtime": 1780575600,
       "datetime": "2026-06-04T12:20:00.000Z"
     },
     {
-      "name": "FC Kitzbuhel vs St. Johann lúc 19:30",
-      "link": "/truc-tiep/fc-kitzbuhel-vs-st-johann-luc-1930-ngay-04-06-2026/",
-      "runtime": 1780576200,
-      "datetime": "2026-06-04T12:30:00.000Z"
+      "name": "Team Falcons vs Team Liquid lúc 19:30",
+      "link": "https://xoilacztu.tv/truc-tiep/team-falcons-vs-team-liquid-luc-1930-ngay-04-06-2026/",
+      "runtime": 1780575840,
+      "datetime": "2026-06-04T12:24:00.000Z"
     },
     {
       "name": "Oktepa vs Gulistan lúc 20:00",
-      "link": "/truc-tiep/oktepa-vs-gulistan-luc-2000-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/oktepa-vs-gulistan-luc-2000-ngay-04-06-2026/",
       "runtime": 1780576200,
       "datetime": "2026-06-04T12:30:00.000Z"
     },
     {
       "name": "FC Kattaqo  vs FarDU lúc 19:30",
-      "link": "/truc-tiep/fc-kattaqo-vs-fardu-luc-2000-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/fc-kattaqo-vs-fardu-luc-2000-ngay-04-06-2026/",
       "runtime": 1780576200,
       "datetime": "2026-06-04T12:30:00.000Z"
     },
     {
       "name": "Cần Thơ Catfish vs Hà Nội Buffalo lúc 19:30 | TOMMY",
-      "link": "/truc-tiep/can-tho-catfish-vs-ha-noi-buffalo-luc-1930-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/can-tho-catfish-vs-ha-noi-buffalo-luc-1930-ngay-04-06-2026/",
       "runtime": 1780576200,
       "datetime": "2026-06-04T12:30:00.000Z"
     },
     {
       "name": "Hynek Barton vs Norbert Gombos lúc 19:30",
-      "link": "/truc-tiep/hynek-barton-vs-norbert-gombos-luc-1930-ngay-04-06-2026/",
+      "link": "https://xoilacztu.tv/truc-tiep/hynek-barton-vs-norbert-gombos-luc-1930-ngay-04-06-2026/",
       "runtime": 1780576200,
       "datetime": "2026-06-04T12:30:00.000Z"
     },
     {
-      "name": "Team Falcons vs Team Liquid lúc 19:30",
-      "link": "/truc-tiep/team-falcons-vs-team-liquid-luc-1930-ngay-04-06-2026/",
-      "runtime": 1780576200,
-      "datetime": "2026-06-04T12:30:00.000Z"
+      "name": "FC Kitzbuhel vs St. Johann lúc 19:30",
+      "link": "https://xoilacztu.tv/truc-tiep/fc-kitzbuhel-vs-st-johann-luc-1930-ngay-04-06-2026/",
+      "runtime": 1780576800,
+      "datetime": "2026-06-04T12:40:00.000Z"
+    },
+    {
+      "name": "Nozomi Okuhara vs Tomoka Miyazaki lúc 20:00",
+      "link": "https://xoilacztu.tv/truc-tiep/nozomi-okuhara-vs-tomoka-miyazaki-luc-2000-ngay-04-06-2026/",
+      "runtime": 1780577100,
+      "datetime": "2026-06-04T12:45:00.000Z"
+    },
+    {
+      "name": "Alexandra Eala vs Alina Charaeva lúc 17:40",
+      "link": "https://xoilacztu.tv/truc-tiep/alexandra-eala-vs-alina-charaeva-luc-1740-ngay-04-06-2026/",
+      "runtime": 1780577400,
+      "datetime": "2026-06-04T12:50:00.000Z"
+    },
+    {
+      "name": "Timor Leste U19 vs Indonesia U19 lúc 20:00 | MAX",
+      "link": "https://xoilacztu.tv/truc-tiep/timor-leste-u19-vs-indonesia-u19-luc-2000-ngay-04-06-2026/",
+      "runtime": 1780578000,
+      "datetime": "2026-06-04T13:00:00.000Z"
+    },
+    {
+      "name": "Shurtan Guzor  vs Metallurg Bekobod lúc 20:00",
+      "link": "https://xoilacztu.tv/truc-tiep/shurtan-guzor-vs-metallurg-bekobod-luc-2000-ngay-04-06-2026/",
+      "runtime": 1780578000,
+      "datetime": "2026-06-04T13:00:00.000Z"
+    },
+    {
+      "name": "Lesotho vs Kenya lúc 20:00",
+      "link": "https://xoilacztu.tv/truc-tiep/lesotho-vs-kenya-luc-2000-ngay-04-06-2026/",
+      "runtime": 1780578000,
+      "datetime": "2026-06-04T13:00:00.000Z"
+    },
+    {
+      "name": "Respublika FA vs Qiziriq FC lúc 20:00",
+      "link": "https://xoilacztu.tv/truc-tiep/respublika-fa-vs-qiziriq-fc-luc-2000-ngay-04-06-2026/",
+      "runtime": 1780578000,
+      "datetime": "2026-06-04T13:00:00.000Z"
+    },
+    {
+      "name": "Marta Kostyuk vs Mirra Andreeva lúc 20:00 | VIC",
+      "link": "https://xoilacztu.tv/truc-tiep/marta-kostyuk-vs-mirra-andreeva-luc-2000-ngay-04-06-2026/",
+      "runtime": 1780578000,
+      "datetime": "2026-06-04T13:00:00.000Z"
+    },
+    {
+      "name": "Elina Avanesyan vs Dominika Salkova lúc 20:10",
+      "link": "https://xoilacztu.tv/truc-tiep/elina-avanesyan-vs-dominika-salkova-luc-2010-ngay-04-06-2026/",
+      "runtime": 1780578600,
+      "datetime": "2026-06-04T13:10:00.000Z"
+    },
+    {
+      "name": "Mayar Sherif vs Georgia Pedone lúc 20:20",
+      "link": "https://xoilacztu.tv/truc-tiep/mayar-sherif-vs-georgia-pedone-luc-2020-ngay-04-06-2026/",
+      "runtime": 1780579200,
+      "datetime": "2026-06-04T13:20:00.000Z"
+    },
+    {
+      "name": "Henrique Rocha vs Dusan Lajovic lúc 20:10",
+      "link": "https://xoilacztu.tv/truc-tiep/henrique-rocha-vs-dusan-lajovic-luc-2010-ngay-04-06-2026/",
+      "runtime": 1780579200,
+      "datetime": "2026-06-04T13:20:00.000Z"
+    },
+    {
+      "name": "Katie Swan vs Taylah Preston lúc 20:40",
+      "link": "https://xoilacztu.tv/truc-tiep/katie-swan-vs-taylah-preston-luc-2040-ngay-04-06-2026/",
+      "runtime": 1780580400,
+      "datetime": "2026-06-04T13:40:00.000Z"
+    },
+    {
+      "name": "Ong Xin Yee/Carmen Ting vs Rui Hirokami/Sayaka Hobara lúc 18:10",
+      "link": "https://xoilacztu.tv/truc-tiep/ong-xin-yee-carmen-ting-vs-rui-hirokami-sayaka-hobara-luc-1810-ngay-04-06-2026/",
+      "runtime": 1780580700,
+      "datetime": "2026-06-04T13:45:00.000Z"
+    },
+    {
+      "name": "Sim Yu-Jin vs Wang Zhiyi lúc 19:00",
+      "link": "https://xoilacztu.tv/truc-tiep/sim-yu-jin-vs-wang-zhiyi-luc-1900-ngay-04-06-2026/",
+      "runtime": 1780581000,
+      "datetime": "2026-06-04T13:50:00.000Z"
+    },
+    {
+      "name": "PWD de Bamenda vs Canon Yaounde lúc 21:00",
+      "link": "https://xoilacztu.tv/truc-tiep/pwd-de-bamenda-vs-canon-yaounde-luc-2100-ngay-03-06-2026/",
+      "runtime": 1780581600,
+      "datetime": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "name": "Rithvik Choudary Bollipalli/Ramkumar Ramanathan vs Andrew Fenty/Brandon Perez lúc 21:00",
+      "link": "https://xoilacztu.tv/truc-tiep/rithvik-choudary-bollipalli-ramkumar-ramanathan-vs-andrew-fenty-brandon-perez-luc-2100-ngay-04-06-2026/",
+      "runtime": 1780581600,
+      "datetime": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "name": "Valentin Basel/Bruno Oliveira vs Nicolas Mejia/Adria Soriano Barrera lúc 21:00",
+      "link": "https://xoilacztu.tv/truc-tiep/valentin-basel-bruno-oliveira-vs-nicolas-mejia-adria-soriano-barrera-luc-0400-ngay-03-06-2026/",
+      "runtime": 1780581600,
+      "datetime": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "name": "brazylijski luz vs The Last Resort lúc 21:00",
+      "link": "https://xoilacztu.tv/truc-tiep/brazylijski-luz-vs-the-last-resort-luc-2100-ngay-04-06-2026/",
+      "runtime": 1780581600,
+      "datetime": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "name": "100 Thieves vs Ursa lúc 21:00",
+      "link": "https://xoilacztu.tv/truc-tiep/100-thieves-vs-ursa-luc-2100-ngay-04-06-2026/",
+      "runtime": 1780581600,
+      "datetime": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "name": "Diana Shnaider vs Maja Chwalinska lúc 21:10 | LUCAS",
+      "link": "https://xoilacztu.tv/truc-tiep/diana-shnaider-vs-maja-chwalinska-luc-2110-ngay-04-06-2026/",
+      "runtime": 1780582200,
+      "datetime": "2026-06-04T14:10:00.000Z"
+    },
+    {
+      "name": "Shi Yuqi vs Yushi Tanaka lúc 19:00",
+      "link": "https://xoilacztu.tv/truc-tiep/shi-yuqi-vs-yushi-tanaka-luc-1900-ngay-04-06-2026/",
+      "runtime": 1780584000,
+      "datetime": "2026-06-04T14:40:00.000Z"
+    },
+    {
+      "name": "Nữ Mauritius vs Nữ Djibouti lúc 22:00 | JOHAN",
+      "link": "https://xoilacztu.tv/truc-tiep/nu-mauritius-vs-nu-djibouti-luc-2200-ngay-04-06-2026/",
+      "runtime": 1780585200,
+      "datetime": "2026-06-04T15:00:00.000Z"
+    },
+    {
+      "name": "Al-Ahli tripoli vs Al Akhdar lúc 22:00",
+      "link": "https://xoilacztu.tv/truc-tiep/al-ahli-tripoli-vs-al-akhdar-luc-2200-ngay-04-06-2026/",
+      "runtime": 1780585200,
+      "datetime": "2026-06-04T15:00:00.000Z"
+    },
+    {
+      "name": "Hayato Matsuoka vs Henry Searle lúc 22:00",
+      "link": "https://xoilacztu.tv/truc-tiep/hayato-matsuoka-vs-henry-searle-luc-2200-ngay-04-06-2026/",
+      "runtime": 1780585200,
+      "datetime": "2026-06-04T15:00:00.000Z"
+    },
+    {
+      "name": "Murphy Cassone vs Yuta Shimizu lúc 22:00",
+      "link": "https://xoilacztu.tv/truc-tiep/murphy-cassone-vs-yuta-shimizu-luc-2200-ngay-04-06-2026/",
+      "runtime": 1780585200,
+      "datetime": "2026-06-04T15:00:00.000Z"
+    },
+    {
+      "name": "Movistar KOI Fénix vs UCAM Esports Club lúc 22:00",
+      "link": "https://xoilacztu.tv/truc-tiep/movistar-koi-fenix-vs-ucam-esports-club-luc-2200-ngay-04-06-2026/",
+      "runtime": 1780585200,
+      "datetime": "2026-06-04T15:00:00.000Z"
+    },
+    {
+      "name": "AIFK Turku vs P-Iirot lúc 22:30 | SILVA",
+      "link": "https://xoilacztu.tv/truc-tiep/aifk-turku-vs-p-iirot-luc-2230-ngay-04-06-2026/",
+      "runtime": 1780587000,
+      "datetime": "2026-06-04T15:30:00.000Z"
     }
   ]
 }
