@@ -1,44 +1,8 @@
 {
   "success": true,
-  "total_matches": 31,
-  "updated_at": "2026-06-05T22:14:09.387Z",
+  "total_matches": 39,
+  "updated_at": "2026-06-05T23:39:13.585Z",
   "matches": [
-    {
-      "name": "Ilbirs Esports vs Noir Esports lúc 01:00",
-      "link": "/truc-tiep/ilbirs-esports-vs-noir-esports-luc-0100-ngay-06-06-2026/",
-      "runtime": 1780682700,
-      "datetime": "2026-06-05T18:05:00.000Z"
-    },
-    {
-      "name": "Andre Ilagan vs Yuta Shimizu lúc 01:25",
-      "link": "/truc-tiep/andre-ilagan-vs-yuta-shimizu-luc-0125-ngay-06-06-2026/",
-      "runtime": 1780683900,
-      "datetime": "2026-06-05T18:25:00.000Z"
-    },
-    {
-      "name": "Conviction vs CCG Esports lúc 03:00",
-      "link": "/truc-tiep/conviction-vs-ccg-esports-luc-0300-ngay-06-06-2026/",
-      "runtime": 1780689600,
-      "datetime": "2026-06-05T20:00:00.000Z"
-    },
-    {
-      "name": "Nữ Ukraine  vs Nữ Nhật Bản lúc 03:30",
-      "link": "/truc-tiep/nu-ukraine-vs-nu-nhat-ban-luc-0330-ngay-06-06-2026/",
-      "runtime": 1780691400,
-      "datetime": "2026-06-05T20:30:00.000Z"
-    },
-    {
-      "name": "Jamaica vs Nam Phi lúc 04:00",
-      "link": "/truc-tiep/jamaica-vs-nam-phi-luc-0400-ngay-06-06-2026/",
-      "runtime": 1780693200,
-      "datetime": "2026-06-05T21:00:00.000Z"
-    },
-    {
-      "name": "Ituzaingo vs Real Pilar lúc 04:00",
-      "link": "/truc-tiep/ituzaingo-vs-real-pilar-luc-0400-ngay-06-06-2026/",
-      "runtime": 1780693200,
-      "datetime": "2026-06-05T21:00:00.000Z"
-    },
     {
       "name": "Rithvik Choudary Bollipalli/Ramkumar Ramanathan vs Masamichi Imamura/Hayato Matsuoka lúc 03:40",
       "link": "/truc-tiep/rithvik-choudary-bollipalli-ramkumar-ramanathan-vs-masamichi-imamura-hayato-matsuoka-luc-0340-ngay-06-06-2026/",
@@ -54,6 +18,18 @@
     {
       "name": "Bandeirante SP (Y) vs Assisense SP U20 lúc 05:00",
       "link": "/truc-tiep/bandeirante-sp-y-vs-assisense-sp-u20-luc-0500-ngay-06-06-2026/",
+      "runtime": 1780696800,
+      "datetime": "2026-06-05T22:00:00.000Z"
+    },
+    {
+      "name": "Plaza Colonia vs Huracan FC lúc 05:00",
+      "link": "/truc-tiep/plaza-colonia-vs-huracan-fc-luc-0500-ngay-06-06-2026/",
+      "runtime": 1780696800,
+      "datetime": "2026-06-05T22:00:00.000Z"
+    },
+    {
+      "name": "Broki vs SV Flora lúc 05:00",
+      "link": "/truc-tiep/broki-vs-sv-flora-luc-0500-ngay-06-06-2026/",
       "runtime": 1780696800,
       "datetime": "2026-06-05T22:00:00.000Z"
     },
@@ -188,6 +164,78 @@
       "link": "/truc-tiep/nu-phap-vs-nu-usa-luc-0700-ngay-06-06-2026/",
       "runtime": 1780704000,
       "datetime": "2026-06-06T00:00:00.000Z"
+    },
+    {
+      "name": "Gimnasia yTiro vs Ferrocarril Midland lúc 07:30",
+      "link": "/truc-tiep/gimnasia-ytiro-vs-ferrocarril-midland-luc-0730-ngay-06-06-2026/",
+      "runtime": 1780705800,
+      "datetime": "2026-06-06T00:30:00.000Z"
+    },
+    {
+      "name": "Western Suburbs vs Napier City Rovers lúc 07:30",
+      "link": "/truc-tiep/western-suburbs-vs-napier-city-rovers-luc-0730-ngay-06-06-2026/",
+      "runtime": 1780705800,
+      "datetime": "2026-06-06T00:30:00.000Z"
+    },
+    {
+      "name": "Nữ Joy AC vs Nữ Minnesota DLions lúc 07:30",
+      "link": "/truc-tiep/nu-joy-ac-vs-nu-minnesota-dlions-luc-0730-ngay-06-06-2026/",
+      "runtime": 1780705800,
+      "datetime": "2026-06-06T00:30:00.000Z"
+    },
+    {
+      "name": "San Antonio Spurs vs New York Knicks lúc 07:30 | TOMMY",
+      "link": "/truc-tiep/san-antonio-spurs-vs-new-york-knicks-luc-0730-ngay-06-06-2026/",
+      "runtime": 1780705800,
+      "datetime": "2026-06-06T00:30:00.000Z"
+    },
+    {
+      "name": "CD Puerto Varas vs Osorno lúc 07:30",
+      "link": "/truc-tiep/cd-puerto-varas-vs-osorno-luc-0730-ngay-06-06-2026/",
+      "runtime": 1780705800,
+      "datetime": "2026-06-06T00:30:00.000Z"
+    },
+    {
+      "name": "Dunedin City Royals vs Christchurch United lúc 07:45",
+      "link": "/truc-tiep/dunedin-city-royals-vs-christchurch-united-luc-0745-ngay-06-06-2026/",
+      "runtime": 1780706700,
+      "datetime": "2026-06-06T00:45:00.000Z"
+    },
+    {
+      "name": "Tonga U19 vs Papua New Guinea U19 lúc 08:00",
+      "link": "/truc-tiep/tonga-u19-vs-papua-new-guinea-u19-luc-0700-ngay-06-06-2026/",
+      "runtime": 1780707600,
+      "datetime": "2026-06-06T01:00:00.000Z"
+    },
+    {
+      "name": "Vancouver Whitecaps II vs Portland Timbers (R) lúc 08:00 | POLO",
+      "link": "/truc-tiep/vancouver-whitecaps-ii-vs-portland-timbers-r-luc-0800-ngay-06-06-2026/",
+      "runtime": 1780707600,
+      "datetime": "2026-06-06T01:00:00.000Z"
+    },
+    {
+      "name": "Snohomish United vs Midlakes United lúc 08:00",
+      "link": "/truc-tiep/snohomish-united-vs-midlakes-united-luc-0800-ngay-06-06-2026/",
+      "runtime": 1780707600,
+      "datetime": "2026-06-06T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Panama vs Nữ Jamaica lúc 08:00",
+      "link": "/truc-tiep/nu-panama-vs-nu-jamaica-luc-0800-ngay-06-06-2026/",
+      "runtime": 1780707600,
+      "datetime": "2026-06-06T01:00:00.000Z"
+    },
+    {
+      "name": "Nữ Việt Nam vs Nữ Lebanon lúc 08:00",
+      "link": "/truc-tiep/nu-viet-nam-vs-nu-lebanon-luc-0800-ngay-06-06-2026/",
+      "runtime": 1780707600,
+      "datetime": "2026-06-06T01:00:00.000Z"
+    },
+    {
+      "name": "Oly Town FC vs Bigfoot lúc 08:30",
+      "link": "/truc-tiep/oly-town-fc-vs-bigfoot-luc-0830-ngay-06-06-2026/",
+      "runtime": 1780709400,
+      "datetime": "2026-06-06T01:30:00.000Z"
     }
   ]
 }
