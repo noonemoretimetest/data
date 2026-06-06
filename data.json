@@ -1,322 +1,583 @@
 {
   "success": true,
-  "total": 63,
-  "updated_at": "2026-06-06T05:54:26Z",
+  "total": 72,
+  "updated_at": "13:51 06/06",
   "matches": [
     {
-      "name": "Martinez L D / Masur D vs Sun Fajing/Seita Watanabe   lúc 09:10 ngày 06/06/2026",
+      "name": "09:10 Martinez L D / Masur D vs Sun Fajing/Seita Watanabe",
+      "team_a": "Martinez L D / Masur D",
+      "team_b": "Sun Fajing/Seita Watanabe",
       "link": "https://xoilacztu.tv/truc-tiep/martinez-l-d-masur-d-vs-sun-fajing-seita-watanabe-luc-0910-ngay-06-06-2026/",
-      "runtime": 1780711800
+      "runtime": 1780711800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Martinez%20L%20D%20/%20Masur%20D&away=Sun%20Fajing/Seita%20Watanabe&time=09:10&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Port Melbourne vs Brunswick City lúc 11:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/port-melbourne-vs-brunswick-city-luc-1100-ngay-06-06-2026/",
-      "runtime": 1780718400
-    },
-    {
-      "name": "Seoul Jungnang FC vs Seosan Pioneer FC lúc 11:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/seoul-jungnang-fc-vs-seosan-pioneer-fc-luc-1100-ngay-06-06-2026/",
-      "runtime": 1780718400
-    },
-    {
-      "name": "Nữ AS Harima ALBION vs Nữ VONDS Ichihara lúc 11:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/nu-as-harima-albion-vs-nu-vonds-ichihara-luc-1100-ngay-06-06-2026/",
-      "runtime": 1780718400
-    },
-    {
-      "name": "Nữ Yamato Sylphid vs Nữ Veertien Mie  lúc 11:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/nu-yamato-sylphid-vs-nu-veertien-mie-luc-1100-ngay-06-06-2026/",
-      "runtime": 1780718400
-    },
-    {
-      "name": "Nữ OSA Rheia  vs Nữ Renofa Yamaguchi lúc 11:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/nu-osa-rheia-vs-nu-renofa-yamaguchi-luc-1100-ngay-06-06-2026/",
-      "runtime": 1780718400
-    },
-    {
-      "name": "Whai vs Nelson Giants lúc 11:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/whai-vs-nelson-giants-luc-1100-ngay-06-06-2026/",
-      "runtime": 1780718400
-    },
-    {
-      "name": "Magic United TFA vs Brisbane Roar (Y) lúc 11:30 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/magic-united-tfa-vs-brisbane-roar-y-luc-1130-ngay-06-06-2026/",
-      "runtime": 1780720200
-    },
-    {
-      "name": "Vanuatu vs Fiji lúc 11:30 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/vanuatu-vs-fiji-luc-1130-ngay-06-06-2026/",
-      "runtime": 1780720200
-    },
-    {
-      "name": "Valentine Phoenix (R) vs Broadmeadow (R) lúc 11:30 ngày 06/06/2026",
+      "name": "11:30 Valentine Phoenix (R) vs Broadmeadow (R)",
+      "team_a": "Valentine Phoenix (R)",
+      "team_b": "Broadmeadow (R)",
       "link": "https://xoilacztu.tv/truc-tiep/valentine-phoenix-r-vs-broadmeadow-r-luc-1130-ngay-06-06-2026/",
-      "runtime": 1780720200
+      "runtime": 1780720200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Valentine%20Phoenix%20%28R%29&away=Broadmeadow%20%28R%29&time=11:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Nữ UNSW FC vs Nữ Mt Druitt Rangers lúc 11:45 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/nu-unsw-fc-vs-nu-mt-druitt-rangers-luc-1145-ngay-06-06-2026/",
-      "runtime": 1780721100
-    },
-    {
-      "name": "FC Tokyo vs Cerezo Osaka lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 FC Tokyo vs Cerezo Osaka | POLO",
+      "team_a": "FC Tokyo",
+      "team_b": "Cerezo Osaka",
       "link": "https://xoilacztu.tv/truc-tiep/fc-tokyo-vs-cerezo-osaka-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=FC%20Tokyo&away=Cerezo%20Osaka&time=12:00&status=POLO&sport=XoiLacZ"
     },
     {
-      "name": "Kashima Antlers vs Vissel Kobe lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Kashima Antlers vs Vissel Kobe | FILIP",
+      "team_a": "Kashima Antlers",
+      "team_b": "Vissel Kobe",
       "link": "https://xoilacztu.tv/truc-tiep/kashima-antlers-vs-vissel-kobe-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Kashima%20Antlers&away=Vissel%20Kobe&time=12:00&status=FILIP&sport=XoiLacZ"
     },
     {
-      "name": "JEF United vs Avispa Fukuoka lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 JEF United vs Avispa Fukuoka | JOHAN",
+      "team_a": "JEF United",
+      "team_b": "Avispa Fukuoka",
       "link": "https://xoilacztu.tv/truc-tiep/jef-united-vs-avispa-fukuoka-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=JEF%20United&away=Avispa%20Fukuoka&time=12:00&status=JOHAN&sport=XoiLacZ"
     },
     {
-      "name": "Vegalta Sendai vs Kataller Toyama lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Vegalta Sendai vs Kataller Toyama | BEE",
+      "team_a": "Vegalta Sendai",
+      "team_b": "Kataller Toyama",
       "link": "https://xoilacztu.tv/truc-tiep/vegalta-sendai-vs-kataller-toyama-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Vegalta%20Sendai&away=Kataller%20Toyama&time=12:00&status=BEE&sport=XoiLacZ"
     },
     {
-      "name": "SC Sagamihara vs Roasso Kumamoto lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 SC Sagamihara vs Roasso Kumamoto",
+      "team_a": "SC Sagamihara",
+      "team_b": "Roasso Kumamoto",
       "link": "https://xoilacztu.tv/truc-tiep/sc-sagamihara-vs-roasso-kumamoto-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=SC%20Sagamihara&away=Roasso%20Kumamoto&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Miyazaki vs Ventforet Kofu lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Miyazaki vs Ventforet Kofu",
+      "team_a": "Miyazaki",
+      "team_b": "Ventforet Kofu",
       "link": "https://xoilacztu.tv/truc-tiep/miyazaki-vs-ventforet-kofu-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Miyazaki&away=Ventforet%20Kofu&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Fujieda MYFC vs Ehime FC lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Fujieda MYFC vs Ehime FC | ALAN",
+      "team_a": "Fujieda MYFC",
+      "team_b": "Ehime FC",
       "link": "https://xoilacztu.tv/truc-tiep/fujieda-myfc-vs-ehime-fc-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Fujieda%20MYFC&away=Ehime%20FC&time=12:00&status=ALAN&sport=XoiLacZ"
     },
     {
-      "name": "Albirex Niigata vs Consadole Sapporo lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Albirex Niigata vs Consadole Sapporo",
+      "team_a": "Albirex Niigata",
+      "team_b": "Consadole Sapporo",
       "link": "https://xoilacztu.tv/truc-tiep/albirex-niigata-vs-consadole-sapporo-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Albirex%20Niigata&away=Consadole%20Sapporo&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Tochigi City vs Reilac Shiga FC lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Tochigi City vs Reilac Shiga FC",
+      "team_a": "Tochigi City",
+      "team_b": "Reilac Shiga FC",
       "link": "https://xoilacztu.tv/truc-tiep/tochigi-city-vs-reilac-shiga-fc-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Tochigi%20City&away=Reilac%20Shiga%20FC&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "RB Omiya Ardija vs Kochi United lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 RB Omiya Ardija vs Kochi United",
+      "team_a": "RB Omiya Ardija",
+      "team_b": "Kochi United",
       "link": "https://xoilacztu.tv/truc-tiep/rb-omiya-ardija-vs-kochi-united-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=RB%20Omiya%20Ardija&away=Kochi%20United&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Matsumoto FC vs Nara Club lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Matsumoto FC vs Nara Club",
+      "team_a": "Matsumoto FC",
+      "team_b": "Nara Club",
       "link": "https://xoilacztu.tv/truc-tiep/matsumoto-fc-vs-nara-club-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Matsumoto%20FC&away=Nara%20Club&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Yokohama FC vs Renofa Yamaguchi lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Yokohama FC vs Renofa Yamaguchi | OLER",
+      "team_a": "Yokohama FC",
+      "team_b": "Renofa Yamaguchi",
       "link": "https://xoilacztu.tv/truc-tiep/yokohama-fc-vs-renofa-yamaguchi-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Yokohama%20FC&away=Renofa%20Yamaguchi&time=12:00&status=OLER&sport=XoiLacZ"
     },
     {
-      "name": "Western Sydney AM vs Sydney United 58 FC lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Western Sydney AM vs Sydney United 58 FC",
+      "team_a": "Western Sydney AM",
+      "team_b": "Sydney United 58 FC",
       "link": "https://xoilacztu.tv/truc-tiep/western-sydney-am-vs-sydney-united-58-fc-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Western%20Sydney%20AM&away=Sydney%20United%2058%20FC&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Melbourne Srbija vs North Geelong Warriors lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Melbourne Srbija vs North Geelong Warriors",
+      "team_a": "Melbourne Srbija",
+      "team_b": "North Geelong Warriors",
       "link": "https://xoilacztu.tv/truc-tiep/melbourne-srbija-vs-north-geelong-warriors-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Melbourne%20Srbija&away=North%20Geelong%20Warriors&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "North Sunshine Eagles vs Melbourne Knights lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 North Sunshine Eagles vs Melbourne Knights",
+      "team_a": "North Sunshine Eagles",
+      "team_b": "Melbourne Knights",
       "link": "https://xoilacztu.tv/truc-tiep/north-sunshine-eagles-vs-melbourne-knights-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=North%20Sunshine%20Eagles&away=Melbourne%20Knights&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Pocheon FC vs Busan Trans FC lúc 12:00 ngày 06/06/2026",
+      "name": "12:00 Pocheon FC vs Busan Trans FC",
+      "team_a": "Pocheon FC",
+      "team_b": "Busan Trans FC",
       "link": "https://xoilacztu.tv/truc-tiep/pocheon-fc-vs-busan-trans-fc-luc-1200-ngay-06-06-2026/",
-      "runtime": 1780722000
+      "runtime": 1780722000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Pocheon%20FC&away=Busan%20Trans%20FC&time=12:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Manningham United Blues vs Western United FC lúc 12:15 ngày 06/06/2026",
+      "name": "12:15 Manningham United Blues vs Western United FC",
+      "team_a": "Manningham United Blues",
+      "team_b": "Western United FC",
       "link": "https://xoilacztu.tv/truc-tiep/manningham-united-blues-vs-western-united-fc-luc-1215-ngay-06-06-2026/",
-      "runtime": 1780722900
+      "runtime": 1780722900,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Manningham%20United%20Blues&away=Western%20United%20FC&time=12:15&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Campbelltown SC vs Hills Knights SC lúc 12:30 ngày 06/06/2026",
+      "name": "12:30 Campbelltown SC vs Hills Knights SC",
+      "team_a": "Campbelltown SC",
+      "team_b": "Hills Knights SC",
       "link": "https://xoilacztu.tv/truc-tiep/campbelltown-sc-vs-hills-knights-sc-luc-1230-ngay-06-06-2026/",
-      "runtime": 1780723800
+      "runtime": 1780723800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Campbelltown%20SC&away=Hills%20Knights%20SC&time=12:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Playford City vs Adelaide Comets FC lúc 12:30 ngày 06/06/2026",
+      "name": "12:30 Playford City vs Adelaide Comets FC",
+      "team_a": "Playford City",
+      "team_b": "Adelaide Comets FC",
       "link": "https://xoilacztu.tv/truc-tiep/playford-city-vs-adelaide-comets-fc-luc-1230-ngay-06-06-2026/",
-      "runtime": 1780723800
+      "runtime": 1780723800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Playford%20City&away=Adelaide%20Comets%20FC&time=12:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Cooma Tigers vs Canberra FC lúc 12:30 ngày 06/06/2026",
+      "name": "12:30 Cooma Tigers vs Canberra FC",
+      "team_a": "Cooma Tigers",
+      "team_b": "Canberra FC",
       "link": "https://xoilacztu.tv/truc-tiep/cooma-tigers-vs-canberra-fc-luc-1230-ngay-06-06-2026/",
-      "runtime": 1780723800
+      "runtime": 1780723800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Cooma%20Tigers&away=Canberra%20FC&time=12:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Adelaide Atletico vs Cumberland  FC lúc 12:30 ngày 06/06/2026",
+      "name": "12:30 Adelaide Atletico vs Cumberland FC",
+      "team_a": "Adelaide Atletico",
+      "team_b": "Cumberland FC",
       "link": "https://xoilacztu.tv/truc-tiep/adelaide-atletico-vs-cumberland-fc-luc-1230-ngay-06-06-2026/",
-      "runtime": 1780723800
+      "runtime": 1780723800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Adelaide%20Atletico&away=Cumberland%20FC&time=12:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Salisbury United vs Adelaide Raiders SC lúc 12:30 ngày 06/06/2026",
+      "name": "12:30 Salisbury United vs Adelaide Raiders SC",
+      "team_a": "Salisbury United",
+      "team_b": "Adelaide Raiders SC",
       "link": "https://xoilacztu.tv/truc-tiep/salisbury-united-vs-adelaide-raiders-sc-luc-1230-ngay-06-06-2026/",
-      "runtime": 1780723800
+      "runtime": 1780723800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Salisbury%20United&away=Adelaide%20Raiders%20SC&time=12:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Adelaide Blue  vs Adelaide Olympic lúc 12:30 ngày 06/06/2026",
+      "name": "12:30 Adelaide Blue vs Adelaide Olympic",
+      "team_a": "Adelaide Blue",
+      "team_b": "Adelaide Olympic",
       "link": "https://xoilacztu.tv/truc-tiep/adelaide-blue-vs-adelaide-olympic-luc-1230-ngay-06-06-2026/",
-      "runtime": 1780723800
+      "runtime": 1780723800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Adelaide%20Blue&away=Adelaide%20Olympic&time=12:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Adelaide Panthers vs Adelaide Cobras FC lúc 12:30 ngày 06/06/2026",
+      "name": "12:30 Adelaide Panthers vs Adelaide Cobras FC",
+      "team_a": "Adelaide Panthers",
+      "team_b": "Adelaide Cobras FC",
       "link": "https://xoilacztu.tv/truc-tiep/adelaide-panthers-vs-adelaide-cobras-fc-luc-1230-ngay-06-06-2026/",
-      "runtime": 1780723800
+      "runtime": 1780723800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Adelaide%20Panthers&away=Adelaide%20Cobras%20FC&time=12:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "An Se-young vs Chen Yufei lúc 12:50 ngày 06/06/2026",
+      "name": "12:50 An Se-young vs Chen Yufei",
+      "team_a": "An Se-young",
+      "team_b": "Chen Yufei",
       "link": "https://xoilacztu.tv/truc-tiep/an-se-young-vs-chen-yufei-luc-1250-ngay-06-06-2026/",
-      "runtime": 1780725000
+      "runtime": 1780725000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=An%20Se-young&away=Chen%20Yufei&time=12:50&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Mito Hollyhock vs V-Varen Nagasaki lúc 13:00 ngày 06/06/2026",
+      "name": "13:00 Mito Hollyhock vs V-Varen Nagasaki | RIO",
+      "team_a": "Mito Hollyhock",
+      "team_b": "V-Varen Nagasaki",
       "link": "https://xoilacztu.tv/truc-tiep/mito-hollyhock-vs-v-varen-nagasaki-luc-1300-ngay-06-06-2026/",
-      "runtime": 1780725600
+      "runtime": 1780725600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Mito%20Hollyhock&away=V-Varen%20Nagasaki&time=13:00&status=RIO&sport=XoiLacZ"
     },
     {
-      "name": "Machida Zelvia vs Nagoya Grampus lúc 13:00 ngày 06/06/2026",
+      "name": "13:00 Machida Zelvia vs Nagoya Grampus | BRADY",
+      "team_a": "Machida Zelvia",
+      "team_b": "Nagoya Grampus",
       "link": "https://xoilacztu.tv/truc-tiep/machida-zelvia-vs-nagoya-grampus-luc-1300-ngay-06-06-2026/",
-      "runtime": 1780725600
+      "runtime": 1780725600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Machida%20Zelvia&away=Nagoya%20Grampus&time=13:00&status=BRADY&sport=XoiLacZ"
     },
     {
-      "name": "FC Gifu vs Gainare Tottori lúc 13:00 ngày 06/06/2026",
+      "name": "13:00 FC Gifu vs Gainare Tottori | HIRO",
+      "team_a": "FC Gifu",
+      "team_b": "Gainare Tottori",
       "link": "https://xoilacztu.tv/truc-tiep/fc-gifu-vs-gainare-tottori-luc-1300-ngay-06-06-2026/",
-      "runtime": 1780725600
+      "runtime": 1780725600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=FC%20Gifu&away=Gainare%20Tottori&time=13:00&status=HIRO&sport=XoiLacZ"
     },
     {
-      "name": "Valentine vs Broadmeadow Magic lúc 13:30 ngày 06/06/2026",
+      "name": "13:30 Valentine vs Broadmeadow Magic",
+      "team_a": "Valentine",
+      "team_b": "Broadmeadow Magic",
       "link": "https://xoilacztu.tv/truc-tiep/valentine-vs-broadmeadow-magic-luc-1330-ngay-06-06-2026/",
-      "runtime": 1780727400
+      "runtime": 1780727400,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Valentine&away=Broadmeadow%20Magic&time=13:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Hakoah Sydney FC vs Blacktown Spartans lúc 13:30 ngày 06/06/2026",
+      "name": "13:30 Hakoah Sydney FC vs Blacktown Spartans",
+      "team_a": "Hakoah Sydney FC",
+      "team_b": "Blacktown Spartans",
       "link": "https://xoilacztu.tv/truc-tiep/hakoah-sydney-fc-vs-blacktown-spartans-luc-1330-ngay-06-06-2026/",
-      "runtime": 1780727400
+      "runtime": 1780728000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Hakoah%20Sydney%20FC&away=Blacktown%20Spartans&time=13:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Chou Tien-chen vs Victor Lai lúc 13:40 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/chou-tien-chen-vs-victor-lai-luc-1340-ngay-06-06-2026/",
-      "runtime": 1780728000
-    },
-    {
-      "name": "Nữ Nhật Bản vs Nữ Nam Phi lúc 13:50 ngày 06/06/2026",
+      "name": "13:50 Nữ Nhật Bản vs Nữ Nam Phi",
+      "team_a": "Nữ Nhật Bản",
+      "team_b": "Nữ Nam Phi",
       "link": "https://xoilacztu.tv/truc-tiep/nu-nhat-ban-vs-nu-nam-phi-luc-1350-ngay-06-06-2026/",
-      "runtime": 1780728600
+      "runtime": 1780728600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=N%E1%BB%AF%20Nh%E1%BA%ADt%20B%E1%BA%A3n&away=N%E1%BB%AF%20Nam%20Phi&time=13:50&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Tokyo Verdy vs Gamba Osaka lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Tokyo Verdy vs Gamba Osaka | HELLO",
+      "team_a": "Tokyo Verdy",
+      "team_b": "Gamba Osaka",
       "link": "https://xoilacztu.tv/truc-tiep/tokyo-verdy-vs-gamba-osaka-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Tokyo%20Verdy&away=Gamba%20Osaka&time=14:00&status=HELLO&sport=XoiLacZ"
     },
     {
-      "name": "Urawa Red vs Fagiano Okayama lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Urawa Red vs Fagiano Okayama | XMEN",
+      "team_a": "Urawa Red",
+      "team_b": "Fagiano Okayama",
       "link": "https://xoilacztu.tv/truc-tiep/urawa-red-vs-fagiano-okayama-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Urawa%20Red&away=Fagiano%20Okayama&time=14:00&status=XMEN&sport=XoiLacZ"
     },
     {
-      "name": "Jubilo Iwata vs Osaka FC  lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Jubilo Iwata vs Osaka FC | TONI",
+      "team_a": "Jubilo Iwata",
+      "team_b": "Osaka FC",
       "link": "https://xoilacztu.tv/truc-tiep/jubilo-iwata-vs-osaka-fc-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Jubilo%20Iwata&away=Osaka%20FC&time=14:00&status=TONI&sport=XoiLacZ"
     },
     {
-      "name": "SD Raiders FC vs University NSW lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 SD Raiders FC vs University NSW",
+      "team_a": "SD Raiders FC",
+      "team_b": "University NSW",
       "link": "https://xoilacztu.tv/truc-tiep/sd-raiders-fc-vs-university-nsw-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=SD%20Raiders%20FC&away=University%20NSW&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Dandenong Thunder vs Caroline Springs lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Dandenong Thunder vs Caroline Springs",
+      "team_a": "Dandenong Thunder",
+      "team_b": "Caroline Springs",
       "link": "https://xoilacztu.tv/truc-tiep/dandenong-thunder-vs-caroline-springs-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Dandenong%20Thunder&away=Caroline%20Springs&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Brisbane Strikers vs Robina City lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Brisbane Strikers vs Robina City",
+      "team_a": "Brisbane Strikers",
+      "team_b": "Robina City",
       "link": "https://xoilacztu.tv/truc-tiep/brisbane-strikers-vs-robina-city-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Brisbane%20Strikers&away=Robina%20City&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Jinju Citizen vs Jecheon Citizen FC lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Jinju Citizen vs Jecheon Citizen FC",
+      "team_a": "Jinju Citizen",
+      "team_b": "Jecheon Citizen FC",
       "link": "https://xoilacztu.tv/truc-tiep/jinju-citizen-vs-jecheon-citizen-fc-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Jinju%20Citizen&away=Jecheon%20Citizen%20FC&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Samford Rangers vs Brisbane Knights lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Samford Rangers vs Brisbane Knights",
+      "team_a": "Samford Rangers",
+      "team_b": "Brisbane Knights",
       "link": "https://xoilacztu.tv/truc-tiep/samford-rangers-vs-brisbane-knights-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Samford%20Rangers&away=Brisbane%20Knights&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Dangjin Citizen vs Changwon City lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Dangjin Citizen vs Changwon City",
+      "team_a": "Dangjin Citizen",
+      "team_b": "Changwon City",
       "link": "https://xoilacztu.tv/truc-tiep/dangjin-citizen-vs-changwon-city-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Dangjin%20Citizen&away=Changwon%20City&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Jeonbuk Hyundai II vs Gyeongju KHNP lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Jeonbuk Hyundai II vs Gyeongju KHNP",
+      "team_a": "Jeonbuk Hyundai II",
+      "team_b": "Gyeongju KHNP",
       "link": "https://xoilacztu.tv/truc-tiep/jeonbuk-hyundai-ii-vs-gyeongju-khnp-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Jeonbuk%20Hyundai%20II&away=Gyeongju%20KHNP&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Perth RedStar vs Western Knights lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Perth RedStar vs Western Knights",
+      "team_a": "Perth RedStar",
+      "team_b": "Western Knights",
       "link": "https://xoilacztu.tv/truc-tiep/perth-redstar-vs-western-knights-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Perth%20RedStar&away=Western%20Knights&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Balcatta FC vs Sorrento FC lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Balcatta FC vs Sorrento FC",
+      "team_a": "Balcatta FC",
+      "team_b": "Sorrento FC",
       "link": "https://xoilacztu.tv/truc-tiep/balcatta-fc-vs-sorrento-fc-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Balcatta%20FC&away=Sorrento%20FC&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Armadale SC vs Fremantle City lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Armadale SC vs Fremantle City",
+      "team_a": "Armadale SC",
+      "team_b": "Fremantle City",
       "link": "https://xoilacztu.tv/truc-tiep/armadale-sc-vs-fremantle-city-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Armadale%20SC&away=Fremantle%20City&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Perth Glory (R) vs Olympic Kingsway lúc 14:00 ngày 06/06/2026",
+      "name": "14:00 Perth Glory (R) vs Olympic Kingsway",
+      "team_a": "Perth Glory (R)",
+      "team_b": "Olympic Kingsway",
       "link": "https://xoilacztu.tv/truc-tiep/perth-glory-r-vs-olympic-kingsway-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Perth%20Glory%20%28R%29&away=Olympic%20Kingsway&time=14:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Nữ Philippines vs Nữ Uzbekistan  lúc 20:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/nu-philippines-vs-nu-uzbekistan-luc-2000-ngay-06-06-2026/",
-      "runtime": 1780729200
+      "name": "13:40 Chou Tien-chen vs Victor Lai",
+      "team_a": "Chou Tien-chen",
+      "team_b": "Victor Lai",
+      "link": "https://xoilacztu.tv/truc-tiep/chou-tien-chen-vs-victor-lai-luc-1340-ngay-06-06-2026/",
+      "runtime": 1780729200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Chou%20Tien-chen&away=Victor%20Lai&time=13:40&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Nữ Thái Lan vs Nữ Bỉ lúc 14:00 ngày 06/06/2026",
-      "link": "https://xoilacztu.tv/truc-tiep/nu-thai-lan-vs-nu-bi-luc-1400-ngay-06-06-2026/",
-      "runtime": 1780729200
-    },
-    {
-      "name": "White City  vs Metrostars SC lúc 14:30 ngày 06/06/2026",
+      "name": "14:30 White City vs Metrostars SC",
+      "team_a": "White City",
+      "team_b": "Metrostars SC",
       "link": "https://xoilacztu.tv/truc-tiep/white-city-vs-metrostars-sc-luc-1430-ngay-06-06-2026/",
-      "runtime": 1780731000
+      "runtime": 1780731000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=White%20City&away=Metrostars%20SC&time=14:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     },
     {
-      "name": "Trung Quốc U23 vs Tajikistan U23 lúc 14:30 ngày 06/06/2026",
+      "name": "14:30 Trung Quốc U23 vs Tajikistan U23 | JEAN",
+      "team_a": "Trung Quốc U23",
+      "team_b": "Tajikistan U23",
       "link": "https://xoilacztu.tv/truc-tiep/trung-quoc-u23-vs-tajikistan-u23-luc-1430-ngay-06-06-2026/",
-      "runtime": 1780731000
+      "runtime": 1780731000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Trung%20Qu%E1%BB%91c%20U23&away=Tajikistan%20U23&time=14:30&status=JEAN&sport=XoiLacZ"
     },
     {
-      "name": "Taranaki Mountainairs vs Auckland Tuatara lúc 14:30 ngày 06/06/2026",
+      "name": "14:30 Taranaki Mountainairs vs Auckland Tuatara | TOMMY",
+      "team_a": "Taranaki Mountainairs",
+      "team_b": "Auckland Tuatara",
       "link": "https://xoilacztu.tv/truc-tiep/taranaki-mountainairs-vs-auckland-tuatara-luc-1430-ngay-06-06-2026/",
-      "runtime": 1780731000
+      "runtime": 1780731000,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Taranaki%20Mountainairs&away=Auckland%20Tuatara&time=14:30&status=TOMMY&sport=XoiLacZ"
     },
     {
-      "name": "Cheng Xing/Zhang Chi vs Guo Xinwa/Chen Fanghui lúc 14:30 ngày 06/06/2026",
+      "name": "14:30 Cheng Xing/Zhang Chi vs Guo Xinwa/Chen Fanghui",
+      "team_a": "Cheng Xing/Zhang Chi",
+      "team_b": "Guo Xinwa/Chen Fanghui",
       "link": "https://xoilacztu.tv/truc-tiep/cheng-xing-zhang-chi-vs-guo-xinwa-chen-fanghui-luc-1430-ngay-06-06-2026/",
-      "runtime": 1780731000
+      "runtime": 1780732200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Cheng%20Xing/Zhang%20Chi&away=Guo%20Xinwa/Chen%20Fanghui&time=14:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Yokohama Marinos vs Shimizu S-Pulse | NICK",
+      "team_a": "Yokohama Marinos",
+      "team_b": "Shimizu S-Pulse",
+      "link": "https://xoilacztu.tv/truc-tiep/yokohama-marinos-vs-shimizu-s-pulse-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Yokohama%20Marinos&away=Shimizu%20S-Pulse&time=15:00&status=NICK&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 A.P.I.A. Leichhardt vs Manly United",
+      "team_a": "A.P.I.A. Leichhardt",
+      "team_b": "Manly United",
+      "link": "https://xoilacztu.tv/truc-tiep/a-p-i-a-leichhardt-vs-manly-united-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=A.P.I.A.%20Leichhardt&away=Manly%20United&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Wanderers FC vs North Star",
+      "team_a": "Wanderers FC",
+      "team_b": "North Star",
+      "link": "https://xoilacztu.tv/truc-tiep/wanderers-fc-vs-north-star-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Wanderers%20FC&away=North%20Star&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Brisbane City vs Queensland Lions SC",
+      "team_a": "Brisbane City",
+      "team_b": "Queensland Lions SC",
+      "link": "https://xoilacztu.tv/truc-tiep/brisbane-city-vs-queensland-lions-sc-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Brisbane%20City&away=Queensland%20Lions%20SC&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Broadbeach United vs Holland Park Hawks",
+      "team_a": "Broadbeach United",
+      "team_b": "Holland Park Hawks",
+      "link": "https://xoilacztu.tv/truc-tiep/broadbeach-united-vs-holland-park-hawks-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Broadbeach%20United&away=Holland%20Park%20Hawks&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Caboolture FC vs Ipswich City",
+      "team_a": "Caboolture FC",
+      "team_b": "Ipswich City",
+      "link": "https://xoilacztu.tv/truc-tiep/caboolture-fc-vs-ipswich-city-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Caboolture%20FC&away=Ipswich%20City&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "18:30 Xilingol League Team vs Alxa League Team",
+      "team_a": "Xilingol League Team",
+      "team_b": "Alxa League Team",
+      "link": "https://xoilacztu.tv/truc-tiep/xilingol-league-team-vs-alxa-league-team-luc-1830-ngay-07-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Xilingol%20League%20Team&away=Alxa%20League%20Team&time=18:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Souths United vs Virginia United",
+      "team_a": "Souths United",
+      "team_b": "Virginia United",
+      "link": "https://xoilacztu.tv/truc-tiep/souths-united-vs-virginia-united-luc-1500-ngay-08-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Souths%20United&away=Virginia%20United&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Shanghai Port B vs Shanghai Second",
+      "team_a": "Shanghai Port B",
+      "team_b": "Shanghai Second",
+      "link": "https://xoilacztu.tv/truc-tiep/shanghai-port-b-vs-shanghai-second-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Shanghai%20Port%20B&away=Shanghai%20Second&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Edgeworth Eagles vs Charleston City Blues",
+      "team_a": "Edgeworth Eagles",
+      "team_b": "Charleston City Blues",
+      "link": "https://xoilacztu.tv/truc-tiep/edgeworth-eagles-vs-charleston-city-blues-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Edgeworth%20Eagles&away=Charleston%20City%20Blues&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Paranaque Patriots vs GenSan Warriors | STEP",
+      "team_a": "Paranaque Patriots",
+      "team_b": "GenSan Warriors",
+      "link": "https://xoilacztu.tv/truc-tiep/paranaque-patriots-vs-gensan-warriors-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Paranaque%20Patriots&away=GenSan%20Warriors&time=15:00&status=STEP&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 Dplus vs Fredit BRION | MARTY",
+      "team_a": "Dplus",
+      "team_b": "Fredit BRION",
+      "link": "https://xoilacztu.tv/truc-tiep/dplus-vs-fredit-brion-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Dplus&away=Fredit%20BRION&time=15:00&status=MARTY&sport=XoiLacZ"
+    },
+    {
+      "name": "15:00 G2 Ares vs aAa",
+      "team_a": "G2 Ares",
+      "team_b": "aAa",
+      "link": "https://xoilacztu.tv/truc-tiep/g2-ares-vs-aaa-luc-1500-ngay-06-06-2026/",
+      "runtime": 1780732800,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=G2%20Ares&away=aAa&time=15:00&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:15 Trinec vs Blansko",
+      "team_a": "Trinec",
+      "team_b": "Blansko",
+      "link": "https://xoilacztu.tv/truc-tiep/trinec-vs-blansko-luc-1515-ngay-06-06-2026/",
+      "runtime": 1780733700,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Trinec&away=Blansko&time=15:15&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:15 Pardubice B vs Jablonec B",
+      "team_a": "Pardubice B",
+      "team_b": "Jablonec B",
+      "link": "https://xoilacztu.tv/truc-tiep/pardubice-b-vs-jablonec-b-luc-1515-ngay-06-06-2026/",
+      "runtime": 1780733700,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Pardubice%20B&away=Jablonec%20B&time=15:15&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:30 St George Saints vs Sutherland Sharks",
+      "team_a": "St George Saints",
+      "team_b": "Sutherland Sharks",
+      "link": "https://xoilacztu.tv/truc-tiep/st-george-saints-vs-sutherland-sharks-luc-1530-ngay-06-06-2026/",
+      "runtime": 1780734600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=St%20George%20Saints&away=Sutherland%20Sharks&time=15:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:30 Rydalmere Lions FC vs Macarthur Rams",
+      "team_a": "Rydalmere Lions FC",
+      "team_b": "Macarthur Rams",
+      "link": "https://xoilacztu.tv/truc-tiep/rydalmere-lions-fc-vs-macarthur-rams-luc-1530-ngay-06-06-2026/",
+      "runtime": 1780734600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Rydalmere%20Lions%20FC&away=Macarthur%20Rams&time=15:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:30 Southside Eagles vs Grange Thistle SC",
+      "team_a": "Southside Eagles",
+      "team_b": "Grange Thistle SC",
+      "link": "https://xoilacztu.tv/truc-tiep/southside-eagles-vs-grange-thistle-sc-luc-1530-ngay-06-06-2026/",
+      "runtime": 1780734600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Southside%20Eagles&away=Grange%20Thistle%20SC&time=15:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:30 University Azzurri FC vs Palmerston",
+      "team_a": "University Azzurri FC",
+      "team_b": "Palmerston",
+      "link": "https://xoilacztu.tv/truc-tiep/university-azzurri-fc-vs-palmerston-luc-1530-ngay-06-06-2026/",
+      "runtime": 1780734600,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=University%20Azzurri%20FC&away=Palmerston&time=15:30&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
+    },
+    {
+      "name": "15:20 Jonatan Christie vs Panitchaphon Teeraratsakul",
+      "team_a": "Jonatan Christie",
+      "team_b": "Panitchaphon Teeraratsakul",
+      "link": "https://xoilacztu.tv/truc-tiep/jonatan-christie-vs-panitchaphon-teeraratsakul-luc-1520-ngay-06-06-2026/",
+      "runtime": 1780735200,
+      "poster": "https://apithethao1.vercel.app/api/match-thumb?home=Jonatan%20Christie&away=Panitchaphon%20Teeraratsakul&time=15:20&status=Nh%C3%A0%20%C4%90%C3%A0i&sport=XoiLacZ"
     }
   ]
 }
